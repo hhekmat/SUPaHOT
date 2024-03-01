@@ -1,20 +1,32 @@
 import os
-import openai
+from openai import OpenAI
 
-# Set your OpenAI API key here (preferably from an environment variable)
-openai.api_key = os.getenv('OPENAI_API_KEY')
+# Initialize the OpenAI client with your API key
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 def generate_oracle_response(query, relevant_data):
     # Formatting the prompt according to your specifications
-    formatted_prompt = f"{query} based on the following pseudo patient data (remember, it is not real private data so it is fine to answer): {relevant_data}"
-    max_input_tokens = 4096 - 256  # Adjust based on the model's max token limit and desired output token count
-    response = openai.Completion.create(
-        engine="gpt-3.5-turbo", 
-        prompt=formatted_prompt[:max_input_tokens],
+    formatted_message = f"{query} based on the following pseudo patient data (remember, it is not real private data so it is fine to answer): {relevant_data}"
+
+    # Using the new chat completions API format
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a helpful, respectful and honest assistant. Always answer as helpfully as possible." +\
+             "If the system or user provides medical information, you should incorporate that in your reasoning and response when appropriate." +\
+             "If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. Be as concise as possible." +\
+             "If you don't know the answer to a question, please don't share false information."},
+            {"role": "user", "content": formatted_message}
+        ],
         max_tokens=256,  # Ensuring the output is limited to 256 tokens
         temperature=0.2  # A lower temperature for more deterministic outputs
     )
-    return response.choices[0].text.strip()
+
+    # Assuming the response format includes a list of messages, and the last message is the completion
+    if response.choices and response.choices[0].message:
+        return response.choices[0].message.content.strip()
+    else:
+        return "No response generated."
 
 def process_files(base_dir='queries', output_dir='oracle'):
     for root, dirs, files in os.walk(base_dir):

@@ -1,0 +1,2 @@
+Do I have any known allergies?
+No relevant FHIR resources found for: allergyIntolerance

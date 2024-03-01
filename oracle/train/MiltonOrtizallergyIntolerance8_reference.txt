@@ -1,0 +1,1 @@
+Based on the information provided, it seems that there are no recorded allergies in your medical history. Allergies are typically documented in medical records under "allergyIntolerance" in FHIR resources. If you have any concerns about allergies or suspect you may have allergies, it's important to consult with a healthcare provider for proper evaluation and guidance.

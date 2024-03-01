@@ -1,0 +1,19 @@
+"Do I have any chronic conditions that require ongoing monitoring or treatment?"
+ConditionRiskactivityinvolvement(finding)-05-11-1966
+ConditionReceivedhighereducation(finding)-05-28-1969
+ConditionEssentialhypertension(disorder)-06-06-1973
+ConditionMiscarriageinfirsttrimester-09-05-2001
+ConditionChronickidneydiseasestage1(disorder)-12-01-2004
+ConditionDisorderofkidneyduetodiabetesmellitus(disorder)-12-01-2004
+ConditionChronickidneydiseasestage2(disorder)-12-07-2005
+ConditionMicroalbuminuriaduetotype2diabetesmellitus(disorder)-12-07-2005
+ConditionIschemicheartdisease(disorder)-01-22-2014
+ConditionAbnormalfindingsdiagnosticimagingheart+coronarycirculat(finding)-02-11-2014
+ConditionHasacriminalrecord(finding)-02-08-2017
+ConditionChronickidneydiseasestage3(disorder)-08-29-2018
+ConditionProteinuriaduetotype2diabetesmellitus(disorder)-08-29-2018
+ConditionSocialisolation(finding)-03-09-2022
+ConditionFull-timeemployment(finding)-01-04-2023
+ConditionMedicationreviewdue(situation)-03-15-2023
+ConditionSprain(morphologicabnormality)-10-31-2023
+ConditionSprainofankle-10-31-2023

@@ -1,0 +1,9 @@
+"Have I ever been diagnosed with high blood pressure or hypertension?"
+ConditionHypertension-08-05-2015
+ConditionHousingunsatisfactory(finding)-08-05-2015
+ConditionReceivedhighereducation(finding)-08-05-2015
+ConditionLimitedsocialcontact(finding)-08-05-2015
+ConditionMisusesdrugs(finding)-08-28-2019
+ConditionHypoxemia(disorder)-11-21-2020
+ConditionFull-timeemployment(finding)-09-08-2021
+ConditionStress(finding)-09-08-2021

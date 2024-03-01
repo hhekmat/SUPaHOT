@@ -1,0 +1,2 @@
+Do I have any allergies listed in my medical records?
+No relevant FHIR resources found for: allergyIntolerance

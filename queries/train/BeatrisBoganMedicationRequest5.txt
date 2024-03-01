@@ -1,0 +1,7 @@
+"What was my last antibiotic prescription?"
+MedicationRequestAmoxicillin500MGOralTablet-11-23-2016
+MedicationRequestAcetaminophen160MGChewableTablet-11-23-2016
+MedicationRequestFexofenadinehydrochloride30MGOralTablet-08-22-2017
+MedicationRequestNDA0208000.3MLEpinephrine1MG/MLAuto-Injector-08-30-2017
+MedicationRequestPenicillinVPotassium250MGOralTablet-02-17-2021
+MedicationRequestPenicillinVPotassium250MGOralTablet-02-26-2022

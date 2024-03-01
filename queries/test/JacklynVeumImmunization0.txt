@@ -1,0 +1,16 @@
+USER: "When was my last flu shot?"
+ImmunizationInfluenza,seasonal,injectable,preservativefree-01-22-2014
+ImmunizationInfluenza,seasonal,injectable,preservativefree-01-28-2015
+ImmunizationInfluenza,seasonal,injectable,preservativefree-11-11-2015
+ImmunizationPneumococcalconjugatePCV13-08-03-2016
+ImmunizationInfluenza,seasonal,injectable,preservativefree-02-08-2017
+ImmunizationInfluenza,seasonal,injectable,preservativefree-02-14-2018
+Immunizationpneumococcalpolysaccharidevaccine,23valent-02-14-2018
+ImmunizationInfluenza,seasonal,injectable,preservativefree-01-23-2019
+ImmunizationInfluenza,seasonal,injectable,preservativefree-02-26-2020
+ImmunizationInfluenza,seasonal,injectable,preservativefree-11-11-2020
+ImmunizationSARS-COV-2(COVID-19)vaccine,mRNA,spikeprotein,LNP,preservativefree,30mcg/0.3mLdose-03-03-2021
+ImmunizationSARS-COV-2(COVID-19)vaccine,mRNA,spikeprotein,LNP,preservativefree,30mcg/0.3mLdose-03-24-2021
+ImmunizationInfluenza,seasonal,injectable,preservativefree-10-06-2021
+ImmunizationTd(adult),5Lftetanustoxoid,preservativefree,adsorbed-06-08-2022
+ImmunizationInfluenza,seasonal,injectable,preservativefree-10-05-2022

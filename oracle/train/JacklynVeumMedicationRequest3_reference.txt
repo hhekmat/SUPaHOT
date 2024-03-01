@@ -1,0 +1,11 @@
+Based on the provided pseudo patient data, you are currently taking the following medications:
+- Hydrochlorothiazide 25mg Oral Tablet
+- Clopidogrel 75mg Oral Tablet
+- Simvastatin 20mg Oral Tablet
+- Metoprolol succinate 100mg Extended-Release Oral Tablet
+- Nitroglycerin 0.4mg/actuat Mucosal Spray
+- Naproxen sodium 220mg Oral Tablet
+- Amoxicillin 250mg/Clavulanate 125mg Oral Tablet
+- Acetaminophen 325mg Oral Tablet
+
+It is important to follow your healthcare provider's instructions regarding these medications and to inform them of any changes in your health or if you experience any side effects.
