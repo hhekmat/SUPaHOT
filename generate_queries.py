@@ -8,6 +8,7 @@ client = OpenAI(
 def generate_queries():
     resource_types = ['allergyIntolerance', 'Condition', 'Encounter', 'Immunization', 'MedicationRequest', 'Observation', 'Procedure']
     resources_data_folder = "./all_resources"
+    resources_data_folder = "./all_resources"
     file_names = os.listdir(resources_data_folder)
     for patient in file_names:
         previous_queries = []
@@ -21,16 +22,13 @@ def generate_queries():
             for i in range(10):
                 if i == 0:
                     output_path = os.path.join("./queries/test", patient[:-13] + rt + str(i) + '.txt')
+                    output_path = os.path.join("./queries/test", patient[:-13] + rt + str(i) + '.txt')
                 elif i == 1:
+                    output_path = os.path.join("./queries/validation", patient[:-13] + rt + str(i) + '.txt')
                     output_path = os.path.join("./queries/validation", patient[:-13] + rt + str(i) + '.txt')
                 else:
                     output_path = os.path.join("./queries/train", patient[:-13] + rt + str(i) + '.txt')
-
-                if not fhir_data_of_rt:
-                    fhir_data_of_rt.append('No relevant FHIR resources found for: ' + rt)
-                prompt = "Here are some previous queries that should not be duplicated:\n" + "\n".join(previous_queries) + "\n\nHere is a patient's FHIR Data Resources:\n" + "\n".join(fhir_data_of_rt) + "\n\nGenerate a query that a patient with this history would have. Make it succinct, specific, non-technical, and like a normal person. For example, 'What are my current medicines?' or 'When was my last shot?' If there are no FHIR resources about " + " provided, then just ask about the subject of " + rt + " , in general knowing the answer would be something like 'None', such as USER: 'Do I have any allergies' ASSISTANT: 'No, you do not have any recorded allegies.'" 
-
-                print('prompt is', prompt)
+                prompt = "Previous Queries:\n" + "\n".join(previous_queries) + "\n\nFHIR Data Resources:\n" + "\n".join(fhir_data_of_rt) + "\n\nGenerate a succinct query:"
                 chat_completion = client.chat.completions.create(
                     messages=[
                         {
