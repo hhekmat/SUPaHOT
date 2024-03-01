@@ -1,12 +1,12 @@
 import os
-# from nltk.translate import bleu_score
-# from rouge_metric import PyRouge
-# from bert_score import score
+from nltk.tokenize import word_tokenize
+from nltk.translate import bleu_score
+from rouge_metric import PyRouge
+from bert_score import score
 
 def read_txt_files_into_dict(directory):
     # Dictionary to hold contents of txt files from each directory
     content_dict = {}
-    
     for filename in os.listdir(directory):
         # Check if the file is a .txt file
         if filename.endswith('.txt'):
@@ -18,9 +18,6 @@ def read_txt_files_into_dict(directory):
                 # Use filename without extension as key
                 key = os.path.splitext(filename)[0]
                 content_dict[key] = content
-    else:
-        print(f"Directory {directory} does not exist.")
-    
     return content_dict
 
 
@@ -43,7 +40,21 @@ def bleu(refs, hyps):
     list_of_references = [[ref1a, ref1b, ref1c], [ref2a]]
     hypotheses = [hyp1, hyp2]
     '''
-    bleu = bleu_score.corpus_bleu(refs, hyps)
+    def tokenize(string_list):
+        tokenized_list = []
+        for string in string_list:
+            # Tokenize the string into words
+            words = word_tokenize(string)
+            tokenized_list.append(words)
+        return tokenized_list
+    smoother = bleu_score.SmoothingFunction()
+
+    # CURRENTLY NOT SMOOTHING PROPERLY!!!
+    smoothed = smoother.method3()
+
+    # Compute BLEU score using corpus_bleu
+    bleu = bleu_score.corpus_bleu(tokenize(refs), tokenize(hyps), smoothing_function=smoothed)
+    return bleu
 
 def rouge(refs, hyps):
     '''
@@ -64,8 +75,16 @@ def rouge(refs, hyps):
     scores = rouge.evaluate(hyps, refs)
 
 def bertscore(refs, hyps):
-    # 
     P, R, F1 = score(hyps, refs, lang='en', verbose=True)
+    return P, R, F1
 
 if __name__ == "__main__":
     oracle_list, meditron_list = load_data()
+    b = bleu(oracle_list, meditron_list)
+    print('bleu score: ' + str(b))
+
+
+    # P, R, F1 = bertscore(oracle_list, meditron_list)
+    # print('bertSCORE precision: '+str(P))
+    # print('bertSCORE recall: '+str(R))
+    # print('bertSCORE F1: '+str(F1))
