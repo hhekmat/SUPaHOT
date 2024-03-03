@@ -2,7 +2,7 @@ import os
 from nltk.tokenize import word_tokenize
 from nltk.translate import bleu_score
 from rouge_metric import PyRouge
-from bert_score import score
+import bert_score
 
 def read_txt_files_into_dict(directory):
     # Dictionary to hold contents of txt files from each directory
@@ -20,7 +20,6 @@ def read_txt_files_into_dict(directory):
                 content_dict[key] = content
     return content_dict
 
-
 def load_data():
     meditron_dict = read_txt_files_into_dict("./generated_outputs/test")
     oracle_dict = read_txt_files_into_dict("./oracle/test")
@@ -35,56 +34,49 @@ def load_data():
     
     return oracle_list, meditron_list
 
-def bleu(refs, hyps):
-    '''
-    list_of_references = [[ref1a, ref1b, ref1c], [ref2a]]
-    hypotheses = [hyp1, hyp2]
-    '''
-    def tokenize(string_list):
+def tokenize(string_list):
         tokenized_list = []
         for string in string_list:
             # Tokenize the string into words
             words = word_tokenize(string)
             tokenized_list.append(words)
         return tokenized_list
+
+def bleu(refs, hyps):
     smoother = bleu_score.SmoothingFunction()
-
-    # CURRENTLY NOT SMOOTHING PROPERLY!!!
-    smoothed = smoother.method3()
-
-    # Compute BLEU score using corpus_bleu
-    bleu = bleu_score.corpus_bleu(tokenize(refs), tokenize(hyps), smoothing_function=smoothed)
-    return bleu
+    def get_avg_sentence_bleu(refs, hyps):
+        sum = 0
+        for i in range(len(refs)):
+            curr = bleu_score.sentence_bleu(refs[i], hyps[i], smoothing_function=smoother.method3)
+            sum += curr
+        return sum / len(refs)
+    c_bleu = bleu_score.corpus_bleu(refs, hyps, smoothing_function=smoother.method3)
+    avg_s_bleu = get_avg_sentence_bleu(refs, hyps)
+    return c_bleu, avg_s_bleu
 
 def rouge(refs, hyps):
-    '''
-    hypotheses = [
-    'how are you\ni am fine',  # document 1: hypothesis
-    'it is fine today\nwe won the football game',  # document 2: hypothesis
-    ]
-    references = [[
-        'how do you do\nfine thanks',  # document 1: reference 1
-        'how old are you\ni am three',  # document 1: reference 2
-    ], [
-        'it is sunny today\nlet us go for a walk',  # document 2: reference 1
-        'it is a terrible day\nwe lost the game',  # document 2: reference 2
-    ]]
-    '''
     rouge = PyRouge(rouge_n=(1, 2, 4), rouge_l=True, rouge_w=True,
                 rouge_w_weight=1.2, rouge_s=True, rouge_su=True, skip_gap=4)
-    scores = rouge.evaluate(hyps, refs)
+    scores = rouge.evaluate_tokenized(hyps, refs)
+    return scores
 
 def bertscore(refs, hyps):
-    P, R, F1 = score(hyps, refs, lang='en', verbose=True)
+    P, R, F1 = bert_score.score(hyps, refs, lang='en', verbose=True)
     return P, R, F1
 
 if __name__ == "__main__":
     oracle_list, meditron_list = load_data()
-    b = bleu(oracle_list, meditron_list)
-    print('bleu score: ' + str(b))
+    t_oracle_list = tokenize(oracle_list)
+    t_meditron_list = tokenize(meditron_list)
 
+    b, avg_s_b = bleu(t_oracle_list, t_meditron_list)
+    print('corpus bleu score: ' + str(b))
+    print('avg sentence bleu score: ' + str(avg_s_b))
 
-    # P, R, F1 = bertscore(oracle_list, meditron_list)
-    # print('bertSCORE precision: '+str(P))
-    # print('bertSCORE recall: '+str(R))
-    # print('bertSCORE F1: '+str(F1))
+    r = rouge(t_oracle_list, t_meditron_list)
+    print('rouge score: ' + str(r))
+
+    bP, bR, bF1 = bertscore(oracle_list, meditron_list)
+    print('bertSCORE precision: ' + str(bP))
+    print('bertSCORE recall: ' + str(bR))
+    print('bertSCORE F1: ' + str(bF1))
