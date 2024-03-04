@@ -49,6 +49,7 @@ def extract_display_name_date(resource):
         input_date = datetime.strptime(date, "%Y-%m-%dT%H:%M:%S%z")
         date = input_date.strftime("%m-%d-%Y")
         return date
+    value = ''
     type = resource['resource']['resourceType']
     if type in ['allergyIntolerance', 'Condition']:
         display_name = resource['resource']['code']['text']
@@ -65,10 +66,11 @@ def extract_display_name_date(resource):
     elif type == 'Observation':
         display_name = resource['resource']['code']['text']
         date = format_date(resource['resource']['effectiveDateTime'])
+        value = str(resource['resource']['valueQuanity']['value']) + ' ' + resource['resource']['valueQuanity']['unit']
     elif type == 'Procedure':
         display_name = resource['resource']['code']['text']
         date = format_date(resource['resource']['performedPeriod']['start'])
-    return (type + display_name + '-' + date).replace(' ', '')
+    return (type + display_name + '-' + date + value).replace(' ', '')
 
 if __name__ == "__main__":
     patient_data_folder = os.path.expanduser("~/Desktop/data_processing/mock_patients")
