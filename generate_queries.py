@@ -9,7 +9,6 @@ client = OpenAI(
 def generate_queries():
     resource_types = ['allergyIntolerance', 'Condition', 'Encounter', 'Immunization', 'MedicationRequest', 'Observation', 'Procedure']
     resources_data_folder = "./all_resources"
-    resources_data_folder = "./all_resources"
     file_names = os.listdir(resources_data_folder)
     for patient in file_names:
         previous_queries = []
@@ -20,12 +19,11 @@ def generate_queries():
                 for line in file:
                     if line.startswith(rt):
                         fhir_data_of_rt.append(line.strip())
+            fhir_data_of_rt = fhir_data_of_rt[-64:]
             for i in range(10):
                 if i == 0:
                     output_path = os.path.join("./queries/test", patient[:-13] + rt + str(i) + '.txt')
-                    output_path = os.path.join("./queries/test", patient[:-13] + rt + str(i) + '.txt')
                 elif i == 1:
-                    output_path = os.path.join("./queries/validation", patient[:-13] + rt + str(i) + '.txt')
                     output_path = os.path.join("./queries/validation", patient[:-13] + rt + str(i) + '.txt')
                 else:
                     output_path = os.path.join("./queries/train", patient[:-13] + rt + str(i) + '.txt')
