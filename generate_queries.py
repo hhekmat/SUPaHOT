@@ -19,7 +19,6 @@ def generate_queries():
                 for line in file:
                     if line.startswith(rt):
                         fhir_data_of_rt.append(line.strip())
-            fhir_data_of_rt = fhir_data_of_rt[-64:]
             for i in range(10):
                 if i == 0:
                     output_path = os.path.join("./queries/test", patient[:-13] + rt + str(i) + '.txt')
@@ -27,7 +26,7 @@ def generate_queries():
                     output_path = os.path.join("./queries/validation", patient[:-13] + rt + str(i) + '.txt')
                 else:
                     output_path = os.path.join("./queries/train", patient[:-13] + rt + str(i) + '.txt')
-                prompt = "Previous Queries:\n" + "\n".join(previous_queries) + "\n\nFHIR Data Resources:\n" + "\n".join(fhir_data_of_rt) + "\n\nGenerate a succinct query:"
+                prompt = "Here are some previous queries that should not be duplicated:\n" + "\n".join(previous_queries) + "\n\nHere is a patient's FHIR Data Resources:\n" + "\n".join(fhir_data_of_rt) + "\n\nGenerate a query that a patient with this history would have. Make it succinct, specific, non-technical, and like a normal person. For example, 'What are my current medicines?' or 'When was my last shot?' If there are no FHIR resources about " + " provided, then just ask about the subject of " + rt + " , in general knowing the answer would be something like 'None', such as USER: 'Do I have any allergies' ASSISTANT: 'No, you do not have any recorded allegies.'" 
                 chat_completion = client.chat.completions.create(
                     messages=[
                         {
