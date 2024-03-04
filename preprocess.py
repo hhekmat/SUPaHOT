@@ -66,15 +66,16 @@ def extract_display_name_date(resource):
     elif type == 'Observation':
         display_name = resource['resource']['code']['text']
         date = format_date(resource['resource']['effectiveDateTime'])
-        value = str(resource['resource']['valueQuanity']['value']) + ' ' + resource['resource']['valueQuanity']['unit']
+        if 'valueQuantity' in resource['resource']:
+            value = ' ' + str(resource['resource']['valueQuantity']['value']) + ' ' + resource['resource']['valueQuantity']['unit']
     elif type == 'Procedure':
         display_name = resource['resource']['code']['text']
         date = format_date(resource['resource']['performedPeriod']['start'])
-    return (type + display_name + '-' + date + value).replace(' ', '')
+    return (type + ' ' + display_name + ' ' + date + value)
 
 if __name__ == "__main__":
-    patient_data_folder = os.path.expanduser("~/Desktop/data_processing/mock_patients")
-    resources_data_folder = os.path.expanduser("~/Desktop/data_processing/all_resources")
+    patient_data_folder = "./mock_patients"
+    resources_data_folder = "./all_resources"
     file_names = os.listdir(patient_data_folder)
     for file_name in file_names:
         if file_name == '.DS_Store' or file_name == 'licenses':

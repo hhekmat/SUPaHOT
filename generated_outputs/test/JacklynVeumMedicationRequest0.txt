@@ -1,1 +1,0 @@
- "Yes, you have several prescribed medications. Please provide me with a list of all the medications you are currently taking."

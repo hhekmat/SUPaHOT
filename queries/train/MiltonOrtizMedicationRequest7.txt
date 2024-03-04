@@ -1,9 +1,0 @@
-"When was my last blood pressure medication refill?"
-MedicationRequestAcetaminophen325MGOralTablet-12-21-2012
-MedicationRequestamLODIPine2.5MGOralTablet-08-05-2015
-MedicationRequestamLODIPine2.5MGOralTablet-08-10-2016
-MedicationRequestamLODIPine2.5MGOralTablet-08-16-2017
-MedicationRequestamLODIPine2.5MGOralTablet-08-22-2018
-MedicationRequestamLODIPine2.5MGOralTablet-08-28-2019
-MedicationRequestamLODIPine2.5MGOralTablet-09-02-2020
-MedicationRequestamLODIPine2.5MGOralTablet-09-08-2021
