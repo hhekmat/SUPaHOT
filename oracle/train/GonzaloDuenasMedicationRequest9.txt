@@ -1,0 +1,8 @@
+Based on the provided pseudo patient data, you are currently taking the following medications:
+
+1. amLODIPine 2.5 MG Oral Tablet
+2. Hydrochlorothiazide 25 MG Oral Tablet
+3. insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]
+4. 24 HR tacrolimus 1 MG Extended Release Oral Tablet
+
+Additionally, you started taking Clopidogrel 75 MG Oral Tablet, Simvastatin 20 MG Oral Tablet, 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, and Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution on specific dates as mentioned in the data.

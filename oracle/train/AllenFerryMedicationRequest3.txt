@@ -1,0 +1,8 @@
+Based on the provided pseudo patient data, you are currently taking the following medications:
+- Verapamil Hydrochloride 40 MG
+- Lisinopril 10 MG Oral Tablet
+- Digoxin 0.125 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+
+It is important to follow your healthcare provider's instructions regarding the dosage and timing of these medications. If you have any concerns or questions about your medications, please consult your healthcare provider for further guidance.

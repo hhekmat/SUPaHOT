@@ -1,0 +1,14 @@
+Based on the provided pseudo patient data, you are currently taking the following medications:
+- Jolivette 28 Day Pack
+- Liletta 52 MG Intrauterine System
+- Epinephrine 1 MG/ML Injection
+- Amiodarone hydrochloride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule
+- medroxyPROGESTERone acetate 150 MG/ML Injection
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+Please consult with your healthcare provider for further information and guidance regarding your current medications.

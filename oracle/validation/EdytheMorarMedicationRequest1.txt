@@ -1,0 +1,10 @@
+Based on the provided pseudo patient data, you have been prescribed the following medications:
+
+1. Jolivette 28 Day Pack on multiple occasions (03-30-2003, 03-22-2005, 03-17-2006, 02-13-2015, 01-21-2021)
+2. 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System on 02-23-2013
+3. Liletta 52 MG Intrauterine System on 02-02-2018
+4. Epinephrine 1 MG/ML Injection on 06-19-2018
+5. Amiodarone hydrochloride 50 MG/ML Prefilled Syringe on 06-19-2018
+6. Atropine Sulfate 1 MG/ML Injectable Solution on 06-19-2018
+7. Nitrofurantoin 5 MG/ML Oral Suspension on 04-25-2019
+8. Phenazopyridine hydrochloride 100 MG Oral Tablet on 04-25-2019

@@ -68,18 +68,25 @@ def bertscore(refs, hyps):
     return avg_P, avg_R, avg_F1
 
 if __name__ == "__main__":
+
+    report = ''
+
     oracle_list, meditron_list = load_data()
     t_oracle_list = tokenize(oracle_list)
     t_meditron_list = tokenize(meditron_list)
 
     b, avg_s_b = bleu(t_oracle_list, t_meditron_list)
-    print('corpus bleu score: ' + str(b))
-    print('avg sentence bleu score: ' + str(avg_s_b))
+    report += 'corpus bleu score: ' + str(b) + '\n'
+    report += ' ' + 'avg sentence bleu score: ' + str(avg_s_b) + '\n'
 
     r = rouge(t_oracle_list, t_meditron_list)
-    print('rouge score: ' + str(r))
+    report += 'rouge score: ' + str(r) + '\n'
 
     bP, bR, bF1 = bertscore(oracle_list, meditron_list)
     print('bertSCORE precision: ' + str(bP))
     print('bertSCORE recall: ' + str(bR))
     print('bertSCORE F1: ' + str(bF1))
+    report += ' bertSCORE precision: ' + str(bP) + ' bertSCORE recall: ' + str(bR) + 'bertSCORE F1: ' + str(bF1)
+
+    with open('/mnt/data/report_eval.txt', 'w') as file:
+        file.write(report)

@@ -1,1 +1,1 @@
-Based on the provided pseudo patient data, your last vaccination was on April 30, 2023, which was an Influenza seasonal injectable preservative-free vaccine.
+Based on the provided pseudo patient data, your last immunization shot was on 04-30-2023 for seasonal influenza.

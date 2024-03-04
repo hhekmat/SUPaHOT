@@ -1,0 +1,4 @@
+Based on the provided pseudo patient data:
+
+- Your current body weight is 100.3 kg.
+- Your body mass index (BMI) is 30.31 kg/m².

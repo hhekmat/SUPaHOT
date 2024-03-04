@@ -1,1 +1,0 @@
-Based on the provided pseudo patient data, your last antibiotic prescription was on February 26, 2022, for Penicillin V Potassium 250mg oral tablets.

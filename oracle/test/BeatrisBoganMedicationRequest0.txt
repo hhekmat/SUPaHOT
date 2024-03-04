@@ -1,1 +1,10 @@
-Based on the provided pseudo patient data, your last antibiotic prescription was on February 26, 2022, for Penicillin V Potassium 250mg oral tablets.
+Based on the pseudo patient data provided, you have been prescribed the following medications in the past:
+
+1. Amoxicillin 500 MG Oral Tablet on 11-23-2016
+2. Acetaminophen 160 MG Chewable Tablet on 11-23-2016
+3. Fexofenadine hydrochloride 30 MG Oral Tablet on 08-22-2017
+4. Epinephrine 1 MG/ML Auto-Injector on 08-30-2017
+5. Penicillin V Potassium 250 MG Oral Tablet on 02-17-2021
+6. Penicillin V Potassium 250 MG Oral Tablet on 02-26-2022
+
+Please note that this information is based on the pseudo patient data provided and is not real private data.

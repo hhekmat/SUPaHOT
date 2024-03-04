@@ -1,0 +1,8 @@
+Based on the pseudo patient data provided, you have the following chronic conditions:
+
+1. Obesity (Body mass index 30+)
+2. Prediabetes
+3. Anemia
+4. History of cardiac arrest
+
+It's important to consult with a healthcare professional for a proper diagnosis and management of these conditions.

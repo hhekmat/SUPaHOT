@@ -1,0 +1,9 @@
+Based on the provided pseudo patient data, here are the body weight and height measurements over time:
+
+- 02-28-2021: Body Weight 19.7 kg, Body Height 116.6 cm
+- 04-18-2021: Body Weight 20 kg
+- 03-06-2022: Body Weight 22.1 kg, Body Height 124.3 cm
+- 04-24-2022: Body Weight 22.4 kg, Body Height 124.8 cm
+- 04-30-2023: Body Weight 24.7 kg, Body Height 131.2 cm
+
+Therefore, your current body weight is 24.7 kg, and your current height is 131.2 cm.

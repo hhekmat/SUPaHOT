@@ -1,0 +1,6 @@
+Based on the pseudo patient data provided, you have the following health conditions:
+1. Hypertension since 08-05-2015
+2. Hypoxemia since 11-21-2020
+3. Stress since 09-08-2021
+
+It's important to consult with a healthcare professional for a proper diagnosis and treatment plan for these conditions.

@@ -1,0 +1,10 @@
+Based on the provided pseudo patient data, you have been prescribed the following medications in the past:
+
+1. Amoxicillin 500 MG Oral Tablet on 11-23-2016
+2. Acetaminophen 160 MG Chewable Tablet on 11-23-2016
+3. Fexofenadine hydrochloride 30 MG Oral Tablet on 08-22-2017
+4. NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector on 08-30-2017
+5. Penicillin V Potassium 250 MG Oral Tablet on 02-17-2021
+6. Penicillin V Potassium 250 MG Oral Tablet on 02-26-2022
+
+Please consult with your healthcare provider for further information or clarification regarding your past medications.

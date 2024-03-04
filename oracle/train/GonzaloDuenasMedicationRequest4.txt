@@ -1,0 +1,14 @@
+Based on the provided pseudo patient data, you are currently prescribed the following medications:
+
+1. amLODIPine 2.5 MG Oral Tablet
+2. Vitamin B12 5 MG/ML Injectable Solution
+3. Insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]
+4. Hydrochlorothiazide 25 MG Oral Tablet
+5. Clopidogrel 75 MG Oral Tablet
+6. Simvastatin 20 MG Oral Tablet
+7. 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+8. Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+9. 24 HR tacrolimus 1 MG Extended Release Oral Tablet
+10. Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / Doxylamine Succinate 0.417 MG/ML Oral Solution
+
+Please consult with your healthcare provider for any further information or clarification regarding your current medications.

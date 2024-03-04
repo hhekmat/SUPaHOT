@@ -1,0 +1,12 @@
+Based on the provided pseudo patient data, you are currently taking the following medications:
+
+1. Hydrochlorothiazide 25 MG Oral Tablet
+2. Clopidogrel 75 MG Oral Tablet
+3. Simvastatin 20 MG Oral Tablet
+4. 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+5. Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+6. Naproxen sodium 220 MG Oral Tablet
+7. Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+8. Acetaminophen 325 MG Oral Tablet
+
+Please consult with your healthcare provider for any further information or adjustments to your medication regimen.

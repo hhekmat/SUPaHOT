@@ -1,0 +1,16 @@
+Based on the provided pseudo patient data, you are currently prescribed the following medications:
+
+1. Jolivette 28 Day Pack
+2. 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+3. Liletta 52 MG Intrauterine System
+4. Epinephrine 1 MG/ML Injection
+5. Amiodarone hydrochloride 50 MG/ML Prefilled Syringe
+6. Atropine Sulfate 1 MG/ML Injectable Solution
+7. Nitrofurantoin 5 MG/ML Oral Suspension
+8. Phenazopyridine hydrochloride 100 MG Oral Tablet
+9. NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule
+10. 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+11. Acetaminophen 325 MG Oral Tablet
+12. Naproxen sodium 220 MG Oral Tablet
+
+Please consult with your healthcare provider for any questions or concerns regarding your current medication regimen.

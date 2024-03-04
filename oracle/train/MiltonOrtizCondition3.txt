@@ -1,0 +1,10 @@
+Based on the pseudo patient data provided, you have the following conditions:
+
+1. Hypertension since 08-05-2015
+2. Housing unsatisfactory (finding) since 08-05-2015
+3. Limited social contact (finding) since 08-05-2015
+4. Misuses drugs (finding) since 08-28-2019
+5. Hypoxemia (disorder) since 11-21-2020
+6. Stress (finding) since 09-08-2021
+
+It is important to consult with a healthcare professional for a proper diagnosis and treatment plan based on your individual medical history and current symptoms.

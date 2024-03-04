@@ -1,0 +1,1 @@
+Based on the provided pseudo patient data, your last blood pressure check was on February 9, 2021.

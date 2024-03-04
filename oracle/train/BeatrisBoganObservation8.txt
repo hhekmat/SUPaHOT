@@ -1,0 +1,8 @@
+Based on the provided pseudo patient data, your current body weight and height are as follows:
+
+- Body Weight:
+   - 04-30-2023: 24.7 kg
+- Body Height:
+   - 04-30-2023: 131.2 cm
+
+Please note that these values are based on the information provided in the data.

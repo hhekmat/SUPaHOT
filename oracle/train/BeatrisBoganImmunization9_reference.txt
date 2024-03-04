@@ -1,1 +1,0 @@
-Based on the provided pseudo patient data, your last vaccination was on April 30, 2023, which was an influenza seasonal injectable vaccine.

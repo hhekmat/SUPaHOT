@@ -18,7 +18,7 @@ def process_file(file_path, output_dir):
         ]
     }
 
-    response = requests.post("http://35.221.255.78:8000/v1/chat/completions", json=data)
+    response = requests.post("http://35.229.233.32:8000/v1/chat/completions", json=data)
     
     if response.status_code == 200:
         response_data = response.json()
