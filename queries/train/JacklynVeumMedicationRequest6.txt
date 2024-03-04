@@ -1,0 +1,48 @@
+"What medications am I currently taking?"
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-26-2013
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-22-2014
+MedicationRequest Clopidogrel 75 MG Oral Tablet 01-29-2014
+MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014
+MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014
+MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-19-2014
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-15-2015
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2015
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-03-2016
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2016
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-08-2017
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-14-2018
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-29-2018
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-23-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-20-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-18-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-26-2020
+MedicationRequest Naproxen sodium 220 MG Oral Tablet 07-02-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-16-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-11-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-22-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-29-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-05-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-12-2022
+MedicationRequest Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet 01-19-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-09-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-16-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-08-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-05-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-15-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-27-2023
+MedicationRequest Acetaminophen 325 MG Oral Tablet 10-31-2023

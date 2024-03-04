@@ -1,0 +1,37 @@
+USER: "When was my last immunization shot?" 
+ASSISTANT: "Your last immunization shot was on 04-30-2023 for seasonal influenza."
+Immunization Hep B, adolescent or pediatric 05-03-2015
+Immunization Hep B, adolescent or pediatric 06-07-2015
+Immunization Hib (PRP-OMP) 08-09-2015
+Immunization rotavirus, monovalent 08-09-2015
+Immunization IPV 08-09-2015
+Immunization DTaP 08-09-2015
+Immunization Pneumococcal conjugate PCV 13 08-09-2015
+Immunization Hib (PRP-OMP) 10-11-2015
+Immunization rotavirus, monovalent 10-11-2015
+Immunization IPV 10-11-2015
+Immunization DTaP 10-11-2015
+Immunization Pneumococcal conjugate PCV 13 10-11-2015
+Immunization IPV 01-10-2016
+Immunization Influenza, seasonal, injectable, preservative free 01-10-2016
+Immunization DTaP 01-10-2016
+Immunization Pneumococcal conjugate PCV 13 01-10-2016
+Immunization Hep B, adolescent or pediatric 01-10-2016
+Immunization Hib (PRP-OMP) 07-10-2016
+Immunization varicella 07-10-2016
+Immunization MMR 07-10-2016
+Immunization Pneumococcal conjugate PCV 13 07-10-2016
+Immunization Hep A, ped/adol, 2 dose 07-10-2016
+Immunization DTaP 10-09-2016
+Immunization Influenza, seasonal, injectable, preservative free 04-09-2017
+Immunization Hep A, ped/adol, 2 dose 10-08-2017
+Immunization Influenza, seasonal, injectable, preservative free 04-08-2018
+Immunization Influenza, seasonal, injectable, preservative free 04-07-2019
+Immunization varicella 04-12-2020
+Immunization IPV 04-12-2020
+Immunization Influenza, seasonal, injectable, preservative free 04-12-2020
+Immunization DTaP 04-12-2020
+Immunization MMR 04-12-2020
+Immunization Influenza, seasonal, injectable, preservative free 02-28-2021
+Immunization Influenza, seasonal, injectable, preservative free 03-06-2022
+Immunization Influenza, seasonal, injectable, preservative free 04-30-2023

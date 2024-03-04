@@ -1,0 +1,65 @@
+USER: "Have I been screened for depression recently using the Patient Health Questionnaire?"
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-05-2015
+Procedure Assessment of health and social care needs (procedure) 08-10-2016
+Procedure Medication Reconciliation (procedure) 08-10-2016
+Procedure Assessment of anxiety (procedure) 08-10-2016
+Procedure Depression screening (procedure) 08-10-2016
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-10-2016
+Procedure Assessment of substance use (procedure) 08-10-2016
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016
+Procedure Assessment of health and social care needs (procedure) 08-16-2017
+Procedure Depression screening (procedure) 08-16-2017
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017
+Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 08-16-2017
+Procedure Assessment of substance use (procedure) 08-16-2017
+Procedure Screening for drug abuse (procedure) 08-16-2017
+Procedure Assessment of health and social care needs (procedure) 08-22-2018
+Procedure Assessment of anxiety (procedure) 08-22-2018
+Procedure Depression screening (procedure) 08-22-2018
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-22-2018
+Procedure Assessment of substance use (procedure) 08-22-2018
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-22-2018
+Procedure Assessment of health and social care needs (procedure) 08-28-2019
+Procedure Assessment of anxiety (procedure) 08-28-2019
+Procedure Depression screening (procedure) 08-28-2019
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-28-2019
+Procedure Assessment of substance use (procedure) 08-28-2019
+Procedure Screening for drug abuse (procedure) 08-28-2019
+Procedure Assessment of health and social care needs (procedure) 09-02-2020
+Procedure Medication Reconciliation (procedure) 09-02-2020
+Procedure Depression screening (procedure) 09-02-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-02-2020
+Procedure Assessment of substance use (procedure) 09-02-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-02-2020
+Procedure Face mask (physical object) 11-21-2020
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Procedure Oxygen administration by mask (procedure) 11-21-2020
+Procedure Placing subject in prone position (procedure) 11-21-2020
+Procedure Oxygen administration by mask (procedure) 11-22-2020
+Procedure Placing subject in prone position (procedure) 11-22-2020
+Procedure Oxygen administration by mask (procedure) 11-23-2020
+Procedure Placing subject in prone position (procedure) 11-23-2020
+Procedure Oxygen administration by mask (procedure) 11-24-2020
+Procedure Placing subject in prone position (procedure) 11-24-2020
+Procedure Oxygen administration by mask (procedure) 11-25-2020
+Procedure Placing subject in prone position (procedure) 11-25-2020
+Procedure Oxygen administration by mask (procedure) 11-26-2020
+Procedure Placing subject in prone position (procedure) 11-26-2020
+Procedure Oxygen administration by mask (procedure) 11-27-2020
+Procedure Placing subject in prone position (procedure) 11-27-2020
+Procedure Oxygen administration by mask (procedure) 11-28-2020
+Procedure Placing subject in prone position (procedure) 11-28-2020
+Procedure Oxygen administration by mask (procedure) 11-29-2020
+Procedure Placing subject in prone position (procedure) 11-29-2020
+Procedure Oxygen administration by mask (procedure) 11-30-2020
+Procedure Placing subject in prone position (procedure) 11-30-2020
+Procedure Oxygen administration by mask (procedure) 12-01-2020
+Procedure Placing subject in prone position (procedure) 12-01-2020
+Procedure Oxygen administration by mask (procedure) 12-02-2020
+Procedure Placing subject in prone position (procedure) 12-02-2020
+Procedure Assessment of health and social care needs (procedure) 09-08-2021
+Procedure Assessment of anxiety (procedure) 09-08-2021
+Procedure Depression screening (procedure) 09-08-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-08-2021
+Procedure Assessment of substance use (procedure) 09-08-2021
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-08-2021

@@ -1,0 +1,2 @@
+USER: "What was the result of my last blood work?" 
+ASSISTANT: "Your last blood work showed normal levels across all parameters."

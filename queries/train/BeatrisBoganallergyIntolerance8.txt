@@ -1,0 +1,2 @@
+USER: "When was my last vaccination?" 
+ASSISTANT: "Your last vaccination was a flu shot on 10/15/2021."

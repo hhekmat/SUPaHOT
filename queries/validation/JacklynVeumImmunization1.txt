@@ -1,0 +1,17 @@
+USER: "When was my last flu shot?" 
+ASSISTANT: "Your last flu shot was on 10-05-2022."
+Immunization Influenza, seasonal, injectable, preservative free 01-22-2014
+Immunization Influenza, seasonal, injectable, preservative free 01-28-2015
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2015
+Immunization Pneumococcal conjugate PCV 13 08-03-2016
+Immunization Influenza, seasonal, injectable, preservative free 02-08-2017
+Immunization Influenza, seasonal, injectable, preservative free 02-14-2018
+Immunization pneumococcal polysaccharide vaccine, 23 valent 02-14-2018
+Immunization Influenza, seasonal, injectable, preservative free 01-23-2019
+Immunization Influenza, seasonal, injectable, preservative free 02-26-2020
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2020
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-03-2021
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-24-2021
+Immunization Influenza, seasonal, injectable, preservative free 10-06-2021
+Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 06-08-2022
+Immunization Influenza, seasonal, injectable, preservative free 10-05-2022

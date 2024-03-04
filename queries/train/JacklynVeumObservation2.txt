@@ -1,0 +1,65 @@
+USER: "What is my current heart rate?"
+Observation Color of Urine 03-15-2023
+Observation Glucose [Mass/volume] in Urine by Test strip 03-15-2023 2.0903 mg/dL
+Observation Glucose [Presence] in Urine by Test strip 03-15-2023
+Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-15-2023 1.4447 mg/dL
+Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023
+Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023 19.202 mg/dL
+Observation Ketones [Presence] in Urine by Test strip 03-15-2023
+Observation Specific gravity of Urine by Test strip 03-15-2023 1.0218 {nominal}
+Observation pH of Urine by Test strip 03-15-2023 5.7025 pH
+Observation Protein [Mass/volume] in Urine by Test strip 03-15-2023 215.81 mg/dL
+Observation Protein [Presence] in Urine by Test strip 03-15-2023
+Observation Nitrite [Presence] in Urine by Test strip 03-15-2023
+Observation Hemoglobin [Presence] in Urine by Test strip 03-15-2023
+Observation Leukocyte esterase [Presence] in Urine by Test strip 03-15-2023
+Observation Body Height 03-15-2023 173.4 cm
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-15-2023 1 {score}
+Observation Body Weight 03-15-2023 82.2 kg
+Observation Body mass index (BMI) [Ratio] 03-15-2023 27.34 kg/m2
+Observation Blood pressure panel with all children optional 03-15-2023
+Observation Heart rate 03-15-2023 98 /min
+Observation Respiratory rate 03-15-2023 12 /min
+Observation Tobacco smoking status 03-15-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 03-15-2023
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-15-2023 5 {score}
+Observation Total score [AUDIT-C] 03-15-2023 0 {score}
+Observation Glucose [Mass/volume] in Serum or Plasma 09-27-2023 86.86 mg/dL
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 09-27-2023 11.6 mg/dL
+Observation Creatinine [Mass/volume] in Serum or Plasma 09-27-2023 1.9143 mg/dL
+Observation Calcium [Mass/volume] in Serum or Plasma 09-27-2023 9.14 mg/dL
+Observation Sodium [Moles/volume] in Serum or Plasma 09-27-2023 136.1 mmol/L
+Observation Potassium [Moles/volume] in Serum or Plasma 09-27-2023 4.64 mmol/L
+Observation Chloride [Moles/volume] in Serum or Plasma 09-27-2023 109.37 mmol/L
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-27-2023 28.63 mmol/L
+Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 09-27-2023 57.116 mL/min/{1.73_m2}
+Observation Appearance of Urine 09-27-2023
+Observation Odor of Urine 09-27-2023
+Observation Clarity of Urine 09-27-2023
+Observation Color of Urine 09-27-2023
+Observation Glucose [Mass/volume] in Urine by Test strip 09-27-2023 2.3941 mg/dL
+Observation Glucose [Presence] in Urine by Test strip 09-27-2023
+Observation Bilirubin.total [Mass/volume] in Urine by Test strip 09-27-2023 0.9377 mg/dL
+Observation Bilirubin.total [Presence] in Urine by Test strip 09-27-2023
+Observation Ketones [Mass/volume] in Urine by Test strip 09-27-2023 12.062 mg/dL
+Observation Ketones [Presence] in Urine by Test strip 09-27-2023
+Observation Specific gravity of Urine by Test strip 09-27-2023 1.0352 {nominal}
+Observation pH of Urine by Test strip 09-27-2023 5.6108 pH
+Observation Protein [Mass/volume] in Urine by Test strip 09-27-2023 355.23 mg/dL
+Observation Protein [Presence] in Urine by Test strip 09-27-2023
+Observation Nitrite [Presence] in Urine by Test strip 09-27-2023
+Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023
+Observation Leukocyte esterase [Presence] in Urine by Test strip 09-27-2023
+Observation Body Height 09-27-2023 173.4 cm
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-27-2023 3 {score}
+Observation Body Weight 09-27-2023 82.2 kg
+Observation Body mass index (BMI) [Ratio] 09-27-2023 27.34 kg/m2
+Observation Blood pressure panel with all children optional 09-27-2023
+Observation Heart rate 09-27-2023 91 /min
+Observation Respiratory rate 09-27-2023 14 /min
+Observation Tobacco smoking status 09-27-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-27-2023
+Observation Fall risk total [Morse Fall Scale] 09-27-2023 21 {#}
+Observation Fall risk level [Morse Fall Scale] 09-27-2023
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-27-2023 2 {score}
+Observation Total score [DAST-10] 09-27-2023 1 {score}

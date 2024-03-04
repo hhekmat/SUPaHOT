@@ -1,0 +1,2 @@
+USER: "What was the result of my last cholesterol test?"
+ASSISTANT: "Your last cholesterol test showed a level of [value]."

@@ -1,0 +1,2 @@
+USER: "When was my last cholesterol check?" 
+ASSISTANT: "Your last cholesterol check was on 05/20/2021 and your levels were within normal range."

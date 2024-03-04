@@ -1,0 +1,2 @@
+USER: "Have I had any recent lab tests done?"
+ASSISTANT: "Yes, you had blood work done last month."

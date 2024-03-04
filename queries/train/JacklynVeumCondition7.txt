@@ -1,0 +1,19 @@
+"Do I have any current kidney issues or diabetes?"
+Condition Risk activity involvement (finding) 05-11-1966
+Condition Received higher education (finding) 05-28-1969
+Condition Essential hypertension (disorder) 06-06-1973
+Condition Miscarriage in first trimester 09-05-2001
+Condition Chronic kidney disease stage 1 (disorder) 12-01-2004
+Condition Disorder of kidney due to diabetes mellitus (disorder) 12-01-2004
+Condition Chronic kidney disease stage 2 (disorder) 12-07-2005
+Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-07-2005
+Condition Ischemic heart disease (disorder) 01-22-2014
+Condition Abnormal findings diagnostic imaging heart+coronary circulat (finding) 02-11-2014
+Condition Has a criminal record (finding) 02-08-2017
+Condition Chronic kidney disease stage 3 (disorder) 08-29-2018
+Condition Proteinuria due to type 2 diabetes mellitus (disorder) 08-29-2018
+Condition Social isolation (finding) 03-09-2022
+Condition Full-time employment (finding) 01-04-2023
+Condition Medication review due (situation) 03-15-2023
+Condition Sprain (morphologic abnormality) 10-31-2023
+Condition Sprain of ankle 10-31-2023

@@ -1,0 +1,2 @@
+USER: "What are my current medications?" 
+ASSISTANT: "You are currently taking medication A, medication B, and medication C."

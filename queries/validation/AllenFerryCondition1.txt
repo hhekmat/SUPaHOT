@@ -1,0 +1,18 @@
+Do I currently have any medications prescribed to me?
+Condition Chronic sinusitis (disorder) 05-15-1941
+Condition Hypertension 02-24-1959
+Condition Served in armed forces (finding) 02-24-1959
+Condition Received higher education (finding) 02-24-1959
+Condition Body mass index 30+ - obesity (finding) 05-09-1972
+Condition Prediabetes 05-15-1973
+Condition Anemia (disorder) 05-15-1973
+Condition Opioid abuse (disorder) 06-01-1976
+Condition Has a criminal record (finding) 06-13-1978
+Condition Atrial Fibrillation 08-09-1988
+Condition Neoplasm of prostate 11-03-2004
+Condition Carcinoma in situ of prostate (disorder) 11-03-2004
+Condition Chronic intractable migraine without aura 09-01-2012
+Condition Victim of intimate partner abuse (finding) 01-06-2015
+Condition Stress (finding) 01-29-2019
+Condition Alzheimer's disease (disorder) 02-09-2021
+Condition Part-time employment (finding) 02-09-2021

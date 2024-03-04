@@ -1,0 +1,2 @@
+USER: "Do I have any current medical conditions?"
+ASSISTANT: "You have a history of hypertension and diabetes type 2."

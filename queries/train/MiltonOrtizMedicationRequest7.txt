@@ -1,0 +1,9 @@
+"What is the medication I was last prescribed?"
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-05-2015
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-16-2017
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-22-2018
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-28-2019
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-02-2020
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-08-2021

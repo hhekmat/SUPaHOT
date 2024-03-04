@@ -11,14 +11,15 @@ def generate_queries():
     resources_data_folder = "./all_resources"
     file_names = os.listdir(resources_data_folder)
     for patient in file_names:
-        previous_queries = []
         resources_file = os.path.join(resources_data_folder, patient)
         for rt in resource_types:
+            previous_queries = []
             fhir_data_of_rt = []
             with open(resources_file, 'r') as file:
                 for line in file:
                     if line.startswith(rt):
                         fhir_data_of_rt.append(line.strip())
+            fhir_data_of_rt = fhir_data_of_rt[-64:]
             for i in range(10):
                 if i == 0:
                     output_path = os.path.join("./queries/test", patient[:-13] + rt + str(i) + '.txt')

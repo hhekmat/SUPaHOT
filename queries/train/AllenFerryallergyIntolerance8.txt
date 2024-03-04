@@ -1,0 +1,3 @@
+USER: "Do I have any current medications?"
+
+ASSISTANT: "Yes, you are currently prescribed [list of medications from FHIR data]."

@@ -1,0 +1,2 @@
+USER: "What was my blood pressure during my last visit?"
+ASSISTANT: "Your blood pressure during your last visit was 120/80."

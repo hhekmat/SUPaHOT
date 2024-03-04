@@ -1,0 +1,35 @@
+"When was my last depression screening using the two-question survey?"
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+Procedure Depression screening (procedure) 06-24-2014
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014
+Procedure Assessment of substance use (procedure) 06-24-2014
+Procedure Screening for drug abuse (procedure) 06-24-2014
+Procedure Assessment of health and social care needs (procedure) 06-28-2016
+Procedure Medication Reconciliation (procedure) 06-28-2016
+Procedure Assessment of anxiety (procedure) 06-28-2016
+Procedure Screening for domestic abuse (procedure) 06-28-2016
+Procedure Depression screening (procedure) 06-28-2016
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016
+Procedure Insertion of intrauterine contraceptive device 02-07-2017
+Procedure Insertion of intrauterine contraceptive device 02-06-2018
+Procedure Throat culture (procedure) 06-18-2018
+Procedure Echocardiography (procedure) 06-19-2018
+Procedure Insertion of biventricular implantable cardioverter defibrillator 06-19-2018
+Procedure Catheter ablation of tissue of heart 06-19-2018
+Procedure Assessment of health and social care needs (procedure) 07-03-2018
+Procedure Medication Reconciliation (procedure) 07-03-2018
+Procedure Depression screening (procedure) 07-03-2018
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018
+Procedure Intramuscular injection 01-27-2020
+Procedure Assessment of health and social care needs (procedure) 07-07-2020
+Procedure Assessment of anxiety (procedure) 07-07-2020
+Procedure Depression screening (procedure) 07-07-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-07-2020
+Procedure Assessment of substance use (procedure) 07-07-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-07-2020
+Procedure Measurement of respiratory function (procedure) 12-17-2020
+Procedure Assessment of health and social care needs (procedure) 12-28-2020
+Procedure Medication Reconciliation (procedure) 12-28-2020
+Procedure Assessment of anxiety (procedure) 12-28-2020
+Procedure Depression screening (procedure) 12-29-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-29-2020

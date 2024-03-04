@@ -1,0 +1,65 @@
+"Am I scheduled for any upcoming procedures?"
+Procedure External beam radiation therapy procedure (procedure) 09-17-2022
+Procedure External beam radiation therapy procedure (procedure) 09-18-2022
+Procedure External beam radiation therapy procedure (procedure) 09-19-2022
+Procedure External beam radiation therapy procedure (procedure) 09-21-2022
+Procedure External beam radiation therapy procedure (procedure) 09-22-2022
+Procedure External beam radiation therapy procedure (procedure) 09-23-2022
+Procedure External beam radiation therapy procedure (procedure) 09-24-2022
+Procedure External beam radiation therapy procedure (procedure) 09-25-2022
+Procedure External beam radiation therapy procedure (procedure) 09-26-2022
+Procedure External beam radiation therapy procedure (procedure) 09-28-2022
+Procedure External beam radiation therapy procedure (procedure) 09-29-2022
+Procedure External beam radiation therapy procedure (procedure) 09-30-2022
+Procedure External beam radiation therapy procedure (procedure) 10-01-2022
+Procedure External beam radiation therapy procedure (procedure) 10-03-2022
+Procedure Assessment of health and social care needs (procedure) 01-05-2023
+Procedure Assessment of anxiety (procedure) 01-05-2023
+Procedure Depression screening (procedure) 01-05-2023
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2023
+Procedure Physical examination, complete (procedure) 02-05-2023
+Procedure Colonoscopy 02-06-2023
+Procedure Certification procedure (procedure) 02-09-2023
+Procedure Notifications (procedure) 02-09-2023
+Procedure Initial patient assessment (procedure) 02-09-2023
+Procedure Development of individualized plan of care (procedure) 02-09-2023
+Procedure Hospice care (regime/therapy) 02-09-2023
+Procedure Hospice care (regime/therapy) 02-10-2023
+Procedure Hospice care (regime/therapy) 02-11-2023
+Procedure Hospice care (regime/therapy) 02-12-2023
+Procedure Hospice care (regime/therapy) 02-13-2023
+Procedure Hospice care (regime/therapy) 02-14-2023
+Procedure Hospice care (regime/therapy) 02-15-2023
+Procedure Hospice care (regime/therapy) 02-16-2023
+Procedure Hospice care (regime/therapy) 02-17-2023
+Procedure Hospice care (regime/therapy) 02-18-2023
+Procedure Hospice care (regime/therapy) 02-19-2023
+Procedure Hospice care (regime/therapy) 02-20-2023
+Procedure Hospice care (regime/therapy) 02-21-2023
+Procedure Hospice care (regime/therapy) 02-22-2023
+Procedure Hospice care (regime/therapy) 02-23-2023
+Procedure Hospice care (regime/therapy) 02-24-2023
+Procedure Hospice care (regime/therapy) 02-25-2023
+Procedure Hospice care (regime/therapy) 02-26-2023
+Procedure Hospice care (regime/therapy) 02-27-2023
+Procedure Hospice care (regime/therapy) 02-28-2023
+Procedure Hospice care (regime/therapy) 03-01-2023
+Procedure Hospice care (regime/therapy) 03-02-2023
+Procedure Hospice care (regime/therapy) 03-03-2023
+Procedure Hospice care (regime/therapy) 03-04-2023
+Procedure Hospice care (regime/therapy) 03-05-2023
+Procedure Hospice care (regime/therapy) 03-06-2023
+Procedure Hospice care (regime/therapy) 03-07-2023
+Procedure Hospice care (regime/therapy) 03-08-2023
+Procedure Patient discharge (procedure) 03-09-2023
+Procedure Physical examination, complete (procedure) 05-18-2023
+Procedure Assessment of health and social care needs (procedure) 07-06-2023
+Procedure Assessment using Morse Fall Scale (procedure) 07-06-2023
+Procedure Depression screening (procedure) 07-06-2023
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-06-2023
+Procedure Assessment of substance use (procedure) 07-06-2023
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-06-2023
+Procedure Physical examination, complete (procedure) 09-07-2023
+Procedure Mammography (procedure) 09-07-2023
+Procedure Manual pelvic examination (procedure) 09-07-2023
+Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023

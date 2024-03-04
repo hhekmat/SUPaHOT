@@ -1,0 +1,2 @@
+USER: "When was my last visit to the doctor?" 
+ASSISTANT: "Your last visit to the doctor was on [date]."

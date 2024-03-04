@@ -1,0 +1,2 @@
+USER: "What are my current allergies?" 
+ASSISTANT: "You do not have any recorded allergies."

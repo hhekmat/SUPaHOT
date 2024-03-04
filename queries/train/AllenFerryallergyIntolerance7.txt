@@ -1,0 +1,2 @@
+USER: "Do I have any current health conditions?"
+ASSISTANT: "Yes, you have [list of health conditions from FHIR data]."

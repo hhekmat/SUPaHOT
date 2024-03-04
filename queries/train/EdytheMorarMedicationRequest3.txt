@@ -1,0 +1,17 @@
+What type of birth control am I currently using?
+MedicationRequest Jolivette 28 Day Pack 03-30-2003
+MedicationRequest Jolivette 28 Day Pack 03-22-2005
+MedicationRequest Jolivette 28 Day Pack 03-17-2006
+MedicationRequest 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System 02-23-2013
+MedicationRequest Jolivette 28 Day Pack 02-13-2015
+MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018
+MedicationRequest 1 ML Epinephrine 1 MG/ML Injection 06-19-2018
+MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018
+MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018
+MedicationRequest Nitrofurantoin 5 MG/ML Oral Suspension 04-25-2019
+MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
+MedicationRequest NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule 05-02-2019
+MedicationRequest 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection 01-27-2020
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020
+MedicationRequest Jolivette 28 Day Pack 01-21-2021
+MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021
