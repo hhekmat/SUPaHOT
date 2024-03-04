@@ -61,8 +61,11 @@ def rouge(refs, hyps):
     return scores
 
 def bertscore(refs, hyps):
-    P, R, F1 = bert_score.score(hyps, refs, lang='en', verbose=True)
-    return P, R, F1
+    P, R, F1 = bert_score.score(hyps, refs, lang='en', verbose=True, model_type='microsoft/deberta-xlarge-mnli')
+    avg_P = sum(P) / len(P)
+    avg_R = sum(R) / len(R)
+    avg_F1 = sum(F1) / len(R)
+    return avg_P, avg_R, avg_F1
 
 if __name__ == "__main__":
     oracle_list, meditron_list = load_data()
