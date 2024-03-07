@@ -2,14 +2,19 @@ import json
 from datetime import datetime
 import os
 
+global_resource_dict = {}
+
 def parse_fhir_json(file_path):
     relevant_resources = []
+    global global_resource_dict
     with open(file_path, 'r') as f:
         fhir_data = json.load(f)
         if 'entry' in fhir_data:
             for resource in fhir_data['entry']:
                 if is_relevant(resource):
-                    relevant_resources.append(extract_display_name_date(resource)) 
+                    label = extract_display_name_date(resource)
+                    relevant_resources.append(label) 
+                    global_resource_dict[label] = str(resource)
     return relevant_resources
 
 def is_relevant(resource):
@@ -49,7 +54,6 @@ def extract_display_name_date(resource):
         input_date = datetime.strptime(date, "%Y-%m-%dT%H:%M:%S%z")
         date = input_date.strftime("%m-%d-%Y")
         return date
-    value = ''
     type = resource['resource']['resourceType']
     if type in ['allergyIntolerance', 'Condition']:
         display_name = resource['resource']['code']['text']
@@ -66,12 +70,10 @@ def extract_display_name_date(resource):
     elif type == 'Observation':
         display_name = resource['resource']['code']['text']
         date = format_date(resource['resource']['effectiveDateTime'])
-        if 'valueQuantity' in resource['resource']:
-            value = ' ' + str(resource['resource']['valueQuantity']['value']) + ' ' + resource['resource']['valueQuantity']['unit']
     elif type == 'Procedure':
         display_name = resource['resource']['code']['text']
         date = format_date(resource['resource']['performedPeriod']['start'])
-    return (type + ' ' + display_name + ' ' + date + value)
+    return (type + ' ' + display_name + ' ' + date)
 
 if __name__ == "__main__":
     patient_data_folder = "./mock_patients"

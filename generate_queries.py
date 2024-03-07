@@ -1,4 +1,5 @@
 import os
+import random
 from openai import OpenAI
 
 client = OpenAI(
@@ -7,48 +8,36 @@ client = OpenAI(
 )
 
 def generate_queries():
-    resource_types = ['allergyIntolerance', 'Condition', 'Encounter', 'Immunization', 'MedicationRequest', 'Observation', 'Procedure']
     resources_data_folder = "./all_resources"
     file_names = os.listdir(resources_data_folder)
     for patient in file_names:
         resources_file = os.path.join(resources_data_folder, patient)
-        for rt in resource_types:
-            previous_queries = []
-            fhir_data_of_rt = []
-            with open(resources_file, 'r') as file:
-                for line in file:
-                    if line.startswith(rt):
-                        fhir_data_of_rt.append(line.strip())
-            fhir_data_of_rt = fhir_data_of_rt[-64:]
-            for i in range(10):
-                if i == 0:
-                    output_path = os.path.join("./queries/test", patient[:-13] + rt + str(i) + '.txt')
-                elif i == 1:
-                    output_path = os.path.join("./queries/validation", patient[:-13] + rt + str(i) + '.txt')
-                else:
-                    output_path = os.path.join("./queries/train", patient[:-13] + rt + str(i) + '.txt')
-                prompt = "Here are some previous queries that should not be duplicated:\n" + "\n".join(previous_queries) + "\n\nHere is a patient's FHIR Data Resources:\n" + "\n".join(fhir_data_of_rt) + "\n\nGenerate a query that a patient with this history would have. Make it succinct, specific, non-technical, and like a normal person. For example, 'What are my current medicines?' or 'When was my last shot?' If there are no FHIR resources about " + " provided, then just ask about the subject of " + rt + " , in general knowing the answer would be something like 'None', such as USER: 'Do I have any allergies' ASSISTANT: 'No, you do not have any recorded allegies.'" 
-                chat_completion = client.chat.completions.create(
-                    messages=[
-                        {
-                            "role": "user",
-                            "content": prompt,
-                        }
-                    ],
-                    model="gpt-3.5-turbo", 
-                    )               
-                if chat_completion.choices and chat_completion.choices[0].message:
-                    generated_query = chat_completion.choices[0].message.content
-                    with open(output_path, 'w') as file:
-                        file.write(generated_query + '\n')
-                        for resource in fhir_data_of_rt:
-                            file.write(resource + '\n')
-                else:
-                    with open(output_path, 'w') as file:
-                        file.write('nothing was returned (or ur calling chat completion wrong lmao)')
-                        for resource in fhir_data_of_rt:
-                            file.write(resource + '\n')
-                previous_queries.append(generated_query)
+        resource_labels = []
+        with open(resources_file, 'r') as file:
+            for line in file:
+                resource_labels.append(line.strip())
+        for i in range(100):
+            curr_subset = random.choices(resource_labels, random.randint(1, 5))
+            if i < 80:
+                output_path = os.path.join("./queries/train", patient[:-13] + str(i) + '.txt')
+            elif i < 90:
+                output_path = os.path.join("./queries/validation", patient[:-13] + str(i) + '.txt')
+            else:
+                output_path = os.path.join("./queries/test", patient[:-13] + str(i) + '.txt')
+            prompt = "Here is a subset of a patient's FHIR Data Resources:\n" + "\n".join(curr_subset) + "\n\nGenerate a query that a patient with this history would have. Make it succinct, specific, non-technical, and like a normal person. For example, 'What are my current medicines?' or 'When was my last shot?'" 
+            chat_completion = client.chat.completions.create(
+                messages=[
+                    {
+                        "role": "user",
+                        "content": prompt,
+                    }
+                ],
+                model="gpt-3.5-turbo", 
+                )               
+            if chat_completion.choices and chat_completion.choices[0].message:
+                generated_query = chat_completion.choices[0].message.content
+                with open(output_path, 'w') as file:
+                    file.write(generated_query + '\n')
 
 if __name__ == "__main__":
     generate_queries()
