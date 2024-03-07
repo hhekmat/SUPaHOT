@@ -1,2 +1,0 @@
-USER: "Have I had any recent hospitalizations?"
-ASSISTANT: "No, you do not have any recorded hospitalizations."

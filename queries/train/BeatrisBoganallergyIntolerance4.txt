@@ -1,2 +1,0 @@
-USER: "Have I had any recent vaccinations?"
-ASSISTANT: "Yes, you received a flu shot on 10/15/2021."

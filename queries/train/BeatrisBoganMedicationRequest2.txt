@@ -1,7 +1,0 @@
-What medications am I currently taking?
-MedicationRequest Amoxicillin 500 MG Oral Tablet 11-23-2016
-MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016
-MedicationRequest Fexofenadine hydrochloride 30 MG Oral Tablet 08-22-2017
-MedicationRequest NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector 08-30-2017
-MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021
-MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-26-2022

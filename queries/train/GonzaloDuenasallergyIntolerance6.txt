@@ -1,2 +1,0 @@
-USER: "Do I have any allergies listed in my medical records?"
-ASSISTANT: "Yes, you have a recorded allergy to peanuts."

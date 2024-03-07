@@ -1,2 +1,0 @@
-USER: "What was the result of my most recent blood pressure reading?" 
-ASSISTANT: "Your most recent blood pressure reading was [value]."

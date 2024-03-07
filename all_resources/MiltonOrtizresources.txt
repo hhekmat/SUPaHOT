@@ -1,16 +1,16 @@
 Encounter Well child visit (procedure) 07-07-2010
 Encounter Well child visit (procedure) 07-18-2012
-Observation Body Height 07-18-2012 167.3 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-18-2012 4 {score}
-Observation Body Weight 07-18-2012 46.7 kg
-Observation Body Mass Index 07-18-2012 16.68 kg/m2
-Observation Body mass index (BMI) [Percentile] Per age and gender 07-18-2012 5.5657 %
+Observation Body Height 07-18-2012
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-18-2012
+Observation Body Weight 07-18-2012
+Observation Body Mass Index 07-18-2012
+Observation Body mass index (BMI) [Percentile] Per age and gender 07-18-2012
 Observation Blood Pressure 07-18-2012
-Observation Heart rate 07-18-2012 91 /min
-Observation Respiratory rate 07-18-2012 14 /min
+Observation Heart rate 07-18-2012
+Observation Respiratory rate 07-18-2012
 Observation Tobacco smoking status NHIS 07-18-2012
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-18-2012 8 {score}
-Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-18-2012 4 {score}
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-18-2012
+Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-18-2012
 Procedure Assessment of anxiety (procedure) 07-18-2012
 Procedure Medication Reconciliation (procedure) 07-18-2012
 Procedure Depression screening (procedure) 07-18-2012
@@ -22,16 +22,16 @@ Immunization Influenza, seasonal, injectable, preservative free 07-18-2012
 Encounter Encounter for check up (procedure) 12-26-2012
 Immunization Influenza, seasonal, injectable, preservative free 12-26-2012
 Encounter Encounter for symptom 12-21-2012
-Observation Body Height 12-26-2012 169 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-26-2012 3 {score}
-Observation Body Weight 12-26-2012 48.1 kg
-Observation Body Mass Index 12-26-2012 16.85 kg/m2
-Observation Body mass index (BMI) [Percentile] Per age and gender 12-26-2012 5.0688 %
+Observation Body Height 12-26-2012
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-26-2012
+Observation Body Weight 12-26-2012
+Observation Body Mass Index 12-26-2012
+Observation Body mass index (BMI) [Percentile] Per age and gender 12-26-2012
 Observation Blood Pressure 12-26-2012
-Observation Heart rate 12-26-2012 87 /min
-Observation Respiratory rate 12-26-2012 13 /min
+Observation Heart rate 12-26-2012
+Observation Respiratory rate 12-26-2012
 Observation Tobacco smoking status NHIS 12-26-2012
-Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 12-26-2012 1 {score}
+Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 12-26-2012
 Procedure Measurement of respiratory function (procedure) 12-21-2012
 Procedure Depression screening (procedure) 12-26-2012
 Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 12-26-2012
@@ -40,28 +40,28 @@ Procedure Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening
 Procedure Anticipatory guidance (procedure) 12-26-2012
 MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
 Encounter Well child visit (procedure) 07-24-2013
-Observation Body Height 07-24-2013 170.7 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-24-2013 3 {score}
-Observation Body Weight 07-24-2013 49.5 kg
-Observation Body Mass Index 07-24-2013 16.97 kg/m2
-Observation Body mass index (BMI) [Percentile] Per age and gender 07-24-2013 3.7656 %
+Observation Body Height 07-24-2013
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-24-2013
+Observation Body Weight 07-24-2013
+Observation Body Mass Index 07-24-2013
+Observation Body mass index (BMI) [Percentile] Per age and gender 07-24-2013
 Observation Blood Pressure 07-24-2013
-Observation Heart rate 07-24-2013 87 /min
-Observation Respiratory rate 07-24-2013 14 /min
-Observation Leukocytes [#/volume] in Blood by Automated count 07-24-2013 6.8148 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 07-24-2013 4.2191 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 07-24-2013 14.229 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-24-2013 47.344 %
-Observation MCV [Entitic volume] by Automated count 07-24-2013 89.961 fL
-Observation MCH [Entitic mass] by Automated count 07-24-2013 32.399 pg
-Observation MCHC [Mass/volume] by Automated count 07-24-2013 35.679 g/dL
-Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-24-2013 41.521 fL
-Observation Platelets [#/volume] in Blood by Automated count 07-24-2013 174.31 10*3/uL
-Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-24-2013 485.8 fL
-Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-24-2013 10.411 fL
+Observation Heart rate 07-24-2013
+Observation Respiratory rate 07-24-2013
+Observation Leukocytes [#/volume] in Blood by Automated count 07-24-2013
+Observation Erythrocytes [#/volume] in Blood by Automated count 07-24-2013
+Observation Hemoglobin [Mass/volume] in Blood 07-24-2013
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-24-2013
+Observation MCV [Entitic volume] by Automated count 07-24-2013
+Observation MCH [Entitic mass] by Automated count 07-24-2013
+Observation MCHC [Mass/volume] by Automated count 07-24-2013
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-24-2013
+Observation Platelets [#/volume] in Blood by Automated count 07-24-2013
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-24-2013
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-24-2013
 Observation Tobacco smoking status NHIS 07-24-2013
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-24-2013 1 {score}
-Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-24-2013 4 {score}
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-24-2013
+Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-24-2013
 Procedure Assessment of anxiety (procedure) 07-24-2013
 Procedure Medication Reconciliation (procedure) 07-24-2013
 Procedure Depression screening (procedure) 07-24-2013
@@ -72,16 +72,16 @@ Procedure Anticipatory guidance (procedure) 07-24-2013
 Immunization meningococcal MCV4P 07-24-2013
 Encounter Encounter for symptom 07-20-2014
 Encounter Well child visit (procedure) 07-30-2014
-Observation Body Height 07-30-2014 172.4 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-30-2014 4 {score}
-Observation Body Weight 07-30-2014 52.5 kg
-Observation Body Mass Index 07-30-2014 17.64 kg/m2
-Observation Body mass index (BMI) [Percentile] Per age and gender 07-30-2014 4.3737 %
+Observation Body Height 07-30-2014
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-30-2014
+Observation Body Weight 07-30-2014
+Observation Body Mass Index 07-30-2014
+Observation Body mass index (BMI) [Percentile] Per age and gender 07-30-2014
 Observation Blood Pressure 07-30-2014
-Observation Heart rate 07-30-2014 93 /min
-Observation Respiratory rate 07-30-2014 14 /min
+Observation Heart rate 07-30-2014
+Observation Respiratory rate 07-30-2014
 Observation Tobacco smoking status NHIS 07-30-2014
-Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-30-2014 2 {score}
+Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-30-2014
 Procedure Depression screening (procedure) 07-30-2014
 Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 07-30-2014
 Procedure Assessment of substance use (procedure) 07-30-2014
@@ -93,18 +93,18 @@ Condition Hypertension 08-05-2015
 Condition Housing unsatisfactory (finding) 08-05-2015
 Condition Received higher education (finding) 08-05-2015
 Condition Limited social contact (finding) 08-05-2015
-Observation Body Height 08-05-2015 173.3 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-05-2015 3 {score}
-Observation Body Weight 08-05-2015 54.5 kg
-Observation Body Mass Index 08-05-2015 18.16 kg/m2
-Observation Body mass index (BMI) [Percentile] Per age and gender 08-05-2015 4.2778 %
+Observation Body Height 08-05-2015
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-05-2015
+Observation Body Weight 08-05-2015
+Observation Body Mass Index 08-05-2015
+Observation Body mass index (BMI) [Percentile] Per age and gender 08-05-2015
 Observation Blood Pressure 08-05-2015
-Observation Heart rate 08-05-2015 77 /min
-Observation Respiratory rate 08-05-2015 15 /min
+Observation Heart rate 08-05-2015
+Observation Respiratory rate 08-05-2015
 Observation Tobacco smoking status NHIS 08-05-2015
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-05-2015
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-05-2015 3 {score}
-Observation Total score [AUDIT-C] 08-05-2015 1 {score}
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-05-2015
+Observation Total score [AUDIT-C] 08-05-2015
 Procedure Assessment of health and social care needs (procedure) 08-05-2015
 Procedure Assessment of anxiety (procedure) 08-05-2015
 Procedure Assessment of substance use (procedure) 08-05-2015
@@ -118,19 +118,19 @@ Observation Blood Pressure 11-03-2015
 Encounter Hypertension follow-up encounter 01-02-2016
 Observation Blood Pressure 01-02-2016
 Encounter General examination of patient (procedure) 08-10-2016
-Observation Body Height 08-10-2016 173.7 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-10-2016 1 {score}
-Observation Body Weight 08-10-2016 56.2 kg
-Observation Body Mass Index 08-10-2016 18.62 kg/m2
-Observation Body mass index (BMI) [Percentile] Per age and gender 08-10-2016 4.1774 %
+Observation Body Height 08-10-2016
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-10-2016
+Observation Body Weight 08-10-2016
+Observation Body Mass Index 08-10-2016
+Observation Body mass index (BMI) [Percentile] Per age and gender 08-10-2016
 Observation Blood Pressure 08-10-2016
-Observation Heart rate 08-10-2016 80 /min
-Observation Respiratory rate 08-10-2016 16 /min
+Observation Heart rate 08-10-2016
+Observation Respiratory rate 08-10-2016
 Observation Tobacco smoking status NHIS 08-10-2016
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-10-2016
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-10-2016 8 {score}
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-10-2016 1 {score}
-Observation Total score [AUDIT-C] 08-10-2016 2 {score}
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-10-2016
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-10-2016
+Observation Total score [AUDIT-C] 08-10-2016
 Procedure Assessment of health and social care needs (procedure) 08-10-2016
 Procedure Medication Reconciliation (procedure) 08-10-2016
 Procedure Assessment of anxiety (procedure) 08-10-2016
@@ -141,18 +141,18 @@ Procedure Assessment using Alcohol Use Disorders Identification Test - Consumpti
 MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
 Immunization Influenza, seasonal, injectable, preservative free 08-10-2016
 Encounter General examination of patient (procedure) 08-16-2017
-Observation Body Height 08-16-2017 173.9 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-16-2017 4 {score}
-Observation Body Weight 08-16-2017 58.1 kg
-Observation Body Mass Index 08-16-2017 19.21 kg/m2
+Observation Body Height 08-16-2017
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-16-2017
+Observation Body Weight 08-16-2017
+Observation Body Mass Index 08-16-2017
 Observation Blood Pressure 08-16-2017
-Observation Heart rate 08-16-2017 78 /min
-Observation Respiratory rate 08-16-2017 15 /min
+Observation Heart rate 08-16-2017
+Observation Respiratory rate 08-16-2017
 Observation Tobacco smoking status NHIS 08-16-2017
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-16-2017
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-16-2017 3 {score}
-Observation Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 08-16-2017 3 {score}
-Observation Total score [DAST-10] 08-16-2017 1 {score}
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-16-2017
+Observation Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 08-16-2017
+Observation Total score [DAST-10] 08-16-2017
 Procedure Assessment of health and social care needs (procedure) 08-16-2017
 Procedure Depression screening (procedure) 08-16-2017
 Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017
@@ -163,29 +163,29 @@ MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-16-2017
 Immunization Influenza, seasonal, injectable, preservative free 08-16-2017
 Immunization Hep B, adult 08-16-2017
 Encounter General examination of patient (procedure) 08-22-2018
-Observation Body Height 08-22-2018 173.9 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-22-2018 1 {score}
-Observation Body Weight 08-22-2018 59.3 kg
-Observation Body Mass Index 08-22-2018 19.61 kg/m2
+Observation Body Height 08-22-2018
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-22-2018
+Observation Body Weight 08-22-2018
+Observation Body Mass Index 08-22-2018
 Observation Blood Pressure 08-22-2018
-Observation Heart rate 08-22-2018 96 /min
-Observation Respiratory rate 08-22-2018 12 /min
-Observation Leukocytes [#/volume] in Blood by Automated count 08-22-2018 5.0577 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 08-22-2018 4.6297 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 08-22-2018 16.156 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 08-22-2018 39.011 %
-Observation MCV [Entitic volume] by Automated count 08-22-2018 83.823 fL
-Observation MCH [Entitic mass] by Automated count 08-22-2018 30.537 pg
-Observation MCHC [Mass/volume] by Automated count 08-22-2018 35.765 g/dL
-Observation Erythrocyte distribution width [Entitic volume] by Automated count 08-22-2018 43.408 fL
-Observation Platelets [#/volume] in Blood by Automated count 08-22-2018 301.65 10*3/uL
-Observation Platelet distribution width [Entitic volume] in Blood by Automated count 08-22-2018 398.28 fL
-Observation Platelet mean volume [Entitic volume] in Blood by Automated count 08-22-2018 10.023 fL
+Observation Heart rate 08-22-2018
+Observation Respiratory rate 08-22-2018
+Observation Leukocytes [#/volume] in Blood by Automated count 08-22-2018
+Observation Erythrocytes [#/volume] in Blood by Automated count 08-22-2018
+Observation Hemoglobin [Mass/volume] in Blood 08-22-2018
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 08-22-2018
+Observation MCV [Entitic volume] by Automated count 08-22-2018
+Observation MCH [Entitic mass] by Automated count 08-22-2018
+Observation MCHC [Mass/volume] by Automated count 08-22-2018
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 08-22-2018
+Observation Platelets [#/volume] in Blood by Automated count 08-22-2018
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 08-22-2018
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 08-22-2018
 Observation Tobacco smoking status NHIS 08-22-2018
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-22-2018
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-22-2018 2 {score}
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-22-2018 1 {score}
-Observation Total score [AUDIT-C] 08-22-2018 1 {score}
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-22-2018
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-22-2018
+Observation Total score [AUDIT-C] 08-22-2018
 Procedure Assessment of health and social care needs (procedure) 08-22-2018
 Procedure Assessment of anxiety (procedure) 08-22-2018
 Procedure Depression screening (procedure) 08-22-2018
@@ -199,18 +199,18 @@ Immunization Hep B, adult 08-22-2018
 Immunization meningococcal MCV4P 08-22-2018
 Encounter General examination of patient (procedure) 08-28-2019
 Condition Misuses drugs (finding) 08-28-2019
-Observation Body Height 08-28-2019 173.9 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-28-2019 1 {score}
-Observation Body Weight 08-28-2019 61.2 kg
-Observation Body Mass Index 08-28-2019 20.23 kg/m2
+Observation Body Height 08-28-2019
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-28-2019
+Observation Body Weight 08-28-2019
+Observation Body Mass Index 08-28-2019
 Observation Blood Pressure 08-28-2019
-Observation Heart rate 08-28-2019 73 /min
-Observation Respiratory rate 08-28-2019 14 /min
+Observation Heart rate 08-28-2019
+Observation Respiratory rate 08-28-2019
 Observation Tobacco smoking status NHIS 08-28-2019
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-28-2019
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-28-2019 0 {score}
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-28-2019 1 {score}
-Observation Total score [DAST-10] 08-28-2019 9 {score}
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-28-2019
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-28-2019
+Observation Total score [DAST-10] 08-28-2019
 Procedure Assessment of health and social care needs (procedure) 08-28-2019
 Procedure Assessment of anxiety (procedure) 08-28-2019
 Procedure Depression screening (procedure) 08-28-2019
@@ -221,17 +221,17 @@ MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-28-2019
 Immunization Influenza, seasonal, injectable, preservative free 08-28-2019
 Immunization Hep B, adult 08-28-2019
 Encounter General examination of patient (procedure) 09-02-2020
-Observation Body Height 09-02-2020 173.9 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-02-2020 3 {score}
-Observation Body Weight 09-02-2020 62.8 kg
-Observation Body Mass Index 09-02-2020 20.77 kg/m2
+Observation Body Height 09-02-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-02-2020
+Observation Body Weight 09-02-2020
+Observation Body Mass Index 09-02-2020
 Observation Blood Pressure 09-02-2020
-Observation Heart rate 09-02-2020 89 /min
-Observation Respiratory rate 09-02-2020 15 /min
+Observation Heart rate 09-02-2020
+Observation Respiratory rate 09-02-2020
 Observation Tobacco smoking status NHIS 09-02-2020
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-02-2020
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-02-2020 1 {score}
-Observation Total score [AUDIT-C] 09-02-2020 0 {score}
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-02-2020
+Observation Total score [AUDIT-C] 09-02-2020
 Procedure Assessment of health and social care needs (procedure) 09-02-2020
 Procedure Medication Reconciliation (procedure) 09-02-2020
 Procedure Depression screening (procedure) 09-02-2020
@@ -241,12 +241,12 @@ Procedure Assessment using Alcohol Use Disorders Identification Test - Consumpti
 MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-02-2020
 Immunization Influenza, seasonal, injectable, preservative free 09-02-2020
 Encounter Encounter for symptom (procedure) 11-21-2020
-Observation Body temperature 11-21-2020 41.216 Cel
-Observation Respiratory rate 11-21-2020 35.095 /min
-Observation Heart rate 11-21-2020 50.017 /min
-Observation Oxygen saturation in Arterial blood 11-21-2020 80.44 %
+Observation Body temperature 11-21-2020
+Observation Respiratory rate 11-21-2020
+Observation Heart rate 11-21-2020
+Observation Oxygen saturation in Arterial blood 11-21-2020
 Observation Blood Pressure 11-21-2020
-Observation Body Weight 11-21-2020 62.8 kg
+Observation Body Weight 11-21-2020
 Observation Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
 Observation Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
 Observation Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
@@ -260,543 +260,543 @@ Observation SARS-CoV-2 RNA Pnl Resp NAA+probe 11-21-2020
 Procedure Face mask (physical object) 11-21-2020
 Encounter Hospital admission for isolation (procedure) 11-21-2020
 Condition Hypoxemia (disorder) 11-21-2020
-Observation Body temperature 11-21-2020 38.902 Cel
-Observation Respiratory rate 11-21-2020 26.392 /min
-Observation Heart rate 11-21-2020 197.38 /min
-Observation Oxygen saturation in Arterial blood 11-21-2020 87.38 %
+Observation Body temperature 11-21-2020
+Observation Respiratory rate 11-21-2020
+Observation Heart rate 11-21-2020
+Observation Oxygen saturation in Arterial blood 11-21-2020
 Observation Blood Pressure 11-21-2020
-Observation Body Weight 11-21-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-21-2020 3.5138 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-21-2020 4.5262 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-21-2020 13.899 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-21-2020 42.193 %
-Observation MCV [Entitic volume] by Automated count 11-21-2020 85.516 fL
-Observation MCH [Entitic mass] by Automated count 11-21-2020 28.716 pg
-Observation MCHC [Mass/volume] by Automated count 11-21-2020 35.586 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-21-2020 14.024 %
-Observation Platelets [#/volume] in Blood by Automated count 11-21-2020 131.38 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-21-2020 23.121 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-21-2020 6.2685 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-21-2020 8.0901 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-21-2020 3.4289 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-21-2020 2.8368 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-21-2020 2.8742 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-21-2020 1.0727 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-21-2020 1.3189 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-21-2020 0.42121 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-21-2020 0.32765 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-21-2020 81.05 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-21-2020 12.55 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-21-2020 2.8315 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-21-2020 9.84 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-21-2020 140.86 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-21-2020 3.9 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-21-2020 104.86 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-21-2020 26.63 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-21-2020 10.287 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-21-2020 7.6689 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-21-2020 4.51 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-21-2020 10.995 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020 58.181 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020 23.196 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020 28.159 U/L
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-21-2020 0.27404 ug/mL
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-21-2020 324.98 ug/L
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-21-2020 2.7626 pg/mL
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-21-2020 245.82 U/L
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020 14.954 U/L
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-21-2020 9.3352 mg/L
-Observation Prothrombin time (PT) 11-21-2020 11.887 s
-Observation INR in Platelet poor plasma by Coagulation assay 11-21-2020 2.3216 {INR}
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-21-2020 0.028424 ng/mL
-Observation Body temperature 11-22-2020 40.294 Cel
-Observation Respiratory rate 11-22-2020 31.102 /min
-Observation Heart rate 11-22-2020 184.68 /min
-Observation Oxygen saturation in Arterial blood 11-22-2020 79.46 %
+Observation Body Weight 11-21-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-21-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-21-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-21-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-21-2020
+Observation MCV [Entitic volume] by Automated count 11-21-2020
+Observation MCH [Entitic mass] by Automated count 11-21-2020
+Observation MCHC [Mass/volume] by Automated count 11-21-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-21-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-21-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-21-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-21-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-21-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-21-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-21-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-21-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-21-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-21-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-21-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-21-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-21-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-21-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-21-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-21-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-21-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020
+Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-21-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-21-2020
+Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-21-2020
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020
+Observation C reactive protein [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Prothrombin time (PT) 11-21-2020
+Observation INR in Platelet poor plasma by Coagulation assay 11-21-2020
+Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-21-2020
+Observation Body temperature 11-22-2020
+Observation Respiratory rate 11-22-2020
+Observation Heart rate 11-22-2020
+Observation Oxygen saturation in Arterial blood 11-22-2020
 Observation Blood Pressure 11-22-2020
-Observation Body Weight 11-22-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-22-2020 3.4249 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-22-2020 4.2999 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-22-2020 13.03 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-22-2020 37.814 %
-Observation MCV [Entitic volume] by Automated count 11-22-2020 79.894 fL
-Observation MCH [Entitic mass] by Automated count 11-22-2020 27.859 pg
-Observation MCHC [Mass/volume] by Automated count 11-22-2020 33.264 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-22-2020 14.151 %
-Observation Platelets [#/volume] in Blood by Automated count 11-22-2020 109.9 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-22-2020 44.661 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-22-2020 12.957 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-22-2020 13.477 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-22-2020 4.7454 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-22-2020 3.7574 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-22-2020 3.3896 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-22-2020 1.0215 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-22-2020 0.76523 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-22-2020 0.57819 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-22-2020 0.33908 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-22-2020 81.05 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-22-2020 12.55 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-22-2020 2.916 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-22-2020 9.84 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-22-2020 140.86 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-22-2020 3.9 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-22-2020 104.86 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-22-2020 26.63 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-22-2020 7.3378 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-22-2020 7.1749 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-22-2020 4.5037 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-22-2020 10.295 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020 58.876 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020 41.814 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020 10.905 U/L
-Observation Body temperature 11-23-2020 41.628 Cel
-Observation Respiratory rate 11-23-2020 38.492 /min
-Observation Heart rate 11-23-2020 80.927 /min
-Observation Oxygen saturation in Arterial blood 11-23-2020 82.65 %
+Observation Body Weight 11-22-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-22-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-22-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-22-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-22-2020
+Observation MCV [Entitic volume] by Automated count 11-22-2020
+Observation MCH [Entitic mass] by Automated count 11-22-2020
+Observation MCHC [Mass/volume] by Automated count 11-22-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-22-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-22-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-22-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-22-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-22-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-22-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-22-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-22-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-22-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-22-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-22-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-22-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-22-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-22-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-22-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-22-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-22-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-22-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-22-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-22-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-22-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-22-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-22-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-22-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020
+Observation Body temperature 11-23-2020
+Observation Respiratory rate 11-23-2020
+Observation Heart rate 11-23-2020
+Observation Oxygen saturation in Arterial blood 11-23-2020
 Observation Blood Pressure 11-23-2020
-Observation Body Weight 11-23-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-23-2020 3.1493 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-23-2020 4.9697 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-23-2020 11.858 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-23-2020 37.886 %
-Observation MCV [Entitic volume] by Automated count 11-23-2020 87.415 fL
-Observation MCH [Entitic mass] by Automated count 11-23-2020 30.37 pg
-Observation MCHC [Mass/volume] by Automated count 11-23-2020 33.92 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-23-2020 13.232 %
-Observation Platelets [#/volume] in Blood by Automated count 11-23-2020 135.42 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-23-2020 41.804 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-23-2020 20.035 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-23-2020 11.063 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-23-2020 3.7936 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-23-2020 2.2446 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-23-2020 3.8733 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-23-2020 1.0114 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-23-2020 0.84199 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-23-2020 0.59927 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-23-2020 0.27675 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-23-2020 81.05 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-23-2020 12.55 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-23-2020 2.6027 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-23-2020 9.84 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-23-2020 140.86 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-23-2020 3.9 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-23-2020 104.86 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-23-2020 26.63 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-23-2020 11.047 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-23-2020 7.6374 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-23-2020 5.0784 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-23-2020 6.6086 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020 80.361 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020 15.387 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020 35.947 U/L
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-23-2020 0.35428 ug/mL
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-23-2020 491.28 ug/L
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-23-2020 3.191 pg/mL
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-23-2020 234.38 U/L
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020 36.917 U/L
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-23-2020 8.3497 mg/L
-Observation Prothrombin time (PT) 11-23-2020 12.737 s
-Observation INR in Platelet poor plasma by Coagulation assay 11-23-2020 2.3673 {INR}
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-23-2020 0.15212 ng/mL
-Observation Body temperature 11-24-2020 40.344 Cel
-Observation Respiratory rate 11-24-2020 23.139 /min
-Observation Heart rate 11-24-2020 116.79 /min
-Observation Oxygen saturation in Arterial blood 11-24-2020 82.06 %
+Observation Body Weight 11-23-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-23-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-23-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-23-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-23-2020
+Observation MCV [Entitic volume] by Automated count 11-23-2020
+Observation MCH [Entitic mass] by Automated count 11-23-2020
+Observation MCHC [Mass/volume] by Automated count 11-23-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-23-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-23-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-23-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-23-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-23-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-23-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-23-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-23-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-23-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-23-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-23-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-23-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-23-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-23-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-23-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-23-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-23-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020
+Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-23-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-23-2020
+Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-23-2020
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020
+Observation C reactive protein [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Prothrombin time (PT) 11-23-2020
+Observation INR in Platelet poor plasma by Coagulation assay 11-23-2020
+Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-23-2020
+Observation Body temperature 11-24-2020
+Observation Respiratory rate 11-24-2020
+Observation Heart rate 11-24-2020
+Observation Oxygen saturation in Arterial blood 11-24-2020
 Observation Blood Pressure 11-24-2020
-Observation Body Weight 11-24-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-24-2020 3.8829 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-24-2020 4.4185 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-24-2020 11.284 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-24-2020 42.1 %
-Observation MCV [Entitic volume] by Automated count 11-24-2020 89.339 fL
-Observation MCH [Entitic mass] by Automated count 11-24-2020 27.689 pg
-Observation MCHC [Mass/volume] by Automated count 11-24-2020 33.138 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-24-2020 14.988 %
-Observation Platelets [#/volume] in Blood by Automated count 11-24-2020 139.57 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-24-2020 12.415 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-24-2020 14.495 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-24-2020 13.655 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-24-2020 3.3495 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-24-2020 3.2169 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-24-2020 2.6483 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-24-2020 1.0716 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-24-2020 1.1092 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-24-2020 0.35867 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-24-2020 0.27219 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-24-2020 81.05 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-24-2020 12.55 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-24-2020 2.8387 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-24-2020 9.84 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-24-2020 140.86 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-24-2020 3.9 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-24-2020 104.86 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-24-2020 26.63 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-24-2020 7.7755 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-24-2020 6.7166 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-24-2020 4.353 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-24-2020 11.12 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020 83.626 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020 9.5091 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020 28.55 U/L
-Observation Body temperature 11-25-2020 41.877 Cel
-Observation Respiratory rate 11-25-2020 30.847 /min
-Observation Heart rate 11-25-2020 197.88 /min
-Observation Oxygen saturation in Arterial blood 11-25-2020 77.45 %
+Observation Body Weight 11-24-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-24-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-24-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-24-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-24-2020
+Observation MCV [Entitic volume] by Automated count 11-24-2020
+Observation MCH [Entitic mass] by Automated count 11-24-2020
+Observation MCHC [Mass/volume] by Automated count 11-24-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-24-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-24-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-24-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-24-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-24-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-24-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-24-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-24-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-24-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-24-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-24-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-24-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-24-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-24-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-24-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-24-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-24-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-24-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-24-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-24-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-24-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-24-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-24-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-24-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020
+Observation Body temperature 11-25-2020
+Observation Respiratory rate 11-25-2020
+Observation Heart rate 11-25-2020
+Observation Oxygen saturation in Arterial blood 11-25-2020
 Observation Blood Pressure 11-25-2020
-Observation Body Weight 11-25-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-25-2020 3.6932 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-25-2020 3.8355 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-25-2020 13.494 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-25-2020 46.229 %
-Observation MCV [Entitic volume] by Automated count 11-25-2020 91.67 fL
-Observation MCH [Entitic mass] by Automated count 11-25-2020 28.443 pg
-Observation MCHC [Mass/volume] by Automated count 11-25-2020 32.587 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-25-2020 14.51 %
-Observation Platelets [#/volume] in Blood by Automated count 11-25-2020 141.32 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-25-2020 11.536 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-25-2020 17.368 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-25-2020 11.084 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-25-2020 3.7565 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-25-2020 3.0271 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-25-2020 2.3004 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-25-2020 1.0567 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-25-2020 1.1565 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-25-2020 0.58047 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-25-2020 0.32645 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-25-2020 68.94 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-25-2020 9.27 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-25-2020 2.7386 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-25-2020 9.64 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-25-2020 141.45 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-25-2020 4.34 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-25-2020 104.91 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-25-2020 27.53 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-25-2020 7.1535 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-25-2020 6.1236 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-25-2020 4.3838 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-25-2020 10.509 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020 40.562 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020 25.528 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020 26.895 U/L
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-25-2020 0.36913 ug/mL
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-25-2020 433.18 ug/L
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-25-2020 1.861 pg/mL
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-25-2020 214.63 U/L
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020 26.522 U/L
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-25-2020 10.619 mg/L
-Observation Prothrombin time (PT) 11-25-2020 11.652 s
-Observation INR in Platelet poor plasma by Coagulation assay 11-25-2020 1.0629 {INR}
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-25-2020 0.0198 ng/mL
-Observation Body temperature 11-26-2020 37.931 Cel
-Observation Respiratory rate 11-26-2020 17.987 /min
-Observation Heart rate 11-26-2020 113.92 /min
-Observation Oxygen saturation in Arterial blood 11-26-2020 82.04 %
+Observation Body Weight 11-25-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-25-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-25-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-25-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-25-2020
+Observation MCV [Entitic volume] by Automated count 11-25-2020
+Observation MCH [Entitic mass] by Automated count 11-25-2020
+Observation MCHC [Mass/volume] by Automated count 11-25-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-25-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-25-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-25-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-25-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-25-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-25-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-25-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-25-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-25-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-25-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-25-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-25-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-25-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-25-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-25-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-25-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-25-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020
+Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-25-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-25-2020
+Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-25-2020
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020
+Observation C reactive protein [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Prothrombin time (PT) 11-25-2020
+Observation INR in Platelet poor plasma by Coagulation assay 11-25-2020
+Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-25-2020
+Observation Body temperature 11-26-2020
+Observation Respiratory rate 11-26-2020
+Observation Heart rate 11-26-2020
+Observation Oxygen saturation in Arterial blood 11-26-2020
 Observation Blood Pressure 11-26-2020
-Observation Body Weight 11-26-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-26-2020 3.5412 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-26-2020 4.4085 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-26-2020 13.666 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-26-2020 43.014 %
-Observation MCV [Entitic volume] by Automated count 11-26-2020 94.049 fL
-Observation MCH [Entitic mass] by Automated count 11-26-2020 27.067 pg
-Observation MCHC [Mass/volume] by Automated count 11-26-2020 34.769 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-26-2020 12.886 %
-Observation Platelets [#/volume] in Blood by Automated count 11-26-2020 110.96 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-26-2020 42.102 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-26-2020 21.11 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-26-2020 13.334 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-26-2020 3.4853 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-26-2020 3.4875 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-26-2020 1.9554 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-26-2020 1.0695 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-26-2020 1.0093 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-26-2020 0.43268 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-26-2020 0.30058 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-26-2020 68.94 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-26-2020 9.27 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-26-2020 2.8516 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-26-2020 9.64 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-26-2020 141.45 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-26-2020 4.34 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-26-2020 104.91 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-26-2020 27.53 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-26-2020 12.579 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-26-2020 5.7126 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-26-2020 5.3996 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-26-2020 12.055 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020 115.36 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020 38.258 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020 14.842 U/L
-Observation Body temperature 11-27-2020 38.889 Cel
-Observation Respiratory rate 11-27-2020 17.664 /min
-Observation Heart rate 11-27-2020 66.023 /min
-Observation Oxygen saturation in Arterial blood 11-27-2020 88.27 %
+Observation Body Weight 11-26-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-26-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-26-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-26-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-26-2020
+Observation MCV [Entitic volume] by Automated count 11-26-2020
+Observation MCH [Entitic mass] by Automated count 11-26-2020
+Observation MCHC [Mass/volume] by Automated count 11-26-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-26-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-26-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-26-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-26-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-26-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-26-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-26-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-26-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-26-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-26-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-26-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-26-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-26-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-26-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-26-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-26-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-26-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-26-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-26-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-26-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-26-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-26-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-26-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-26-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020
+Observation Body temperature 11-27-2020
+Observation Respiratory rate 11-27-2020
+Observation Heart rate 11-27-2020
+Observation Oxygen saturation in Arterial blood 11-27-2020
 Observation Blood Pressure 11-27-2020
-Observation Body Weight 11-27-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-27-2020 3.2519 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-27-2020 3.9299 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-27-2020 13.059 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-27-2020 38.366 %
-Observation MCV [Entitic volume] by Automated count 11-27-2020 81.054 fL
-Observation MCH [Entitic mass] by Automated count 11-27-2020 26.88 pg
-Observation MCHC [Mass/volume] by Automated count 11-27-2020 31.952 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-27-2020 14.328 %
-Observation Platelets [#/volume] in Blood by Automated count 11-27-2020 135.59 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-27-2020 21.368 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-27-2020 14.541 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-27-2020 8.5742 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-27-2020 3.7693 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-27-2020 3.7361 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-27-2020 3.8906 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-27-2020 0.81242 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-27-2020 1.3601 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-27-2020 0.39644 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-27-2020 0.32868 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-27-2020 68.94 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-27-2020 9.27 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-27-2020 2.9495 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-27-2020 9.64 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-27-2020 141.45 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-27-2020 4.34 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-27-2020 104.91 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-27-2020 27.53 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-27-2020 11.338 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-27-2020 6.6694 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-27-2020 4.4327 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-27-2020 6.1646 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020 104.91 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020 17.583 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020 11.141 U/L
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-27-2020 0.4689 ug/mL
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-27-2020 488.51 ug/L
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-27-2020 3.3061 pg/mL
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-27-2020 241.38 U/L
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020 51.783 U/L
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-27-2020 10.913 mg/L
-Observation Prothrombin time (PT) 11-27-2020 10.893 s
-Observation INR in Platelet poor plasma by Coagulation assay 11-27-2020 2.9995 {INR}
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-27-2020 0.19274 ng/mL
-Observation Body temperature 11-28-2020 41.791 Cel
-Observation Respiratory rate 11-28-2020 18.322 /min
-Observation Heart rate 11-28-2020 108.26 /min
-Observation Oxygen saturation in Arterial blood 11-28-2020 86.49 %
+Observation Body Weight 11-27-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-27-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-27-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-27-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-27-2020
+Observation MCV [Entitic volume] by Automated count 11-27-2020
+Observation MCH [Entitic mass] by Automated count 11-27-2020
+Observation MCHC [Mass/volume] by Automated count 11-27-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-27-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-27-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-27-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-27-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-27-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-27-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-27-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-27-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-27-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-27-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-27-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-27-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-27-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-27-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-27-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-27-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-27-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020
+Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-27-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-27-2020
+Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-27-2020
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020
+Observation C reactive protein [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Prothrombin time (PT) 11-27-2020
+Observation INR in Platelet poor plasma by Coagulation assay 11-27-2020
+Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-27-2020
+Observation Body temperature 11-28-2020
+Observation Respiratory rate 11-28-2020
+Observation Heart rate 11-28-2020
+Observation Oxygen saturation in Arterial blood 11-28-2020
 Observation Blood Pressure 11-28-2020
-Observation Body Weight 11-28-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-28-2020 3.2236 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-28-2020 4.4651 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-28-2020 13.148 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-28-2020 45.21 %
-Observation MCV [Entitic volume] by Automated count 11-28-2020 88.656 fL
-Observation MCH [Entitic mass] by Automated count 11-28-2020 29.55 pg
-Observation MCHC [Mass/volume] by Automated count 11-28-2020 33.139 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-28-2020 14.13 %
-Observation Platelets [#/volume] in Blood by Automated count 11-28-2020 144.74 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-28-2020 27.561 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-28-2020 17.899 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-28-2020 7.5823 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-28-2020 4.63 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-28-2020 2.0397 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-28-2020 2.566 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-28-2020 0.82664 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-28-2020 1.1392 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-28-2020 0.20974 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-28-2020 0.28476 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-28-2020 68.94 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-28-2020 9.27 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-28-2020 2.7255 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-28-2020 9.64 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-28-2020 141.45 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-28-2020 4.34 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-28-2020 104.91 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-28-2020 27.53 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-28-2020 10.533 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-28-2020 6.0108 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-28-2020 3.9951 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-28-2020 13.078 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020 74.847 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020 32.727 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020 18.762 U/L
-Observation Body temperature 11-29-2020 39.501 Cel
-Observation Respiratory rate 11-29-2020 20.174 /min
-Observation Heart rate 11-29-2020 149.2 /min
-Observation Oxygen saturation in Arterial blood 11-29-2020 81.88 %
+Observation Body Weight 11-28-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-28-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-28-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-28-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-28-2020
+Observation MCV [Entitic volume] by Automated count 11-28-2020
+Observation MCH [Entitic mass] by Automated count 11-28-2020
+Observation MCHC [Mass/volume] by Automated count 11-28-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-28-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-28-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-28-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-28-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-28-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-28-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-28-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-28-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-28-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-28-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-28-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-28-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-28-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-28-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-28-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-28-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-28-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-28-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-28-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-28-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-28-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-28-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-28-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-28-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020
+Observation Body temperature 11-29-2020
+Observation Respiratory rate 11-29-2020
+Observation Heart rate 11-29-2020
+Observation Oxygen saturation in Arterial blood 11-29-2020
 Observation Blood Pressure 11-29-2020
-Observation Body Weight 11-29-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-29-2020 3.6424 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-29-2020 4.6507 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-29-2020 13.967 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-29-2020 39.563 %
-Observation MCV [Entitic volume] by Automated count 11-29-2020 90.136 fL
-Observation MCH [Entitic mass] by Automated count 11-29-2020 29.22 pg
-Observation MCHC [Mass/volume] by Automated count 11-29-2020 33.13 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-29-2020 13.837 %
-Observation Platelets [#/volume] in Blood by Automated count 11-29-2020 106.91 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-29-2020 30.047 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-29-2020 6.7331 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-29-2020 7.113 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-29-2020 5.4075 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-29-2020 3.5998 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-29-2020 1.5697 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-29-2020 0.80039 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-29-2020 0.66851 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-29-2020 0.30157 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-29-2020 0.22878 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-29-2020 68.94 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-29-2020 9.27 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-29-2020 2.7148 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-29-2020 9.64 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-29-2020 141.45 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-29-2020 4.34 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-29-2020 104.91 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-29-2020 27.53 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-29-2020 9.4084 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-29-2020 7.2808 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-29-2020 3.6398 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-29-2020 12.312 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020 83.494 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020 37.005 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020 15.761 U/L
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-29-2020 0.44212 ug/mL
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-29-2020 515.53 ug/L
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-29-2020 2.1569 pg/mL
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-29-2020 243.23 U/L
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020 16.592 U/L
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-29-2020 9.3442 mg/L
-Observation Prothrombin time (PT) 11-29-2020 11.535 s
-Observation INR in Platelet poor plasma by Coagulation assay 11-29-2020 2.5211 {INR}
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-29-2020 0.10573 ng/mL
-Observation Body temperature 11-30-2020 39.663 Cel
-Observation Respiratory rate 11-30-2020 37.142 /min
-Observation Heart rate 11-30-2020 140.24 /min
-Observation Oxygen saturation in Arterial blood 11-30-2020 88.89 %
+Observation Body Weight 11-29-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-29-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-29-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-29-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-29-2020
+Observation MCV [Entitic volume] by Automated count 11-29-2020
+Observation MCH [Entitic mass] by Automated count 11-29-2020
+Observation MCHC [Mass/volume] by Automated count 11-29-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-29-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-29-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-29-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-29-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-29-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-29-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-29-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-29-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-29-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-29-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-29-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-29-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-29-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-29-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-29-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-29-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-29-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020
+Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-29-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-29-2020
+Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-29-2020
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020
+Observation C reactive protein [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Prothrombin time (PT) 11-29-2020
+Observation INR in Platelet poor plasma by Coagulation assay 11-29-2020
+Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-29-2020
+Observation Body temperature 11-30-2020
+Observation Respiratory rate 11-30-2020
+Observation Heart rate 11-30-2020
+Observation Oxygen saturation in Arterial blood 11-30-2020
 Observation Blood Pressure 11-30-2020
-Observation Body Weight 11-30-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 11-30-2020 3.1934 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-30-2020 4.8637 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 11-30-2020 13.217 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-30-2020 46.378 %
-Observation MCV [Entitic volume] by Automated count 11-30-2020 96.895 fL
-Observation MCH [Entitic mass] by Automated count 11-30-2020 29.586 pg
-Observation MCHC [Mass/volume] by Automated count 11-30-2020 34.398 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-30-2020 13.332 %
-Observation Platelets [#/volume] in Blood by Automated count 11-30-2020 130.62 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-30-2020 31.48 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-30-2020 11.216 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-30-2020 12.21 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-30-2020 5.5179 %
-Observation Basophils/100 leukocytes in Blood by Automated count 11-30-2020 3.6293 %
-Observation Neutrophils [#/volume] in Blood by Automated count 11-30-2020 2.5638 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-30-2020 0.9908 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 11-30-2020 0.66061 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 11-30-2020 0.37613 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 11-30-2020 0.22876 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 11-30-2020 68.94 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-30-2020 9.27 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-30-2020 2.9785 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 11-30-2020 9.64 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 11-30-2020 141.45 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 11-30-2020 4.34 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 11-30-2020 104.91 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-30-2020 27.53 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-30-2020 6.1624 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 11-30-2020 6.4591 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 11-30-2020 4.8008 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-30-2020 7.1455 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020 109.22 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020 32.734 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020 34.065 U/L
-Observation Body temperature 12-01-2020 39.15 Cel
-Observation Respiratory rate 12-01-2020 39.602 /min
-Observation Heart rate 12-01-2020 181.45 /min
-Observation Oxygen saturation in Arterial blood 12-01-2020 75.32 %
+Observation Body Weight 11-30-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 11-30-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 11-30-2020
+Observation Hemoglobin [Mass/volume] in Blood 11-30-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-30-2020
+Observation MCV [Entitic volume] by Automated count 11-30-2020
+Observation MCH [Entitic mass] by Automated count 11-30-2020
+Observation MCHC [Mass/volume] by Automated count 11-30-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 11-30-2020
+Observation Platelets [#/volume] in Blood by Automated count 11-30-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 11-30-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-30-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 11-30-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 11-30-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 11-30-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 11-30-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 11-30-2020
+Observation Monocytes [#/volume] in Blood by Automated count 11-30-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 11-30-2020
+Observation Basophils [#/volume] in Blood by Automated count 11-30-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 11-30-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-30-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 11-30-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 11-30-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 11-30-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 11-30-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 11-30-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-30-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 11-30-2020
+Observation Protein [Mass/volume] in Serum or Plasma 11-30-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 11-30-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-30-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020
+Observation Body temperature 12-01-2020
+Observation Respiratory rate 12-01-2020
+Observation Heart rate 12-01-2020
+Observation Oxygen saturation in Arterial blood 12-01-2020
 Observation Blood Pressure 12-01-2020
-Observation Body Weight 12-01-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 12-01-2020 3.1435 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 12-01-2020 3.8584 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 12-01-2020 11.823 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 12-01-2020 40.05 %
-Observation MCV [Entitic volume] by Automated count 12-01-2020 88.347 fL
-Observation MCH [Entitic mass] by Automated count 12-01-2020 27.185 pg
-Observation MCHC [Mass/volume] by Automated count 12-01-2020 33.323 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 12-01-2020 12.578 %
-Observation Platelets [#/volume] in Blood by Automated count 12-01-2020 124.51 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 12-01-2020 10.981 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-01-2020 7.3852 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 12-01-2020 14.581 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 12-01-2020 3.4749 %
-Observation Basophils/100 leukocytes in Blood by Automated count 12-01-2020 2.1498 %
-Observation Neutrophils [#/volume] in Blood by Automated count 12-01-2020 2.0499 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 12-01-2020 1.0317 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 12-01-2020 0.57223 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 12-01-2020 0.32755 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 12-01-2020 0.33669 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 12-01-2020 68.94 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-01-2020 9.27 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 12-01-2020 2.6115 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 12-01-2020 9.64 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 12-01-2020 141.45 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 12-01-2020 4.34 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 12-01-2020 104.91 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-01-2020 27.53 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 12-01-2020 13.478 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 12-01-2020 6.8246 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 12-01-2020 4.4954 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-01-2020 12.392 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020 114.06 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020 21.631 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020 5.548 U/L
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 12-01-2020 0.57242 ug/mL
-Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020 578.9 ug/L
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020 3.6879 pg/mL
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 12-01-2020 288.49 U/L
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020 18.926 U/L
-Observation C reactive protein [Mass/volume] in Serum or Plasma 12-01-2020 8.4925 mg/L
-Observation Prothrombin time (PT) 12-01-2020 10.94 s
-Observation INR in Platelet poor plasma by Coagulation assay 12-01-2020 2.0055 {INR}
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 12-01-2020 0.12617 ng/mL
-Observation Body temperature 12-02-2020 40.424 Cel
-Observation Respiratory rate 12-02-2020 23.465 /min
-Observation Heart rate 12-02-2020 120.49 /min
-Observation Oxygen saturation in Arterial blood 12-02-2020 84.91 %
+Observation Body Weight 12-01-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 12-01-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 12-01-2020
+Observation Hemoglobin [Mass/volume] in Blood 12-01-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 12-01-2020
+Observation MCV [Entitic volume] by Automated count 12-01-2020
+Observation MCH [Entitic mass] by Automated count 12-01-2020
+Observation MCHC [Mass/volume] by Automated count 12-01-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 12-01-2020
+Observation Platelets [#/volume] in Blood by Automated count 12-01-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 12-01-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-01-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 12-01-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 12-01-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 12-01-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 12-01-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 12-01-2020
+Observation Monocytes [#/volume] in Blood by Automated count 12-01-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 12-01-2020
+Observation Basophils [#/volume] in Blood by Automated count 12-01-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 12-01-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 12-01-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 12-01-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-01-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 12-01-2020
+Observation Protein [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
+Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 12-01-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020
+Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 12-01-2020
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
+Observation C reactive protein [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Prothrombin time (PT) 12-01-2020
+Observation INR in Platelet poor plasma by Coagulation assay 12-01-2020
+Observation Procalcitonin [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Body temperature 12-02-2020
+Observation Respiratory rate 12-02-2020
+Observation Heart rate 12-02-2020
+Observation Oxygen saturation in Arterial blood 12-02-2020
 Observation Blood Pressure 12-02-2020
-Observation Body Weight 12-02-2020 62.8 kg
-Observation Leukocytes [#/volume] in Blood by Automated count 12-02-2020 3.6532 10*3/uL
-Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020 5.0315 10*6/uL
-Observation Hemoglobin [Mass/volume] in Blood 12-02-2020 11.907 g/dL
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 12-02-2020 43.91 %
-Observation MCV [Entitic volume] by Automated count 12-02-2020 90.196 fL
-Observation MCH [Entitic mass] by Automated count 12-02-2020 32.499 pg
-Observation MCHC [Mass/volume] by Automated count 12-02-2020 32.646 g/dL
-Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020 15.312 %
-Observation Platelets [#/volume] in Blood by Automated count 12-02-2020 120.68 10*3/uL
-Observation Neutrophils/100 leukocytes in Blood by Automated count 12-02-2020 31.617 %
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-02-2020 6.1509 %
-Observation Monocytes/100 leukocytes in Blood by Automated count 12-02-2020 5.8895 %
-Observation Eosinophils/100 leukocytes in Blood by Automated count 12-02-2020 5.1196 %
-Observation Basophils/100 leukocytes in Blood by Automated count 12-02-2020 2.8739 %
-Observation Neutrophils [#/volume] in Blood by Automated count 12-02-2020 3.1447 10*3/uL
-Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020 1.0569 10*3/uL
-Observation Monocytes [#/volume] in Blood by Automated count 12-02-2020 0.71445 10*3/uL
-Observation Eosinophils [#/volume] in Blood by Automated count 12-02-2020 0.57196 10*3/uL
-Observation Basophils [#/volume] in Blood by Automated count 12-02-2020 0.30353 10*3/uL
-Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020 75.5 mg/dL
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-02-2020 18.82 mg/dL
-Observation Creatinine [Mass/volume] in Serum or Plasma 12-02-2020 2.8464 mg/dL
-Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020 9.66 mg/dL
-Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020 140.85 mmol/L
-Observation Potassium [Moles/volume] in Serum or Plasma 12-02-2020 4.84 mmol/L
-Observation Chloride [Moles/volume] in Serum or Plasma 12-02-2020 109.06 mmol/L
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020 27.29 mmol/L
-Observation Glomerular filtration rate/1.73 sq M.predicted 12-02-2020 11.005 mL/min
-Observation Protein [Mass/volume] in Serum or Plasma 12-02-2020 6.6054 g/dL
-Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020 4.1817 g/dL
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-02-2020 10.04 mg/dL
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020 78.806 U/L
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020 39.672 U/L
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020 34.976 U/L
-Observation Body temperature 12-02-2020 37.024 Cel
+Observation Body Weight 12-02-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Hemoglobin [Mass/volume] in Blood 12-02-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 12-02-2020
+Observation MCV [Entitic volume] by Automated count 12-02-2020
+Observation MCH [Entitic mass] by Automated count 12-02-2020
+Observation MCHC [Mass/volume] by Automated count 12-02-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020
+Observation Platelets [#/volume] in Blood by Automated count 12-02-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 12-02-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Monocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 12-02-2020
+Observation Basophils [#/volume] in Blood by Automated count 12-02-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 12-02-2020
+Observation Protein [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Observation Body temperature 12-02-2020
 Observation SARS-CoV-2 RNA Pnl Resp NAA+probe 12-02-2020
-Observation Body temperature 12-03-2020 36.94 Cel
+Observation Body temperature 12-03-2020
 Observation SARS-CoV-2 RNA Pnl Resp NAA+probe 12-03-2020
 Procedure Plain chest X-ray (procedure) 11-21-2020
 Procedure Oxygen administration by mask (procedure) 11-21-2020
@@ -826,18 +826,18 @@ Procedure Placing subject in prone position (procedure) 12-02-2020
 Encounter General examination of patient (procedure) 09-08-2021
 Condition Full-time employment (finding) 09-08-2021
 Condition Stress (finding) 09-08-2021
-Observation Body Height 09-08-2021 173.9 cm
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-08-2021 1 {score}
-Observation Body Weight 09-08-2021 64.2 kg
-Observation Body Mass Index 09-08-2021 21.24 kg/m2
+Observation Body Height 09-08-2021
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-08-2021
+Observation Body Weight 09-08-2021
+Observation Body Mass Index 09-08-2021
 Observation Blood Pressure 09-08-2021
-Observation Heart rate 09-08-2021 80 /min
-Observation Respiratory rate 09-08-2021 15 /min
+Observation Heart rate 09-08-2021
+Observation Respiratory rate 09-08-2021
 Observation Tobacco smoking status NHIS 09-08-2021
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-08-2021
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-08-2021 3 {score}
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021 1 {score}
-Observation Total score [AUDIT-C] 09-08-2021 0 {score}
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-08-2021
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021
+Observation Total score [AUDIT-C] 09-08-2021
 Procedure Assessment of health and social care needs (procedure) 09-08-2021
 Procedure Assessment of anxiety (procedure) 09-08-2021
 Procedure Depression screening (procedure) 09-08-2021

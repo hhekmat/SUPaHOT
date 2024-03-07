@@ -1,2 +1,0 @@
-USER: "When was my last blood pressure check?" 
-ASSISTANT: "Your last blood pressure check was on 10/15/2021 and it was 118/76."

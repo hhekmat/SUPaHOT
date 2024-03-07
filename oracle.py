@@ -1,7 +1,8 @@
 import os
+import re
 import sys
 from openai import OpenAI
-from process import global_resource_dict
+from preprocess import global_resource_dict
 
 # Initialize the OpenAI client with your API key
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
@@ -9,6 +10,8 @@ client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 def generate_oracle_response(query, relevant_data, task):
     # Customize the prompt based on the task
     if task == 1:
+        print('query, ', query)
+        print('relevant data', relevant_data)
         prompt = f"Identify relevant resources from the following list based on the query: {query}. Resources: {relevant_data}"
     elif task == 2:
         prompt = f"Summarize the following resources into 1-2 sentences each: {relevant_data}"
@@ -37,7 +40,7 @@ def generate_oracle_response(query, relevant_data, task):
 def process_files(task):
     base_dir_mapping = {1: 'queries', 2: 'task_1/oracle', 3: 'task_2/oracle'}
     relevant_data_dir_mapping = {1: 'all_resources', 2: 'task_1/oracle', 3: 'task_2/oracle'}
-    output_dir_mapping = {1: 'task_1', 2: 'task_2', 3: 'task_3'}
+    output_dir_mapping = {1: 'task_1/oracle', 2: 'task_2/oracle', 3: 'task_3/oracle'}
 
     base_dir = base_dir_mapping.get(task)
     output_dir = output_dir_mapping.get(task)
@@ -54,23 +57,25 @@ def process_files(task):
                 with open(file_path, 'r') as f:
                     lines = f.readlines()
 
-                if task != 2:  # Task 1 and 3 include a query
-                    query = lines[0].strip()
-                else:  # Task 2 does not include a query, entire file content is relevant data
-                    query = None
+                query = None if task == 2 else lines[0].strip()
 
-                # Construct the path to the relevant data file
-                relevant_data_file = os.path.join(relevant_data_dir, file)
+                # Modify filename for Task 1
+                if task == 1:
+                    # Strip the number from the filename
+                    stripped_filename = re.sub(r'\d+', '', file.split('.')[0])
+                    relevant_data_file = os.path.join(relevant_data_dir, f"{stripped_filename}resources.txt")
+                else:
+                    relevant_data_file = os.path.join(relevant_data_dir, file)
+
                 if os.path.exists(relevant_data_file):
                     with open(relevant_data_file, 'r') as f:
                         relevant_data_lines = f.readlines()
-                        if task == 2: 
-                            relevant_data = '\n'.join([global_resource_dict[line.strip()] for line in relevant_data_lines])
+                        if task == 2:
+                            relevant_data = '\n'.join([global_resource_dict.get(line.strip(), 'Resource not found for key: {}'.format(line.strip())) for line in relevant_data_lines])
                         else:
                             relevant_data = '\n'.join([line.strip() for line in relevant_data_lines])
                 else:
                     relevant_data = "No relevant data found."
-
 
                 oracle_response = generate_oracle_response(query, relevant_data, task)
 
