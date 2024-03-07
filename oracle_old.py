@@ -19,7 +19,7 @@ def generate_oracle_response(query, relevant_data):
             {"role": "user", "content": formatted_message}
         ],
         max_tokens=256,  # Ensuring the output is limited to 256 tokens
-        temperature=0.2  # A lower temperature for more deterministic outputs
+        temperature=0.01  # A lower temperature for more deterministic outputs
     )
 
     # Assuming the response format includes a list of messages, and the last message is the completion
