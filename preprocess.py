@@ -6,15 +6,23 @@ global_resource_dict = {}
 
 def parse_fhir_json(file_path):
     relevant_resources = []
+    resource_counter = {}
+    relevant_resource_types = ['allergyIntolerance', 'Condition', 'Encounter', 'Immunization', 'MedicationRequest', 'Observation', 'Procedure']
+    for rt in relevant_resource_types:
+        resource_counter[rt] = 0
     global global_resource_dict
     with open(file_path, 'r') as f:
         fhir_data = json.load(f)
         if 'entry' in fhir_data:
-            for resource in fhir_data['entry']:
-                if is_relevant(resource):
-                    label = extract_display_name_date(resource)
-                    relevant_resources.append(label) 
-                    global_resource_dict[label] = str(resource)
+            for resource in reversed(fhir_data['entry']):
+                print(is_relevant(resource))
+                (relevance, rt) = is_relevant(resource)
+                if relevance:
+                    if resource_counter[rt] < 64:
+                        label = extract_display_name_date(resource)
+                        relevant_resources.append(label) 
+                        global_resource_dict[label] = str(resource)
+                        resource_counter[rt] += 1
     return relevant_resources
 
 def is_relevant(resource):
@@ -29,16 +37,16 @@ def is_relevant(resource):
     + procedures.uniqueDisplayNames (remove duplicates, only keep most recent instance)
     '''
     relevant_resource_types = ['allergyIntolerance', 'Condition', 'Encounter', 'Immunization', 'MedicationRequest', 'Observation', 'Procedure']
-    type = resource['resource']['resourceType']
-    if type not in relevant_resource_types:
-        return False
-    elif type == 'Condition':
+    rt = resource['resource']['resourceType']
+    if rt not in relevant_resource_types:
+        return (False, rt)
+    elif rt == 'Condition':
         if resource['resource']['clinicalStatus']['coding'][0]['system'] != 'http://terminology.hl7.org/CodeSystem/condition-clinical' or resource['resource']['clinicalStatus']['coding'][0]['code'] != 'active':
-            return False
-    elif type == "MedicationRequest":
+            return (False, rt)
+    elif rt == "MedicationRequest":
         if 'medicationCodeableConcept' not in resource['resource'].keys():
-            return False
-    return True
+            return (False, rt)
+    return (True, rt)
 
 def extract_display_name_date(resource):
     '''

@@ -1,1841 +1,264 @@
-Encounter Well child visit (procedure) 05-11-1966
-Condition Risk activity involvement (finding) 05-11-1966
-Encounter General examination of patient (procedure) 05-28-1969
-Condition Received higher education (finding) 05-28-1969
-Encounter General examination of patient (procedure) 06-06-1973
-Condition Essential hypertension (disorder) 06-06-1973
-Encounter Prenatal initial visit 09-05-2001
-Condition Miscarriage in first trimester 09-05-2001
-Encounter General examination of patient (procedure) 12-01-2004
-Condition Chronic kidney disease stage 1 (disorder) 12-01-2004
-Condition Disorder of kidney due to diabetes mellitus (disorder) 12-01-2004
-Encounter General examination of patient (procedure) 12-07-2005
-Condition Chronic kidney disease stage 2 (disorder) 12-07-2005
-Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-07-2005
-Encounter Encounter for check up (procedure) 07-25-2012
-Encounter Encounter for check up (procedure) 09-26-2012
-Encounter General examination of patient (procedure) 01-16-2013
-Encounter Encounter for check up (procedure) 06-26-2013
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-26-2013
-Encounter General examination of patient (procedure) 01-22-2014
-Condition Ischemic heart disease (disorder) 01-22-2014
-Observation Glucose [Mass/volume] in Serum or Plasma 01-22-2014
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 01-22-2014
-Observation Creatinine [Mass/volume] in Serum or Plasma 01-22-2014
-Observation Calcium [Mass/volume] in Serum or Plasma 01-22-2014
-Observation Sodium [Moles/volume] in Serum or Plasma 01-22-2014
-Observation Potassium [Moles/volume] in Serum or Plasma 01-22-2014
-Observation Chloride [Moles/volume] in Serum or Plasma 01-22-2014
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 01-22-2014
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 01-22-2014
-Observation Appearance of Urine 01-22-2014
-Observation Odor of Urine 01-22-2014
-Observation Clarity of Urine 01-22-2014
-Observation Color of Urine 01-22-2014
-Observation Glucose [Mass/volume] in Urine by Test strip 01-22-2014
-Observation Glucose [Presence] in Urine by Test strip 01-22-2014
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 01-22-2014
-Observation Bilirubin.total [Presence] in Urine by Test strip 01-22-2014
-Observation Ketones [Mass/volume] in Urine by Test strip 01-22-2014
-Observation Ketones [Presence] in Urine by Test strip 01-22-2014
-Observation Specific gravity of Urine by Test strip 01-22-2014
-Observation pH of Urine by Test strip 01-22-2014
-Observation Protein [Mass/volume] in Urine by Test strip 01-22-2014
-Observation Protein [Presence] in Urine by Test strip 01-22-2014
-Observation Nitrite [Presence] in Urine by Test strip 01-22-2014
-Observation Hemoglobin [Presence] in Urine by Test strip 01-22-2014
-Observation Leukocyte esterase [Presence] in Urine by Test strip 01-22-2014
-Observation Body Height 01-22-2014
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-22-2014
-Observation Body Weight 01-22-2014
-Observation Body mass index (BMI) [Ratio] 01-22-2014
-Observation Blood pressure panel with all children optional 01-22-2014
-Observation Heart rate 01-22-2014
-Observation Respiratory rate 01-22-2014
-Observation Leukocytes [#/volume] in Blood by Automated count 01-22-2014
-Observation Erythrocytes [#/volume] in Blood by Automated count 01-22-2014
-Observation Hemoglobin [Mass/volume] in Blood 01-22-2014
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 01-22-2014
-Observation MCV [Entitic volume] by Automated count 01-22-2014
-Observation MCH [Entitic mass] by Automated count 01-22-2014
-Observation MCHC [Mass/volume] by Automated count 01-22-2014
-Observation Erythrocyte distribution width [Entitic volume] by Automated count 01-22-2014
-Observation Platelets [#/volume] in Blood by Automated count 01-22-2014
-Observation Platelet distribution width [Entitic volume] in Blood by Automated count 01-22-2014
-Observation Platelet mean volume [Entitic volume] in Blood by Automated count 01-22-2014
-Observation Tobacco smoking status 01-22-2014
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-22-2014
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 01-22-2014
-Observation Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 01-22-2014
-Procedure Medication Reconciliation (procedure) 01-22-2014
-Procedure Assessment of health and social care needs (procedure) 01-22-2014
-Procedure Depression screening (procedure) 01-22-2014
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-22-2014
-Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 01-22-2014
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-22-2014
-MedicationRequest Clopidogrel 75 MG Oral Tablet 01-29-2014
-MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014
-MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014
-MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014
-Immunization Influenza, seasonal, injectable, preservative free 01-22-2014
-Encounter Encounter for problem (procedure) 02-05-2014
-Observation Operative Status 02-05-2014
-Procedure Referral to cardiology service (procedure) 02-05-2014
-Encounter Encounter for problem (procedure) 02-11-2014
-Condition Abnormal findings diagnostic imaging heart+coronary circulat (finding) 02-11-2014
-Procedure Consultation for treatment (procedure) 02-11-2014
-Procedure Angiography of coronary artery (procedure) 02-11-2014
-Procedure Post anesthesia care management (procedure) 02-11-2014
-Procedure Referral to cardiology service (procedure) 02-11-2014
-Encounter Encounter for check up (procedure) 02-19-2014
-Observation Glucose [Mass/volume] in Serum or Plasma 02-19-2014
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 02-19-2014
-Observation Creatinine [Mass/volume] in Serum or Plasma 02-19-2014
-Observation Calcium [Mass/volume] in Serum or Plasma 02-19-2014
-Observation Sodium [Moles/volume] in Serum or Plasma 02-19-2014
-Observation Potassium [Moles/volume] in Serum or Plasma 02-19-2014
-Observation Chloride [Moles/volume] in Serum or Plasma 02-19-2014
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 02-19-2014
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 02-19-2014
-Observation Appearance of Urine 02-19-2014
-Observation Odor of Urine 02-19-2014
-Observation Clarity of Urine 02-19-2014
-Observation Color of Urine 02-19-2014
-Observation Glucose [Mass/volume] in Urine by Test strip 02-19-2014
-Observation Glucose [Presence] in Urine by Test strip 02-19-2014
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 02-19-2014
-Observation Bilirubin.total [Presence] in Urine by Test strip 02-19-2014
-Observation Ketones [Mass/volume] in Urine by Test strip 02-19-2014
-Observation Ketones [Presence] in Urine by Test strip 02-19-2014
-Observation Specific gravity of Urine by Test strip 02-19-2014
-Observation pH of Urine by Test strip 02-19-2014
-Observation Protein [Mass/volume] in Urine by Test strip 02-19-2014
-Observation Protein [Presence] in Urine by Test strip 02-19-2014
-Observation Nitrite [Presence] in Urine by Test strip 02-19-2014
-Observation Hemoglobin [Presence] in Urine by Test strip 02-19-2014
-Observation Leukocyte esterase [Presence] in Urine by Test strip 02-19-2014
-Observation Body Height 02-19-2014
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-19-2014
-Observation Body Weight 02-19-2014
-Observation Body mass index (BMI) [Ratio] 02-19-2014
-Observation Blood pressure panel with all children optional 02-19-2014
-Observation Heart rate 02-19-2014
-Observation Respiratory rate 02-19-2014
-Observation Tobacco smoking status 02-19-2014
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-19-2014
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-19-2014
-Observation Total score [DAST-10] 02-19-2014
-Procedure Assessment of health and social care needs (procedure) 02-19-2014
-Procedure Depression screening (procedure) 02-19-2014
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-19-2014
-Procedure Assessment of substance use (procedure) 02-19-2014
-Procedure Screening for drug abuse (procedure) 02-19-2014
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-19-2014
-Encounter Encounter for problem (procedure) 02-26-2014
-Procedure Percutaneous coronary intervention (procedure) 02-26-2014
-Encounter General examination of patient (procedure) 01-28-2015
-Observation Glucose [Mass/volume] in Serum or Plasma 01-28-2015
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 01-28-2015
-Observation Creatinine [Mass/volume] in Serum or Plasma 01-28-2015
-Observation Calcium [Mass/volume] in Serum or Plasma 01-28-2015
-Observation Sodium [Moles/volume] in Serum or Plasma 01-28-2015
-Observation Potassium [Moles/volume] in Serum or Plasma 01-28-2015
-Observation Chloride [Moles/volume] in Serum or Plasma 01-28-2015
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 01-28-2015
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 01-28-2015
-Observation Appearance of Urine 01-28-2015
-Observation Odor of Urine 01-28-2015
-Observation Clarity of Urine 01-28-2015
-Observation Color of Urine 01-28-2015
-Observation Glucose [Mass/volume] in Urine by Test strip 01-28-2015
-Observation Glucose [Presence] in Urine by Test strip 01-28-2015
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 01-28-2015
-Observation Bilirubin.total [Presence] in Urine by Test strip 01-28-2015
-Observation Ketones [Mass/volume] in Urine by Test strip 01-28-2015
-Observation Ketones [Presence] in Urine by Test strip 01-28-2015
-Observation Specific gravity of Urine by Test strip 01-28-2015
-Observation pH of Urine by Test strip 01-28-2015
-Observation Protein [Mass/volume] in Urine by Test strip 01-28-2015
-Observation Protein [Presence] in Urine by Test strip 01-28-2015
-Observation Nitrite [Presence] in Urine by Test strip 01-28-2015
-Observation Hemoglobin [Presence] in Urine by Test strip 01-28-2015
-Observation Leukocyte esterase [Presence] in Urine by Test strip 01-28-2015
-Observation Body Height 01-28-2015
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-28-2015
-Observation Body Weight 01-28-2015
-Observation Body mass index (BMI) [Ratio] 01-28-2015
-Observation Blood pressure panel with all children optional 01-28-2015
-Observation Heart rate 01-28-2015
-Observation Respiratory rate 01-28-2015
-Observation Cholesterol [Mass/volume] in Serum or Plasma 01-28-2015
-Observation Triglycerides 01-28-2015
-Observation Low Density Lipoprotein Cholesterol 01-28-2015
-Observation Cholesterol in HDL [Mass/volume] in Serum or Plasma 01-28-2015
-Observation Tobacco smoking status 01-28-2015
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-28-2015
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-28-2015
-Observation Total score [DAST-10] 01-28-2015
-Procedure Assessment of health and social care needs (procedure) 01-28-2015
-Procedure Assessment of anxiety (procedure) 01-28-2015
-Procedure Assessment of substance use (procedure) 01-28-2015
-Procedure Screening for drug abuse (procedure) 01-28-2015
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015
-Immunization Influenza, seasonal, injectable, preservative free 01-28-2015
-Encounter Encounter for check up (procedure) 04-15-2015
-Observation Glucose [Mass/volume] in Serum or Plasma 04-15-2015
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 04-15-2015
-Observation Creatinine [Mass/volume] in Serum or Plasma 04-15-2015
-Observation Calcium [Mass/volume] in Serum or Plasma 04-15-2015
-Observation Sodium [Moles/volume] in Serum or Plasma 04-15-2015
-Observation Potassium [Moles/volume] in Serum or Plasma 04-15-2015
-Observation Chloride [Moles/volume] in Serum or Plasma 04-15-2015
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 04-15-2015
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 04-15-2015
-Observation Appearance of Urine 04-15-2015
-Observation Odor of Urine 04-15-2015
-Observation Clarity of Urine 04-15-2015
-Observation Color of Urine 04-15-2015
-Observation Glucose [Mass/volume] in Urine by Test strip 04-15-2015
-Observation Glucose [Presence] in Urine by Test strip 04-15-2015
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 04-15-2015
-Observation Bilirubin.total [Presence] in Urine by Test strip 04-15-2015
-Observation Ketones [Mass/volume] in Urine by Test strip 04-15-2015
-Observation Ketones [Presence] in Urine by Test strip 04-15-2015
-Observation Specific gravity of Urine by Test strip 04-15-2015
-Observation pH of Urine by Test strip 04-15-2015
-Observation Protein [Mass/volume] in Urine by Test strip 04-15-2015
-Observation Protein [Presence] in Urine by Test strip 04-15-2015
-Observation Nitrite [Presence] in Urine by Test strip 04-15-2015
-Observation Hemoglobin [Presence] in Urine by Test strip 04-15-2015
-Observation Leukocyte esterase [Presence] in Urine by Test strip 04-15-2015
-Observation Body Height 04-15-2015
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-15-2015
-Observation Body Weight 04-15-2015
-Observation Body mass index (BMI) [Ratio] 04-15-2015
-Observation Blood pressure panel with all children optional 04-15-2015
-Observation Heart rate 04-15-2015
-Observation Respiratory rate 04-15-2015
-Observation Tobacco smoking status 04-15-2015
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 04-15-2015
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 04-15-2015
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 04-15-2015
-Observation Total score [AUDIT-C] 04-15-2015
-Procedure Assessment of health and social care needs (procedure) 04-15-2015
-Procedure Assessment of anxiety (procedure) 04-15-2015
-Procedure Depression screening (procedure) 04-15-2015
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 04-15-2015
-Procedure Assessment of substance use (procedure) 04-15-2015
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 04-15-2015
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-15-2015
-Encounter Encounter for check up (procedure) 11-11-2015
-Observation Glucose [Mass/volume] in Serum or Plasma 11-11-2015
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-11-2015
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-11-2015
-Observation Calcium [Mass/volume] in Serum or Plasma 11-11-2015
-Observation Sodium [Moles/volume] in Serum or Plasma 11-11-2015
-Observation Potassium [Moles/volume] in Serum or Plasma 11-11-2015
-Observation Chloride [Moles/volume] in Serum or Plasma 11-11-2015
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-11-2015
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 11-11-2015
-Observation Appearance of Urine 11-11-2015
-Observation Odor of Urine 11-11-2015
-Observation Clarity of Urine 11-11-2015
-Observation Color of Urine 11-11-2015
-Observation Glucose [Mass/volume] in Urine by Test strip 11-11-2015
-Observation Glucose [Presence] in Urine by Test strip 11-11-2015
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 11-11-2015
-Observation Bilirubin.total [Presence] in Urine by Test strip 11-11-2015
-Observation Ketones [Mass/volume] in Urine by Test strip 11-11-2015
-Observation Ketones [Presence] in Urine by Test strip 11-11-2015
-Observation Specific gravity of Urine by Test strip 11-11-2015
-Observation pH of Urine by Test strip 11-11-2015
-Observation Protein [Mass/volume] in Urine by Test strip 11-11-2015
-Observation Protein [Presence] in Urine by Test strip 11-11-2015
-Observation Nitrite [Presence] in Urine by Test strip 11-11-2015
-Observation Hemoglobin [Presence] in Urine by Test strip 11-11-2015
-Observation Leukocyte esterase [Presence] in Urine by Test strip 11-11-2015
-Observation Body Height 11-11-2015
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 11-11-2015
-Observation Body Weight 11-11-2015
-Observation Body mass index (BMI) [Ratio] 11-11-2015
-Observation Blood pressure panel with all children optional 11-11-2015
-Observation Heart rate 11-11-2015
-Observation Respiratory rate 11-11-2015
-Observation Tobacco smoking status 11-11-2015
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 11-11-2015
-Observation Total score [HARK] 11-11-2015
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 11-11-2015
-Observation Total score [DAST-10] 11-11-2015
-Procedure Medication Reconciliation (procedure) 11-11-2015
-Procedure Assessment of health and social care needs (procedure) 11-11-2015
-Procedure Screening for domestic abuse (procedure) 11-11-2015
-Procedure Depression screening (procedure) 11-11-2015
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 11-11-2015
-Procedure Assessment of substance use (procedure) 11-11-2015
-Procedure Screening for drug abuse (procedure) 11-11-2015
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2015
-Immunization Influenza, seasonal, injectable, preservative free 11-11-2015
-Encounter General examination of patient (procedure) 02-03-2016
-Observation Glucose [Mass/volume] in Serum or Plasma 02-03-2016
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 02-03-2016
-Observation Creatinine [Mass/volume] in Serum or Plasma 02-03-2016
-Observation Calcium [Mass/volume] in Serum or Plasma 02-03-2016
-Observation Sodium [Moles/volume] in Serum or Plasma 02-03-2016
-Observation Potassium [Moles/volume] in Serum or Plasma 02-03-2016
-Observation Chloride [Moles/volume] in Serum or Plasma 02-03-2016
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 02-03-2016
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 02-03-2016
-Observation Appearance of Urine 02-03-2016
-Observation Odor of Urine 02-03-2016
-Observation Clarity of Urine 02-03-2016
-Observation Color of Urine 02-03-2016
-Observation Glucose [Mass/volume] in Urine by Test strip 02-03-2016
-Observation Glucose [Presence] in Urine by Test strip 02-03-2016
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 02-03-2016
-Observation Bilirubin.total [Presence] in Urine by Test strip 02-03-2016
-Observation Ketones [Mass/volume] in Urine by Test strip 02-03-2016
-Observation Ketones [Presence] in Urine by Test strip 02-03-2016
-Observation Specific gravity of Urine by Test strip 02-03-2016
-Observation pH of Urine by Test strip 02-03-2016
-Observation Protein [Mass/volume] in Urine by Test strip 02-03-2016
-Observation Protein [Presence] in Urine by Test strip 02-03-2016
-Observation Nitrite [Presence] in Urine by Test strip 02-03-2016
-Observation Hemoglobin [Presence] in Urine by Test strip 02-03-2016
-Observation Leukocyte esterase [Presence] in Urine by Test strip 02-03-2016
-Observation Body Height 02-03-2016
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-03-2016
-Observation Body Weight 02-03-2016
-Observation Body mass index (BMI) [Ratio] 02-03-2016
-Observation Blood pressure panel with all children optional 02-03-2016
-Observation Heart rate 02-03-2016
-Observation Respiratory rate 02-03-2016
-Observation Tobacco smoking status 02-03-2016
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-03-2016
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 02-03-2016
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-03-2016
-Observation Total score [AUDIT-C] 02-03-2016
-Procedure Medication Reconciliation (procedure) 02-03-2016
-Procedure Assessment of health and social care needs (procedure) 02-03-2016
-Procedure Assessment of anxiety (procedure) 02-03-2016
-Procedure Depression screening (procedure) 02-03-2016
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-03-2016
-Procedure Assessment of substance use (procedure) 02-03-2016
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 02-03-2016
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-03-2016
-Encounter Encounter for check up (procedure) 03-09-2016
-Observation Glucose [Mass/volume] in Serum or Plasma 03-09-2016
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 03-09-2016
-Observation Creatinine [Mass/volume] in Serum or Plasma 03-09-2016
-Observation Calcium [Mass/volume] in Serum or Plasma 03-09-2016
-Observation Sodium [Moles/volume] in Serum or Plasma 03-09-2016
-Observation Potassium [Moles/volume] in Serum or Plasma 03-09-2016
-Observation Chloride [Moles/volume] in Serum or Plasma 03-09-2016
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 03-09-2016
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 03-09-2016
-Observation Appearance of Urine 03-09-2016
-Observation Odor of Urine 03-09-2016
-Observation Clarity of Urine 03-09-2016
-Observation Color of Urine 03-09-2016
-Observation Glucose [Mass/volume] in Urine by Test strip 03-09-2016
-Observation Glucose [Presence] in Urine by Test strip 03-09-2016
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-09-2016
-Observation Bilirubin.total [Presence] in Urine by Test strip 03-09-2016
-Observation Ketones [Mass/volume] in Urine by Test strip 03-09-2016
-Observation Ketones [Presence] in Urine by Test strip 03-09-2016
-Observation Specific gravity of Urine by Test strip 03-09-2016
-Observation pH of Urine by Test strip 03-09-2016
-Observation Protein [Mass/volume] in Urine by Test strip 03-09-2016
-Observation Protein [Presence] in Urine by Test strip 03-09-2016
-Observation Nitrite [Presence] in Urine by Test strip 03-09-2016
-Observation Hemoglobin [Presence] in Urine by Test strip 03-09-2016
-Observation Leukocyte esterase [Presence] in Urine by Test strip 03-09-2016
-Observation Body Height 03-09-2016
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-09-2016
-Observation Body Weight 03-09-2016
-Observation Body mass index (BMI) [Ratio] 03-09-2016
-Observation Blood pressure panel with all children optional 03-09-2016
-Observation Heart rate 03-09-2016
-Observation Respiratory rate 03-09-2016
-Observation Tobacco smoking status 03-09-2016
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 03-09-2016
-Observation Total score [DAST-10] 03-09-2016
-Procedure Assessment of health and social care needs (procedure) 03-09-2016
-Procedure Assessment of substance use (procedure) 03-09-2016
-Procedure Screening for drug abuse (procedure) 03-09-2016
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016
-Encounter Encounter for check up (procedure) 08-03-2016
-Observation Glucose [Mass/volume] in Serum or Plasma 08-03-2016
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 08-03-2016
-Observation Creatinine [Mass/volume] in Serum or Plasma 08-03-2016
-Observation Calcium [Mass/volume] in Serum or Plasma 08-03-2016
-Observation Sodium [Moles/volume] in Serum or Plasma 08-03-2016
-Observation Potassium [Moles/volume] in Serum or Plasma 08-03-2016
-Observation Chloride [Moles/volume] in Serum or Plasma 08-03-2016
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 08-03-2016
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 08-03-2016
-Observation Appearance of Urine 08-03-2016
-Observation Odor of Urine 08-03-2016
-Observation Clarity of Urine 08-03-2016
-Observation Color of Urine 08-03-2016
-Observation Glucose [Mass/volume] in Urine by Test strip 08-03-2016
-Observation Glucose [Presence] in Urine by Test strip 08-03-2016
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 08-03-2016
-Observation Bilirubin.total [Presence] in Urine by Test strip 08-03-2016
-Observation Ketones [Mass/volume] in Urine by Test strip 08-03-2016
-Observation Ketones [Presence] in Urine by Test strip 08-03-2016
-Observation Specific gravity of Urine by Test strip 08-03-2016
-Observation pH of Urine by Test strip 08-03-2016
-Observation Protein [Mass/volume] in Urine by Test strip 08-03-2016
-Observation Protein [Presence] in Urine by Test strip 08-03-2016
-Observation Nitrite [Presence] in Urine by Test strip 08-03-2016
-Observation Hemoglobin [Presence] in Urine by Test strip 08-03-2016
-Observation Leukocyte esterase [Presence] in Urine by Test strip 08-03-2016
-Observation Body Height 08-03-2016
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-03-2016
-Observation Body Weight 08-03-2016
-Observation Body mass index (BMI) [Ratio] 08-03-2016
-Observation Blood pressure panel with all children optional 08-03-2016
-Observation Heart rate 08-03-2016
-Observation Respiratory rate 08-03-2016
-Observation Tobacco smoking status 08-03-2016
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-03-2016
-Observation Fall risk total [Morse Fall Scale] 08-03-2016
-Observation Fall risk level [Morse Fall Scale] 08-03-2016
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-03-2016
-Observation Total score [AUDIT-C] 08-03-2016
-Procedure Assessment of health and social care needs (procedure) 08-03-2016
-Procedure Assessment using Morse Fall Scale (procedure) 08-03-2016
-Procedure Depression screening (procedure) 08-03-2016
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-03-2016
-Procedure Assessment of substance use (procedure) 08-03-2016
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-03-2016
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2016
-Immunization Pneumococcal conjugate PCV 13 08-03-2016
-Encounter General examination of patient (procedure) 02-08-2017
-Condition Has a criminal record (finding) 02-08-2017
-Observation Glucose [Mass/volume] in Serum or Plasma 02-08-2017
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 02-08-2017
-Observation Creatinine [Mass/volume] in Serum or Plasma 02-08-2017
-Observation Calcium [Mass/volume] in Serum or Plasma 02-08-2017
-Observation Sodium [Moles/volume] in Serum or Plasma 02-08-2017
-Observation Potassium [Moles/volume] in Serum or Plasma 02-08-2017
-Observation Chloride [Moles/volume] in Serum or Plasma 02-08-2017
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 02-08-2017
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 02-08-2017
-Observation Appearance of Urine 02-08-2017
-Observation Odor of Urine 02-08-2017
-Observation Clarity of Urine 02-08-2017
-Observation Color of Urine 02-08-2017
-Observation Glucose [Mass/volume] in Urine by Test strip 02-08-2017
-Observation Glucose [Presence] in Urine by Test strip 02-08-2017
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 02-08-2017
-Observation Bilirubin.total [Presence] in Urine by Test strip 02-08-2017
-Observation Ketones [Mass/volume] in Urine by Test strip 02-08-2017
-Observation Ketones [Presence] in Urine by Test strip 02-08-2017
-Observation Specific gravity of Urine by Test strip 02-08-2017
-Observation pH of Urine by Test strip 02-08-2017
-Observation Protein [Mass/volume] in Urine by Test strip 02-08-2017
-Observation Protein [Presence] in Urine by Test strip 02-08-2017
-Observation Nitrite [Presence] in Urine by Test strip 02-08-2017
-Observation Hemoglobin [Presence] in Urine by Test strip 02-08-2017
-Observation Leukocyte esterase [Presence] in Urine by Test strip 02-08-2017
-Observation Body Height 02-08-2017
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-08-2017
-Observation Body Weight 02-08-2017
-Observation Body mass index (BMI) [Ratio] 02-08-2017
-Observation Blood pressure panel with all children optional 02-08-2017
-Observation Heart rate 02-08-2017
-Observation Respiratory rate 02-08-2017
-Observation Tobacco smoking status 02-08-2017
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-08-2017
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 02-08-2017
-Observation Fall risk total [Morse Fall Scale] 02-08-2017
-Observation Fall risk level [Morse Fall Scale] 02-08-2017
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-08-2017
-Observation Total score [AUDIT-C] 02-08-2017
-Procedure Assessment of health and social care needs (procedure) 02-08-2017
-Procedure Assessment of anxiety (procedure) 02-08-2017
-Procedure Assessment using Morse Fall Scale (procedure) 02-08-2017
-Procedure Depression screening (procedure) 02-08-2017
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-08-2017
-Procedure Assessment of substance use (procedure) 02-08-2017
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 02-08-2017
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-08-2017
-Immunization Influenza, seasonal, injectable, preservative free 02-08-2017
-Encounter General examination of patient (procedure) 02-14-2018
-Observation Glucose [Mass/volume] in Serum or Plasma 02-14-2018
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 02-14-2018
-Observation Creatinine [Mass/volume] in Serum or Plasma 02-14-2018
-Observation Calcium [Mass/volume] in Serum or Plasma 02-14-2018
-Observation Sodium [Moles/volume] in Serum or Plasma 02-14-2018
-Observation Potassium [Moles/volume] in Serum or Plasma 02-14-2018
-Observation Chloride [Moles/volume] in Serum or Plasma 02-14-2018
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 02-14-2018
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 02-14-2018
-Observation Appearance of Urine 02-14-2018
-Observation Odor of Urine 02-14-2018
-Observation Clarity of Urine 02-14-2018
-Observation Color of Urine 02-14-2018
-Observation Glucose [Mass/volume] in Urine by Test strip 02-14-2018
-Observation Glucose [Presence] in Urine by Test strip 02-14-2018
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 02-14-2018
-Observation Bilirubin.total [Presence] in Urine by Test strip 02-14-2018
-Observation Ketones [Mass/volume] in Urine by Test strip 02-14-2018
-Observation Ketones [Presence] in Urine by Test strip 02-14-2018
-Observation Specific gravity of Urine by Test strip 02-14-2018
-Observation pH of Urine by Test strip 02-14-2018
-Observation Protein [Mass/volume] in Urine by Test strip 02-14-2018
-Observation Protein [Presence] in Urine by Test strip 02-14-2018
-Observation Nitrite [Presence] in Urine by Test strip 02-14-2018
-Observation Hemoglobin [Presence] in Urine by Test strip 02-14-2018
-Observation Leukocyte esterase [Presence] in Urine by Test strip 02-14-2018
-Observation Body Height 02-14-2018
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-14-2018
-Observation Body Weight 02-14-2018
-Observation Body mass index (BMI) [Ratio] 02-14-2018
-Observation Blood pressure panel with all children optional 02-14-2018
-Observation Heart rate 02-14-2018
-Observation Respiratory rate 02-14-2018
-Observation Cholesterol [Mass/volume] in Serum or Plasma 02-14-2018
-Observation Triglycerides 02-14-2018
-Observation Low Density Lipoprotein Cholesterol 02-14-2018
-Observation Cholesterol in HDL [Mass/volume] in Serum or Plasma 02-14-2018
-Observation Tobacco smoking status 02-14-2018
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-14-2018
-Observation Fall risk total [Morse Fall Scale] 02-14-2018
-Observation Fall risk level [Morse Fall Scale] 02-14-2018
-Observation Total score [HARK] 02-14-2018
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-14-2018
-Observation Total score [AUDIT-C] 02-14-2018
-Procedure Medication Reconciliation (procedure) 02-14-2018
-Procedure Assessment of health and social care needs (procedure) 02-14-2018
-Procedure Assessment using Morse Fall Scale (procedure) 02-14-2018
-Procedure Screening for domestic abuse (procedure) 02-14-2018
-Procedure Depression screening (procedure) 02-14-2018
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-14-2018
-Procedure Assessment of substance use (procedure) 02-14-2018
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 02-14-2018
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-14-2018
-Immunization Influenza, seasonal, injectable, preservative free 02-14-2018
-Immunization pneumococcal polysaccharide vaccine, 23 valent 02-14-2018
-Encounter Encounter for check up (procedure) 08-29-2018
-Condition Chronic kidney disease stage 3 (disorder) 08-29-2018
-Condition Proteinuria due to type 2 diabetes mellitus (disorder) 08-29-2018
-Observation Glucose [Mass/volume] in Serum or Plasma 08-29-2018
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 08-29-2018
-Observation Creatinine [Mass/volume] in Serum or Plasma 08-29-2018
-Observation Calcium [Mass/volume] in Serum or Plasma 08-29-2018
-Observation Sodium [Moles/volume] in Serum or Plasma 08-29-2018
-Observation Potassium [Moles/volume] in Serum or Plasma 08-29-2018
-Observation Chloride [Moles/volume] in Serum or Plasma 08-29-2018
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 08-29-2018
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 08-29-2018
-Observation Appearance of Urine 08-29-2018
-Observation Odor of Urine 08-29-2018
-Observation Clarity of Urine 08-29-2018
-Observation Color of Urine 08-29-2018
-Observation Glucose [Mass/volume] in Urine by Test strip 08-29-2018
-Observation Glucose [Presence] in Urine by Test strip 08-29-2018
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 08-29-2018
-Observation Bilirubin.total [Presence] in Urine by Test strip 08-29-2018
-Observation Ketones [Mass/volume] in Urine by Test strip 08-29-2018
-Observation Ketones [Presence] in Urine by Test strip 08-29-2018
-Observation Specific gravity of Urine by Test strip 08-29-2018
-Observation pH of Urine by Test strip 08-29-2018
-Observation Protein [Mass/volume] in Urine by Test strip 08-29-2018
-Observation Protein [Presence] in Urine by Test strip 08-29-2018
-Observation Nitrite [Presence] in Urine by Test strip 08-29-2018
-Observation Hemoglobin [Presence] in Urine by Test strip 08-29-2018
-Observation Leukocyte esterase [Presence] in Urine by Test strip 08-29-2018
-Observation Body Height 08-29-2018
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-29-2018
-Observation Body Weight 08-29-2018
-Observation Body mass index (BMI) [Ratio] 08-29-2018
-Observation Blood pressure panel with all children optional 08-29-2018
-Observation Heart rate 08-29-2018
-Observation Respiratory rate 08-29-2018
-Observation Tobacco smoking status 08-29-2018
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-29-2018
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-29-2018
-Observation Fall risk total [Morse Fall Scale] 08-29-2018
-Observation Fall risk level [Morse Fall Scale] 08-29-2018
-Observation Total score [HARK] 08-29-2018
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-29-2018
-Procedure Assessment of health and social care needs (procedure) 08-29-2018
-Procedure Assessment of anxiety (procedure) 08-29-2018
-Procedure Assessment using Morse Fall Scale (procedure) 08-29-2018
-Procedure Screening for domestic abuse (procedure) 08-29-2018
-Procedure Depression screening (procedure) 08-29-2018
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-29-2018
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-29-2018
-Encounter Encounter for check up (procedure) 01-23-2019
-Observation Glucose [Mass/volume] in Serum or Plasma 01-23-2019
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 01-23-2019
-Observation Creatinine [Mass/volume] in Serum or Plasma 01-23-2019
-Observation Calcium [Mass/volume] in Serum or Plasma 01-23-2019
-Observation Sodium [Moles/volume] in Serum or Plasma 01-23-2019
-Observation Potassium [Moles/volume] in Serum or Plasma 01-23-2019
-Observation Chloride [Moles/volume] in Serum or Plasma 01-23-2019
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 01-23-2019
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 01-23-2019
-Observation Appearance of Urine 01-23-2019
-Observation Odor of Urine 01-23-2019
-Observation Clarity of Urine 01-23-2019
-Observation Color of Urine 01-23-2019
-Observation Glucose [Mass/volume] in Urine by Test strip 01-23-2019
-Observation Glucose [Presence] in Urine by Test strip 01-23-2019
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 01-23-2019
-Observation Bilirubin.total [Presence] in Urine by Test strip 01-23-2019
-Observation Ketones [Mass/volume] in Urine by Test strip 01-23-2019
-Observation Ketones [Presence] in Urine by Test strip 01-23-2019
-Observation Specific gravity of Urine by Test strip 01-23-2019
-Observation pH of Urine by Test strip 01-23-2019
-Observation Protein [Mass/volume] in Urine by Test strip 01-23-2019
-Observation Protein [Presence] in Urine by Test strip 01-23-2019
-Observation Nitrite [Presence] in Urine by Test strip 01-23-2019
-Observation Hemoglobin [Presence] in Urine by Test strip 01-23-2019
-Observation Leukocyte esterase [Presence] in Urine by Test strip 01-23-2019
-Observation Body Height 01-23-2019
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-23-2019
-Observation Body Weight 01-23-2019
-Observation Body mass index (BMI) [Ratio] 01-23-2019
-Observation Blood pressure panel with all children optional 01-23-2019
-Observation Heart rate 01-23-2019
-Observation Respiratory rate 01-23-2019
-Observation Leukocytes [#/volume] in Blood by Automated count 01-23-2019
-Observation Erythrocytes [#/volume] in Blood by Automated count 01-23-2019
-Observation Hemoglobin [Mass/volume] in Blood 01-23-2019
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 01-23-2019
-Observation MCV [Entitic volume] by Automated count 01-23-2019
-Observation MCH [Entitic mass] by Automated count 01-23-2019
-Observation MCHC [Mass/volume] by Automated count 01-23-2019
-Observation Erythrocyte distribution width [Entitic volume] by Automated count 01-23-2019
-Observation Platelets [#/volume] in Blood by Automated count 01-23-2019
-Observation Platelet distribution width [Entitic volume] in Blood by Automated count 01-23-2019
-Observation Platelet mean volume [Entitic volume] in Blood by Automated count 01-23-2019
-Observation Tobacco smoking status 01-23-2019
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-23-2019
-Observation Fall risk total [Morse Fall Scale] 01-23-2019
-Observation Fall risk level [Morse Fall Scale] 01-23-2019
-Observation Total score [DAST-10] 01-23-2019
-Procedure Assessment of health and social care needs (procedure) 01-23-2019
-Procedure Assessment using Morse Fall Scale (procedure) 01-23-2019
-Procedure Assessment of substance use (procedure) 01-23-2019
-Procedure Screening for drug abuse (procedure) 01-23-2019
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-23-2019
-Immunization Influenza, seasonal, injectable, preservative free 01-23-2019
-Encounter General examination of patient (procedure) 02-20-2019
-Observation Glucose [Mass/volume] in Serum or Plasma 02-20-2019
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 02-20-2019
-Observation Creatinine [Mass/volume] in Serum or Plasma 02-20-2019
-Observation Calcium [Mass/volume] in Serum or Plasma 02-20-2019
-Observation Sodium [Moles/volume] in Serum or Plasma 02-20-2019
-Observation Potassium [Moles/volume] in Serum or Plasma 02-20-2019
-Observation Chloride [Moles/volume] in Serum or Plasma 02-20-2019
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 02-20-2019
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 02-20-2019
-Observation Appearance of Urine 02-20-2019
-Observation Odor of Urine 02-20-2019
-Observation Clarity of Urine 02-20-2019
-Observation Color of Urine 02-20-2019
-Observation Glucose [Mass/volume] in Urine by Test strip 02-20-2019
-Observation Glucose [Presence] in Urine by Test strip 02-20-2019
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 02-20-2019
-Observation Bilirubin.total [Presence] in Urine by Test strip 02-20-2019
-Observation Ketones [Mass/volume] in Urine by Test strip 02-20-2019
-Observation Ketones [Presence] in Urine by Test strip 02-20-2019
-Observation Specific gravity of Urine by Test strip 02-20-2019
-Observation pH of Urine by Test strip 02-20-2019
-Observation Protein [Mass/volume] in Urine by Test strip 02-20-2019
-Observation Protein [Presence] in Urine by Test strip 02-20-2019
-Observation Nitrite [Presence] in Urine by Test strip 02-20-2019
-Observation Hemoglobin [Presence] in Urine by Test strip 02-20-2019
-Observation Leukocyte esterase [Presence] in Urine by Test strip 02-20-2019
-Observation Body Height 02-20-2019
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-20-2019
-Observation Body Weight 02-20-2019
-Observation Body mass index (BMI) [Ratio] 02-20-2019
-Observation Blood pressure panel with all children optional 02-20-2019
-Observation Heart rate 02-20-2019
-Observation Respiratory rate 02-20-2019
-Observation Tobacco smoking status 02-20-2019
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-20-2019
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 02-20-2019
-Observation Fall risk total [Morse Fall Scale] 02-20-2019
-Observation Fall risk level [Morse Fall Scale] 02-20-2019
-Procedure Assessment of health and social care needs (procedure) 02-20-2019
-Procedure Assessment of anxiety (procedure) 02-20-2019
-Procedure Assessment using Morse Fall Scale (procedure) 02-20-2019
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-20-2019
-Encounter Encounter for check up (procedure) 03-27-2019
-Observation Glucose [Mass/volume] in Serum or Plasma 03-27-2019
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 03-27-2019
-Observation Creatinine [Mass/volume] in Serum or Plasma 03-27-2019
-Observation Calcium [Mass/volume] in Serum or Plasma 03-27-2019
-Observation Sodium [Moles/volume] in Serum or Plasma 03-27-2019
-Observation Potassium [Moles/volume] in Serum or Plasma 03-27-2019
-Observation Chloride [Moles/volume] in Serum or Plasma 03-27-2019
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 03-27-2019
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 03-27-2019
-Observation Appearance of Urine 03-27-2019
-Observation Odor of Urine 03-27-2019
-Observation Clarity of Urine 03-27-2019
-Observation Color of Urine 03-27-2019
-Observation Glucose [Mass/volume] in Urine by Test strip 03-27-2019
-Observation Glucose [Presence] in Urine by Test strip 03-27-2019
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-27-2019
-Observation Bilirubin.total [Presence] in Urine by Test strip 03-27-2019
-Observation Ketones [Mass/volume] in Urine by Test strip 03-27-2019
-Observation Ketones [Presence] in Urine by Test strip 03-27-2019
-Observation Specific gravity of Urine by Test strip 03-27-2019
-Observation pH of Urine by Test strip 03-27-2019
-Observation Protein [Mass/volume] in Urine by Test strip 03-27-2019
-Observation Protein [Presence] in Urine by Test strip 03-27-2019
-Observation Nitrite [Presence] in Urine by Test strip 03-27-2019
-Observation Hemoglobin [Presence] in Urine by Test strip 03-27-2019
-Observation Leukocyte esterase [Presence] in Urine by Test strip 03-27-2019
-Observation Body Height 03-27-2019
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-27-2019
-Observation Body Weight 03-27-2019
-Observation Body mass index (BMI) [Ratio] 03-27-2019
-Observation Blood pressure panel with all children optional 03-27-2019
-Observation Heart rate 03-27-2019
-Observation Respiratory rate 03-27-2019
-Observation Tobacco smoking status 03-27-2019
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 03-27-2019
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-27-2019
-Observation Fall risk total [Morse Fall Scale] 03-27-2019
-Observation Fall risk level [Morse Fall Scale] 03-27-2019
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 03-27-2019
-Observation Total score [AUDIT-C] 03-27-2019
-Procedure Medication Reconciliation (procedure) 03-27-2019
-Procedure Assessment of health and social care needs (procedure) 03-27-2019
-Procedure Assessment of anxiety (procedure) 03-27-2019
-Procedure Assessment using Morse Fall Scale (procedure) 03-27-2019
-Procedure Depression screening (procedure) 03-27-2019
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 03-27-2019
-Procedure Assessment of substance use (procedure) 03-27-2019
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-27-2019
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019
-Encounter Encounter for check up (procedure) 05-22-2019
-Observation Glucose [Mass/volume] in Serum or Plasma 05-22-2019
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 05-22-2019
-Observation Creatinine [Mass/volume] in Serum or Plasma 05-22-2019
-Observation Calcium [Mass/volume] in Serum or Plasma 05-22-2019
-Observation Sodium [Moles/volume] in Serum or Plasma 05-22-2019
-Observation Potassium [Moles/volume] in Serum or Plasma 05-22-2019
-Observation Chloride [Moles/volume] in Serum or Plasma 05-22-2019
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 05-22-2019
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 05-22-2019
-Observation Appearance of Urine 05-22-2019
-Observation Odor of Urine 05-22-2019
-Observation Clarity of Urine 05-22-2019
-Observation Color of Urine 05-22-2019
-Observation Glucose [Mass/volume] in Urine by Test strip 05-22-2019
-Observation Glucose [Presence] in Urine by Test strip 05-22-2019
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 05-22-2019
-Observation Bilirubin.total [Presence] in Urine by Test strip 05-22-2019
-Observation Ketones [Mass/volume] in Urine by Test strip 05-22-2019
-Observation Ketones [Presence] in Urine by Test strip 05-22-2019
-Observation Specific gravity of Urine by Test strip 05-22-2019
-Observation pH of Urine by Test strip 05-22-2019
-Observation Protein [Mass/volume] in Urine by Test strip 05-22-2019
-Observation Protein [Presence] in Urine by Test strip 05-22-2019
-Observation Nitrite [Presence] in Urine by Test strip 05-22-2019
-Observation Hemoglobin [Presence] in Urine by Test strip 05-22-2019
-Observation Leukocyte esterase [Presence] in Urine by Test strip 05-22-2019
-Observation Body Height 05-22-2019
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 05-22-2019
-Observation Body Weight 05-22-2019
-Observation Body mass index (BMI) [Ratio] 05-22-2019
-Observation Blood pressure panel with all children optional 05-22-2019
-Observation Heart rate 05-22-2019
-Observation Respiratory rate 05-22-2019
-Observation Tobacco smoking status 05-22-2019
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 05-22-2019
-Observation Fall risk total [Morse Fall Scale] 05-22-2019
-Observation Fall risk level [Morse Fall Scale] 05-22-2019
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 05-22-2019
-Observation Total score [AUDIT-C] 05-22-2019
-Procedure Assessment of health and social care needs (procedure) 05-22-2019
-Procedure Assessment using Morse Fall Scale (procedure) 05-22-2019
-Procedure Depression screening (procedure) 05-22-2019
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 05-22-2019
-Procedure Assessment of substance use (procedure) 05-22-2019
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 05-22-2019
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019
-Encounter Encounter for check up (procedure) 09-18-2019
-Observation Glucose [Mass/volume] in Serum or Plasma 09-18-2019
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 09-18-2019
-Observation Creatinine [Mass/volume] in Serum or Plasma 09-18-2019
-Observation Calcium [Mass/volume] in Serum or Plasma 09-18-2019
-Observation Sodium [Moles/volume] in Serum or Plasma 09-18-2019
-Observation Potassium [Moles/volume] in Serum or Plasma 09-18-2019
-Observation Chloride [Moles/volume] in Serum or Plasma 09-18-2019
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-18-2019
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 09-18-2019
-Observation Appearance of Urine 09-18-2019
-Observation Odor of Urine 09-18-2019
-Observation Clarity of Urine 09-18-2019
-Observation Color of Urine 09-18-2019
-Observation Glucose [Mass/volume] in Urine by Test strip 09-18-2019
-Observation Glucose [Presence] in Urine by Test strip 09-18-2019
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 09-18-2019
-Observation Bilirubin.total [Presence] in Urine by Test strip 09-18-2019
-Observation Ketones [Mass/volume] in Urine by Test strip 09-18-2019
-Observation Ketones [Presence] in Urine by Test strip 09-18-2019
-Observation Specific gravity of Urine by Test strip 09-18-2019
-Observation pH of Urine by Test strip 09-18-2019
-Observation Protein [Mass/volume] in Urine by Test strip 09-18-2019
-Observation Protein [Presence] in Urine by Test strip 09-18-2019
-Observation Nitrite [Presence] in Urine by Test strip 09-18-2019
-Observation Hemoglobin [Presence] in Urine by Test strip 09-18-2019
-Observation Leukocyte esterase [Presence] in Urine by Test strip 09-18-2019
-Observation Body Height 09-18-2019
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-18-2019
-Observation Body Weight 09-18-2019
-Observation Body mass index (BMI) [Ratio] 09-18-2019
-Observation Blood pressure panel with all children optional 09-18-2019
-Observation Heart rate 09-18-2019
-Observation Respiratory rate 09-18-2019
-Observation Tobacco smoking status 09-18-2019
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-18-2019
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-18-2019
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-18-2019
-Observation Total score [DAST-10] 09-18-2019
-Procedure Medication Reconciliation (procedure) 09-18-2019
-Procedure Assessment of health and social care needs (procedure) 09-18-2019
-Procedure Assessment of anxiety (procedure) 09-18-2019
-Procedure Depression screening (procedure) 09-18-2019
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-18-2019
-Procedure Assessment of substance use (procedure) 09-18-2019
-Procedure Screening for drug abuse (procedure) 09-18-2019
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-18-2019
-Encounter General examination of patient (procedure) 02-26-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 02-26-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 02-26-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 02-26-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 02-26-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 02-26-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 02-26-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 02-26-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 02-26-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 02-26-2020
-Observation Appearance of Urine 02-26-2020
-Observation Odor of Urine 02-26-2020
-Observation Clarity of Urine 02-26-2020
-Observation Color of Urine 02-26-2020
-Observation Glucose [Mass/volume] in Urine by Test strip 02-26-2020
-Observation Glucose [Presence] in Urine by Test strip 02-26-2020
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 02-26-2020
-Observation Bilirubin.total [Presence] in Urine by Test strip 02-26-2020
-Observation Ketones [Mass/volume] in Urine by Test strip 02-26-2020
-Observation Ketones [Presence] in Urine by Test strip 02-26-2020
-Observation Specific gravity of Urine by Test strip 02-26-2020
-Observation pH of Urine by Test strip 02-26-2020
-Observation Protein [Mass/volume] in Urine by Test strip 02-26-2020
-Observation Protein [Presence] in Urine by Test strip 02-26-2020
-Observation Nitrite [Presence] in Urine by Test strip 02-26-2020
-Observation Hemoglobin [Presence] in Urine by Test strip 02-26-2020
-Observation Leukocyte esterase [Presence] in Urine by Test strip 02-26-2020
-Observation Body Height 02-26-2020
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-26-2020
-Observation Body Weight 02-26-2020
-Observation Body mass index (BMI) [Ratio] 02-26-2020
-Observation Blood pressure panel with all children optional 02-26-2020
-Observation Heart rate 02-26-2020
-Observation Respiratory rate 02-26-2020
-Observation Tobacco smoking status 02-26-2020
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-26-2020
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 02-26-2020
-Observation Fall risk total [Morse Fall Scale] 02-26-2020
-Observation Fall risk level [Morse Fall Scale] 02-26-2020
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-26-2020
-Observation Total score [AUDIT-C] 02-26-2020
-Procedure Assessment of health and social care needs (procedure) 02-26-2020
-Procedure Assessment of anxiety (procedure) 02-26-2020
-Procedure Assessment using Morse Fall Scale (procedure) 02-26-2020
-Procedure Depression screening (procedure) 02-26-2020
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-26-2020
-Procedure Assessment of substance use (procedure) 02-26-2020
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 02-26-2020
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-26-2020
-Immunization Influenza, seasonal, injectable, preservative free 02-26-2020
-Encounter Emergency room admission (procedure) 07-02-2020
-MedicationRequest Naproxen sodium 220 MG Oral Tablet 07-02-2020
-Encounter Encounter for check up (procedure) 07-15-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 07-15-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 07-15-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 07-15-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 07-15-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 07-15-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 07-15-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 07-15-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 07-15-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 07-15-2020
-Observation Appearance of Urine 07-15-2020
-Observation Odor of Urine 07-15-2020
-Observation Clarity of Urine 07-15-2020
-Observation Color of Urine 07-15-2020
-Observation Glucose [Mass/volume] in Urine by Test strip 07-15-2020
-Observation Glucose [Presence] in Urine by Test strip 07-15-2020
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 07-15-2020
-Observation Bilirubin.total [Presence] in Urine by Test strip 07-15-2020
-Observation Ketones [Mass/volume] in Urine by Test strip 07-15-2020
-Observation Ketones [Presence] in Urine by Test strip 07-15-2020
-Observation Specific gravity of Urine by Test strip 07-15-2020
-Observation pH of Urine by Test strip 07-15-2020
-Observation Protein [Mass/volume] in Urine by Test strip 07-15-2020
-Observation Protein [Presence] in Urine by Test strip 07-15-2020
-Observation Nitrite [Presence] in Urine by Test strip 07-15-2020
-Observation Hemoglobin [Presence] in Urine by Test strip 07-15-2020
-Observation Leukocyte esterase [Presence] in Urine by Test strip 07-15-2020
-Observation Body Height 07-15-2020
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-15-2020
-Observation Body Weight 07-15-2020
-Observation Body mass index (BMI) [Ratio] 07-15-2020
-Observation Blood pressure panel with all children optional 07-15-2020
-Observation Heart rate 07-15-2020
-Observation Respiratory rate 07-15-2020
-Observation Tobacco smoking status 07-15-2020
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-15-2020
-Observation Fall risk total [Morse Fall Scale] 07-15-2020
-Observation Fall risk level [Morse Fall Scale] 07-15-2020
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-15-2020
-Observation Total score [AUDIT-C] 07-15-2020
-Procedure Assessment of health and social care needs (procedure) 07-15-2020
-Procedure Assessment using Morse Fall Scale (procedure) 07-15-2020
-Procedure Depression screening (procedure) 07-15-2020
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-15-2020
-Procedure Assessment of substance use (procedure) 07-15-2020
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-15-2020
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020
-Encounter Encounter for check up (procedure) 11-11-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-11-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-11-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-11-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-11-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-11-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-11-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-11-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-11-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 11-11-2020
-Observation Appearance of Urine 11-11-2020
-Observation Odor of Urine 11-11-2020
-Observation Clarity of Urine 11-11-2020
-Observation Color of Urine 11-11-2020
-Observation Glucose [Mass/volume] in Urine by Test strip 11-11-2020
-Observation Glucose [Presence] in Urine by Test strip 11-11-2020
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 11-11-2020
-Observation Bilirubin.total [Presence] in Urine by Test strip 11-11-2020
-Observation Ketones [Mass/volume] in Urine by Test strip 11-11-2020
-Observation Ketones [Presence] in Urine by Test strip 11-11-2020
-Observation Specific gravity of Urine by Test strip 11-11-2020
-Observation pH of Urine by Test strip 11-11-2020
-Observation Protein [Mass/volume] in Urine by Test strip 11-11-2020
-Observation Protein [Presence] in Urine by Test strip 11-11-2020
-Observation Nitrite [Presence] in Urine by Test strip 11-11-2020
-Observation Hemoglobin [Presence] in Urine by Test strip 11-11-2020
-Observation Leukocyte esterase [Presence] in Urine by Test strip 11-11-2020
-Observation Body Height 11-11-2020
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 11-11-2020
-Observation Body Weight 11-11-2020
-Observation Body mass index (BMI) [Ratio] 11-11-2020
-Observation Blood pressure panel with all children optional 11-11-2020
-Observation Heart rate 11-11-2020
-Observation Respiratory rate 11-11-2020
-Observation Tobacco smoking status 11-11-2020
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 11-11-2020
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 11-11-2020
-Observation Fall risk total [Morse Fall Scale] 11-11-2020
-Observation Fall risk level [Morse Fall Scale] 11-11-2020
-Observation Total score [HARK] 11-11-2020
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 11-11-2020
-Observation Total score [DAST-10] 11-11-2020
-Procedure Assessment of health and social care needs (procedure) 11-11-2020
-Procedure Assessment of anxiety (procedure) 11-11-2020
-Procedure Assessment using Morse Fall Scale (procedure) 11-11-2020
-Procedure Screening for domestic abuse (procedure) 11-11-2020
-Procedure Depression screening (procedure) 11-11-2020
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 11-11-2020
-Procedure Assessment of substance use (procedure) 11-11-2020
-Procedure Screening for drug abuse (procedure) 11-11-2020
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2020
-Immunization Influenza, seasonal, injectable, preservative free 11-11-2020
-Encounter Encounter for check up (procedure) 12-16-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 12-16-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-16-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 12-16-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 12-16-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 12-16-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 12-16-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 12-16-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-16-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 12-16-2020
-Observation Appearance of Urine 12-16-2020
-Observation Odor of Urine 12-16-2020
-Observation Clarity of Urine 12-16-2020
-Observation Color of Urine 12-16-2020
-Observation Glucose [Mass/volume] in Urine by Test strip 12-16-2020
-Observation Glucose [Presence] in Urine by Test strip 12-16-2020
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 12-16-2020
-Observation Bilirubin.total [Presence] in Urine by Test strip 12-16-2020
-Observation Ketones [Mass/volume] in Urine by Test strip 12-16-2020
-Observation Ketones [Presence] in Urine by Test strip 12-16-2020
-Observation Specific gravity of Urine by Test strip 12-16-2020
-Observation pH of Urine by Test strip 12-16-2020
-Observation Protein [Mass/volume] in Urine by Test strip 12-16-2020
-Observation Protein [Presence] in Urine by Test strip 12-16-2020
-Observation Nitrite [Presence] in Urine by Test strip 12-16-2020
-Observation Hemoglobin [Presence] in Urine by Test strip 12-16-2020
-Observation Leukocyte esterase [Presence] in Urine by Test strip 12-16-2020
-Observation Body Height 12-16-2020
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-16-2020
-Observation Body Weight 12-16-2020
-Observation Body mass index (BMI) [Ratio] 12-16-2020
-Observation Blood pressure panel with all children optional 12-16-2020
-Observation Heart rate 12-16-2020
-Observation Respiratory rate 12-16-2020
-Observation Tobacco smoking status 12-16-2020
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 12-16-2020
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-16-2020
-Observation Total score [DAST-10] 12-16-2020
-Procedure Medication Reconciliation (procedure) 12-16-2020
-Procedure Assessment of health and social care needs (procedure) 12-16-2020
-Procedure Depression screening (procedure) 12-16-2020
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-16-2020
-Procedure Assessment of substance use (procedure) 12-16-2020
-Procedure Screening for drug abuse (procedure) 12-16-2020
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-16-2020
-Encounter General examination of patient (procedure) 03-03-2021
-Observation Glucose [Mass/volume] in Serum or Plasma 03-03-2021
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 03-03-2021
-Observation Creatinine [Mass/volume] in Serum or Plasma 03-03-2021
-Observation Calcium [Mass/volume] in Serum or Plasma 03-03-2021
-Observation Sodium [Moles/volume] in Serum or Plasma 03-03-2021
-Observation Potassium [Moles/volume] in Serum or Plasma 03-03-2021
-Observation Chloride [Moles/volume] in Serum or Plasma 03-03-2021
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 03-03-2021
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 03-03-2021
-Observation Appearance of Urine 03-03-2021
-Observation Odor of Urine 03-03-2021
-Observation Clarity of Urine 03-03-2021
-Observation Color of Urine 03-03-2021
-Observation Glucose [Mass/volume] in Urine by Test strip 03-03-2021
-Observation Glucose [Presence] in Urine by Test strip 03-03-2021
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-03-2021
-Observation Bilirubin.total [Presence] in Urine by Test strip 03-03-2021
-Observation Ketones [Mass/volume] in Urine by Test strip 03-03-2021
-Observation Ketones [Presence] in Urine by Test strip 03-03-2021
-Observation Specific gravity of Urine by Test strip 03-03-2021
-Observation pH of Urine by Test strip 03-03-2021
-Observation Protein [Mass/volume] in Urine by Test strip 03-03-2021
-Observation Protein [Presence] in Urine by Test strip 03-03-2021
-Observation Nitrite [Presence] in Urine by Test strip 03-03-2021
-Observation Hemoglobin [Presence] in Urine by Test strip 03-03-2021
-Observation Leukocyte esterase [Presence] in Urine by Test strip 03-03-2021
-Observation Body Height 03-03-2021
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-03-2021
-Observation Body Weight 03-03-2021
-Observation Body mass index (BMI) [Ratio] 03-03-2021
-Observation Blood pressure panel with all children optional 03-03-2021
-Observation Heart rate 03-03-2021
-Observation Respiratory rate 03-03-2021
-Observation Cholesterol [Mass/volume] in Serum or Plasma 03-03-2021
-Observation Triglycerides 03-03-2021
-Observation Low Density Lipoprotein Cholesterol 03-03-2021
-Observation Cholesterol in HDL [Mass/volume] in Serum or Plasma 03-03-2021
-Observation Tobacco smoking status 03-03-2021
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 03-03-2021
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-03-2021
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 03-03-2021
-Observation Total score [AUDIT-C] 03-03-2021
-Procedure Assessment of health and social care needs (procedure) 03-03-2021
-Procedure Assessment of anxiety (procedure) 03-03-2021
-Procedure Depression screening (procedure) 03-03-2021
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 03-03-2021
-Procedure Assessment of substance use (procedure) 03-03-2021
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-03-2021
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2021
-Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-03-2021
-Encounter Encounter for check up (procedure) 03-10-2021
-Observation Glucose [Mass/volume] in Serum or Plasma 03-10-2021
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 03-10-2021
-Observation Creatinine [Mass/volume] in Serum or Plasma 03-10-2021
-Observation Calcium [Mass/volume] in Serum or Plasma 03-10-2021
-Observation Sodium [Moles/volume] in Serum or Plasma 03-10-2021
-Observation Potassium [Moles/volume] in Serum or Plasma 03-10-2021
-Observation Chloride [Moles/volume] in Serum or Plasma 03-10-2021
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 03-10-2021
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 03-10-2021
-Observation Appearance of Urine 03-10-2021
-Observation Odor of Urine 03-10-2021
-Observation Clarity of Urine 03-10-2021
-Observation Color of Urine 03-10-2021
-Observation Glucose [Mass/volume] in Urine by Test strip 03-10-2021
-Observation Glucose [Presence] in Urine by Test strip 03-10-2021
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-10-2021
-Observation Bilirubin.total [Presence] in Urine by Test strip 03-10-2021
-Observation Ketones [Mass/volume] in Urine by Test strip 03-10-2021
-Observation Ketones [Presence] in Urine by Test strip 03-10-2021
-Observation Specific gravity of Urine by Test strip 03-10-2021
-Observation pH of Urine by Test strip 03-10-2021
-Observation Protein [Mass/volume] in Urine by Test strip 03-10-2021
-Observation Protein [Presence] in Urine by Test strip 03-10-2021
-Observation Nitrite [Presence] in Urine by Test strip 03-10-2021
-Observation Hemoglobin [Presence] in Urine by Test strip 03-10-2021
-Observation Leukocyte esterase [Presence] in Urine by Test strip 03-10-2021
-Procedure Medication Reconciliation (procedure) 03-10-2021
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2021
-Encounter Administration of vaccine to produce active immunity (procedure) 03-24-2021
-Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-24-2021
-Encounter Encounter for check up (procedure) 04-14-2021
-Observation Glucose [Mass/volume] in Serum or Plasma 04-14-2021
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 04-14-2021
-Observation Creatinine [Mass/volume] in Serum or Plasma 04-14-2021
-Observation Calcium [Mass/volume] in Serum or Plasma 04-14-2021
-Observation Sodium [Moles/volume] in Serum or Plasma 04-14-2021
-Observation Potassium [Moles/volume] in Serum or Plasma 04-14-2021
-Observation Chloride [Moles/volume] in Serum or Plasma 04-14-2021
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 04-14-2021
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 04-14-2021
-Observation Appearance of Urine 04-14-2021
-Observation Odor of Urine 04-14-2021
-Observation Clarity of Urine 04-14-2021
-Observation Color of Urine 04-14-2021
-Observation Glucose [Mass/volume] in Urine by Test strip 04-14-2021
-Observation Glucose [Presence] in Urine by Test strip 04-14-2021
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 04-14-2021
-Observation Bilirubin.total [Presence] in Urine by Test strip 04-14-2021
-Observation Ketones [Mass/volume] in Urine by Test strip 04-14-2021
-Observation Ketones [Presence] in Urine by Test strip 04-14-2021
-Observation Specific gravity of Urine by Test strip 04-14-2021
-Observation pH of Urine by Test strip 04-14-2021
-Observation Protein [Mass/volume] in Urine by Test strip 04-14-2021
-Observation Protein [Presence] in Urine by Test strip 04-14-2021
-Observation Nitrite [Presence] in Urine by Test strip 04-14-2021
-Observation Hemoglobin [Presence] in Urine by Test strip 04-14-2021
-Observation Leukocyte esterase [Presence] in Urine by Test strip 04-14-2021
-Observation Body Height 04-14-2021
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-14-2021
-Observation Body Weight 04-14-2021
-Observation Body mass index (BMI) [Ratio] 04-14-2021
-Observation Blood pressure panel with all children optional 04-14-2021
-Observation Heart rate 04-14-2021
-Observation Respiratory rate 04-14-2021
-Observation Tobacco smoking status 04-14-2021
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 04-14-2021
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 04-14-2021
-Observation Total score [HARK] 04-14-2021
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 04-14-2021
-Observation Total score [AUDIT-C] 04-14-2021
-Procedure Medication Reconciliation (procedure) 04-14-2021
-Procedure Assessment of health and social care needs (procedure) 04-14-2021
-Procedure Assessment of anxiety (procedure) 04-14-2021
-Procedure Screening for domestic abuse (procedure) 04-14-2021
-Procedure Depression screening (procedure) 04-14-2021
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 04-14-2021
-Procedure Assessment of substance use (procedure) 04-14-2021
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 04-14-2021
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021
-Encounter Encounter for check up (procedure) 08-11-2021
-Observation Glucose [Mass/volume] in Serum or Plasma 08-11-2021
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 08-11-2021
-Observation Creatinine [Mass/volume] in Serum or Plasma 08-11-2021
-Observation Calcium [Mass/volume] in Serum or Plasma 08-11-2021
-Observation Sodium [Moles/volume] in Serum or Plasma 08-11-2021
-Observation Potassium [Moles/volume] in Serum or Plasma 08-11-2021
-Observation Chloride [Moles/volume] in Serum or Plasma 08-11-2021
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 08-11-2021
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 08-11-2021
-Observation Appearance of Urine 08-11-2021
-Observation Odor of Urine 08-11-2021
-Observation Clarity of Urine 08-11-2021
-Observation Color of Urine 08-11-2021
-Observation Glucose [Mass/volume] in Urine by Test strip 08-11-2021
-Observation Glucose [Presence] in Urine by Test strip 08-11-2021
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 08-11-2021
-Observation Bilirubin.total [Presence] in Urine by Test strip 08-11-2021
-Observation Ketones [Mass/volume] in Urine by Test strip 08-11-2021
-Observation Ketones [Presence] in Urine by Test strip 08-11-2021
-Observation Specific gravity of Urine by Test strip 08-11-2021
-Observation pH of Urine by Test strip 08-11-2021
-Observation Protein [Mass/volume] in Urine by Test strip 08-11-2021
-Observation Protein [Presence] in Urine by Test strip 08-11-2021
-Observation Nitrite [Presence] in Urine by Test strip 08-11-2021
-Observation Hemoglobin [Presence] in Urine by Test strip 08-11-2021
-Observation Leukocyte esterase [Presence] in Urine by Test strip 08-11-2021
-Observation Body Height 08-11-2021
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-11-2021
-Observation Body Weight 08-11-2021
-Observation Body mass index (BMI) [Ratio] 08-11-2021
-Observation Blood pressure panel with all children optional 08-11-2021
-Observation Heart rate 08-11-2021
-Observation Respiratory rate 08-11-2021
-Observation Tobacco smoking status 08-11-2021
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-11-2021
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-11-2021
-Observation Fall risk total [Morse Fall Scale] 08-11-2021
-Observation Fall risk level [Morse Fall Scale] 08-11-2021
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-11-2021
-Observation Total score [AUDIT-C] 08-11-2021
-Procedure Medication Reconciliation (procedure) 08-11-2021
-Procedure Assessment of health and social care needs (procedure) 08-11-2021
-Procedure Assessment of anxiety (procedure) 08-11-2021
-Procedure Assessment using Morse Fall Scale (procedure) 08-11-2021
-Procedure Depression screening (procedure) 08-11-2021
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-11-2021
-Procedure Assessment of substance use (procedure) 08-11-2021
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-11-2021
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-11-2021
-Encounter Encounter for check up (procedure) 10-06-2021
-Observation Glucose [Mass/volume] in Serum or Plasma 10-06-2021
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 10-06-2021
-Observation Creatinine [Mass/volume] in Serum or Plasma 10-06-2021
-Observation Calcium [Mass/volume] in Serum or Plasma 10-06-2021
-Observation Sodium [Moles/volume] in Serum or Plasma 10-06-2021
-Observation Potassium [Moles/volume] in Serum or Plasma 10-06-2021
-Observation Chloride [Moles/volume] in Serum or Plasma 10-06-2021
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 10-06-2021
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 10-06-2021
-Observation Appearance of Urine 10-06-2021
-Observation Odor of Urine 10-06-2021
-Observation Clarity of Urine 10-06-2021
-Observation Color of Urine 10-06-2021
-Observation Glucose [Mass/volume] in Urine by Test strip 10-06-2021
-Observation Glucose [Presence] in Urine by Test strip 10-06-2021
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 10-06-2021
-Observation Bilirubin.total [Presence] in Urine by Test strip 10-06-2021
-Observation Ketones [Mass/volume] in Urine by Test strip 10-06-2021
-Observation Ketones [Presence] in Urine by Test strip 10-06-2021
-Observation Specific gravity of Urine by Test strip 10-06-2021
-Observation pH of Urine by Test strip 10-06-2021
-Observation Protein [Mass/volume] in Urine by Test strip 10-06-2021
-Observation Protein [Presence] in Urine by Test strip 10-06-2021
-Observation Nitrite [Presence] in Urine by Test strip 10-06-2021
-Observation Hemoglobin [Presence] in Urine by Test strip 10-06-2021
-Observation Leukocyte esterase [Presence] in Urine by Test strip 10-06-2021
-Observation Body Height 10-06-2021
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 10-06-2021
-Observation Body Weight 10-06-2021
-Observation Body mass index (BMI) [Ratio] 10-06-2021
-Observation Blood pressure panel with all children optional 10-06-2021
-Observation Heart rate 10-06-2021
-Observation Respiratory rate 10-06-2021
-Observation Tobacco smoking status 10-06-2021
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 10-06-2021
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 10-06-2021
-Observation Fall risk total [Morse Fall Scale] 10-06-2021
-Observation Fall risk level [Morse Fall Scale] 10-06-2021
-Observation Total score [HARK] 10-06-2021
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 10-06-2021
-Observation Total score [AUDIT-C] 10-06-2021
-Procedure Medication Reconciliation (procedure) 10-06-2021
-Procedure Assessment of health and social care needs (procedure) 10-06-2021
-Procedure Assessment of anxiety (procedure) 10-06-2021
-Procedure Assessment using Morse Fall Scale (procedure) 10-06-2021
-Procedure Screening for domestic abuse (procedure) 10-06-2021
-Procedure Depression screening (procedure) 10-06-2021
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 10-06-2021
-Procedure Assessment of substance use (procedure) 10-06-2021
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 10-06-2021
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021
-Immunization Influenza, seasonal, injectable, preservative free 10-06-2021
-Encounter Emergency room admission (procedure) 12-22-2021
-Observation Glucose [Mass/volume] in Serum or Plasma 12-22-2021
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-22-2021
-Observation Creatinine [Mass/volume] in Serum or Plasma 12-22-2021
-Observation Calcium [Mass/volume] in Serum or Plasma 12-22-2021
-Observation Sodium [Moles/volume] in Serum or Plasma 12-22-2021
-Observation Potassium [Moles/volume] in Serum or Plasma 12-22-2021
-Observation Chloride [Moles/volume] in Serum or Plasma 12-22-2021
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-22-2021
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 12-22-2021
-Observation Appearance of Urine 12-22-2021
-Observation Odor of Urine 12-22-2021
-Observation Clarity of Urine 12-22-2021
-Observation Color of Urine 12-22-2021
-Observation Glucose [Mass/volume] in Urine by Test strip 12-22-2021
-Observation Glucose [Presence] in Urine by Test strip 12-22-2021
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 12-22-2021
-Observation Bilirubin.total [Presence] in Urine by Test strip 12-22-2021
-Observation Ketones [Mass/volume] in Urine by Test strip 12-22-2021
-Observation Ketones [Presence] in Urine by Test strip 12-22-2021
-Observation Specific gravity of Urine by Test strip 12-22-2021
-Observation pH of Urine by Test strip 12-22-2021
-Observation Protein [Mass/volume] in Urine by Test strip 12-22-2021
-Observation Protein [Presence] in Urine by Test strip 12-22-2021
-Observation Nitrite [Presence] in Urine by Test strip 12-22-2021
-Observation Hemoglobin [Presence] in Urine by Test strip 12-22-2021
-Observation Leukocyte esterase [Presence] in Urine by Test strip 12-22-2021
-Observation Body Height 12-22-2021
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-22-2021
-Observation Body Weight 12-22-2021
-Observation Body mass index (BMI) [Ratio] 12-22-2021
-Observation Blood pressure panel with all children optional 12-22-2021
-Observation Heart rate 12-22-2021
-Observation Respiratory rate 12-22-2021
-Observation Tobacco smoking status 12-22-2021
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 12-22-2021
-Observation Fall risk total [Morse Fall Scale] 12-22-2021
-Observation Fall risk level [Morse Fall Scale] 12-22-2021
-Observation Total score [AUDIT-C] 12-22-2021
-Procedure Assessment of health and social care needs (procedure) 12-22-2021
-Procedure Assessment using Morse Fall Scale (procedure) 12-22-2021
-Procedure Assessment of substance use (procedure) 12-22-2021
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-22-2021
-Encounter Urgent care clinic (environment) 12-29-2021
-Observation Glucose [Mass/volume] in Serum or Plasma 12-29-2021
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-29-2021
-Observation Creatinine [Mass/volume] in Serum or Plasma 12-29-2021
-Observation Calcium [Mass/volume] in Serum or Plasma 12-29-2021
-Observation Sodium [Moles/volume] in Serum or Plasma 12-29-2021
-Observation Potassium [Moles/volume] in Serum or Plasma 12-29-2021
-Observation Chloride [Moles/volume] in Serum or Plasma 12-29-2021
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-29-2021
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 12-29-2021
-Observation Appearance of Urine 12-29-2021
-Observation Odor of Urine 12-29-2021
-Observation Clarity of Urine 12-29-2021
-Observation Color of Urine 12-29-2021
-Observation Glucose [Mass/volume] in Urine by Test strip 12-29-2021
-Observation Glucose [Presence] in Urine by Test strip 12-29-2021
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 12-29-2021
-Observation Bilirubin.total [Presence] in Urine by Test strip 12-29-2021
-Observation Ketones [Mass/volume] in Urine by Test strip 12-29-2021
-Observation Ketones [Presence] in Urine by Test strip 12-29-2021
-Observation Specific gravity of Urine by Test strip 12-29-2021
-Observation pH of Urine by Test strip 12-29-2021
-Observation Protein [Mass/volume] in Urine by Test strip 12-29-2021
-Observation Protein [Presence] in Urine by Test strip 12-29-2021
-Observation Nitrite [Presence] in Urine by Test strip 12-29-2021
-Observation Hemoglobin [Presence] in Urine by Test strip 12-29-2021
-Observation Leukocyte esterase [Presence] in Urine by Test strip 12-29-2021
-Procedure Medication Reconciliation (procedure) 12-29-2021
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-29-2021
-Encounter Urgent care clinic (environment) 01-05-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 01-05-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 01-05-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 01-05-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 01-05-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 01-05-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 01-05-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 01-05-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 01-05-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 01-05-2022
-Observation Appearance of Urine 01-05-2022
-Observation Odor of Urine 01-05-2022
-Observation Clarity of Urine 01-05-2022
-Observation Color of Urine 01-05-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 01-05-2022
-Observation Glucose [Presence] in Urine by Test strip 01-05-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 01-05-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 01-05-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 01-05-2022
-Observation Ketones [Presence] in Urine by Test strip 01-05-2022
-Observation Specific gravity of Urine by Test strip 01-05-2022
-Observation pH of Urine by Test strip 01-05-2022
-Observation Protein [Mass/volume] in Urine by Test strip 01-05-2022
-Observation Protein [Presence] in Urine by Test strip 01-05-2022
-Observation Nitrite [Presence] in Urine by Test strip 01-05-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 01-05-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 01-05-2022
-Observation Body Height 01-05-2022
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-05-2022
-Observation Body Weight 01-05-2022
-Observation Body mass index (BMI) [Ratio] 01-05-2022
-Observation Blood pressure panel with all children optional 01-05-2022
-Observation Heart rate 01-05-2022
-Observation Respiratory rate 01-05-2022
-Observation Tobacco smoking status 01-05-2022
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-05-2022
-Observation Fall risk total [Morse Fall Scale] 01-05-2022
-Observation Fall risk level [Morse Fall Scale] 01-05-2022
-Observation Total score [HARK] 01-05-2022
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 01-05-2022
-Procedure Assessment of health and social care needs (procedure) 01-05-2022
-Procedure Assessment using Morse Fall Scale (procedure) 01-05-2022
-Procedure Screening for domestic abuse (procedure) 01-05-2022
-Procedure Depression screening (procedure) 01-05-2022
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-05-2022
-Encounter Encounter for check up (procedure) 01-12-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 01-12-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 01-12-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 01-12-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 01-12-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 01-12-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 01-12-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 01-12-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 01-12-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 01-12-2022
-Observation Appearance of Urine 01-12-2022
-Observation Odor of Urine 01-12-2022
-Observation Clarity of Urine 01-12-2022
-Observation Color of Urine 01-12-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 01-12-2022
-Observation Glucose [Presence] in Urine by Test strip 01-12-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 01-12-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 01-12-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 01-12-2022
-Observation Ketones [Presence] in Urine by Test strip 01-12-2022
-Observation Specific gravity of Urine by Test strip 01-12-2022
-Observation pH of Urine by Test strip 01-12-2022
-Observation Protein [Mass/volume] in Urine by Test strip 01-12-2022
-Observation Protein [Presence] in Urine by Test strip 01-12-2022
-Observation Nitrite [Presence] in Urine by Test strip 01-12-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 01-12-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 01-12-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-12-2022
-Encounter Encounter for symptom 01-19-2022
-MedicationRequest Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet 01-19-2022
-Encounter Urgent care clinic (environment) 02-09-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 02-09-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 02-09-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 02-09-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 02-09-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 02-09-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 02-09-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 02-09-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 02-09-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 02-09-2022
-Observation Appearance of Urine 02-09-2022
-Observation Odor of Urine 02-09-2022
-Observation Clarity of Urine 02-09-2022
-Observation Color of Urine 02-09-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 02-09-2022
-Observation Glucose [Presence] in Urine by Test strip 02-09-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 02-09-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 02-09-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 02-09-2022
-Observation Ketones [Presence] in Urine by Test strip 02-09-2022
-Observation Specific gravity of Urine by Test strip 02-09-2022
-Observation pH of Urine by Test strip 02-09-2022
-Observation Protein [Mass/volume] in Urine by Test strip 02-09-2022
-Observation Protein [Presence] in Urine by Test strip 02-09-2022
-Observation Nitrite [Presence] in Urine by Test strip 02-09-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 02-09-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 02-09-2022
-Observation Body Height 02-09-2022
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-09-2022
-Observation Body Weight 02-09-2022
-Observation Body mass index (BMI) [Ratio] 02-09-2022
-Observation Blood pressure panel with all children optional 02-09-2022
-Observation Heart rate 02-09-2022
-Observation Respiratory rate 02-09-2022
-Observation Tobacco smoking status 02-09-2022
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-09-2022
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 02-09-2022
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-09-2022
-Observation Total score [AUDIT-C] 02-09-2022
-Procedure Medication Reconciliation (procedure) 02-09-2022
-Procedure Assessment of health and social care needs (procedure) 02-09-2022
-Procedure Assessment of anxiety (procedure) 02-09-2022
-Procedure Depression screening (procedure) 02-09-2022
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2022
-Procedure Assessment of substance use (procedure) 02-09-2022
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 02-09-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-09-2022
-Encounter Encounter for check up (procedure) 02-16-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 02-16-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 02-16-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 02-16-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 02-16-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 02-16-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 02-16-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 02-16-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 02-16-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 02-16-2022
-Observation Appearance of Urine 02-16-2022
-Observation Odor of Urine 02-16-2022
-Observation Clarity of Urine 02-16-2022
-Observation Color of Urine 02-16-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 02-16-2022
-Observation Glucose [Presence] in Urine by Test strip 02-16-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 02-16-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 02-16-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 02-16-2022
-Observation Ketones [Presence] in Urine by Test strip 02-16-2022
-Observation Specific gravity of Urine by Test strip 02-16-2022
-Observation pH of Urine by Test strip 02-16-2022
-Observation Protein [Mass/volume] in Urine by Test strip 02-16-2022
-Observation Protein [Presence] in Urine by Test strip 02-16-2022
-Observation Nitrite [Presence] in Urine by Test strip 02-16-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 02-16-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 02-16-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-16-2022
-Encounter General examination of patient (procedure) 03-09-2022
-Condition Social isolation (finding) 03-09-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 03-09-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 03-09-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 03-09-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 03-09-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 03-09-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 03-09-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 03-09-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 03-09-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 03-09-2022
-Observation Appearance of Urine 03-09-2022
-Observation Odor of Urine 03-09-2022
-Observation Clarity of Urine 03-09-2022
-Observation Color of Urine 03-09-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 03-09-2022
-Observation Glucose [Presence] in Urine by Test strip 03-09-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-09-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 03-09-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 03-09-2022
-Observation Ketones [Presence] in Urine by Test strip 03-09-2022
-Observation Specific gravity of Urine by Test strip 03-09-2022
-Observation pH of Urine by Test strip 03-09-2022
-Observation Protein [Mass/volume] in Urine by Test strip 03-09-2022
-Observation Protein [Presence] in Urine by Test strip 03-09-2022
-Observation Nitrite [Presence] in Urine by Test strip 03-09-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 03-09-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 03-09-2022
-Observation Body Height 03-09-2022
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-09-2022
-Observation Body Weight 03-09-2022
-Observation Body mass index (BMI) [Ratio] 03-09-2022
-Observation Blood pressure panel with all children optional 03-09-2022
-Observation Heart rate 03-09-2022
-Observation Respiratory rate 03-09-2022
-Observation Tobacco smoking status 03-09-2022
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 03-09-2022
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 03-09-2022
-Procedure Assessment of health and social care needs (procedure) 03-09-2022
-Procedure Depression screening (procedure) 03-09-2022
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 03-09-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2022
-Encounter Encounter for check up (procedure) 06-08-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 06-08-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 06-08-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 06-08-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 06-08-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 06-08-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 06-08-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 06-08-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 06-08-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 06-08-2022
-Observation Appearance of Urine 06-08-2022
-Observation Odor of Urine 06-08-2022
-Observation Clarity of Urine 06-08-2022
-Observation Color of Urine 06-08-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 06-08-2022
-Observation Glucose [Presence] in Urine by Test strip 06-08-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 06-08-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 06-08-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 06-08-2022
-Observation Ketones [Presence] in Urine by Test strip 06-08-2022
-Observation Specific gravity of Urine by Test strip 06-08-2022
-Observation pH of Urine by Test strip 06-08-2022
-Observation Protein [Mass/volume] in Urine by Test strip 06-08-2022
-Observation Protein [Presence] in Urine by Test strip 06-08-2022
-Observation Nitrite [Presence] in Urine by Test strip 06-08-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 06-08-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 06-08-2022
-Observation Body Height 06-08-2022
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 06-08-2022
-Observation Body Weight 06-08-2022
-Observation Body mass index (BMI) [Ratio] 06-08-2022
-Observation Blood pressure panel with all children optional 06-08-2022
-Observation Heart rate 06-08-2022
-Observation Respiratory rate 06-08-2022
-Observation Tobacco smoking status 06-08-2022
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 06-08-2022
-Observation Total score [HARK] 06-08-2022
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 06-08-2022
-Observation Total score [AUDIT-C] 06-08-2022
-Procedure Assessment of health and social care needs (procedure) 06-08-2022
-Procedure Screening for domestic abuse (procedure) 06-08-2022
-Procedure Depression screening (procedure) 06-08-2022
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-08-2022
-Procedure Assessment of substance use (procedure) 06-08-2022
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 06-08-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-08-2022
-Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 06-08-2022
-Encounter Encounter for check up (procedure) 07-06-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 07-06-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 07-06-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 07-06-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 07-06-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 07-06-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 07-06-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 07-06-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 07-06-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 07-06-2022
-Observation Appearance of Urine 07-06-2022
-Observation Odor of Urine 07-06-2022
-Observation Clarity of Urine 07-06-2022
-Observation Color of Urine 07-06-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 07-06-2022
-Observation Glucose [Presence] in Urine by Test strip 07-06-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 07-06-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 07-06-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 07-06-2022
-Observation Ketones [Presence] in Urine by Test strip 07-06-2022
-Observation Specific gravity of Urine by Test strip 07-06-2022
-Observation pH of Urine by Test strip 07-06-2022
-Observation Protein [Mass/volume] in Urine by Test strip 07-06-2022
-Observation Protein [Presence] in Urine by Test strip 07-06-2022
-Observation Nitrite [Presence] in Urine by Test strip 07-06-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 07-06-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 07-06-2022
-Observation Body Height 07-06-2022
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-06-2022
-Observation Body Weight 07-06-2022
-Observation Body mass index (BMI) [Ratio] 07-06-2022
-Observation Blood pressure panel with all children optional 07-06-2022
-Observation Heart rate 07-06-2022
-Observation Respiratory rate 07-06-2022
-Observation Tobacco smoking status 07-06-2022
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-06-2022
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-06-2022
-Observation Fall risk total [Morse Fall Scale] 07-06-2022
-Observation Fall risk level [Morse Fall Scale] 07-06-2022
-Observation Total score [AUDIT-C] 07-06-2022
-Procedure Assessment of health and social care needs (procedure) 07-06-2022
-Procedure Assessment of anxiety (procedure) 07-06-2022
-Procedure Assessment using Morse Fall Scale (procedure) 07-06-2022
-Procedure Assessment of substance use (procedure) 07-06-2022
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-06-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2022
-Encounter Encounter for check up (procedure) 08-03-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 08-03-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 08-03-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 08-03-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 08-03-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 08-03-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 08-03-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 08-03-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 08-03-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 08-03-2022
-Observation Appearance of Urine 08-03-2022
-Observation Odor of Urine 08-03-2022
-Observation Clarity of Urine 08-03-2022
-Observation Color of Urine 08-03-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 08-03-2022
-Observation Glucose [Presence] in Urine by Test strip 08-03-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 08-03-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 08-03-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 08-03-2022
-Observation Ketones [Presence] in Urine by Test strip 08-03-2022
-Observation Specific gravity of Urine by Test strip 08-03-2022
-Observation pH of Urine by Test strip 08-03-2022
-Observation Protein [Mass/volume] in Urine by Test strip 08-03-2022
-Observation Protein [Presence] in Urine by Test strip 08-03-2022
-Observation Nitrite [Presence] in Urine by Test strip 08-03-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 08-03-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 08-03-2022
-Observation Body Height 08-03-2022
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-03-2022
-Observation Body Weight 08-03-2022
-Observation Body mass index (BMI) [Ratio] 08-03-2022
-Observation Blood pressure panel with all children optional 08-03-2022
-Observation Heart rate 08-03-2022
-Observation Respiratory rate 08-03-2022
-Observation Tobacco smoking status 08-03-2022
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-03-2022
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-03-2022
-Observation Fall risk total [Morse Fall Scale] 08-03-2022
-Observation Fall risk level [Morse Fall Scale] 08-03-2022
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-03-2022
-Observation Total score [AUDIT-C] 08-03-2022
-Procedure Medication Reconciliation (procedure) 08-03-2022
-Procedure Assessment of health and social care needs (procedure) 08-03-2022
-Procedure Assessment of anxiety (procedure) 08-03-2022
-Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022
-Procedure Depression screening (procedure) 08-03-2022
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-03-2022
-Procedure Assessment of substance use (procedure) 08-03-2022
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-03-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022
-Encounter Encounter for check up (procedure) 10-05-2022
-Observation Glucose [Mass/volume] in Serum or Plasma 10-05-2022
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 10-05-2022
-Observation Creatinine [Mass/volume] in Serum or Plasma 10-05-2022
-Observation Calcium [Mass/volume] in Serum or Plasma 10-05-2022
-Observation Sodium [Moles/volume] in Serum or Plasma 10-05-2022
-Observation Potassium [Moles/volume] in Serum or Plasma 10-05-2022
-Observation Chloride [Moles/volume] in Serum or Plasma 10-05-2022
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 10-05-2022
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 10-05-2022
-Observation Appearance of Urine 10-05-2022
-Observation Odor of Urine 10-05-2022
-Observation Clarity of Urine 10-05-2022
-Observation Color of Urine 10-05-2022
-Observation Glucose [Mass/volume] in Urine by Test strip 10-05-2022
-Observation Glucose [Presence] in Urine by Test strip 10-05-2022
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 10-05-2022
-Observation Bilirubin.total [Presence] in Urine by Test strip 10-05-2022
-Observation Ketones [Mass/volume] in Urine by Test strip 10-05-2022
-Observation Ketones [Presence] in Urine by Test strip 10-05-2022
-Observation Specific gravity of Urine by Test strip 10-05-2022
-Observation pH of Urine by Test strip 10-05-2022
-Observation Protein [Mass/volume] in Urine by Test strip 10-05-2022
-Observation Protein [Presence] in Urine by Test strip 10-05-2022
-Observation Nitrite [Presence] in Urine by Test strip 10-05-2022
-Observation Hemoglobin [Presence] in Urine by Test strip 10-05-2022
-Observation Leukocyte esterase [Presence] in Urine by Test strip 10-05-2022
-Observation Body Height 10-05-2022
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 10-05-2022
-Observation Body Weight 10-05-2022
-Observation Body mass index (BMI) [Ratio] 10-05-2022
-Observation Blood pressure panel with all children optional 10-05-2022
-Observation Heart rate 10-05-2022
-Observation Respiratory rate 10-05-2022
-Observation Tobacco smoking status 10-05-2022
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 10-05-2022
-Observation Fall risk total [Morse Fall Scale] 10-05-2022
-Observation Fall risk level [Morse Fall Scale] 10-05-2022
-Observation Total score [DAST-10] 10-05-2022
-Procedure Medication Reconciliation (procedure) 10-05-2022
-Procedure Assessment of health and social care needs (procedure) 10-05-2022
-Procedure Assessment using Morse Fall Scale (procedure) 10-05-2022
-Procedure Assessment of substance use (procedure) 10-05-2022
-Procedure Screening for drug abuse (procedure) 10-05-2022
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-05-2022
-Immunization Influenza, seasonal, injectable, preservative free 10-05-2022
-Encounter Encounter for check up (procedure) 01-04-2023
-Condition Full-time employment (finding) 01-04-2023
-Observation Glucose [Mass/volume] in Serum or Plasma 01-04-2023
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 01-04-2023
-Observation Creatinine [Mass/volume] in Serum or Plasma 01-04-2023
-Observation Calcium [Mass/volume] in Serum or Plasma 01-04-2023
-Observation Sodium [Moles/volume] in Serum or Plasma 01-04-2023
-Observation Potassium [Moles/volume] in Serum or Plasma 01-04-2023
-Observation Chloride [Moles/volume] in Serum or Plasma 01-04-2023
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 01-04-2023
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 01-04-2023
-Observation Appearance of Urine 01-04-2023
-Observation Odor of Urine 01-04-2023
-Observation Clarity of Urine 01-04-2023
-Observation Color of Urine 01-04-2023
-Observation Glucose [Mass/volume] in Urine by Test strip 01-04-2023
-Observation Glucose [Presence] in Urine by Test strip 01-04-2023
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 01-04-2023
-Observation Bilirubin.total [Presence] in Urine by Test strip 01-04-2023
-Observation Ketones [Mass/volume] in Urine by Test strip 01-04-2023
-Observation Ketones [Presence] in Urine by Test strip 01-04-2023
-Observation Specific gravity of Urine by Test strip 01-04-2023
-Observation pH of Urine by Test strip 01-04-2023
-Observation Protein [Mass/volume] in Urine by Test strip 01-04-2023
-Observation Protein [Presence] in Urine by Test strip 01-04-2023
-Observation Nitrite [Presence] in Urine by Test strip 01-04-2023
-Observation Hemoglobin [Presence] in Urine by Test strip 01-04-2023
-Observation Leukocyte esterase [Presence] in Urine by Test strip 01-04-2023
-Observation Body Height 01-04-2023
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-04-2023
-Observation Body Weight 01-04-2023
-Observation Body mass index (BMI) [Ratio] 01-04-2023
-Observation Blood pressure panel with all children optional 01-04-2023
-Observation Heart rate 01-04-2023
-Observation Respiratory rate 01-04-2023
-Observation Tobacco smoking status 01-04-2023
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-04-2023
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-04-2023
-Observation Fall risk total [Morse Fall Scale] 01-04-2023
-Observation Fall risk level [Morse Fall Scale] 01-04-2023
-Observation Total score [AUDIT-C] 01-04-2023
-Procedure Medication Reconciliation (procedure) 01-04-2023
-Procedure Assessment of health and social care needs (procedure) 01-04-2023
-Procedure Assessment of anxiety (procedure) 01-04-2023
-Procedure Assessment using Morse Fall Scale (procedure) 01-04-2023
-Procedure Assessment of substance use (procedure) 01-04-2023
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 01-04-2023
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023
-Encounter General examination of patient (procedure) 03-15-2023
-Condition Medication review due (situation) 03-15-2023
-Observation Glucose [Mass/volume] in Serum or Plasma 03-15-2023
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 03-15-2023
-Observation Creatinine [Mass/volume] in Serum or Plasma 03-15-2023
-Observation Calcium [Mass/volume] in Serum or Plasma 03-15-2023
-Observation Sodium [Moles/volume] in Serum or Plasma 03-15-2023
-Observation Potassium [Moles/volume] in Serum or Plasma 03-15-2023
-Observation Chloride [Moles/volume] in Serum or Plasma 03-15-2023
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 03-15-2023
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 03-15-2023
-Observation Appearance of Urine 03-15-2023
-Observation Odor of Urine 03-15-2023
-Observation Clarity of Urine 03-15-2023
-Observation Color of Urine 03-15-2023
-Observation Glucose [Mass/volume] in Urine by Test strip 03-15-2023
-Observation Glucose [Presence] in Urine by Test strip 03-15-2023
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-15-2023
-Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023
-Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023
-Observation Ketones [Presence] in Urine by Test strip 03-15-2023
-Observation Specific gravity of Urine by Test strip 03-15-2023
-Observation pH of Urine by Test strip 03-15-2023
-Observation Protein [Mass/volume] in Urine by Test strip 03-15-2023
-Observation Protein [Presence] in Urine by Test strip 03-15-2023
-Observation Nitrite [Presence] in Urine by Test strip 03-15-2023
-Observation Hemoglobin [Presence] in Urine by Test strip 03-15-2023
-Observation Leukocyte esterase [Presence] in Urine by Test strip 03-15-2023
-Observation Body Height 03-15-2023
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-15-2023
-Observation Body Weight 03-15-2023
-Observation Body mass index (BMI) [Ratio] 03-15-2023
-Observation Blood pressure panel with all children optional 03-15-2023
-Observation Heart rate 03-15-2023
-Observation Respiratory rate 03-15-2023
-Observation Tobacco smoking status 03-15-2023
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 03-15-2023
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-15-2023
-Observation Total score [AUDIT-C] 03-15-2023
-Procedure Assessment of health and social care needs (procedure) 03-15-2023
-Procedure Assessment of anxiety (procedure) 03-15-2023
-Procedure Assessment of substance use (procedure) 03-15-2023
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-15-2023
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-15-2023
-Encounter Urgent care clinic (environment) 09-27-2023
-Observation Glucose [Mass/volume] in Serum or Plasma 09-27-2023
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 09-27-2023
-Observation Creatinine [Mass/volume] in Serum or Plasma 09-27-2023
-Observation Calcium [Mass/volume] in Serum or Plasma 09-27-2023
-Observation Sodium [Moles/volume] in Serum or Plasma 09-27-2023
-Observation Potassium [Moles/volume] in Serum or Plasma 09-27-2023
-Observation Chloride [Moles/volume] in Serum or Plasma 09-27-2023
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-27-2023
-Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 09-27-2023
-Observation Appearance of Urine 09-27-2023
-Observation Odor of Urine 09-27-2023
-Observation Clarity of Urine 09-27-2023
-Observation Color of Urine 09-27-2023
-Observation Glucose [Mass/volume] in Urine by Test strip 09-27-2023
-Observation Glucose [Presence] in Urine by Test strip 09-27-2023
-Observation Bilirubin.total [Mass/volume] in Urine by Test strip 09-27-2023
-Observation Bilirubin.total [Presence] in Urine by Test strip 09-27-2023
-Observation Ketones [Mass/volume] in Urine by Test strip 09-27-2023
-Observation Ketones [Presence] in Urine by Test strip 09-27-2023
-Observation Specific gravity of Urine by Test strip 09-27-2023
-Observation pH of Urine by Test strip 09-27-2023
-Observation Protein [Mass/volume] in Urine by Test strip 09-27-2023
-Observation Protein [Presence] in Urine by Test strip 09-27-2023
-Observation Nitrite [Presence] in Urine by Test strip 09-27-2023
-Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023
-Observation Leukocyte esterase [Presence] in Urine by Test strip 09-27-2023
-Observation Body Height 09-27-2023
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-27-2023
-Observation Body Weight 09-27-2023
-Observation Body mass index (BMI) [Ratio] 09-27-2023
-Observation Blood pressure panel with all children optional 09-27-2023
-Observation Heart rate 09-27-2023
-Observation Respiratory rate 09-27-2023
-Observation Tobacco smoking status 09-27-2023
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-27-2023
-Observation Fall risk total [Morse Fall Scale] 09-27-2023
-Observation Fall risk level [Morse Fall Scale] 09-27-2023
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-27-2023
-Observation Total score [DAST-10] 09-27-2023
-Procedure Assessment of health and social care needs (procedure) 09-27-2023
-Procedure Assessment using Morse Fall Scale (procedure) 09-27-2023
-Procedure Depression screening (procedure) 09-27-2023
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-27-2023
-Procedure Assessment of substance use (procedure) 09-27-2023
-Procedure Screening for drug abuse (procedure) 09-27-2023
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-27-2023
-Encounter Emergency room admission (procedure) 10-31-2023
-Condition Sprain (morphologic abnormality) 10-31-2023
-Condition Sprain of ankle 10-31-2023
 MedicationRequest Acetaminophen 325 MG Oral Tablet 10-31-2023
+Condition Sprain of ankle 10-31-2023
+Condition Sprain (morphologic abnormality) 10-31-2023
+Encounter Emergency room admission (procedure) 10-31-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-27-2023
+Procedure Screening for drug abuse (procedure) 09-27-2023
+Procedure Assessment of substance use (procedure) 09-27-2023
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-27-2023
+Procedure Depression screening (procedure) 09-27-2023
+Procedure Assessment using Morse Fall Scale (procedure) 09-27-2023
+Procedure Assessment of health and social care needs (procedure) 09-27-2023
+Observation Total score [DAST-10] 09-27-2023
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-27-2023
+Observation Fall risk level [Morse Fall Scale] 09-27-2023
+Observation Fall risk total [Morse Fall Scale] 09-27-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-27-2023
+Observation Tobacco smoking status 09-27-2023
+Observation Respiratory rate 09-27-2023
+Observation Heart rate 09-27-2023
+Observation Blood pressure panel with all children optional 09-27-2023
+Observation Body mass index (BMI) [Ratio] 09-27-2023
+Observation Body Weight 09-27-2023
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-27-2023
+Observation Body Height 09-27-2023
+Observation Leukocyte esterase [Presence] in Urine by Test strip 09-27-2023
+Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023
+Observation Nitrite [Presence] in Urine by Test strip 09-27-2023
+Observation Protein [Presence] in Urine by Test strip 09-27-2023
+Observation Protein [Mass/volume] in Urine by Test strip 09-27-2023
+Observation pH of Urine by Test strip 09-27-2023
+Observation Specific gravity of Urine by Test strip 09-27-2023
+Observation Ketones [Presence] in Urine by Test strip 09-27-2023
+Observation Ketones [Mass/volume] in Urine by Test strip 09-27-2023
+Observation Bilirubin.total [Presence] in Urine by Test strip 09-27-2023
+Observation Bilirubin.total [Mass/volume] in Urine by Test strip 09-27-2023
+Observation Glucose [Presence] in Urine by Test strip 09-27-2023
+Observation Glucose [Mass/volume] in Urine by Test strip 09-27-2023
+Observation Color of Urine 09-27-2023
+Observation Clarity of Urine 09-27-2023
+Observation Odor of Urine 09-27-2023
+Observation Appearance of Urine 09-27-2023
+Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 09-27-2023
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-27-2023
+Observation Chloride [Moles/volume] in Serum or Plasma 09-27-2023
+Observation Potassium [Moles/volume] in Serum or Plasma 09-27-2023
+Observation Sodium [Moles/volume] in Serum or Plasma 09-27-2023
+Observation Calcium [Mass/volume] in Serum or Plasma 09-27-2023
+Observation Creatinine [Mass/volume] in Serum or Plasma 09-27-2023
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 09-27-2023
+Observation Glucose [Mass/volume] in Serum or Plasma 09-27-2023
+Encounter Urgent care clinic (environment) 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-15-2023
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-15-2023
+Procedure Assessment of substance use (procedure) 03-15-2023
+Procedure Assessment of anxiety (procedure) 03-15-2023
+Procedure Assessment of health and social care needs (procedure) 03-15-2023
+Observation Total score [AUDIT-C] 03-15-2023
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-15-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 03-15-2023
+Observation Tobacco smoking status 03-15-2023
+Observation Respiratory rate 03-15-2023
+Observation Heart rate 03-15-2023
+Observation Blood pressure panel with all children optional 03-15-2023
+Observation Body mass index (BMI) [Ratio] 03-15-2023
+Observation Body Weight 03-15-2023
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-15-2023
+Observation Body Height 03-15-2023
+Observation Leukocyte esterase [Presence] in Urine by Test strip 03-15-2023
+Observation Hemoglobin [Presence] in Urine by Test strip 03-15-2023
+Observation Nitrite [Presence] in Urine by Test strip 03-15-2023
+Observation Protein [Presence] in Urine by Test strip 03-15-2023
+Observation Protein [Mass/volume] in Urine by Test strip 03-15-2023
+Observation pH of Urine by Test strip 03-15-2023
+Observation Specific gravity of Urine by Test strip 03-15-2023
+Observation Ketones [Presence] in Urine by Test strip 03-15-2023
+Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023
+Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023
+Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-15-2023
+Observation Glucose [Presence] in Urine by Test strip 03-15-2023
+Observation Glucose [Mass/volume] in Urine by Test strip 03-15-2023
+Observation Color of Urine 03-15-2023
+Condition Medication review due (situation) 03-15-2023
+Encounter General examination of patient (procedure) 03-15-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 01-04-2023
+Procedure Assessment of substance use (procedure) 01-04-2023
+Procedure Assessment using Morse Fall Scale (procedure) 01-04-2023
+Procedure Assessment of anxiety (procedure) 01-04-2023
+Procedure Assessment of health and social care needs (procedure) 01-04-2023
+Procedure Medication Reconciliation (procedure) 01-04-2023
+Condition Full-time employment (finding) 01-04-2023
+Encounter Encounter for check up (procedure) 01-04-2023
+Immunization Influenza, seasonal, injectable, preservative free 10-05-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-05-2022
+Procedure Screening for drug abuse (procedure) 10-05-2022
+Procedure Assessment of substance use (procedure) 10-05-2022
+Procedure Assessment using Morse Fall Scale (procedure) 10-05-2022
+Procedure Assessment of health and social care needs (procedure) 10-05-2022
+Procedure Medication Reconciliation (procedure) 10-05-2022
+Encounter Encounter for check up (procedure) 10-05-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-03-2022
+Procedure Assessment of substance use (procedure) 08-03-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-03-2022
+Procedure Depression screening (procedure) 08-03-2022
+Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022
+Procedure Assessment of anxiety (procedure) 08-03-2022
+Procedure Assessment of health and social care needs (procedure) 08-03-2022
+Procedure Medication Reconciliation (procedure) 08-03-2022
+Encounter Encounter for check up (procedure) 08-03-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2022
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-06-2022
+Procedure Assessment of substance use (procedure) 07-06-2022
+Procedure Assessment using Morse Fall Scale (procedure) 07-06-2022
+Procedure Assessment of anxiety (procedure) 07-06-2022
+Procedure Assessment of health and social care needs (procedure) 07-06-2022
+Encounter Encounter for check up (procedure) 07-06-2022
+Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 06-08-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-08-2022
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 06-08-2022
+Procedure Assessment of substance use (procedure) 06-08-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-08-2022
+Procedure Depression screening (procedure) 06-08-2022
+Procedure Screening for domestic abuse (procedure) 06-08-2022
+Procedure Assessment of health and social care needs (procedure) 06-08-2022
+Encounter Encounter for check up (procedure) 06-08-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 03-09-2022
+Procedure Depression screening (procedure) 03-09-2022
+Procedure Assessment of health and social care needs (procedure) 03-09-2022
+Condition Social isolation (finding) 03-09-2022
+Encounter General examination of patient (procedure) 03-09-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-16-2022
+Encounter Encounter for check up (procedure) 02-16-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-09-2022
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 02-09-2022
+Procedure Assessment of substance use (procedure) 02-09-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2022
+Procedure Depression screening (procedure) 02-09-2022
+Procedure Assessment of anxiety (procedure) 02-09-2022
+Procedure Assessment of health and social care needs (procedure) 02-09-2022
+Procedure Medication Reconciliation (procedure) 02-09-2022
+Encounter Urgent care clinic (environment) 02-09-2022
+MedicationRequest Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet 01-19-2022
+Encounter Encounter for symptom 01-19-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-12-2022
+Encounter Encounter for check up (procedure) 01-12-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-05-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2022
+Procedure Depression screening (procedure) 01-05-2022
+Procedure Screening for domestic abuse (procedure) 01-05-2022
+Procedure Assessment using Morse Fall Scale (procedure) 01-05-2022
+Procedure Assessment of health and social care needs (procedure) 01-05-2022
+Encounter Urgent care clinic (environment) 01-05-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-29-2021
+Procedure Medication Reconciliation (procedure) 12-29-2021
+Encounter Urgent care clinic (environment) 12-29-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-22-2021
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021
+Procedure Assessment of substance use (procedure) 12-22-2021
+Procedure Assessment using Morse Fall Scale (procedure) 12-22-2021
+Procedure Assessment of health and social care needs (procedure) 12-22-2021
+Encounter Emergency room admission (procedure) 12-22-2021
+Immunization Influenza, seasonal, injectable, preservative free 10-06-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 10-06-2021
+Procedure Assessment of substance use (procedure) 10-06-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 10-06-2021
+Procedure Depression screening (procedure) 10-06-2021
+Encounter Encounter for check up (procedure) 10-06-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-11-2021
+Encounter Encounter for check up (procedure) 08-11-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021
+Encounter Encounter for check up (procedure) 04-14-2021
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-24-2021
+Encounter Administration of vaccine to produce active immunity (procedure) 03-24-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2021
+Encounter Encounter for check up (procedure) 03-10-2021
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-03-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2021
+Encounter General examination of patient (procedure) 03-03-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-16-2020
+Encounter Encounter for check up (procedure) 12-16-2020
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2020
+Encounter Encounter for check up (procedure) 11-11-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020
+Encounter Encounter for check up (procedure) 07-15-2020
+MedicationRequest Naproxen sodium 220 MG Oral Tablet 07-02-2020
+Encounter Emergency room admission (procedure) 07-02-2020
+Immunization Influenza, seasonal, injectable, preservative free 02-26-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-26-2020
+Encounter General examination of patient (procedure) 02-26-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-18-2019
+Encounter Encounter for check up (procedure) 09-18-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019
+Encounter Encounter for check up (procedure) 05-22-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019
+Encounter Encounter for check up (procedure) 03-27-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-20-2019
+Encounter General examination of patient (procedure) 02-20-2019
+Immunization Influenza, seasonal, injectable, preservative free 01-23-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-23-2019
+Encounter Encounter for check up (procedure) 01-23-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-29-2018
+Condition Proteinuria due to type 2 diabetes mellitus (disorder) 08-29-2018
+Condition Chronic kidney disease stage 3 (disorder) 08-29-2018
+Encounter Encounter for check up (procedure) 08-29-2018
+Immunization pneumococcal polysaccharide vaccine, 23 valent 02-14-2018
+Immunization Influenza, seasonal, injectable, preservative free 02-14-2018
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-14-2018
+Encounter General examination of patient (procedure) 02-14-2018
+Immunization Influenza, seasonal, injectable, preservative free 02-08-2017
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-08-2017
+Condition Has a criminal record (finding) 02-08-2017
+Encounter General examination of patient (procedure) 02-08-2017
+Immunization Pneumococcal conjugate PCV 13 08-03-2016
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2016
+Encounter Encounter for check up (procedure) 08-03-2016
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016
+Encounter Encounter for check up (procedure) 03-09-2016
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-03-2016
+Encounter General examination of patient (procedure) 02-03-2016
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2015
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2015
+Encounter Encounter for check up (procedure) 11-11-2015
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-15-2015
+Encounter Encounter for check up (procedure) 04-15-2015
+Immunization Influenza, seasonal, injectable, preservative free 01-28-2015
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015
+Encounter General examination of patient (procedure) 01-28-2015
+Encounter Encounter for problem (procedure) 02-26-2014
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-19-2014
+Encounter Encounter for check up (procedure) 02-19-2014
+Condition Abnormal findings diagnostic imaging heart+coronary circulat (finding) 02-11-2014
+Encounter Encounter for problem (procedure) 02-11-2014
+Encounter Encounter for problem (procedure) 02-05-2014
+Immunization Influenza, seasonal, injectable, preservative free 01-22-2014
+MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014
+MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014
+MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014
+MedicationRequest Clopidogrel 75 MG Oral Tablet 01-29-2014
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-22-2014
+Condition Ischemic heart disease (disorder) 01-22-2014
+Encounter General examination of patient (procedure) 01-22-2014
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-26-2013
+Encounter Encounter for check up (procedure) 06-26-2013
+Encounter General examination of patient (procedure) 01-16-2013
+Encounter Encounter for check up (procedure) 09-26-2012
+Encounter Encounter for check up (procedure) 07-25-2012
+Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-07-2005
+Condition Chronic kidney disease stage 2 (disorder) 12-07-2005
+Encounter General examination of patient (procedure) 12-07-2005
+Condition Disorder of kidney due to diabetes mellitus (disorder) 12-01-2004
+Condition Chronic kidney disease stage 1 (disorder) 12-01-2004
+Encounter General examination of patient (procedure) 12-01-2004
+Condition Miscarriage in first trimester 09-05-2001
+Encounter Prenatal initial visit 09-05-2001
+Condition Essential hypertension (disorder) 06-06-1973
+Encounter General examination of patient (procedure) 06-06-1973
+Condition Received higher education (finding) 05-28-1969
+Encounter General examination of patient (procedure) 05-28-1969
+Condition Risk activity involvement (finding) 05-11-1966
+Encounter Well child visit (procedure) 05-11-1966

@@ -1,237 +1,169 @@
-Encounter Encounter for check up (procedure) 07-16-1991
-Condition Body mass index 30+ - obesity (finding) 07-16-1991
-Encounter General examination of patient (procedure) 08-11-1992
-Condition Housing unsatisfactory (finding) 08-11-1992
-Condition Received higher education (finding) 08-11-1992
-Encounter General examination of patient (procedure) 08-17-1993
-Condition Prediabetes 08-17-1993
-Condition Anemia (disorder) 08-17-1993
-Encounter Encounter for problem 08-17-1993
-Encounter General examination of patient (procedure) 08-20-1996
-Condition Victim of intimate partner abuse (finding) 08-20-1996
-Encounter Encounter for check up (procedure) 07-13-1999
-Encounter General examination of patient (procedure) 08-24-1999
-Encounter General examination of patient (procedure) 08-27-2002
-Encounter Consultation for treatment 03-30-2003
-MedicationRequest Jolivette 28 Day Pack 03-30-2003
-Encounter Consultation for treatment 03-22-2005
-MedicationRequest Jolivette 28 Day Pack 03-22-2005
-Encounter General examination of patient (procedure) 08-30-2005
-Encounter Consultation for treatment 03-17-2006
-MedicationRequest Jolivette 28 Day Pack 03-17-2006
-Encounter Prenatal visit 09-02-2008
-Encounter General examination of patient (procedure) 09-06-2011
-Encounter Consultation for treatment 02-23-2013
-MedicationRequest 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System 02-23-2013
-Encounter General examination of patient (procedure) 06-24-2014
-Observation Body Height 06-24-2014
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 06-24-2014
-Observation Body Weight 06-24-2014
-Observation Body Mass Index 06-24-2014
-Observation Blood Pressure 06-24-2014
-Observation Heart rate 06-24-2014
-Observation Respiratory rate 06-24-2014
-Observation Glucose 06-24-2014
-Observation Urea Nitrogen 06-24-2014
-Observation Creatinine 06-24-2014
-Observation Calcium 06-24-2014
-Observation Sodium 06-24-2014
-Observation Potassium 06-24-2014
-Observation Chloride 06-24-2014
-Observation Carbon Dioxide 06-24-2014
-Observation Leukocytes [#/volume] in Blood by Automated count 06-24-2014
-Observation Erythrocytes [#/volume] in Blood by Automated count 06-24-2014
-Observation Hemoglobin [Mass/volume] in Blood 06-24-2014
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 06-24-2014
-Observation MCV [Entitic volume] by Automated count 06-24-2014
-Observation MCH [Entitic mass] by Automated count 06-24-2014
-Observation MCHC [Mass/volume] by Automated count 06-24-2014
-Observation Erythrocyte distribution width [Entitic volume] by Automated count 06-24-2014
-Observation Platelets [#/volume] in Blood by Automated count 06-24-2014
-Observation Platelet distribution width [Entitic volume] in Blood by Automated count 06-24-2014
-Observation Platelet mean volume [Entitic volume] in Blood by Automated count 06-24-2014
-Observation Tobacco smoking status NHIS 06-24-2014
-Observation Hemoglobin A1c/Hemoglobin.total in Blood 06-24-2014
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 06-24-2014
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 06-24-2014
-Observation Total score [DAST-10] 06-24-2014
-Procedure Assessment of health and social care needs (procedure) 06-24-2014
-Procedure Depression screening (procedure) 06-24-2014
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014
-Procedure Assessment of substance use (procedure) 06-24-2014
-Procedure Screening for drug abuse (procedure) 06-24-2014
-Immunization Influenza, seasonal, injectable, preservative free 06-24-2014
-Immunization Hep A, adult 06-24-2014
-Encounter Consultation for treatment 02-13-2015
-MedicationRequest Jolivette 28 Day Pack 02-13-2015
-Encounter General examination of patient (procedure) 06-28-2016
-Observation Body Height 06-28-2016
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 06-28-2016
-Observation Body Weight 06-28-2016
-Observation Body Mass Index 06-28-2016
-Observation Blood Pressure 06-28-2016
-Observation Heart rate 06-28-2016
-Observation Respiratory rate 06-28-2016
-Observation Glucose 06-28-2016
-Observation Urea Nitrogen 06-28-2016
-Observation Creatinine 06-28-2016
-Observation Calcium 06-28-2016
-Observation Sodium 06-28-2016
-Observation Potassium 06-28-2016
-Observation Chloride 06-28-2016
-Observation Carbon Dioxide 06-28-2016
-Observation Total Cholesterol 06-28-2016
-Observation Triglycerides 06-28-2016
-Observation Low Density Lipoprotein Cholesterol 06-28-2016
-Observation High Density Lipoprotein Cholesterol 06-28-2016
-Observation Tobacco smoking status NHIS 06-28-2016
-Observation Hemoglobin A1c/Hemoglobin.total in Blood 06-28-2016
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 06-28-2016
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 06-28-2016
-Observation Total score [HARK] 06-28-2016
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 06-28-2016
-Procedure Assessment of health and social care needs (procedure) 06-28-2016
-Procedure Medication Reconciliation (procedure) 06-28-2016
-Procedure Assessment of anxiety (procedure) 06-28-2016
-Procedure Screening for domestic abuse (procedure) 06-28-2016
-Procedure Depression screening (procedure) 06-28-2016
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016
-Immunization Influenza, seasonal, injectable, preservative free 06-28-2016
-Immunization Td (adult) preservative free 06-28-2016
-Immunization Hep A, adult 06-28-2016
-Encounter Consultation for treatment 02-02-2017
-Encounter Patient encounter procedure 02-07-2017
-Procedure Insertion of intrauterine contraceptive device 02-07-2017
-Encounter Consultation for treatment 02-02-2018
-MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018
-Encounter Patient encounter procedure 02-06-2018
-Procedure Insertion of intrauterine contraceptive device 02-06-2018
-Encounter Encounter for symptom 06-18-2018
-Observation Body temperature 06-18-2018
-Procedure Throat culture (procedure) 06-18-2018
-Encounter Cardiac Arrest 06-19-2018
-Condition Cardiac Arrest 06-19-2018
-Condition History of cardiac arrest (situation) 06-19-2018
-Procedure Echocardiography (procedure) 06-19-2018
-Procedure Insertion of biventricular implantable cardioverter defibrillator 06-19-2018
-Procedure Catheter ablation of tissue of heart 06-19-2018
-MedicationRequest 1 ML Epinephrine 1 MG/ML Injection 06-19-2018
-MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018
-MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018
-Encounter General examination of patient (procedure) 07-03-2018
-Observation Body Height 07-03-2018
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-03-2018
-Observation Body Weight 07-03-2018
-Observation Body Mass Index 07-03-2018
-Observation Blood Pressure 07-03-2018
-Observation Heart rate 07-03-2018
-Observation Respiratory rate 07-03-2018
-Observation Glucose 07-03-2018
-Observation Urea Nitrogen 07-03-2018
-Observation Creatinine 07-03-2018
-Observation Calcium 07-03-2018
-Observation Sodium 07-03-2018
-Observation Potassium 07-03-2018
-Observation Chloride 07-03-2018
-Observation Carbon Dioxide 07-03-2018
-Observation Tobacco smoking status NHIS 07-03-2018
-Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-03-2018
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-03-2018
-Procedure Assessment of health and social care needs (procedure) 07-03-2018
-Procedure Medication Reconciliation (procedure) 07-03-2018
-Procedure Depression screening (procedure) 07-03-2018
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018
-Immunization Influenza, seasonal, injectable, preservative free 07-03-2018
-Encounter Encounter for symptom 04-25-2019
-MedicationRequest Nitrofurantoin 5 MG/ML Oral Suspension 04-25-2019
-MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
-Encounter Encounter for symptom 05-02-2019
-MedicationRequest NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule 05-02-2019
-Encounter Consultation for treatment 01-27-2020
-Procedure Intramuscular injection 01-27-2020
-MedicationRequest 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection 01-27-2020
-Encounter General examination of patient (procedure) 07-07-2020
-Condition Has a criminal record (finding) 07-07-2020
-Observation Body Height 07-07-2020
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020
-Observation Body Weight 07-07-2020
-Observation Body Mass Index 07-07-2020
-Observation Blood Pressure 07-07-2020
-Observation Heart rate 07-07-2020
-Observation Respiratory rate 07-07-2020
-Observation Glucose 07-07-2020
-Observation Urea Nitrogen 07-07-2020
-Observation Creatinine 07-07-2020
-Observation Calcium 07-07-2020
-Observation Sodium 07-07-2020
-Observation Potassium 07-07-2020
-Observation Chloride 07-07-2020
-Observation Carbon Dioxide 07-07-2020
-Observation Total Cholesterol 07-07-2020
-Observation Triglycerides 07-07-2020
-Observation Low Density Lipoprotein Cholesterol 07-07-2020
-Observation High Density Lipoprotein Cholesterol 07-07-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 07-07-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020
-Observation Hemoglobin [Mass/volume] in Blood 07-07-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020
-Observation MCV [Entitic volume] by Automated count 07-07-2020
-Observation MCH [Entitic mass] by Automated count 07-07-2020
-Observation MCHC [Mass/volume] by Automated count 07-07-2020
-Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020
-Observation Platelets [#/volume] in Blood by Automated count 07-07-2020
-Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020
-Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-07-2020
-Observation Tobacco smoking status NHIS 07-07-2020
-Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-07-2020
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-07-2020
-Observation Total score [AUDIT-C] 07-07-2020
-Procedure Assessment of health and social care needs (procedure) 07-07-2020
-Procedure Assessment of anxiety (procedure) 07-07-2020
-Procedure Depression screening (procedure) 07-07-2020
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-07-2020
-Procedure Assessment of substance use (procedure) 07-07-2020
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-07-2020
-Immunization Influenza, seasonal, injectable, preservative free 07-07-2020
-Encounter Encounter for symptom 12-17-2020
-Procedure Measurement of respiratory function (procedure) 12-17-2020
-MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020
-Encounter Encounter for check up (procedure) 12-28-2020
-Condition Full-time employment (finding) 12-28-2020
-Observation Body Height 12-28-2020
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-28-2020
-Observation Body Weight 12-28-2020
-Observation Body Mass Index 12-28-2020
-Observation Blood Pressure 12-28-2020
-Observation Heart rate 12-28-2020
-Observation Respiratory rate 12-28-2020
-Observation Glucose 12-28-2020
-Observation Urea Nitrogen 12-28-2020
-Observation Creatinine 12-28-2020
-Observation Calcium 12-28-2020
-Observation Sodium 12-28-2020
-Observation Potassium 12-28-2020
-Observation Chloride 12-28-2020
-Observation Carbon Dioxide 12-28-2020
-Observation Tobacco smoking status NHIS 12-28-2020
-Observation Hemoglobin A1c/Hemoglobin.total in Blood 12-28-2020
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 12-28-2020
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12-29-2020
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020
-Procedure Assessment of health and social care needs (procedure) 12-28-2020
-Procedure Medication Reconciliation (procedure) 12-28-2020
-Procedure Assessment of anxiety (procedure) 12-28-2020
-Procedure Depression screening (procedure) 12-29-2020
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-29-2020
-Immunization Influenza, seasonal, injectable, preservative free 12-28-2020
-Encounter Consultation for treatment 01-21-2021
-MedicationRequest Jolivette 28 Day Pack 01-21-2021
-Encounter Emergency room admission (procedure) 02-19-2021
-MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021
-Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021
-Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 03-30-2021
-Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
 Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 04-27-2021
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 03-30-2021
+Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021
+MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021
+Encounter Emergency room admission (procedure) 02-19-2021
+MedicationRequest Jolivette 28 Day Pack 01-21-2021
+Encounter Consultation for treatment 01-21-2021
+Immunization Influenza, seasonal, injectable, preservative free 12-28-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-29-2020
+Procedure Depression screening (procedure) 12-29-2020
+Procedure Assessment of anxiety (procedure) 12-28-2020
+Procedure Medication Reconciliation (procedure) 12-28-2020
+Procedure Assessment of health and social care needs (procedure) 12-28-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12-29-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 12-28-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 12-28-2020
+Observation Tobacco smoking status NHIS 12-28-2020
+Observation Carbon Dioxide 12-28-2020
+Observation Chloride 12-28-2020
+Observation Potassium 12-28-2020
+Observation Sodium 12-28-2020
+Observation Calcium 12-28-2020
+Observation Creatinine 12-28-2020
+Observation Urea Nitrogen 12-28-2020
+Observation Glucose 12-28-2020
+Observation Respiratory rate 12-28-2020
+Observation Heart rate 12-28-2020
+Observation Blood Pressure 12-28-2020
+Observation Body Mass Index 12-28-2020
+Observation Body Weight 12-28-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-28-2020
+Observation Body Height 12-28-2020
+Condition Full-time employment (finding) 12-28-2020
+Encounter Encounter for check up (procedure) 12-28-2020
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020
+Procedure Measurement of respiratory function (procedure) 12-17-2020
+Encounter Encounter for symptom 12-17-2020
+Immunization Influenza, seasonal, injectable, preservative free 07-07-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-07-2020
+Procedure Assessment of substance use (procedure) 07-07-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-07-2020
+Procedure Depression screening (procedure) 07-07-2020
+Procedure Assessment of anxiety (procedure) 07-07-2020
+Procedure Assessment of health and social care needs (procedure) 07-07-2020
+Observation Total score [AUDIT-C] 07-07-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-07-2020
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-07-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020
+Observation Tobacco smoking status NHIS 07-07-2020
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-07-2020
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020
+Observation Platelets [#/volume] in Blood by Automated count 07-07-2020
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020
+Observation MCHC [Mass/volume] by Automated count 07-07-2020
+Observation MCH [Entitic mass] by Automated count 07-07-2020
+Observation MCV [Entitic volume] by Automated count 07-07-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020
+Observation Hemoglobin [Mass/volume] in Blood 07-07-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 07-07-2020
+Observation High Density Lipoprotein Cholesterol 07-07-2020
+Observation Low Density Lipoprotein Cholesterol 07-07-2020
+Observation Triglycerides 07-07-2020
+Observation Total Cholesterol 07-07-2020
+Observation Carbon Dioxide 07-07-2020
+Observation Chloride 07-07-2020
+Observation Potassium 07-07-2020
+Observation Sodium 07-07-2020
+Observation Calcium 07-07-2020
+Observation Creatinine 07-07-2020
+Observation Urea Nitrogen 07-07-2020
+Observation Glucose 07-07-2020
+Observation Respiratory rate 07-07-2020
+Observation Heart rate 07-07-2020
+Observation Blood Pressure 07-07-2020
+Observation Body Mass Index 07-07-2020
+Observation Body Weight 07-07-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020
+Observation Body Height 07-07-2020
+Condition Has a criminal record (finding) 07-07-2020
+Encounter General examination of patient (procedure) 07-07-2020
+MedicationRequest 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection 01-27-2020
+Procedure Intramuscular injection 01-27-2020
+Encounter Consultation for treatment 01-27-2020
+MedicationRequest NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule 05-02-2019
+Encounter Encounter for symptom 05-02-2019
+MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
+MedicationRequest Nitrofurantoin 5 MG/ML Oral Suspension 04-25-2019
+Encounter Encounter for symptom 04-25-2019
+Immunization Influenza, seasonal, injectable, preservative free 07-03-2018
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018
+Procedure Depression screening (procedure) 07-03-2018
+Procedure Medication Reconciliation (procedure) 07-03-2018
+Procedure Assessment of health and social care needs (procedure) 07-03-2018
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-03-2018
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-03-2018
+Observation Tobacco smoking status NHIS 07-03-2018
+Observation Carbon Dioxide 07-03-2018
+Observation Chloride 07-03-2018
+Observation Potassium 07-03-2018
+Observation Sodium 07-03-2018
+Encounter General examination of patient (procedure) 07-03-2018
+MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018
+MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018
+MedicationRequest 1 ML Epinephrine 1 MG/ML Injection 06-19-2018
+Procedure Catheter ablation of tissue of heart 06-19-2018
+Procedure Insertion of biventricular implantable cardioverter defibrillator 06-19-2018
+Procedure Echocardiography (procedure) 06-19-2018
+Condition History of cardiac arrest (situation) 06-19-2018
+Condition Cardiac Arrest 06-19-2018
+Encounter Cardiac Arrest 06-19-2018
+Procedure Throat culture (procedure) 06-18-2018
+Encounter Encounter for symptom 06-18-2018
+Procedure Insertion of intrauterine contraceptive device 02-06-2018
+Encounter Patient encounter procedure 02-06-2018
+MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018
+Encounter Consultation for treatment 02-02-2018
+Procedure Insertion of intrauterine contraceptive device 02-07-2017
+Encounter Patient encounter procedure 02-07-2017
+Encounter Consultation for treatment 02-02-2017
+Immunization Hep A, adult 06-28-2016
+Immunization Td (adult) preservative free 06-28-2016
+Immunization Influenza, seasonal, injectable, preservative free 06-28-2016
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016
+Procedure Depression screening (procedure) 06-28-2016
+Procedure Screening for domestic abuse (procedure) 06-28-2016
+Procedure Assessment of anxiety (procedure) 06-28-2016
+Procedure Medication Reconciliation (procedure) 06-28-2016
+Procedure Assessment of health and social care needs (procedure) 06-28-2016
+Encounter General examination of patient (procedure) 06-28-2016
+MedicationRequest Jolivette 28 Day Pack 02-13-2015
+Encounter Consultation for treatment 02-13-2015
+Immunization Hep A, adult 06-24-2014
+Immunization Influenza, seasonal, injectable, preservative free 06-24-2014
+Procedure Screening for drug abuse (procedure) 06-24-2014
+Procedure Assessment of substance use (procedure) 06-24-2014
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014
+Procedure Depression screening (procedure) 06-24-2014
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+Encounter General examination of patient (procedure) 06-24-2014
+MedicationRequest 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System 02-23-2013
+Encounter Consultation for treatment 02-23-2013
+Encounter General examination of patient (procedure) 09-06-2011
+Encounter Prenatal visit 09-02-2008
+MedicationRequest Jolivette 28 Day Pack 03-17-2006
+Encounter Consultation for treatment 03-17-2006
+Encounter General examination of patient (procedure) 08-30-2005
+MedicationRequest Jolivette 28 Day Pack 03-22-2005
+Encounter Consultation for treatment 03-22-2005
+MedicationRequest Jolivette 28 Day Pack 03-30-2003
+Encounter Consultation for treatment 03-30-2003
+Encounter General examination of patient (procedure) 08-27-2002
+Encounter General examination of patient (procedure) 08-24-1999
+Encounter Encounter for check up (procedure) 07-13-1999
+Condition Victim of intimate partner abuse (finding) 08-20-1996
+Encounter General examination of patient (procedure) 08-20-1996
+Encounter Encounter for problem 08-17-1993
+Condition Anemia (disorder) 08-17-1993
+Condition Prediabetes 08-17-1993
+Encounter General examination of patient (procedure) 08-17-1993
+Condition Received higher education (finding) 08-11-1992
+Condition Housing unsatisfactory (finding) 08-11-1992
+Encounter General examination of patient (procedure) 08-11-1992
+Condition Body mass index 30+ - obesity (finding) 07-16-1991
+Encounter Encounter for check up (procedure) 07-16-1991

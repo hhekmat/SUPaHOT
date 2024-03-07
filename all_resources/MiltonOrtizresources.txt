@@ -1,848 +1,179 @@
-Encounter Well child visit (procedure) 07-07-2010
-Encounter Well child visit (procedure) 07-18-2012
-Observation Body Height 07-18-2012
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-18-2012
-Observation Body Weight 07-18-2012
-Observation Body Mass Index 07-18-2012
-Observation Body mass index (BMI) [Percentile] Per age and gender 07-18-2012
-Observation Blood Pressure 07-18-2012
-Observation Heart rate 07-18-2012
-Observation Respiratory rate 07-18-2012
-Observation Tobacco smoking status NHIS 07-18-2012
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-18-2012
-Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-18-2012
-Procedure Assessment of anxiety (procedure) 07-18-2012
-Procedure Medication Reconciliation (procedure) 07-18-2012
-Procedure Depression screening (procedure) 07-18-2012
-Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 07-18-2012
-Procedure Assessment of substance use (procedure) 07-18-2012
-Procedure Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure) 07-18-2012
-Procedure Health risks education (procedure) 07-18-2012
-Immunization Influenza, seasonal, injectable, preservative free 07-18-2012
-Encounter Encounter for check up (procedure) 12-26-2012
-Immunization Influenza, seasonal, injectable, preservative free 12-26-2012
-Encounter Encounter for symptom 12-21-2012
-Observation Body Height 12-26-2012
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-26-2012
-Observation Body Weight 12-26-2012
-Observation Body Mass Index 12-26-2012
-Observation Body mass index (BMI) [Percentile] Per age and gender 12-26-2012
-Observation Blood Pressure 12-26-2012
-Observation Heart rate 12-26-2012
-Observation Respiratory rate 12-26-2012
-Observation Tobacco smoking status NHIS 12-26-2012
-Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 12-26-2012
-Procedure Measurement of respiratory function (procedure) 12-21-2012
-Procedure Depression screening (procedure) 12-26-2012
-Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 12-26-2012
-Procedure Assessment of substance use (procedure) 12-26-2012
-Procedure Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure) 12-26-2012
-Procedure Anticipatory guidance (procedure) 12-26-2012
-MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
-Encounter Well child visit (procedure) 07-24-2013
-Observation Body Height 07-24-2013
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-24-2013
-Observation Body Weight 07-24-2013
-Observation Body Mass Index 07-24-2013
-Observation Body mass index (BMI) [Percentile] Per age and gender 07-24-2013
-Observation Blood Pressure 07-24-2013
-Observation Heart rate 07-24-2013
-Observation Respiratory rate 07-24-2013
-Observation Leukocytes [#/volume] in Blood by Automated count 07-24-2013
-Observation Erythrocytes [#/volume] in Blood by Automated count 07-24-2013
-Observation Hemoglobin [Mass/volume] in Blood 07-24-2013
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-24-2013
-Observation MCV [Entitic volume] by Automated count 07-24-2013
-Observation MCH [Entitic mass] by Automated count 07-24-2013
-Observation MCHC [Mass/volume] by Automated count 07-24-2013
-Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-24-2013
-Observation Platelets [#/volume] in Blood by Automated count 07-24-2013
-Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-24-2013
-Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-24-2013
-Observation Tobacco smoking status NHIS 07-24-2013
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-24-2013
-Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-24-2013
-Procedure Assessment of anxiety (procedure) 07-24-2013
-Procedure Medication Reconciliation (procedure) 07-24-2013
-Procedure Depression screening (procedure) 07-24-2013
-Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 07-24-2013
-Procedure Assessment of substance use (procedure) 07-24-2013
-Procedure Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure) 07-24-2013
-Procedure Anticipatory guidance (procedure) 07-24-2013
-Immunization meningococcal MCV4P 07-24-2013
-Encounter Encounter for symptom 07-20-2014
-Encounter Well child visit (procedure) 07-30-2014
-Observation Body Height 07-30-2014
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-30-2014
-Observation Body Weight 07-30-2014
-Observation Body Mass Index 07-30-2014
-Observation Body mass index (BMI) [Percentile] Per age and gender 07-30-2014
-Observation Blood Pressure 07-30-2014
-Observation Heart rate 07-30-2014
-Observation Respiratory rate 07-30-2014
-Observation Tobacco smoking status NHIS 07-30-2014
-Observation Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 07-30-2014
-Procedure Depression screening (procedure) 07-30-2014
-Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 07-30-2014
-Procedure Assessment of substance use (procedure) 07-30-2014
-Procedure Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure) 07-30-2014
-Procedure Anticipatory guidance (procedure) 07-30-2014
-Immunization Influenza, seasonal, injectable, preservative free 07-30-2014
-Encounter General examination of patient (procedure) 08-05-2015
-Condition Hypertension 08-05-2015
-Condition Housing unsatisfactory (finding) 08-05-2015
-Condition Received higher education (finding) 08-05-2015
-Condition Limited social contact (finding) 08-05-2015
-Observation Body Height 08-05-2015
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-05-2015
-Observation Body Weight 08-05-2015
-Observation Body Mass Index 08-05-2015
-Observation Body mass index (BMI) [Percentile] Per age and gender 08-05-2015
-Observation Blood Pressure 08-05-2015
-Observation Heart rate 08-05-2015
-Observation Respiratory rate 08-05-2015
-Observation Tobacco smoking status NHIS 08-05-2015
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-05-2015
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-05-2015
-Observation Total score [AUDIT-C] 08-05-2015
-Procedure Assessment of health and social care needs (procedure) 08-05-2015
-Procedure Assessment of anxiety (procedure) 08-05-2015
-Procedure Assessment of substance use (procedure) 08-05-2015
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-05-2015
-MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-05-2015
-Immunization Influenza, seasonal, injectable, preservative free 08-05-2015
-Encounter Hypertension follow-up encounter 09-04-2015
-Observation Blood Pressure 09-04-2015
-Encounter Hypertension follow-up encounter 11-03-2015
-Observation Blood Pressure 11-03-2015
-Encounter Hypertension follow-up encounter 01-02-2016
-Observation Blood Pressure 01-02-2016
-Encounter General examination of patient (procedure) 08-10-2016
-Observation Body Height 08-10-2016
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-10-2016
-Observation Body Weight 08-10-2016
-Observation Body Mass Index 08-10-2016
-Observation Body mass index (BMI) [Percentile] Per age and gender 08-10-2016
-Observation Blood Pressure 08-10-2016
-Observation Heart rate 08-10-2016
-Observation Respiratory rate 08-10-2016
-Observation Tobacco smoking status NHIS 08-10-2016
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-10-2016
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-10-2016
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-10-2016
-Observation Total score [AUDIT-C] 08-10-2016
-Procedure Assessment of health and social care needs (procedure) 08-10-2016
-Procedure Medication Reconciliation (procedure) 08-10-2016
-Procedure Assessment of anxiety (procedure) 08-10-2016
-Procedure Depression screening (procedure) 08-10-2016
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-10-2016
-Procedure Assessment of substance use (procedure) 08-10-2016
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016
-MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
-Immunization Influenza, seasonal, injectable, preservative free 08-10-2016
-Encounter General examination of patient (procedure) 08-16-2017
-Observation Body Height 08-16-2017
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-16-2017
-Observation Body Weight 08-16-2017
-Observation Body Mass Index 08-16-2017
-Observation Blood Pressure 08-16-2017
-Observation Heart rate 08-16-2017
-Observation Respiratory rate 08-16-2017
-Observation Tobacco smoking status NHIS 08-16-2017
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-16-2017
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-16-2017
-Observation Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 08-16-2017
-Observation Total score [DAST-10] 08-16-2017
-Procedure Assessment of health and social care needs (procedure) 08-16-2017
-Procedure Depression screening (procedure) 08-16-2017
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017
-Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 08-16-2017
-Procedure Assessment of substance use (procedure) 08-16-2017
-Procedure Screening for drug abuse (procedure) 08-16-2017
-MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-16-2017
-Immunization Influenza, seasonal, injectable, preservative free 08-16-2017
-Immunization Hep B, adult 08-16-2017
-Encounter General examination of patient (procedure) 08-22-2018
-Observation Body Height 08-22-2018
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-22-2018
-Observation Body Weight 08-22-2018
-Observation Body Mass Index 08-22-2018
-Observation Blood Pressure 08-22-2018
-Observation Heart rate 08-22-2018
-Observation Respiratory rate 08-22-2018
-Observation Leukocytes [#/volume] in Blood by Automated count 08-22-2018
-Observation Erythrocytes [#/volume] in Blood by Automated count 08-22-2018
-Observation Hemoglobin [Mass/volume] in Blood 08-22-2018
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 08-22-2018
-Observation MCV [Entitic volume] by Automated count 08-22-2018
-Observation MCH [Entitic mass] by Automated count 08-22-2018
-Observation MCHC [Mass/volume] by Automated count 08-22-2018
-Observation Erythrocyte distribution width [Entitic volume] by Automated count 08-22-2018
-Observation Platelets [#/volume] in Blood by Automated count 08-22-2018
-Observation Platelet distribution width [Entitic volume] in Blood by Automated count 08-22-2018
-Observation Platelet mean volume [Entitic volume] in Blood by Automated count 08-22-2018
-Observation Tobacco smoking status NHIS 08-22-2018
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-22-2018
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-22-2018
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-22-2018
-Observation Total score [AUDIT-C] 08-22-2018
-Procedure Assessment of health and social care needs (procedure) 08-22-2018
-Procedure Assessment of anxiety (procedure) 08-22-2018
-Procedure Depression screening (procedure) 08-22-2018
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-22-2018
-Procedure Assessment of substance use (procedure) 08-22-2018
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-22-2018
-MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-22-2018
-Immunization Influenza, seasonal, injectable, preservative free 08-22-2018
-Immunization Td (adult) preservative free 08-22-2018
-Immunization Hep B, adult 08-22-2018
-Immunization meningococcal MCV4P 08-22-2018
-Encounter General examination of patient (procedure) 08-28-2019
-Condition Misuses drugs (finding) 08-28-2019
-Observation Body Height 08-28-2019
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 08-28-2019
-Observation Body Weight 08-28-2019
-Observation Body Mass Index 08-28-2019
-Observation Blood Pressure 08-28-2019
-Observation Heart rate 08-28-2019
-Observation Respiratory rate 08-28-2019
-Observation Tobacco smoking status NHIS 08-28-2019
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 08-28-2019
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 08-28-2019
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 08-28-2019
-Observation Total score [DAST-10] 08-28-2019
-Procedure Assessment of health and social care needs (procedure) 08-28-2019
-Procedure Assessment of anxiety (procedure) 08-28-2019
-Procedure Depression screening (procedure) 08-28-2019
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-28-2019
-Procedure Assessment of substance use (procedure) 08-28-2019
-Procedure Screening for drug abuse (procedure) 08-28-2019
-MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-28-2019
-Immunization Influenza, seasonal, injectable, preservative free 08-28-2019
-Immunization Hep B, adult 08-28-2019
-Encounter General examination of patient (procedure) 09-02-2020
-Observation Body Height 09-02-2020
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-02-2020
-Observation Body Weight 09-02-2020
-Observation Body Mass Index 09-02-2020
-Observation Blood Pressure 09-02-2020
-Observation Heart rate 09-02-2020
-Observation Respiratory rate 09-02-2020
-Observation Tobacco smoking status NHIS 09-02-2020
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-02-2020
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-02-2020
-Observation Total score [AUDIT-C] 09-02-2020
-Procedure Assessment of health and social care needs (procedure) 09-02-2020
-Procedure Medication Reconciliation (procedure) 09-02-2020
-Procedure Depression screening (procedure) 09-02-2020
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-02-2020
-Procedure Assessment of substance use (procedure) 09-02-2020
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-02-2020
-MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-02-2020
-Immunization Influenza, seasonal, injectable, preservative free 09-02-2020
-Encounter Encounter for symptom (procedure) 11-21-2020
-Observation Body temperature 11-21-2020
-Observation Respiratory rate 11-21-2020
-Observation Heart rate 11-21-2020
-Observation Oxygen saturation in Arterial blood 11-21-2020
-Observation Blood Pressure 11-21-2020
-Observation Body Weight 11-21-2020
-Observation Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection 11-21-2020
-Observation SARS-CoV-2 RNA Pnl Resp NAA+probe 11-21-2020
-Procedure Face mask (physical object) 11-21-2020
-Encounter Hospital admission for isolation (procedure) 11-21-2020
-Condition Hypoxemia (disorder) 11-21-2020
-Observation Body temperature 11-21-2020
-Observation Respiratory rate 11-21-2020
-Observation Heart rate 11-21-2020
-Observation Oxygen saturation in Arterial blood 11-21-2020
-Observation Blood Pressure 11-21-2020
-Observation Body Weight 11-21-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-21-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-21-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-21-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-21-2020
-Observation MCV [Entitic volume] by Automated count 11-21-2020
-Observation MCH [Entitic mass] by Automated count 11-21-2020
-Observation MCHC [Mass/volume] by Automated count 11-21-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-21-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-21-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-21-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-21-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-21-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-21-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-21-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-21-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-21-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-21-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-21-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-21-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-21-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-21-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-21-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-21-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-21-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-21-2020
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-21-2020
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-21-2020
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-21-2020
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Prothrombin time (PT) 11-21-2020
-Observation INR in Platelet poor plasma by Coagulation assay 11-21-2020
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-21-2020
-Observation Body temperature 11-22-2020
-Observation Respiratory rate 11-22-2020
-Observation Heart rate 11-22-2020
-Observation Oxygen saturation in Arterial blood 11-22-2020
-Observation Blood Pressure 11-22-2020
-Observation Body Weight 11-22-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-22-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-22-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-22-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-22-2020
-Observation MCV [Entitic volume] by Automated count 11-22-2020
-Observation MCH [Entitic mass] by Automated count 11-22-2020
-Observation MCHC [Mass/volume] by Automated count 11-22-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-22-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-22-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-22-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-22-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-22-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-22-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-22-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-22-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-22-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-22-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-22-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-22-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-22-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-22-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-22-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-22-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-22-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-22-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-22-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-22-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-22-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-22-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-22-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-22-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-22-2020
-Observation Body temperature 11-23-2020
-Observation Respiratory rate 11-23-2020
-Observation Heart rate 11-23-2020
-Observation Oxygen saturation in Arterial blood 11-23-2020
-Observation Blood Pressure 11-23-2020
-Observation Body Weight 11-23-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-23-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-23-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-23-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-23-2020
-Observation MCV [Entitic volume] by Automated count 11-23-2020
-Observation MCH [Entitic mass] by Automated count 11-23-2020
-Observation MCHC [Mass/volume] by Automated count 11-23-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-23-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-23-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-23-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-23-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-23-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-23-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-23-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-23-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-23-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-23-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-23-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-23-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-23-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-23-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-23-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-23-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-23-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-23-2020
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-23-2020
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-23-2020
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-23-2020
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Prothrombin time (PT) 11-23-2020
-Observation INR in Platelet poor plasma by Coagulation assay 11-23-2020
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-23-2020
-Observation Body temperature 11-24-2020
-Observation Respiratory rate 11-24-2020
-Observation Heart rate 11-24-2020
-Observation Oxygen saturation in Arterial blood 11-24-2020
-Observation Blood Pressure 11-24-2020
-Observation Body Weight 11-24-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-24-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-24-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-24-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-24-2020
-Observation MCV [Entitic volume] by Automated count 11-24-2020
-Observation MCH [Entitic mass] by Automated count 11-24-2020
-Observation MCHC [Mass/volume] by Automated count 11-24-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-24-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-24-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-24-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-24-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-24-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-24-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-24-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-24-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-24-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-24-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-24-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-24-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-24-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-24-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-24-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-24-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-24-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-24-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-24-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-24-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-24-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-24-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-24-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-24-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-24-2020
-Observation Body temperature 11-25-2020
-Observation Respiratory rate 11-25-2020
-Observation Heart rate 11-25-2020
-Observation Oxygen saturation in Arterial blood 11-25-2020
-Observation Blood Pressure 11-25-2020
-Observation Body Weight 11-25-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-25-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-25-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-25-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-25-2020
-Observation MCV [Entitic volume] by Automated count 11-25-2020
-Observation MCH [Entitic mass] by Automated count 11-25-2020
-Observation MCHC [Mass/volume] by Automated count 11-25-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-25-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-25-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-25-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-25-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-25-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-25-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-25-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-25-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-25-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-25-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-25-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-25-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-25-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-25-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-25-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-25-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-25-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-25-2020
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-25-2020
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-25-2020
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-25-2020
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Prothrombin time (PT) 11-25-2020
-Observation INR in Platelet poor plasma by Coagulation assay 11-25-2020
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-25-2020
-Observation Body temperature 11-26-2020
-Observation Respiratory rate 11-26-2020
-Observation Heart rate 11-26-2020
-Observation Oxygen saturation in Arterial blood 11-26-2020
-Observation Blood Pressure 11-26-2020
-Observation Body Weight 11-26-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-26-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-26-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-26-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-26-2020
-Observation MCV [Entitic volume] by Automated count 11-26-2020
-Observation MCH [Entitic mass] by Automated count 11-26-2020
-Observation MCHC [Mass/volume] by Automated count 11-26-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-26-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-26-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-26-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-26-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-26-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-26-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-26-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-26-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-26-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-26-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-26-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-26-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-26-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-26-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-26-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-26-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-26-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-26-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-26-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-26-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-26-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-26-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-26-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-26-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-26-2020
-Observation Body temperature 11-27-2020
-Observation Respiratory rate 11-27-2020
-Observation Heart rate 11-27-2020
-Observation Oxygen saturation in Arterial blood 11-27-2020
-Observation Blood Pressure 11-27-2020
-Observation Body Weight 11-27-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-27-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-27-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-27-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-27-2020
-Observation MCV [Entitic volume] by Automated count 11-27-2020
-Observation MCH [Entitic mass] by Automated count 11-27-2020
-Observation MCHC [Mass/volume] by Automated count 11-27-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-27-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-27-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-27-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-27-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-27-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-27-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-27-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-27-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-27-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-27-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-27-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-27-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-27-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-27-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-27-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-27-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-27-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-27-2020
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-27-2020
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-27-2020
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-27-2020
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Prothrombin time (PT) 11-27-2020
-Observation INR in Platelet poor plasma by Coagulation assay 11-27-2020
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-27-2020
-Observation Body temperature 11-28-2020
-Observation Respiratory rate 11-28-2020
-Observation Heart rate 11-28-2020
-Observation Oxygen saturation in Arterial blood 11-28-2020
-Observation Blood Pressure 11-28-2020
-Observation Body Weight 11-28-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-28-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-28-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-28-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-28-2020
-Observation MCV [Entitic volume] by Automated count 11-28-2020
-Observation MCH [Entitic mass] by Automated count 11-28-2020
-Observation MCHC [Mass/volume] by Automated count 11-28-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-28-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-28-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-28-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-28-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-28-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-28-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-28-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-28-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-28-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-28-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-28-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-28-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-28-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-28-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-28-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-28-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-28-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-28-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-28-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-28-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-28-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-28-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-28-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-28-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-28-2020
-Observation Body temperature 11-29-2020
-Observation Respiratory rate 11-29-2020
-Observation Heart rate 11-29-2020
-Observation Oxygen saturation in Arterial blood 11-29-2020
-Observation Blood Pressure 11-29-2020
-Observation Body Weight 11-29-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-29-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-29-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-29-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-29-2020
-Observation MCV [Entitic volume] by Automated count 11-29-2020
-Observation MCH [Entitic mass] by Automated count 11-29-2020
-Observation MCHC [Mass/volume] by Automated count 11-29-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-29-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-29-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-29-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-29-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-29-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-29-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-29-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-29-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-29-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-29-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-29-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-29-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-29-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-29-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-29-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-29-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-29-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 11-29-2020
-Observation Ferritin [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 11-29-2020
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 11-29-2020
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 11-29-2020
-Observation C reactive protein [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Prothrombin time (PT) 11-29-2020
-Observation INR in Platelet poor plasma by Coagulation assay 11-29-2020
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 11-29-2020
-Observation Body temperature 11-30-2020
-Observation Respiratory rate 11-30-2020
-Observation Heart rate 11-30-2020
-Observation Oxygen saturation in Arterial blood 11-30-2020
-Observation Blood Pressure 11-30-2020
-Observation Body Weight 11-30-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 11-30-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 11-30-2020
-Observation Hemoglobin [Mass/volume] in Blood 11-30-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 11-30-2020
-Observation MCV [Entitic volume] by Automated count 11-30-2020
-Observation MCH [Entitic mass] by Automated count 11-30-2020
-Observation MCHC [Mass/volume] by Automated count 11-30-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 11-30-2020
-Observation Platelets [#/volume] in Blood by Automated count 11-30-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 11-30-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 11-30-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 11-30-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 11-30-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 11-30-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 11-30-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 11-30-2020
-Observation Monocytes [#/volume] in Blood by Automated count 11-30-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 11-30-2020
-Observation Basophils [#/volume] in Blood by Automated count 11-30-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 11-30-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 11-30-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 11-30-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 11-30-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 11-30-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 11-30-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 11-30-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 11-30-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 11-30-2020
-Observation Protein [Mass/volume] in Serum or Plasma 11-30-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 11-30-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 11-30-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11-30-2020
-Observation Body temperature 12-01-2020
-Observation Respiratory rate 12-01-2020
-Observation Heart rate 12-01-2020
-Observation Oxygen saturation in Arterial blood 12-01-2020
-Observation Blood Pressure 12-01-2020
-Observation Body Weight 12-01-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 12-01-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 12-01-2020
-Observation Hemoglobin [Mass/volume] in Blood 12-01-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 12-01-2020
-Observation MCV [Entitic volume] by Automated count 12-01-2020
-Observation MCH [Entitic mass] by Automated count 12-01-2020
-Observation MCHC [Mass/volume] by Automated count 12-01-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 12-01-2020
-Observation Platelets [#/volume] in Blood by Automated count 12-01-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 12-01-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-01-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 12-01-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 12-01-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 12-01-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 12-01-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 12-01-2020
-Observation Monocytes [#/volume] in Blood by Automated count 12-01-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 12-01-2020
-Observation Basophils [#/volume] in Blood by Automated count 12-01-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 12-01-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 12-01-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 12-01-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-01-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 12-01-2020
-Observation Protein [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
-Observation Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 12-01-2020
-Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020
-Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 12-01-2020
-Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
-Observation C reactive protein [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Prothrombin time (PT) 12-01-2020
-Observation INR in Platelet poor plasma by Coagulation assay 12-01-2020
-Observation Procalcitonin [Mass/volume] in Serum or Plasma 12-01-2020
-Observation Body temperature 12-02-2020
-Observation Respiratory rate 12-02-2020
-Observation Heart rate 12-02-2020
-Observation Oxygen saturation in Arterial blood 12-02-2020
-Observation Blood Pressure 12-02-2020
-Observation Body Weight 12-02-2020
-Observation Leukocytes [#/volume] in Blood by Automated count 12-02-2020
-Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020
-Observation Hemoglobin [Mass/volume] in Blood 12-02-2020
-Observation Hematocrit [Volume Fraction] of Blood by Automated count 12-02-2020
-Observation MCV [Entitic volume] by Automated count 12-02-2020
-Observation MCH [Entitic mass] by Automated count 12-02-2020
-Observation MCHC [Mass/volume] by Automated count 12-02-2020
-Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020
-Observation Platelets [#/volume] in Blood by Automated count 12-02-2020
-Observation Neutrophils/100 leukocytes in Blood by Automated count 12-02-2020
-Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-02-2020
-Observation Monocytes/100 leukocytes in Blood by Automated count 12-02-2020
-Observation Eosinophils/100 leukocytes in Blood by Automated count 12-02-2020
-Observation Basophils/100 leukocytes in Blood by Automated count 12-02-2020
-Observation Neutrophils [#/volume] in Blood by Automated count 12-02-2020
-Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020
-Observation Monocytes [#/volume] in Blood by Automated count 12-02-2020
-Observation Eosinophils [#/volume] in Blood by Automated count 12-02-2020
-Observation Basophils [#/volume] in Blood by Automated count 12-02-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020
-Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-02-2020
-Observation Creatinine [Mass/volume] in Serum or Plasma 12-02-2020
-Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020
-Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020
-Observation Potassium [Moles/volume] in Serum or Plasma 12-02-2020
-Observation Chloride [Moles/volume] in Serum or Plasma 12-02-2020
-Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020
-Observation Glomerular filtration rate/1.73 sq M.predicted 12-02-2020
-Observation Protein [Mass/volume] in Serum or Plasma 12-02-2020
-Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020
-Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-02-2020
-Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
-Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
-Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
-Observation Body temperature 12-02-2020
-Observation SARS-CoV-2 RNA Pnl Resp NAA+probe 12-02-2020
-Observation Body temperature 12-03-2020
-Observation SARS-CoV-2 RNA Pnl Resp NAA+probe 12-03-2020
-Procedure Plain chest X-ray (procedure) 11-21-2020
-Procedure Oxygen administration by mask (procedure) 11-21-2020
-Procedure Placing subject in prone position (procedure) 11-21-2020
-Procedure Oxygen administration by mask (procedure) 11-22-2020
-Procedure Placing subject in prone position (procedure) 11-22-2020
-Procedure Oxygen administration by mask (procedure) 11-23-2020
-Procedure Placing subject in prone position (procedure) 11-23-2020
-Procedure Oxygen administration by mask (procedure) 11-24-2020
-Procedure Placing subject in prone position (procedure) 11-24-2020
-Procedure Oxygen administration by mask (procedure) 11-25-2020
-Procedure Placing subject in prone position (procedure) 11-25-2020
-Procedure Oxygen administration by mask (procedure) 11-26-2020
-Procedure Placing subject in prone position (procedure) 11-26-2020
-Procedure Oxygen administration by mask (procedure) 11-27-2020
-Procedure Placing subject in prone position (procedure) 11-27-2020
-Procedure Oxygen administration by mask (procedure) 11-28-2020
-Procedure Placing subject in prone position (procedure) 11-28-2020
-Procedure Oxygen administration by mask (procedure) 11-29-2020
-Procedure Placing subject in prone position (procedure) 11-29-2020
-Procedure Oxygen administration by mask (procedure) 11-30-2020
-Procedure Placing subject in prone position (procedure) 11-30-2020
-Procedure Oxygen administration by mask (procedure) 12-01-2020
-Procedure Placing subject in prone position (procedure) 12-01-2020
-Procedure Oxygen administration by mask (procedure) 12-02-2020
-Procedure Placing subject in prone position (procedure) 12-02-2020
-Encounter General examination of patient (procedure) 09-08-2021
-Condition Full-time employment (finding) 09-08-2021
-Condition Stress (finding) 09-08-2021
-Observation Body Height 09-08-2021
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-08-2021
-Observation Body Weight 09-08-2021
-Observation Body Mass Index 09-08-2021
-Observation Blood Pressure 09-08-2021
-Observation Heart rate 09-08-2021
-Observation Respiratory rate 09-08-2021
-Observation Tobacco smoking status NHIS 09-08-2021
-Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-08-2021
-Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-08-2021
-Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021
-Observation Total score [AUDIT-C] 09-08-2021
-Procedure Assessment of health and social care needs (procedure) 09-08-2021
-Procedure Assessment of anxiety (procedure) 09-08-2021
-Procedure Depression screening (procedure) 09-08-2021
-Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-08-2021
-Procedure Assessment of substance use (procedure) 09-08-2021
-Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-08-2021
-MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-08-2021
 Immunization Influenza, seasonal, injectable, preservative free 09-08-2021
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-08-2021
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-08-2021
+Procedure Assessment of substance use (procedure) 09-08-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-08-2021
+Procedure Depression screening (procedure) 09-08-2021
+Procedure Assessment of anxiety (procedure) 09-08-2021
+Procedure Assessment of health and social care needs (procedure) 09-08-2021
+Observation Total score [AUDIT-C] 09-08-2021
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-08-2021
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-08-2021
+Observation Tobacco smoking status NHIS 09-08-2021
+Observation Respiratory rate 09-08-2021
+Observation Heart rate 09-08-2021
+Observation Blood Pressure 09-08-2021
+Observation Body Mass Index 09-08-2021
+Observation Body Weight 09-08-2021
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-08-2021
+Observation Body Height 09-08-2021
+Condition Stress (finding) 09-08-2021
+Condition Full-time employment (finding) 09-08-2021
+Encounter General examination of patient (procedure) 09-08-2021
+Procedure Placing subject in prone position (procedure) 12-02-2020
+Procedure Oxygen administration by mask (procedure) 12-02-2020
+Procedure Placing subject in prone position (procedure) 12-01-2020
+Procedure Oxygen administration by mask (procedure) 12-01-2020
+Procedure Placing subject in prone position (procedure) 11-30-2020
+Procedure Oxygen administration by mask (procedure) 11-30-2020
+Procedure Placing subject in prone position (procedure) 11-29-2020
+Procedure Oxygen administration by mask (procedure) 11-29-2020
+Procedure Placing subject in prone position (procedure) 11-28-2020
+Procedure Oxygen administration by mask (procedure) 11-28-2020
+Procedure Placing subject in prone position (procedure) 11-27-2020
+Procedure Oxygen administration by mask (procedure) 11-27-2020
+Procedure Placing subject in prone position (procedure) 11-26-2020
+Procedure Oxygen administration by mask (procedure) 11-26-2020
+Procedure Placing subject in prone position (procedure) 11-25-2020
+Procedure Oxygen administration by mask (procedure) 11-25-2020
+Procedure Placing subject in prone position (procedure) 11-24-2020
+Procedure Oxygen administration by mask (procedure) 11-24-2020
+Procedure Placing subject in prone position (procedure) 11-23-2020
+Procedure Oxygen administration by mask (procedure) 11-23-2020
+Procedure Placing subject in prone position (procedure) 11-22-2020
+Procedure Oxygen administration by mask (procedure) 11-22-2020
+Procedure Placing subject in prone position (procedure) 11-21-2020
+Procedure Oxygen administration by mask (procedure) 11-21-2020
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Observation SARS-CoV-2 RNA Pnl Resp NAA+probe 12-03-2020
+Observation Body temperature 12-03-2020
+Observation SARS-CoV-2 RNA Pnl Resp NAA+probe 12-02-2020
+Observation Body temperature 12-02-2020
+Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Protein [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted 12-02-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Creatinine [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Basophils [#/volume] in Blood by Automated count 12-02-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 12-02-2020
+Observation Monocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 12-02-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Eosinophils/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Monocytes/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Neutrophils/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Platelets [#/volume] in Blood by Automated count 12-02-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020
+Observation MCHC [Mass/volume] by Automated count 12-02-2020
+Observation MCH [Entitic mass] by Automated count 12-02-2020
+Observation MCV [Entitic volume] by Automated count 12-02-2020
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 12-02-2020
+Observation Hemoglobin [Mass/volume] in Blood 12-02-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Body Weight 12-02-2020
+Observation Blood Pressure 12-02-2020
+Observation Oxygen saturation in Arterial blood 12-02-2020
+Observation Heart rate 12-02-2020
+Observation Respiratory rate 12-02-2020
+Observation Body temperature 12-02-2020
+Observation Procalcitonin [Mass/volume] in Serum or Plasma 12-01-2020
+Observation INR in Platelet poor plasma by Coagulation assay 12-01-2020
+Observation Prothrombin time (PT) 12-01-2020
+Observation C reactive protein [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
+Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 12-01-2020
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020
+Condition Hypoxemia (disorder) 11-21-2020
+Encounter Hospital admission for isolation (procedure) 11-21-2020
+Procedure Face mask (physical object) 11-21-2020
+Encounter Encounter for symptom (procedure) 11-21-2020
+Immunization Influenza, seasonal, injectable, preservative free 09-02-2020
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-02-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-02-2020
+Procedure Assessment of substance use (procedure) 09-02-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-02-2020
+Procedure Depression screening (procedure) 09-02-2020
+Procedure Medication Reconciliation (procedure) 09-02-2020
+Procedure Assessment of health and social care needs (procedure) 09-02-2020
+Encounter General examination of patient (procedure) 09-02-2020
+Immunization Hep B, adult 08-28-2019
+Immunization Influenza, seasonal, injectable, preservative free 08-28-2019
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-28-2019
+Procedure Screening for drug abuse (procedure) 08-28-2019
+Procedure Assessment of substance use (procedure) 08-28-2019
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-28-2019
+Procedure Depression screening (procedure) 08-28-2019
+Procedure Assessment of anxiety (procedure) 08-28-2019
+Procedure Assessment of health and social care needs (procedure) 08-28-2019
+Condition Misuses drugs (finding) 08-28-2019
+Encounter General examination of patient (procedure) 08-28-2019
+Immunization meningococcal MCV4P 08-22-2018
+Immunization Hep B, adult 08-22-2018
+Immunization Td (adult) preservative free 08-22-2018
+Immunization Influenza, seasonal, injectable, preservative free 08-22-2018
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-22-2018
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-22-2018
+Procedure Assessment of substance use (procedure) 08-22-2018
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-22-2018
+Procedure Depression screening (procedure) 08-22-2018
+Procedure Assessment of anxiety (procedure) 08-22-2018
+Procedure Assessment of health and social care needs (procedure) 08-22-2018
+Encounter General examination of patient (procedure) 08-22-2018
+Immunization Hep B, adult 08-16-2017
+Immunization Influenza, seasonal, injectable, preservative free 08-16-2017
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-16-2017
+Procedure Screening for drug abuse (procedure) 08-16-2017
+Procedure Assessment of substance use (procedure) 08-16-2017
+Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 08-16-2017
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017
+Procedure Depression screening (procedure) 08-16-2017
+Procedure Assessment of health and social care needs (procedure) 08-16-2017
+Encounter General examination of patient (procedure) 08-16-2017
+Immunization Influenza, seasonal, injectable, preservative free 08-10-2016
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016
+Procedure Assessment of substance use (procedure) 08-10-2016
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-10-2016
+Procedure Depression screening (procedure) 08-10-2016
+Procedure Assessment of anxiety (procedure) 08-10-2016
+Procedure Medication Reconciliation (procedure) 08-10-2016
+Procedure Assessment of health and social care needs (procedure) 08-10-2016
+Encounter General examination of patient (procedure) 08-10-2016
+Encounter Hypertension follow-up encounter 01-02-2016
+Encounter Hypertension follow-up encounter 11-03-2015
+Encounter Hypertension follow-up encounter 09-04-2015
+Immunization Influenza, seasonal, injectable, preservative free 08-05-2015
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-05-2015
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-05-2015
+Condition Limited social contact (finding) 08-05-2015
+Condition Received higher education (finding) 08-05-2015
+Condition Housing unsatisfactory (finding) 08-05-2015
+Condition Hypertension 08-05-2015
+Encounter General examination of patient (procedure) 08-05-2015
+Immunization Influenza, seasonal, injectable, preservative free 07-30-2014
+Encounter Well child visit (procedure) 07-30-2014
+Encounter Encounter for symptom 07-20-2014
+Immunization meningococcal MCV4P 07-24-2013
+Encounter Well child visit (procedure) 07-24-2013
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
+Encounter Encounter for symptom 12-21-2012
+Immunization Influenza, seasonal, injectable, preservative free 12-26-2012
+Encounter Encounter for check up (procedure) 12-26-2012
+Immunization Influenza, seasonal, injectable, preservative free 07-18-2012
+Encounter Well child visit (procedure) 07-18-2012
+Encounter Well child visit (procedure) 07-07-2010
