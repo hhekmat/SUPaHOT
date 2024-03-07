@@ -1,6 +1,0 @@
-Based on the provided pseudo patient data, the medications prescribed in the last year are:
-
-1. Fexofenadine hydrochloride 30 MG Oral Tablet - prescribed on 08-22-2017
-2. NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector - prescribed on 08-30-2017
-
-Please note that the last two medications listed were prescribed after the last year timeframe.

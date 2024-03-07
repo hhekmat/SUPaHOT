@@ -1,1 +1,0 @@
-Based on the provided pseudo patient data, your current heart rate is 91 beats per minute.

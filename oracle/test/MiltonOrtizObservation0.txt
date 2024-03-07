@@ -1,8 +1,0 @@
-Based on the provided data, your current vital signs are as follows:
-
-- Body temperature: 36.94 Cel
-- Heart rate: 80 /min
-- Respiratory rate: 15 /min
-- Blood Pressure: Not available
-
-If you have any specific concerns or need further information, feel free to ask!

@@ -1,8 +1,0 @@
-Based on the provided pseudo patient data, you currently have the following prescribed medications:
-- Verapamil Hydrochloride 40 MG
-- Lisinopril 10 MG Oral Tablet
-- Digoxin 0.125 MG Oral Tablet
-- Warfarin Sodium 5 MG Oral Tablet
-- Galantamine 4 MG Oral Tablet
-
-It seems like you have been prescribed these medications over a period of time, with the most recent addition being Galantamine 4 MG Oral Tablet on 02-09-2021.

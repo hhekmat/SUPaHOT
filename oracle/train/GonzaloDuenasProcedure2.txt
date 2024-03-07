@@ -1,1 +1,0 @@
-Based on the provided pseudo patient data, there are upcoming hospice care appointments scheduled starting from February 9, 2023, and continuing until March 8, 2023.

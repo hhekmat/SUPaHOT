@@ -1,6 +1,0 @@
-Based on the provided pseudo patient data, you have been prescribed the following medications recently:
-
-1. Penicillin V Potassium 250 MG Oral Tablet on 02-26-2022
-2. Penicillin V Potassium 250 MG Oral Tablet on 02-17-2021
-
-Please consult with your healthcare provider for any further information or clarification regarding your recent prescriptions.

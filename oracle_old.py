@@ -47,7 +47,6 @@ def process_files(base_dir='queries', output_dir='oracle'):
                 output_subdir = os.path.join(output_dir, relative_path)
                 os.makedirs(output_subdir, exist_ok=True)  # Ensure the subdirectory exists
 
-                # Modifying the filename to append '_reference' before the file extension
                 base_filename, file_extension = os.path.splitext(file)
                 output_filename = f"{base_filename}{file_extension}"
                 output_file = os.path.join(output_subdir, output_filename)

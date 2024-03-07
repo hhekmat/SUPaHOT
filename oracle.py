@@ -79,7 +79,13 @@ def process_files(task):
 
                 oracle_response = generate_oracle_response(query, relevant_data, task)
 
-                output_file = os.path.join(output_dir, file)
+                relative_path = os.path.relpath(root, base_dir)
+                output_subdir = os.path.join(output_dir, relative_path)
+                os.makedirs(output_subdir, exist_ok=True)  # Ensure the subdirectory exists
+
+                base_filename, file_extension = os.path.splitext(file)
+                output_filename = f"{base_filename}{file_extension}"
+                output_file = os.path.join(output_subdir, output_filename)
 
                 os.makedirs(output_dir, exist_ok=True)  # Ensure the output directory exists
 
