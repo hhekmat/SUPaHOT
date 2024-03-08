@@ -27,7 +27,7 @@ def load_data(task, ft):
         meditron_dict = read_txt_files_into_dict(f"./task_{task}/meditron/test")
     else:
         meditron_dict = read_txt_files_into_dict(f"./task_{task}/meditron_ft/test")
-    oracle_dict = read_txt_files_into_dict(f".task_{task}/oracle/test")
+    oracle_dict = read_txt_files_into_dict(f"./task_{task}/oracle/test")
     
     meditron_list = []
     oracle_list = []
