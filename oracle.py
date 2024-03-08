@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+import json
 from openai import OpenAI
 
 # Initialize the OpenAI client with your API key
@@ -27,7 +28,8 @@ def generate_oracle_response(prompt):
 
 def process_task_1():
     base_dir = 'queries'
-    output_dir = 'task_1/oracle'
+    output_dir = 'task_1/oracle/output'
+    finetune_dir = 'task_1/oracle/finetune'
     relevant_data_dir = 'all_resources'
 
     for root, dirs, files in os.walk(base_dir):
@@ -42,6 +44,7 @@ def process_task_1():
                 relevant_data_file = os.path.join(relevant_data_dir, f"{stripped_filename}resources.txt")
 
                 if os.path.exists(relevant_data_file):
+                    finetune_data = []
                     with open(relevant_data_file, 'r') as f:
                         relevant_resources = []
                         for resource_line in f:
@@ -50,6 +53,7 @@ def process_task_1():
                             oracle_response = generate_oracle_response(prompt)
                             if oracle_response == "Y":
                                 relevant_resources.append(resource)
+                            finetune_data.append({"query": query, "resource": resource, "label": oracle_response})
 
                     output_subdir = os.path.join(output_dir, os.path.relpath(root, base_dir))
                     os.makedirs(output_subdir, exist_ok=True)
@@ -58,7 +62,16 @@ def process_task_1():
                     with open(output_file, 'w') as f:
                         f.writelines("%s\n" % resource for resource in relevant_resources)
 
+                    finetune_subdir = os.path.join(finetune_dir, os.path.relpath(root, base_dir))
+                    os.makedirs(finetune_subdir, exist_ok=True)
+                    finetune_file = os.path.join(output_subdir, file)
+
+                    with open(finetune_file, 'w') as f:
+                        for item in finetune_data:
+                            f.write(json.dumps(item) + '\n')
+
                     print(f'Processed {file_path} -> {output_file}')
+                    print(f'Finetuning data saved to {finetune_file}')
 
 def process_task_2():
     base_dir = 'queries'
