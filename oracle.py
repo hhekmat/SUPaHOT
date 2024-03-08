@@ -28,8 +28,8 @@ def generate_oracle_response(prompt):
 
 def process_task_1():
     base_dir = 'queries'
-    output_dir = 'task_1/oracle/output'
-    finetune_dir = 'task_1/oracle/finetune'
+    output_dir = 'task_1/output/oracle'
+    finetune_dir = 'task_1/finetune/oracle'
     relevant_data_dir = 'all_resources'
 
     for root, dirs, files in os.walk(base_dir):
@@ -64,7 +64,7 @@ def process_task_1():
 
                     finetune_subdir = os.path.join(finetune_dir, os.path.relpath(root, base_dir))
                     os.makedirs(finetune_subdir, exist_ok=True)
-                    finetune_file = os.path.join(output_subdir, file)
+                    finetune_file = os.path.join(finetune_subdir, file.replace('.txt', '.jsonl'))
 
                     with open(finetune_file, 'w') as f:
                         for item in finetune_data:
