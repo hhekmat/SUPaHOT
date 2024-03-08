@@ -51,7 +51,7 @@ def process_task_1():
                             resource = resource_line.strip()
                             prompt = f"Assume a patient has asked you the question '{query}', would the following resource from this patient's medical file be relevant in providing an answer to this query? Respond with 'True' or 'False'. The resource is {resource}"
                             oracle_response = generate_oracle_response(prompt)
-                            if oracle_response == "Y":
+                            if oracle_response == "True":
                                 relevant_resources.append(resource)
                             finetune_data.append({"query": query, "resource": resource, "label": oracle_response})
 
