@@ -13,7 +13,7 @@ def generate_oracle_response(prompt):
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
-            {"role": "system", "content": "You are a helpful, respectful and honest assistant. Answer with 'Y' or 'N'."},
+            {"role": "system", "content": "Your job is to determine if a given resource from a patient's medical data file is relevant to answering a specific query about their health data. You will be given a query and a resource, and you will respond with 'True' or 'False' to indicate if the resource is relevant to the query."},
             {"role": "user", "content": prompt}
         ],
         max_tokens=256,
@@ -49,7 +49,7 @@ def process_task_1():
                         relevant_resources = []
                         for resource_line in f:
                             resource = resource_line.strip()
-                            prompt = f"For the query: '{query}', is the following resource relevant? Respond with 'Y' or 'N': {resource}"
+                            prompt = f"Assume a patient has asked you the question '{query}', would the following resource from this patient's medical file be relevant in providing an answer to this query? Respond with 'True' or 'False'. The resource is {resource}"
                             oracle_response = generate_oracle_response(prompt)
                             if oracle_response == "Y":
                                 relevant_resources.append(resource)
