@@ -1,5 +1,1 @@
-- What was my hemoglobin level on July 7, 2020?
-- Can you tell me the result of my chloride observation on July 7, 2020?
-- What was my carbon dioxide level on December 28, 2020?
-- When did I have a general examination of the patient procedure?
-- What is the finding related to full-time employment on December 28, 2020?
+"What was my sodium level on July 3rd, 2018, and is it within the normal range?"

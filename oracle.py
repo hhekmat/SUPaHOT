@@ -4,33 +4,42 @@ import sys
 import json
 import asyncio
 import aiofiles
+import backoff
 from preprocess import global_resource_dict
-from openai import OpenAI
+#from openai import OpenAI
 from openai import AsyncOpenAI
 
 client = AsyncOpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+MAX_ASYNC_TASKS = 3
+semaphore = asyncio.Semaphore(MAX_ASYNC_TASKS)
+
+@backoff.on_exception(backoff.expo,
+                      Exception,  # Replace with a more specific exception if possible
+                      max_tries=8)
 
 # Initialize the OpenAI client with your API key
 # client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-async def generate_oracle_response(prompt):
-    
-    # Using the new chat completions API format for a single resource check
-    response = await client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": "You are a helpful medical assistant, users ask you questions pertaining to their health care information. You will help and be as concise and clear as possible."},
-            {"role": "user", "content": prompt}
-        ],
-        max_tokens=256,
-        temperature=0.01
-    )
-
-    # Extracting and returning the response
-    if response.choices and response.choices[0].message:
-        return response.choices[0].message.content.strip()
-    else:
-        return "No response generated."
+async def generate_oracle_response(user_prompt):
+    SYSTEM_PROMPT = "Given a query and a resource from a patient's medical record, your job is to determine if the resource is relevant to providing an answer to the patient's query about their medical history. Respond only with 'True' if the resource is relevant, or 'False' if the resource would not be helpful in providing the patient an answer to their question."
+    async with semaphore:
+        try:
+            response = await client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt}
+            ],
+            max_tokens=256,
+            temperature=0.01
+        )
+            if response.choices and response.choices[0].message:
+                return response.choices[0].message.content.strip()
+            else:
+                return "No response generated."
+        except Exception as e:
+            print(f"Error during API call: {e}")
+            return None
 
 async def process_task_1():
     base_dir = 'queries'
@@ -61,7 +70,8 @@ async def process_task_1():
                             oracle_tasks.append(generate_oracle_response(prompt))
                             resource_lines.append(resource)
 
-                        responses = await asyncio.gather(*oracle_tasks)
+                        for i in range(0, len(oracle_tasks), MAX_ASYNC_TASKS):
+                            responses = await asyncio.gather(*oracle_tasks[i:i+MAX_ASYNC_TASKS])
 
                     for resource, oracle_response in zip(resource_lines, responses):
                         if oracle_response == "True":
@@ -196,7 +206,7 @@ if __name__ == '__main__':
             asyncio.run(process_task_1())
         # elif task == 2: call process_task_2()
         # elif task == 3: call process_task_3()
-            process_task_1()
+            #process_task_1()
         elif task == 2:
             process_task_2()
         elif task == 3: 

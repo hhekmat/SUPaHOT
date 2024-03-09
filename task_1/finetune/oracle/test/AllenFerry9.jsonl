@@ -1,0 +1,2 @@
+{"query": "\"What was my pain severity score when I last reported it in February 2021?\"", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-25-2021", "label": "False"}
+{"query": "\"What was my pain severity score when I last reported it in February 2021?\"", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 05-25-2021", "label": "False"}
