@@ -17,14 +17,14 @@ def generate_queries():
             for line in file:
                 resource_labels.append(line.strip())
         for i in range(100):
-            curr_subset = random.choices(resource_labels, k=random.randint(1, 5))
+            curr_subset = random.choices(resource_labels, k=random.randint(1, 3))
             if i < 80:
                 output_path = os.path.join("./queries/train", patient[:-13] + str(i) + '.txt')
             elif i < 90:
                 output_path = os.path.join("./queries/validation", patient[:-13] + str(i) + '.txt')
             else:
                 output_path = os.path.join("./queries/test", patient[:-13] + str(i) + '.txt')
-            prompt = "Here is a subset of a patient's FHIR Data Resources:\n" + "\n".join(curr_subset) + "\n\nGenerate a query that a patient with this history would have. Make it succinct, specific, non-technical, and like a normal person. For example, 'What are my current medicines?' or 'When was my last shot?'" 
+            prompt = "Here is a subset of a patient's medical data points:\n" + "\n".join(curr_subset) + "\n\nGenerate a query that a patient with this history might have. The query doesn't have to pertain to all of the resources, but at least one resource should be relevant to answering the query. Make it succinct, specific, non-technical, and like a normal person. For example, 'What are my current medicines?' or 'When was my last shot?'" 
             chat_completion = client.chat.completions.create(
                 messages=[
                     {

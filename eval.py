@@ -88,5 +88,5 @@ if __name__ == "__main__":
     print('bertSCORE F1: ' + str(bF1))
     report += ' bertSCORE precision: ' + str(bP) + ' bertSCORE recall: ' + str(bR) + 'bertSCORE F1: ' + str(bF1)
 
-    with open('/mnt/data/report_eval.txt', 'w') as file:
+    with open('/mnt/data/report_eval.txt', 'a') as file:
         file.write(report)

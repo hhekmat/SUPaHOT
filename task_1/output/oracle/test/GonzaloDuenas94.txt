@@ -1,0 +1,3 @@
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-06-2023
+Observation Fall risk total [Morse Fall Scale] 07-06-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-06-2023

@@ -1,1 +1,1 @@
-What is my latest heart rate measurement and when was it taken?
+"How has my heart rate changed over the past year?"

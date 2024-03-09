@@ -2,15 +2,20 @@ import os
 import re
 import sys
 import json
+import asyncio
+import aiofiles
 from openai import OpenAI
+from openai import AsyncOpenAI
+
+client = AsyncOpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 # Initialize the OpenAI client with your API key
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+# client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-def generate_oracle_response(prompt):
+async def generate_oracle_response(prompt):
     
     # Using the new chat completions API format for a single resource check
-    response = client.chat.completions.create(
+    response = await client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "Your job is to determine if a given resource from a patient's medical data file is relevant to answering a specific query about their health data. You will be given a query and a resource, and you will respond with 'True' or 'False' to indicate if the resource is relevant to the query."},
@@ -26,7 +31,7 @@ def generate_oracle_response(prompt):
     else:
         return "No response generated."
 
-def process_task_1():
+async def process_task_1():
     base_dir = 'queries'
     output_dir = 'task_1/output/oracle'
     finetune_dir = 'task_1/finetune/oracle'
@@ -36,8 +41,8 @@ def process_task_1():
         for file in files:
             if file.endswith('.txt'):
                 file_path = os.path.join(root, file)
-                with open(file_path, 'r') as f:
-                    lines = f.readlines()
+                async with aiofiles.open(file_path, 'r') as f:
+                    lines = await f.readlines()
 
                 query = lines[0].strip()
                 stripped_filename = re.sub(r'\d+', '', file.split('.')[0])
@@ -45,15 +50,22 @@ def process_task_1():
 
                 if os.path.exists(relevant_data_file):
                     finetune_data = []
+                    oracle_tasks = []
+                    resource_lines = []
+                    relevant_resources = []
                     with open(relevant_data_file, 'r') as f:
-                        relevant_resources = []
                         for resource_line in f:
                             resource = resource_line.strip()
-                            prompt = f"Assume a patient has asked you the question '{query}', would the following resource from this patient's medical file be relevant in providing an answer to this query? Respond with 'True' or 'False'. The resource is {resource}"
-                            oracle_response = generate_oracle_response(prompt)
-                            if oracle_response == "True":
-                                relevant_resources.append(resource)
-                            finetune_data.append({"query": query, "resource": resource, "label": oracle_response})
+                            prompt = f"Query: {query}, resource: {resource}"
+                            oracle_tasks.append(generate_oracle_response(prompt))
+                            resource_lines.append(resource)
+
+                        responses = await asyncio.gather(*oracle_tasks)
+
+                    for resource, oracle_response in zip(resource_lines, responses):
+                        if oracle_response == "True":
+                            relevant_resources.append(resource)
+                        finetune_data.append({"query": query, "resource": resource, "label": oracle_response})
 
                     output_subdir = os.path.join(output_dir, os.path.relpath(root, base_dir))
                     os.makedirs(output_subdir, exist_ok=True)
@@ -94,16 +106,16 @@ def process_task_2():
                         relevant_resources = []
                         for resource_line in f:
                             resource = resource_line.strip()
-                            prompt = f"For the query: '{query}', is the following resource relevant? Respond with 'Y' or 'N': {resource}"
+                            prompt = f"Assume a patient has asked '{query}' about their own medical records, is the following resource from the patient's medical records relevant to answering this query? Respond with 'True' or 'False'. The resouce is {resource}"
                             oracle_response = generate_oracle_response(prompt)
-                            if oracle_response == "Y":
+                            if oracle_response == "True":
                                 relevant_resources.append(resource)
 
                     output_subdir = os.path.join(output_dir, os.path.relpath(root, base_dir))
                     os.makedirs(output_subdir, exist_ok=True)
                     output_file = os.path.join(output_subdir, file)
 
-                    with open(output_file, 'w') as f:
+                    with open(output_file, 'a') as f:
                         f.writelines("%s\n" % resource for resource in relevant_resources)
 
                     print(f'Processed {file_path} -> {output_file}')
@@ -115,7 +127,7 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         task = int(sys.argv[1])
         if task == 1:
-            process_task_1()
+            asyncio.run(process_task_1())
         # elif task == 2: call process_task_2()
         # elif task == 3: call process_task_3()
         else:
