@@ -1,0 +1,26 @@
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2021
+Procedure Depression screening (procedure) 02-09-2021
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-09-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-04-2020
+Procedure Depression screening (procedure) 02-04-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-04-2020
+Observation Total score [HARK] 02-04-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-29-2019
+Procedure Depression screening (procedure) 01-29-2019
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 01-29-2019
+Observation Total score [HARK] 01-29-2019
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-23-2018
+Procedure Depression screening (procedure) 01-23-2018
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-17-2017
+Procedure Depression screening (procedure) 01-17-2017
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-12-2016
+Procedure Depression screening (procedure) 01-12-2016
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-06-2015
+Procedure Depression screening (procedure) 01-06-2015
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-31-2013
+Procedure Depression screening (procedure) 12-31-2013
+Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 12-25-2012
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-25-2012
+Procedure Depression screening (procedure) 12-25-2012
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-20-2011
+Procedure Depression screening (procedure) 12-20-2011

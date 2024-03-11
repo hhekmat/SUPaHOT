@@ -1,0 +1,23 @@
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-29-2020
+Procedure Depression screening (procedure) 12-29-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-07-2020
+Procedure Depression screening (procedure) 07-07-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-07-2020
+Encounter General examination of patient (procedure) 07-07-2020
+Encounter Consultation for treatment 01-27-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018
+Procedure Depression screening (procedure) 07-03-2018
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-03-2018
+Encounter General examination of patient (procedure) 07-03-2018
+Encounter Patient encounter procedure 02-07-2017
+Encounter Consultation for treatment 02-02-2017
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016
+Procedure Depression screening (procedure) 06-28-2016
+Procedure Assessment of health and social care needs (procedure) 06-28-2016
+Encounter General examination of patient (procedure) 06-28-2016
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014
+Procedure Depression screening (procedure) 06-24-2014
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+Encounter General examination of patient (procedure) 06-24-2014
+Encounter General examination of patient (procedure) 08-30-2005

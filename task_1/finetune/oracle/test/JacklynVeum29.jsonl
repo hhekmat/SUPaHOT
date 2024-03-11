@@ -1,0 +1,264 @@
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 10-31-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Sprain of ankle 10-31-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Sprain (morphologic abnormality) 10-31-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Emergency room admission (procedure) 10-31-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Screening for drug abuse (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Total score [DAST-10] 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Fall risk level [Morse Fall Scale] 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Fall risk total [Morse Fall Scale] 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Tobacco smoking status 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Respiratory rate 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Heart rate 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Blood pressure panel with all children optional 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Body mass index (BMI) [Ratio] 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Body Weight 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Body Height 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Leukocyte esterase [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Nitrite [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Protein [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Protein [Mass/volume] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation pH of Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Specific gravity of Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Ketones [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Ketones [Mass/volume] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Bilirubin.total [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Bilirubin.total [Mass/volume] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Glucose [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Glucose [Mass/volume] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Color of Urine 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Clarity of Urine 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Odor of Urine 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Appearance of Urine 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Chloride [Moles/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Potassium [Moles/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Sodium [Moles/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Calcium [Mass/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Creatinine [Mass/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Urea nitrogen [Mass/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Glucose [Mass/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Urgent care clinic (environment) 09-27-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of anxiety (procedure) 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Total score [AUDIT-C] 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Tobacco smoking status 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Respiratory rate 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Heart rate 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Blood pressure panel with all children optional 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Body mass index (BMI) [Ratio] 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Body Weight 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Body Height 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Leukocyte esterase [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Hemoglobin [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Nitrite [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Protein [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Protein [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation pH of Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Specific gravity of Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Ketones [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Glucose [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Glucose [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Color of Urine 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Medication review due (situation) 03-15-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 03-15-2023", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 01-04-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 01-04-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-04-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of anxiety (procedure) 01-04-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-04-2023", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Medication Reconciliation (procedure) 01-04-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Full-time employment (finding) 01-04-2023", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 01-04-2023", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 10-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Screening for drug abuse (procedure) 10-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 10-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 10-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 10-05-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Medication Reconciliation (procedure) 10-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 10-05-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-03-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 08-03-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-03-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 08-03-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of anxiety (procedure) 08-03-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 08-03-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Medication Reconciliation (procedure) 08-03-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 08-03-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-06-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 07-06-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 07-06-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of anxiety (procedure) 07-06-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 07-06-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 07-06-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 06-08-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-08-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 06-08-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 06-08-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-08-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 06-08-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Screening for domestic abuse (procedure) 06-08-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 06-08-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 06-08-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 03-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 03-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 03-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Social isolation (finding) 03-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 03-09-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-16-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 02-16-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of anxiety (procedure) 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Medication Reconciliation (procedure) 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Urgent care clinic (environment) 02-09-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet 01-19-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for symptom 01-19-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-12-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 01-12-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 01-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Screening for domestic abuse (procedure) 01-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-05-2022", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-05-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Urgent care clinic (environment) 01-05-2022", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-29-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Medication Reconciliation (procedure) 12-29-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Urgent care clinic (environment) 12-29-2021", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-22-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 12-22-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 12-22-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of health and social care needs (procedure) 12-22-2021", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Emergency room admission (procedure) 12-22-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 10-06-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 10-06-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of substance use (procedure) 10-06-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 10-06-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 10-06-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 10-06-2021", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-11-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 08-11-2021", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 04-14-2021", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-24-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 03-24-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 03-10-2021", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-03-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 03-03-2021", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-16-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 12-16-2020", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 11-11-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 11-11-2020", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 07-15-2020", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Naproxen sodium 220 MG Oral Tablet 07-02-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Emergency room admission (procedure) 07-02-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 02-26-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-26-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 02-26-2020", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-18-2019", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 09-18-2019", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 05-22-2019", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 03-27-2019", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-20-2019", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 02-20-2019", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-23-2019", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-23-2019", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 01-23-2019", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-29-2018", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Proteinuria due to type 2 diabetes mellitus (disorder) 08-29-2018", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Chronic kidney disease stage 3 (disorder) 08-29-2018", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 08-29-2018", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization pneumococcal polysaccharide vaccine, 23 valent 02-14-2018", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 02-14-2018", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-14-2018", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 02-14-2018", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 02-08-2017", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-08-2017", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Has a criminal record (finding) 02-08-2017", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 02-08-2017", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Pneumococcal conjugate PCV 13 08-03-2016", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2016", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 08-03-2016", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 03-09-2016", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-03-2016", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 02-03-2016", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 11-11-2015", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2015", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 11-11-2015", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-15-2015", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 04-15-2015", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-28-2015", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 01-28-2015", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for problem (procedure) 02-26-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-19-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 02-19-2014", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Abnormal findings diagnostic imaging heart+coronary circulat (finding) 02-11-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for problem (procedure) 02-11-2014", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for problem (procedure) 02-05-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-22-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Clopidogrel 75 MG Oral Tablet 01-29-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-22-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Ischemic heart disease (disorder) 01-22-2014", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 01-22-2014", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-26-2013", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 06-26-2013", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 01-16-2013", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 09-26-2012", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 07-25-2012", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-07-2005", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Chronic kidney disease stage 2 (disorder) 12-07-2005", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 12-07-2005", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Disorder of kidney due to diabetes mellitus (disorder) 12-01-2004", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Chronic kidney disease stage 1 (disorder) 12-01-2004", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 12-01-2004", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Miscarriage in first trimester 09-05-2001", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Prenatal initial visit 09-05-2001", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Essential hypertension (disorder) 06-06-1973", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 06-06-1973", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Received higher education (finding) 05-28-1969", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 05-28-1969", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Risk activity involvement (finding) 05-11-1966", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Well child visit (procedure) 05-11-1966", "label": "True"}

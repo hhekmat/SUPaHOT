@@ -69,7 +69,7 @@ async def process_task_1():
     finetune_dir = 'task_1/finetune/oracle'
     relevant_data_dir = 'all_resources'
 
-    task_1_prompt = "Given a query and a resource from a patient's medical record, your job is to determine if the resource is relevant to providing an answer to the patient's query about their medical history. Respond only with 'True' if the resource is relevant, or 'False' if the resource would not be helpful in providing the patient an answer to their question." 
+    task_1_prompt = "Given a query and a resource from a patient's medical record, your job is to determine if the resource could potentially be relevant to providing an answer to the patient's query about their medical history. Respond only with 'True' if the resource may be relevant, or 'False' if the resource would not be helpful at all in providing the patient an answer to their question." 
 
     for root, dirs, files in os.walk(base_dir):
         for file in files:
@@ -93,7 +93,7 @@ async def process_task_1():
                             resource = resource_line.strip()
                             prompt = f"Query: {query}, resource: {resource}"
 
-                            oracle_tasks.append(generate_oracle_response_async(prompt, task_1_prompt)) # oracle_tasks = [True, False, True, False]
+                            oracle_tasks.append(generate_oracle_response_async(prompt, task_1_prompt, semaphore)) # oracle_tasks = [True, False, True, False]
                             resource_lines.append(resource) # resource_lines = [resource, resource resource]
 
                         for i in range(0, len(oracle_tasks), MAX_ASYNC_TASKS):

@@ -1,25 +1,8 @@
-Encounter Consultation for treatment 01-21-2021
-Procedure Assessment of health and social care needs (procedure) 12-28-2020
-Encounter Encounter for check up (procedure) 12-28-2020
-Procedure Assessment of health and social care needs (procedure) 07-07-2020
-Encounter General examination of patient (procedure) 07-07-2020
-Encounter Consultation for treatment 01-27-2020
-Encounter General examination of patient (procedure) 07-03-2018
-Encounter Patient encounter procedure 02-06-2018
-Encounter Consultation for treatment 02-02-2018
-Encounter Patient encounter procedure 02-07-2017
-Encounter Consultation for treatment 02-02-2017
-Encounter General examination of patient (procedure) 06-28-2016
-Encounter General examination of patient (procedure) 06-24-2014
-Encounter Consultation for treatment 02-23-2013
-Encounter General examination of patient (procedure) 09-06-2011
-Encounter Consultation for treatment 03-17-2006
-Encounter General examination of patient (procedure) 08-30-2005
-Encounter Consultation for treatment 03-22-2005
-Encounter General examination of patient (procedure) 08-27-2002
-Encounter General examination of patient (procedure) 08-24-1999
-Encounter Encounter for check up (procedure) 07-13-1999
-Encounter General examination of patient (procedure) 08-20-1996
-Encounter General examination of patient (procedure) 08-17-1993
-Encounter General examination of patient (procedure) 08-11-1992
-Encounter Encounter for check up (procedure) 07-16-1991
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
+Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021
+Immunization Influenza, seasonal, injectable, preservative free 12-28-2020
+Immunization Influenza, seasonal, injectable, preservative free 07-07-2020
+Procedure Intramuscular injection 01-27-2020
+Immunization Influenza, seasonal, injectable, preservative free 07-03-2018
+Immunization Influenza, seasonal, injectable, preservative free 06-28-2016
+Immunization Influenza, seasonal, injectable, preservative free 06-24-2014

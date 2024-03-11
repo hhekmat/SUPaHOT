@@ -1,0 +1,21 @@
+Immunization Influenza, seasonal, injectable, preservative free 10-05-2022
+Encounter Urgent care clinic (environment) 12-29-2021
+Immunization Influenza, seasonal, injectable, preservative free 10-06-2021
+Encounter Encounter for check up (procedure) 04-14-2021
+Encounter Administration of vaccine to produce active immunity (procedure) 03-24-2021
+Encounter Encounter for check up (procedure) 03-10-2021
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2020
+Encounter Encounter for check up (procedure) 11-11-2020
+Immunization Influenza, seasonal, injectable, preservative free 02-26-2020
+Encounter General examination of patient (procedure) 02-26-2020
+Encounter Encounter for check up (procedure) 05-22-2019
+Encounter Encounter for check up (procedure) 03-27-2019
+Encounter General examination of patient (procedure) 02-20-2019
+Immunization Influenza, seasonal, injectable, preservative free 01-23-2019
+Encounter Encounter for check up (procedure) 01-23-2019
+Immunization Influenza, seasonal, injectable, preservative free 02-14-2018
+Immunization Influenza, seasonal, injectable, preservative free 02-08-2017
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2015
+Immunization Influenza, seasonal, injectable, preservative free 01-28-2015
+Encounter General examination of patient (procedure) 01-28-2015
+Immunization Influenza, seasonal, injectable, preservative free 01-22-2014

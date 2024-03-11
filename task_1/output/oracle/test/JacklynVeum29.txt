@@ -1,0 +1,52 @@
+Encounter General examination of patient (procedure) 03-15-2023
+Procedure Assessment of health and social care needs (procedure) 01-04-2023
+Encounter Encounter for check up (procedure) 01-04-2023
+Procedure Assessment of health and social care needs (procedure) 10-05-2022
+Encounter Encounter for check up (procedure) 10-05-2022
+Procedure Assessment of health and social care needs (procedure) 08-03-2022
+Encounter Encounter for check up (procedure) 08-03-2022
+Procedure Assessment of health and social care needs (procedure) 07-06-2022
+Encounter Encounter for check up (procedure) 07-06-2022
+Procedure Assessment of health and social care needs (procedure) 06-08-2022
+Encounter Encounter for check up (procedure) 06-08-2022
+Encounter General examination of patient (procedure) 03-09-2022
+Encounter Encounter for check up (procedure) 02-16-2022
+Encounter Encounter for check up (procedure) 01-12-2022
+Procedure Assessment of health and social care needs (procedure) 01-05-2022
+Encounter Urgent care clinic (environment) 01-05-2022
+Encounter Urgent care clinic (environment) 12-29-2021
+Procedure Assessment of health and social care needs (procedure) 12-22-2021
+Encounter Encounter for check up (procedure) 10-06-2021
+Encounter Encounter for check up (procedure) 08-11-2021
+Encounter Encounter for check up (procedure) 04-14-2021
+Encounter Encounter for check up (procedure) 03-10-2021
+Encounter General examination of patient (procedure) 03-03-2021
+Encounter Encounter for check up (procedure) 12-16-2020
+Encounter Encounter for check up (procedure) 11-11-2020
+Encounter Encounter for check up (procedure) 07-15-2020
+Encounter General examination of patient (procedure) 02-26-2020
+Encounter Encounter for check up (procedure) 09-18-2019
+Encounter Encounter for check up (procedure) 05-22-2019
+Encounter Encounter for check up (procedure) 03-27-2019
+Encounter General examination of patient (procedure) 02-20-2019
+Encounter Encounter for check up (procedure) 01-23-2019
+Encounter Encounter for check up (procedure) 08-29-2018
+Encounter General examination of patient (procedure) 02-14-2018
+Encounter General examination of patient (procedure) 02-08-2017
+Encounter Encounter for check up (procedure) 08-03-2016
+Encounter Encounter for check up (procedure) 03-09-2016
+Encounter General examination of patient (procedure) 02-03-2016
+Encounter Encounter for check up (procedure) 11-11-2015
+Encounter Encounter for check up (procedure) 04-15-2015
+Encounter General examination of patient (procedure) 01-28-2015
+Encounter Encounter for check up (procedure) 02-19-2014
+Encounter Encounter for problem (procedure) 02-11-2014
+Encounter General examination of patient (procedure) 01-22-2014
+Encounter Encounter for check up (procedure) 06-26-2013
+Encounter General examination of patient (procedure) 01-16-2013
+Encounter Encounter for check up (procedure) 09-26-2012
+Encounter Encounter for check up (procedure) 07-25-2012
+Encounter General examination of patient (procedure) 12-07-2005
+Encounter General examination of patient (procedure) 12-01-2004
+Encounter General examination of patient (procedure) 06-06-1973
+Encounter Well child visit (procedure) 05-11-1966
