@@ -191,7 +191,7 @@ def process_task_3():
             if file.endswith('.txt'):
                 query_file_path = os.path.join(root, file)
                 with open(query_file_path, 'r') as f:
-                    query = f.readline().strip()
+                    query = f.readline()[0].strip()
 
                 summary_file_path = os.path.join(summary_dir, os.path.relpath(root, query_dir), file)
 
