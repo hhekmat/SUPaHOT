@@ -16,7 +16,7 @@ def generate_queries():
             for line in file:
                 resource_labels.append(line.strip())
         for i in range(50):
-            curr_subset = random.choices(resource_labels, 30)
+            curr_subset = random.choices(resource_labels, 20)
             prompt_subset = random.choices(curr_subset, k=random.randint(1, 3))
             if i % 10 < 8:
                 output_path = os.path.join("./queries/train", patient[:-13] + str(i) + '.txt')
