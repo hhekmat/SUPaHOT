@@ -13,3 +13,62 @@ This JSON represents a completed procedure for the assessment of substance use t
 This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
 This JSON represents a completed procedure for screening for drug abuse that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, for a patient with a specific encounter.
 This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, between 3:43 PM and 3:58 PM.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at the CAMBRIDGE PUBLIC HEALTH COMMISSION location.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for screening for drug abuse that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, for a specific patient during a particular encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, for a specific patient during a particular encounter.
+This JSON represents an Observation resource related to a survey score (DAST-10) for a patient, with a total score of 1 recorded on September 27, 2023, during a specific encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place at DAVIS SQUARE FAMILY PRACTICE on March 15, 2023, for a specific patient during a particular encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place on January 4, 2023, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for screening for drug abuse that was performed on a patient at a specific location on October 5th, 2022.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 5, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on August 3, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on July 6, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on June 8, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on February 9, 2022.
+This JSON represents a completed procedure for the assessment of substance use that took place at CAMBRIDGE REHABILITATION & NURSING CENTER on December 22, 2021.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for screening for drug abuse that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, for a specific patient during a particular encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, for a specific patient during a particular encounter.
+This JSON represents an Observation resource related to a survey score (DAST-10) for a patient, with a total score of 1, conducted on September 27, 2023, during a specific encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place at DAVIS SQUARE FAMILY PRACTICE on March 15, 2023, for a specific patient during a particular encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place on January 4, 2023, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for screening for drug abuse that took place on October 5th, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 5, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on August 3, 2022, at the CAMBRIDGE PUBLIC HEALTH COMMISSION location.
+This JSON represents a completed procedure for the assessment of substance use that took place on July 6, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on June 8, 2022, at the CAMBRIDGE PUBLIC HEALTH COMMISSION location.
+This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on February 9, 2022.
+This JSON represents a completed procedure for the assessment of substance use that took place at CAMBRIDGE REHABILITATION & NURSING CENTER on December 22, 2021.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for screening for drug abuse that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023.
+This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, for a specific patient during a particular encounter.
+This JSON represents an Observation resource related to a survey on substance abuse. The observation includes the total score from the DAST-10 survey and was recorded on September 27, 2023.
+This JSON represents a completed procedure for the assessment of substance use that took place at DAVIS SQUARE FAMILY PRACTICE on March 15, 2023, for a specific patient during a particular encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place on January 4, 2023, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for screening for drug abuse that took place on October 5th, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 5th, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on August 3, 2022, at the CAMBRIDGE PUBLIC HEALTH COMMISSION location.
+This JSON represents a completed procedure for the assessment of substance use that took place on July 6, 2022, at the CAMBRIDGE PUBLIC HEALTH COMMISSION location.
+This JSON represents a completed procedure for the assessment of substance use that took place on June 8, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on February 9, 2022.
+This JSON represents a completed procedure for the assessment of substance use that took place at CAMBRIDGE REHABILITATION & NURSING CENTER on December 22, 2021.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for screening for drug abuse that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, for a specific patient during a particular encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on September 27, 2023, for a specific patient during a particular encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place at DAVIS SQUARE FAMILY PRACTICE on March 15, 2023, for a specific patient during a particular encounter.
+This JSON represents a completed procedure for screening for drug abuse that took place on October 5th, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on January 4, 2023, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents an Observation resource related to a survey score (DAST-10) for a patient, with a total score of 1, recorded on September 27, 2023, during an encounter.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 5, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on August 3, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on June 8, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place on July 6, 2022, at CAMBRIDGE PUBLIC HEALTH COMMISSION.
+This JSON represents a completed procedure for the assessment of substance use that took place at MASS GENERAL BRIGHAM URGENT CARE LLC on February 9, 2022.
+This JSON represents a completed procedure for the assessment of substance use that took place at CAMBRIDGE REHABILITATION & NURSING CENTER on December 22, 2021.
+This JSON represents a completed procedure for the assessment of substance use that took place on October 6, 2021, at the CAMBRIDGE PUBLIC HEALTH COMMISSION location.
