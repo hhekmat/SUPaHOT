@@ -1,1 +1,1 @@
-When was the last time I visited the doctor for this particular symptom?
+"What was my total score on the Patient Health Questionnaire 2 item (PHQ-2) from my last visit?"

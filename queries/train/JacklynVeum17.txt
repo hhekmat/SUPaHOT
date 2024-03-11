@@ -1,0 +1,3 @@
+One possible query the patient might have is: "Can you remind me when my last medication review was done?" 
+
+By referencing the data point "Condition Medication review due (situation) 03-15-2023," the healthcare provider can provide the patient with the information they are seeking.

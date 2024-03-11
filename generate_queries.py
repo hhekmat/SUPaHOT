@@ -15,11 +15,11 @@ def generate_queries():
         with open(resources_file, 'r') as file:
             for line in file:
                 resource_labels.append(line.strip())
-        for i in range(10):
+        for i in range(100):
             curr_subset = random.choices(resource_labels, k=random.randint(1, 3))
-            if i < 8:
+            if i % 10 < 8:
                 output_path = os.path.join("./queries/train", patient[:-13] + str(i) + '.txt')
-            elif i < 9:
+            elif i % 10 < 9:
                 output_path = os.path.join("./queries/validation", patient[:-13] + str(i) + '.txt')
             else:
                 output_path = os.path.join("./queries/test", patient[:-13] + str(i) + '.txt')

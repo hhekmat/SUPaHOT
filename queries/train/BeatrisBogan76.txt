@@ -1,0 +1,1 @@
+"When was the last time I went to the doctor for the symptom mentioned in the encounter on 09-26-2016?"
