@@ -181,7 +181,7 @@ def process_task_3():
     output_dir = 'task_3/output/oracle'
     finetune_dir = 'task_3/finetune/oracle'
     
-    task_3_prompt = "Given the following summaries regarding potentially relevant information to a particular query, answer the users query in a concise and simple way."
+    task_3_prompt = "You will be given a query from a patient who is inquiring about their medical records and a list of summaries (seperated by commas) of medical resources in the patient's medical record. If the summaries are not sufficient to answer the query, you should tell the user that the summaries are not sufficient to answer the query. If the summaries are sufficient to answer the query, you should use the provided resources to answer the query."
 
     for root, dirs, files in os.walk(query_dir):
         for file in files:
@@ -196,7 +196,7 @@ def process_task_3():
                     with open(summary_file_path, 'r') as f:
                         summaries = f.readlines()
 
-                    combined_summaries = " ".join(summaries).strip()
+                    combined_summaries = ", ".join(summaries).strip()
                     prompt = f"Query:'{query}' Summaries: {combined_summaries}"
 
                     answer = generate_oracle_response(prompt, task_3_prompt)
@@ -217,7 +217,7 @@ def process_task_3():
 
                     # Write the answer in JSONLines format
                     with open(finetune_file, 'w') as f_jsonl:
-                        f_jsonl.write(json.dumps({"query": query, "answer": answer}) + '\n')
+                        f_jsonl.write(json.dumps({"query": query, "summary": summaries, "answer": answer}) + '\n')
 
                     print(f'Processed {query_file_path} -> {output_file}')
                     print(f'Answer data saved to {finetune_file}')

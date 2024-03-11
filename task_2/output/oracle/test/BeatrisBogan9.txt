@@ -24,3 +24,7 @@ This JSON represents an Immunization resource for a patient who received the Pne
 This JSON represents an Immunization resource for a patient who received the Pneumococcal conjugate PCV 13 vaccine at BLUESKIES WELLNESS INC on January 10, 2016.
 This JSON represents an Immunization resource for a patient who received the Pneumococcal conjugate PCV 13 vaccine at BLUESKIES WELLNESS INC on October 11, 2015.
 This JSON represents an immunization record for a patient who received the Pneumococcal conjugate PCV 13 vaccine at BLUESKIES WELLNESS INC on August 9, 2015.
+This JSON represents an Immunization resource for a patient who received the Pneumococcal conjugate PCV 13 vaccine at BLUESKIES WELLNESS INC on July 10, 2016.
+This JSON represents an Immunization resource for a patient who received the Pneumococcal conjugate PCV 13 vaccine at BLUESKIES WELLNESS INC on January 10, 2016.
+This JSON represents an Immunization resource for a patient who received the Pneumococcal conjugate PCV 13 vaccine at BLUESKIES WELLNESS INC on October 11, 2015.
+This JSON represents an Immunization resource for a patient who received the Pneumococcal conjugate PCV 13 vaccine at BLUESKIES WELLNESS INC on August 9, 2015.
