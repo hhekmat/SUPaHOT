@@ -79,6 +79,7 @@ async def process_task_1():
                     lines = await f.readlines()
 
                 query = lines[0].strip()
+                resources = lines[1:]
                 stripped_filename = re.sub(r'\d+', '', file.split('.')[0])
                 relevant_data_file = os.path.join(relevant_data_dir, f"{stripped_filename}resources.txt")
 
@@ -88,20 +89,22 @@ async def process_task_1():
                     resource_lines = []
                     relevant_resources = []
                     all_responses = []
-                    with open(relevant_data_file, 'r') as f:
+                    '''with open(relevant_data_file, 'r') as f:
                         for resource_line in f:
-                            resource = resource_line.strip()
-                            prompt = f"Query: {query}, resource: {resource}"
+                            resource = resource_line.strip()'''
+                    for resource in resources: #everything below this up until (and including) all_responses.extened(responses) was indented one more
+                        resource = resource.strip()
+                        prompt = f"Query: {query}, resource: {resource}"
 
-                            oracle_tasks.append(generate_oracle_response_async(prompt, task_1_prompt, semaphore)) # oracle_tasks = [True, False, True, False]
-                            resource_lines.append(resource) # resource_lines = [resource, resource resource]
+                        oracle_tasks.append(generate_oracle_response_async(prompt, task_1_prompt, semaphore)) # oracle_tasks = [True, False, True, False]
+                        resource_lines.append(resource) # resource_lines = [resource, resource resource]
 
-                        for i in range(0, len(oracle_tasks), MAX_ASYNC_TASKS):
-                            if (len(oracle_tasks) - i) < MAX_ASYNC_TASKS:
-                                responses = await asyncio.gather(*oracle_tasks[i:])
-                            else:
-                                responses = await asyncio.gather(*oracle_tasks[i:i+MAX_ASYNC_TASKS])
-                            all_responses.extend(responses) 
+                    for i in range(0, len(oracle_tasks), MAX_ASYNC_TASKS):
+                        if (len(oracle_tasks) - i) < MAX_ASYNC_TASKS:
+                            responses = await asyncio.gather(*oracle_tasks[i:])
+                        else:
+                            responses = await asyncio.gather(*oracle_tasks[i:i+MAX_ASYNC_TASKS])
+                        all_responses.extend(responses) 
 
                     for resource, oracle_response in zip(resource_lines, all_responses):
                         if oracle_response == "True":
