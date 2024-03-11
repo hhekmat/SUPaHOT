@@ -1,3 +1,285 @@
 {"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023", "label": "False"}
 {"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Manual pelvic examination (procedure) 09-07-2023", "label": "False"}
 {"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Response to cancer treatment 09-07-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Gynecology service (qualifier value) 09-07-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Mammography (procedure) 09-07-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Screening surveillance (regime/therapy) 09-07-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Physical examination, complete (procedure) 09-07-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 09-07-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2023", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Assessment of substance use (procedure) 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Depression screening (procedure) 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Total score [AUDIT-C] 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Fall risk level [Morse Fall Scale] 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Fall risk total [Morse Fall Scale] 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Tobacco smoking status 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Platelets [#/volume] in Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation MCH [Entitic mass] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation MCV [Entitic volume] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Hemoglobin [Mass/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Cholesterol in HDL [Mass/volume] in Serum or Plasma 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Low Density Lipoprotein Cholesterol 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Triglycerides 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Cholesterol [Mass/volume] in Serum or Plasma 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Carbon dioxide, total [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Chloride [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Potassium [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Sodium [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Calcium [Mass/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Creatinine [Mass/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Urea nitrogen [Mass/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Glucose [Mass/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Respiratory rate 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Heart rate 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Blood pressure panel with all children optional 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Body mass index (BMI) [Ratio] 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Body Weight 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Body Height 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter General examination of patient (procedure) 07-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Physical examination, complete (procedure) 05-18-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 05-18-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Patient discharge (procedure) 03-09-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 03-08-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 03-07-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 03-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 03-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 03-04-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 03-03-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 03-02-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 03-01-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-28-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-27-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-26-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-25-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-24-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-23-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-22-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-21-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-20-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-19-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-18-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-17-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-16-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-15-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-14-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-13-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-12-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-11-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-10-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Hospice care (regime/therapy) 02-09-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Development of individualized plan of care (procedure) 02-09-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Initial patient assessment (procedure) 02-09-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Notifications (procedure) 02-09-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Certification procedure (procedure) 02-09-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Admission to hospice (procedure) 02-09-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Colonoscopy 02-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for check up 02-06-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Physical examination, complete (procedure) 02-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 02-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-05-2023", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Depression screening (procedure) 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Tobacco smoking status 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Carbon dioxide, total [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Chloride [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Potassium [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Sodium [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Calcium [Mass/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Creatinine [Mass/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Urea nitrogen [Mass/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Glucose [Mass/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Respiratory rate 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Heart rate 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Blood pressure panel with all children optional 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Body mass index (BMI) [Ratio] 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Body Weight 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Body Height 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Urgent care clinic (environment) 01-05-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 01-02-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-02-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-02-2023", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 01-02-2023", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution 12-25-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for symptom 12-25-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Response to cancer treatment 10-07-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Treatment status Cancer 10-07-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 10-07-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 10-03-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 10-03-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 10-01-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 10-01-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-29-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-29-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-28-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-28-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-26-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-26-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-25-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-25-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-24-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-24-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-23-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-23-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-22-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-22-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-21-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-21-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-19-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-19-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-18-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-18-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-17-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-17-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-16-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-15-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-13-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-12-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-11-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-10-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-08-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-07-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-05-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-04-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-03-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 09-01-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-31-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-29-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-28-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-26-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-25-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-24-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-22-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem 08-10-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Discussion about treatment (procedure) 08-07-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Stage group.clinical Cancer 08-04-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Stage group.clinical Cancer 08-04-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain 08-04-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Observation Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain 08-04-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Malignant neoplasm of breast (disorder) 08-02-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for symptom (procedure) 08-02-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 06-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-30-2022", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Full-time employment (finding) 06-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Medication review due (situation) 06-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter General examination of patient (procedure) 06-30-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for symptom 03-31-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-24-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-24-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-24-2022", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-24-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for check up (procedure) 03-24-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-17-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-17-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-17-2022", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-17-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Urgent care clinic (environment) 03-17-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-10-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-10-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2022", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-10-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Urgent care clinic (environment) 03-10-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-03-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-03-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-03-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2022", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-03-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Emergency room admission (procedure) 03-03-2022", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 11-03-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-27-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-20-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-12-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-05-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 09-28-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition History of renal transplant (situation) 09-26-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Admission to surgical transplant department (procedure) 09-26-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem (procedure) 09-30-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem (procedure) 09-27-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem (procedure) 09-23-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Encounter Encounter for problem (procedure) 09-20-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-24-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-24-2021", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-24-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Abnormal findings diagnostic imaging heart+coronary circulat (finding) 04-06-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 03-25-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 03-25-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Simvastatin 20 MG Oral Tablet 03-25-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Clopidogrel 75 MG Oral Tablet 03-25-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-18-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-18-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-18-2021", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-18-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Ischemic heart disease (disorder) 03-18-2021", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 07-23-2020", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-23-2020", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 07-23-2020", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 06-18-2020", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-18-2020", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-18-2020", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-18-2020", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-13-2019", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-13-2019", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-13-2019", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 02-28-2019", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 02-28-2019", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-28-2019", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 02-28-2019", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-27-2018", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 12-27-2018", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-27-2018", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 12-27-2018", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 06-07-2018", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-07-2018", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-07-2018", "label": "True"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-07-2018", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest Vitamin B12 5 MG/ML Injectable Solution 06-29-2017", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-08-2017", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Anemia (disorder) 06-29-2017", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 08-11-2016", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 08-20-2015", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 08-21-2014", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Prediabetes 03-18-2010", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Metabolic syndrome X (disorder) 03-18-2010", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Refugee (person) 06-09-2005", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Has a criminal record (finding) 11-20-2003", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-26-2002", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Essential hypertension (disorder) 02-12-1998", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Gout 11-08-1996", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Body mass index 30+ - obesity (finding) 04-10-1980", "label": "False"}
+{"query": "\"How long have I been taking Hydrochlorothiazide for my high blood pressure?\"", "resource": "Condition Received higher education (finding) 04-01-1976", "label": "False"}

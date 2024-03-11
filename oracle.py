@@ -5,12 +5,13 @@ import json
 import asyncio
 import aiofiles
 import backoff
-from preprocess import global_resource_dict
-#from openai import OpenAI
+from preprocess import populate_global_resources, global_resource_dict
+from openai import OpenAI
 from openai import AsyncOpenAI
 
-client = AsyncOpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-MAX_ASYNC_TASKS = 3
+asyncClient = AsyncOpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+MAX_ASYNC_TASKS = 5
 semaphore = asyncio.Semaphore(MAX_ASYNC_TASKS)
 
 @backoff.on_exception(backoff.expo,
@@ -20,14 +21,35 @@ semaphore = asyncio.Semaphore(MAX_ASYNC_TASKS)
 # Initialize the OpenAI client with your API key
 # client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-async def generate_oracle_response(user_prompt):
-    SYSTEM_PROMPT = "Given a query and a resource from a patient's medical record, your job is to determine if the resource is relevant to providing an answer to the patient's query about their medical history. Respond only with 'True' if the resource is relevant, or 'False' if the resource would not be helpful in providing the patient an answer to their question."
+# when going slow is ok (or you're having bugs haha)
+def generate_oracle_response(user_prompt, task_prompt):
+    SYSTEM_PROMPT = "You are a helpful medical assistant, users ask you questions pertaining to their health care information. You will help and be as concise and clear as possible."
+
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT + ' ' + task_prompt},
+            {"role": "user", "content": user_prompt}
+        ],
+        max_tokens=256,
+        temperature=0.01
+    )
+
+    # Extracting and returning the response
+    if response.choices and response.choices[0].message:
+        return response.choices[0].message.content.strip()
+    else:
+        return "No response generated."
+
+# when u have a need 4 speed
+async def generate_oracle_response_async(user_prompt, task_prompt):
+    SYSTEM_PROMPT = "You are a helpful medical assistant, users ask you questions pertaining to their health care information. You will help and be as concise and clear as possible."
     async with semaphore:
         try:
-            response = await client.chat.completions.create(
+            response = await asyncClient.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "system", "content": SYSTEM_PROMPT + ' ' + task_prompt},
                 {"role": "user", "content": user_prompt}
             ],
             max_tokens=256,
@@ -47,6 +69,8 @@ async def process_task_1():
     finetune_dir = 'task_1/finetune/oracle'
     relevant_data_dir = 'all_resources'
 
+    task_1_prompt = "Given a query and a resource from a patient's medical record, your job is to determine if the resource is relevant to providing an answer to the patient's query about their medical history. Respond only with 'True' if the resource is relevant, or 'False' if the resource would not be helpful in providing the patient an answer to their question." 
+
     for root, dirs, files in os.walk(base_dir):
         for file in files:
             if file.endswith('.txt'):
@@ -63,17 +87,23 @@ async def process_task_1():
                     oracle_tasks = []
                     resource_lines = []
                     relevant_resources = []
+                    all_responses = []
                     with open(relevant_data_file, 'r') as f:
                         for resource_line in f:
                             resource = resource_line.strip()
                             prompt = f"Query: {query}, resource: {resource}"
-                            oracle_tasks.append(generate_oracle_response(prompt))
-                            resource_lines.append(resource)
+
+                            oracle_tasks.append(generate_oracle_response_async(prompt, task_1_prompt)) # oracle_tasks = [True, False, True, False]
+                            resource_lines.append(resource) # resource_lines = [resource, resource resource]
 
                         for i in range(0, len(oracle_tasks), MAX_ASYNC_TASKS):
-                            responses = await asyncio.gather(*oracle_tasks[i:i+MAX_ASYNC_TASKS])
+                            if (len(oracle_tasks) - i) < MAX_ASYNC_TASKS:
+                                responses = await asyncio.gather(*oracle_tasks[i:])
+                            else:
+                                responses = await asyncio.gather(*oracle_tasks[i:i+MAX_ASYNC_TASKS])
+                            all_responses.extend(responses) 
 
-                    for resource, oracle_response in zip(resource_lines, responses):
+                    for resource, oracle_response in zip(resource_lines, all_responses):
                         if oracle_response == "True":
                             relevant_resources.append(resource)
                         finetune_data.append({"query": query, "resource": resource, "label": oracle_response})
@@ -99,7 +129,8 @@ async def process_task_1():
 def process_task_2():
     base_dir = 'task_1/output/oracle'
     output_dir = 'task_2/output/oracle'
-    finetune_dir = 'task_2/finetune/oracle'
+    finetune_dir = 'task_2/finetune/oracle' 
+    task_2_prompt = "Given an excerpt of a JSON object corresponding to a resource from a patient's FHIR medical records, your job is to provide a brief (1 to 2 sentence) natural language summary of the JSON."
 
     for root, dirs, files in os.walk(base_dir):
         for file in files:
@@ -108,28 +139,13 @@ def process_task_2():
                 with open(file_path, 'r') as f:
                     lines = f.readlines()
 
-                query = lines[0].strip()
-                stripped_filename = re.sub(r'\d+', '', file.split('.')[0])
-                relevant_data_file = os.path.join(relevant_data_dir, f"{stripped_filename}resources.txt")
-
-                if os.path.exists(relevant_data_file):
-                    with open(relevant_data_file, 'r') as f:
-                        relevant_resources = []
-                        for resource_line in f:
-                            resource = resource_line.strip()
-                            prompt = f"Assume a patient has asked '{query}' about their own medical records, is the following resource from the patient's medical records relevant to answering this query? Respond with 'True' or 'False'. The resouce is {resource}"
-                            oracle_response = generate_oracle_response(prompt)
-                            if oracle_response == "True":
-                                relevant_resources.append(resource)
-
-                    output_subdir = os.path.join(output_dir, os.path.relpath(root, base_dir))
                 for line in lines:
                     resource_label = line.strip()
                     large_resource = global_resource_dict.get(resource_label, {})
                     large_resource_str = json.dumps(large_resource)
-                    summary = generate_oracle_response('Generate a 1-2 sentence summary for this JSON file: \n ' + large_resource_str)
+                    summary = generate_oracle_response("JSON: " + large_resource_str, task_2_prompt)
 
-                    # Prepare output paths
+                     # Prepare output paths
                     rel_path = os.path.relpath(root, base_dir)
                     output_subdir = os.path.join(output_dir, rel_path)
                     os.makedirs(output_subdir, exist_ok=True)
@@ -149,12 +165,14 @@ def process_task_2():
 
                     print(f'Summarized {resource_label} -> {output_file}')
                     print(f'Summary data saved to {finetune_file}')
-
+                
 def process_task_3():
     query_dir = 'queries'
     summary_dir = 'task_2/output/oracle'
     output_dir = 'task_3/output/oracle'
     finetune_dir = 'task_3/finetune/oracle'
+    
+    task_3_prompt = "Given the following summaries regarding potentially relevant information to a particular query, answer the users query in a concise and simple way."
 
     for root, dirs, files in os.walk(query_dir):
         for file in files:
@@ -170,9 +188,9 @@ def process_task_3():
                         summaries = f.readlines()
 
                     combined_summaries = " ".join(summaries).strip()
-                    prompt = f"Given the query '{query}' and the following summaries: {combined_summaries}, provide an answer based on this information."
+                    prompt = f"Query:'{query}' Summaries: {combined_summaries}"
 
-                    answer = generate_oracle_response(prompt)
+                    answer = generate_oracle_response(prompt, task_3_prompt)
 
                     # Prepare output paths
                     rel_path = os.path.relpath(root, query_dir)
@@ -180,8 +198,6 @@ def process_task_3():
                     os.makedirs(output_subdir, exist_ok=True)
                     output_file = os.path.join(output_subdir, file)
 
-                    with open(output_file, 'a') as f:
-                        f.writelines("%s\n" % resource for resource in relevant_resources)
                     finetune_subdir = os.path.join(finetune_dir, rel_path)
                     os.makedirs(finetune_subdir, exist_ok=True)
                     finetune_file = os.path.join(finetune_subdir, file.replace('.txt', '.jsonl'))
@@ -204,10 +220,9 @@ if __name__ == '__main__':
         task = int(sys.argv[1])
         if task == 1:
             asyncio.run(process_task_1())
-        # elif task == 2: call process_task_2()
         # elif task == 3: call process_task_3()
-            #process_task_1()
         elif task == 2:
+            populate_global_resources("./mock_patients")
             process_task_2()
         elif task == 3: 
             process_task_3()

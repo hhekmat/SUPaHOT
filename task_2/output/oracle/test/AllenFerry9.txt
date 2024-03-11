@@ -1,0 +1,1 @@
+This JSON represents an Observation resource related to pain severity, with a value of 2 on a scale of 0-10, reported on February 9, 2021, at 10:24:54 AM.

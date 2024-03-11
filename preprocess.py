@@ -23,6 +23,7 @@ def parse_fhir_json(file_path):
                         relevant_resources.append(label) 
                         global_resource_dict[label] = str(resource)
                         resource_counter[rt] += 1
+    print('global resource dict ', global_resource_dict)
     return relevant_resources
 
 def is_relevant(resource):
@@ -83,9 +84,28 @@ def extract_display_name_date(resource):
         date = format_date(resource['resource']['performedPeriod']['start'])
     return (type + ' ' + display_name + ' ' + date)
 
+def populate_global_resources(patient_data_folder):
+    global global_resource_dict
+    resources_data_folder = "./all_resources"
+    file_names = os.listdir(patient_data_folder)
+    
+    for file_name in file_names:
+        if file_name in ('.DS_Store', 'licenses'):
+            continue
+        file_path = os.path.join(patient_data_folder, file_name)
+        relevant_resources = parse_fhir_json(file_path)
+        
+        resources_file_name = file_name[:-5] + 'resources.txt'
+        resources_file_path = os.path.join(resources_data_folder, resources_file_name)
+        
+        with open(resources_file_path, 'w') as file:
+            for item in relevant_resources:
+                file.write(item + '\n')
+
 if __name__ == "__main__":
     patient_data_folder = "./mock_patients"
     resources_data_folder = "./all_resources"
+    populate_global_resources(patient_data_folder)
     file_names = os.listdir(patient_data_folder)
     for file_name in file_names:
         if file_name == '.DS_Store' or file_name == 'licenses':
