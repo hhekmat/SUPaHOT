@@ -1,0 +1,5 @@
+Based on your medical records, you have undergone depression screening on the following dates:
+1. August 10, 2016
+2. August 16, 2017
+3. August 22, 2018
+4. September 2, 2020.
