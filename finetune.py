@@ -71,13 +71,14 @@ if __name__ == '__main__':
             train_data_dir = './ft_datasets/task_1_train.jsonl'
             val_data_dir = './ft_datasets/task_1_val.jsonl'
             output_dir = './ft_model/post_task_1'
-            system_prompt = ''
+            system_prompt = "You are a helpful medical assistant, users ask you questions pertaining to their health care information. You will help and be as concise and clear as possible. Given a query and a resource from a patient's medical record, your job is to determine if the resource is relevant to providing an answer to the patient's query about their medical history. Respond only with 'True' if the resource is relevant, or 'False' if the resource would not be helpful in providing the patient an answer to their question."
             inp_fields = ['query', 'resource']
             outp_field = 'label'
         elif task == 2:
             train_data_dir = './ft_datasets/task_2_train.jsonl'
             val_data_dir = './ft_datasets/task_2_val.jsonl'
             output_dir = './ft_model/post_task_2'
+            # TODO: pull nina's task_2 and task_3 prompt
             system_prompt = ''
             inp_fields = ['resource_label']
             outp_field = 'summary'
