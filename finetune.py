@@ -4,7 +4,7 @@ import json
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, Seq2SeqTrainer, Seq2SeqTrainingArguments
 
-def load_input_output_pairs(base_dir, system_prompt):
+def load_input_output_pairs(base_dir, system_prompt, inp_fields, outp_field):
     input_output_pairs = []
     for root, dirs, files in os.walk(base_dir):
         for file in files:
