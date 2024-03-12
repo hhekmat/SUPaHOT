@@ -1,8 +1,9 @@
 import os
+import sys
 import json
 from transformers import AutoTokenizer, AutoModelForCausalLM, Seq2SeqTrainer, Seq2SeqTrainingArguments
 
-def load_input_output_pairs(base_dir):
+def load_input_output_pairs(base_dir, system_prompt):
     input_output_pairs = []
     for root, dirs, files in os.walk(base_dir):
         for file in files:
@@ -51,13 +52,32 @@ def fine_tune_model(train_data, val_data, model_name, output_dir):
 
     print("Training completed!")
 
-# Example usage
-train_data_dir = './ft_datasets/task_1_train.jsonl'
-val_data_dir = './ft_datasets/task_1_val.jsonl'
-model_name = 'epfl-llm/meditron-7b'
-output_dir = 'fine_tuned_model_output_directory'
+if __name__ == '__main__':
+    # Accepting task number as a command-line argument
+    if len(sys.argv) > 1:
+        task = int(sys.argv[1])
+        model_name = 'epfl-llm/meditron-7b'
+        if task == 1:
+            train_data_dir = './ft_datasets/task_1_train.jsonl'
+            val_data_dir = './ft_datasets/task_1_val.jsonl'
+            output_dir = './ft_model/post_task_1'
+            system_prompt = ''
+        elif task == 2:
+            train_data_dir = './ft_datasets/task_2_train.jsonl'
+            val_data_dir = './ft_datasets/task_2_val.jsonl'
+            output_dir = './ft_model/post_task_2'
+            system_prompt = ''
+        elif task == 3: 
+            train_data_dir = './ft_datasets/task_3_train.jsonl'
+            val_data_dir = './ft_datasets/task_3_val.jsonl'
+            output_dir = './ft_model/post_task_3'
+            system_prompt = ''
+        else:
+            print("Invalid task number. Please choose 1, 2, or 3.")
 
-train_data = load_input_output_pairs(train_data_dir)
-val_data = load_input_output_pairs(val_data_dir)
+        train_data = load_input_output_pairs(train_data_dir, system_prompt)
+        val_data = load_input_output_pairs(val_data_dir, system_prompt)
 
-fine_tune_model(train_data, val_data, model_name, output_dir)
+        fine_tune_model(train_data, val_data, model_name, output_dir)
+    else:
+        print("Please provide a task number as a command-line argument.")
