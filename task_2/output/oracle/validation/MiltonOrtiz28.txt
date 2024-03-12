@@ -1,0 +1,2 @@
+This record is an Observation of a Patient Health Questionnaire 2 item (PHQ-2) total score reported on September 8, 2021, with a value of 1.
+This record documents a completed depression screening procedure using the Patient Health Questionnaire Two-Item score on a patient during an encounter with a primary care provider on August 16, 2017.

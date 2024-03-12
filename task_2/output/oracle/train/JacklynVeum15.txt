@@ -1,0 +1,1 @@
+This record indicates a confirmed active condition of "Risk activity involvement" diagnosed during an encounter on May 11, 1966, for the patient referenced by 'urn:uuid:e0e1f21a-22a7-d166-7bb1-63f6bbce1a32'.

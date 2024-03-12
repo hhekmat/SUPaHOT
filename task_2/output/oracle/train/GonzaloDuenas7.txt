@@ -1,0 +1,3 @@
+This is an Observation resource for a laboratory test measuring Hemoglobin A1c in the patient's blood, with a value of 3.22%. The observation was finalized on July 6, 2023, at 17:04:19 UTC.
+This record is an Observation of a laboratory test for Hemoglobin A1c in blood, with a value of 3.22%. The observation was finalized on July 6, 2023, at 17:04:19 UTC.
+This record is an Observation of Glucose in Blood taken on January 5, 2023, showing a value of 65.79 mg/dL.

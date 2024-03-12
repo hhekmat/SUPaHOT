@@ -1,0 +1,2 @@
+This is an Observation resource for the pH of Urine by Test strip taken on March 15, 2023, for a specific patient during a laboratory encounter.
+This is an observation record of a laboratory test for the pH of urine conducted on March 15, 2023, for a specific patient during a particular encounter.

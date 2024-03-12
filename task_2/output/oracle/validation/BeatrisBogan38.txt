@@ -1,0 +1,1 @@
+This is an observation of a patient's heart rate taken on April 30, 2023, showing a value of 94 beats per minute.

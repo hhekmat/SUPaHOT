@@ -1,0 +1,1 @@
+This record is a medication request for a patient with the status "stopped" and the intent to order a community medication, specifically a 24 HR tacrolimus 1 MG Extended Release Oral Tablet, due to a history of renal transplant. The dosage instruction is to take the medication as needed.

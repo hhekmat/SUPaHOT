@@ -1,0 +1,1 @@
+This is an observation of a patient's heart rate taken on December 28, 2020, showing a value of 85 beats per minute.

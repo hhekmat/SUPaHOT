@@ -1,0 +1,1 @@
+This record is an Observation of a survey result with a total score using the DAST-10 tool, conducted on a specific date and time.

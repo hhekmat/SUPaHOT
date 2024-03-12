@@ -1,0 +1,2 @@
+This record is an observation of pain severity reported on a scale of 0-10 using a verbal numeric rating system. The observation was made on December 28, 2020, at 11:03:08 PM.
+This record is an observation of pain severity reported on a 0-10 verbal numeric rating scale, with a value of 1, documented on July 7, 2020, for a specific patient during a particular encounter.

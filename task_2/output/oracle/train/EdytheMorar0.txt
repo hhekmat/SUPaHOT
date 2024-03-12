@@ -1,0 +1,2 @@
+This is an Observation resource for a patient's Body Mass Index (BMI) recorded on July 7, 2020, with a value of 32.08 kg/m2.
+This is a summary of an encounter where a general examination of the patient was performed by Dr. Elva Langosh at NEWTON-WELLESLEY UROLOGY, PC on June 24, 2014.

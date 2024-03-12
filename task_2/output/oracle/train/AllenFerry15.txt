@@ -1,0 +1,2 @@
+This is an observation record for a laboratory test measuring Potassium levels in a patient's blood, taken on February 9, 2021, showing a value of 4.79 mmol/L.
+This record is an observation of a laboratory test for Potassium conducted on February 9, 2021, showing a value of 4.79 mmol/L for the patient with the encounter information included.

@@ -1,0 +1,1 @@
+This record is an Observation of the patient's body temperature, taken orally, with a value of 38.35 degrees Celsius, recorded on February 26, 2022.

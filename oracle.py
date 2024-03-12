@@ -11,7 +11,7 @@ from openai import AsyncOpenAI
 
 asyncClient = AsyncOpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-MAX_ASYNC_TASKS = 3
+MAX_ASYNC_TASKS = 1
 semaphore = asyncio.Semaphore(MAX_ASYNC_TASKS)
 
 @backoff.on_exception(backoff.expo,
@@ -133,8 +133,9 @@ async def process_task_2():
     base_dir = 'task_1/output/oracle'
     output_dir = 'task_2/output/oracle'
     finetune_dir = 'task_2/finetune/oracle'
-    task_2_prompt = "Given an excerpt of a JSON object corresponding to a resource from a patient's FHIR medical records, your job is to provide a brief (1 to 2 sentence) natural language summary of the JSON."
+    task_2_prompt = "Given an excerpt of a JSON object corresponding to a resource from a patient's FHIR medical records, your job is to provide a brief (1 to 2 sentence) natural language summary of the JSON. Don't explicitly mention that it's a JSON."
     tasks = []
+    num = 1
     semaphore = asyncio.Semaphore(MAX_ASYNC_TASKS)
     for root, dirs, files in os.walk(base_dir):
         for file in files:
@@ -148,19 +149,40 @@ async def process_file(file_path, root, file, base_dir, output_dir, finetune_dir
     async with aiofiles.open(file_path, 'r') as f:
         lines = await f.readlines()
 
-    tasks = []
-    for line in lines:
-        task = asyncio.create_task(process_line(line, root, file, base_dir, output_dir, finetune_dir, task_2_prompt, semaphore))
-        tasks.append(task)
+    if len(lines) == 0:
+        prewritten_response = "No relevant resources were found for this query."
+            
+            # Proceed with processing (write the prewritten response to output files)
+        await process_empty_file(root, file, base_dir, output_dir, finetune_dir, prewritten_response)
+    else:
+        tasks = []
+        for line in lines:
+            task = asyncio.create_task(process_line(line, root, file, base_dir, output_dir, finetune_dir, task_2_prompt, semaphore))
+            tasks.append(task)
 
-    # Wait for all line tasks to complete
-    await asyncio.gather(*tasks)
+        # Wait for all line tasks to complete
+        await asyncio.gather(*tasks)
+
+async def process_empty_file(root, file, base_dir, output_dir, finetune_dir, prewritten_response):
+    rel_path = os.path.relpath(root, base_dir)
+    output_subdir = os.path.join(output_dir, rel_path)
+    os.makedirs(output_subdir, exist_ok=True)
+    output_file = os.path.join(output_subdir, file)
+
+    finetune_subdir = os.path.join(finetune_dir, rel_path)
+    os.makedirs(finetune_subdir, exist_ok=True)
+    finetune_file = os.path.join(finetune_subdir, file.replace('.txt', '.jsonl'))
+
+    async with aiofiles.open(output_file, 'a') as f_txt:
+        await f_txt.write(f"{prewritten_response}\n")
+
+    async with aiofiles.open(finetune_file, 'a') as f_jsonl:
+        await f_jsonl.write(json.dumps({"resource": "", "summary": prewritten_response}) + '\n')
 
 async def process_line(line, root, file, base_dir, output_dir, finetune_dir, task_2_prompt, semaphore):
     resource_label = line.strip()
     large_resource = global_resource_dict.get(resource_label, {})
     large_resource_str = json.dumps(large_resource)
-    print(large_resource_str)
     summary = await generate_oracle_response_async("JSON: " + large_resource_str, task_2_prompt, semaphore)
 
     rel_path = os.path.relpath(root, base_dir)
@@ -176,7 +198,7 @@ async def process_line(line, root, file, base_dir, output_dir, finetune_dir, tas
         await f_txt.write(f"{summary}\n")
 
     async with aiofiles.open(finetune_file, 'a') as f_jsonl:
-        await f_jsonl.write(json.dumps({"resource_label": resource_label, "summary": summary}) + '\n')
+        await f_jsonl.write(json.dumps({"resource_label": large_resource_str, "summary": summary}) + '\n')
 
 def process_task_3():
     query_dir = 'queries'
@@ -184,14 +206,14 @@ def process_task_3():
     output_dir = 'task_3/output/oracle'
     finetune_dir = 'task_3/finetune/oracle'
     
-    task_3_prompt = "You will be given a query from a patient who is inquiring about their medical records and a list of summaries (seperated by commas) of medical resources in the patient's medical record. If the summaries are not sufficient to answer the query, you should tell the user that the summaries are not sufficient to answer the query. If the summaries are sufficient to answer the query, you should use the provided resources to answer the query."
+    task_3_prompt = "You will be given a query from a patient who is inquiring about their medical records and a list of summaries (seperated by commas) of medical resources from the patient's medical record. Answer the patient's query using relevant information from the summaries."
 
     for root, dirs, files in os.walk(query_dir):
         for file in files:
             if file.endswith('.txt'):
                 query_file_path = os.path.join(root, file)
                 with open(query_file_path, 'r') as f:
-                    query = f.readline()[0].strip()
+                    query = f.readline().strip()
 
                 summary_file_path = os.path.join(summary_dir, os.path.relpath(root, query_dir), file)
 
@@ -220,7 +242,7 @@ def process_task_3():
 
                     # Write the answer in JSONLines format
                     with open(finetune_file, 'w') as f_jsonl:
-                        f_jsonl.write(json.dumps({"query": query, "summary": summaries, "answer": answer}) + '\n')
+                        f_jsonl.write(json.dumps({"query": query, "resource_summaries": summaries, "answer": answer}) + '\n')
 
                     print(f'Processed {query_file_path} -> {output_file}')
                     print(f'Answer data saved to {finetune_file}')

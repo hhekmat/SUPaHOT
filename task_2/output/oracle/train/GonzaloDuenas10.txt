@@ -1,0 +1,2 @@
+This record is a medication request for a stopped order of a 24 HR tacrolimus 1 MG Extended Release Oral Tablet for a patient with a history of renal transplant.
+This is an observation record for a laboratory test measuring Sodium levels in the blood of a patient. The observation was finalized on January 5, 2023, with a value of 137.78 mmol/L.

@@ -1,0 +1,1 @@
+This record is an observation of a patient's blood pressure, taken on July 6, 2023, showing a systolic pressure of 113 mm[Hg] and a diastolic pressure of 68 mm[Hg].

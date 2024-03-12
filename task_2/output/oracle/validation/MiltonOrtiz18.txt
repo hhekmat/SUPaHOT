@@ -1,0 +1,2 @@
+This record is an Observation of the patient's tobacco smoking status, indicating that the patient is a never smoker. The observation was made on September 8, 2021, during a specific encounter.
+This record is an Observation of the patient's tobacco smoking status, indicating that the patient is a never smoker. The observation was made on September 8, 2021, during a specific encounter.

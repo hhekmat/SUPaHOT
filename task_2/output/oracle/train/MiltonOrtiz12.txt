@@ -1,0 +1,1 @@
+This record is an observation of a patient's heart rate, taken on December 2, 2020, showing a value of 120.49 beats per minute.

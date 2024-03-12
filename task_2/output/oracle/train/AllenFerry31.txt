@@ -1,0 +1,3 @@
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper and has a status of "stopped."
+This excerpt contains information about a medication request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper for a patient on December 20, 2011, but the status is marked as 'stopped'.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper and has a status of "stopped."

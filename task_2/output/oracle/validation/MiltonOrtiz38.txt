@@ -1,0 +1,1 @@
+This record is an Observation of a patient's Blood Pressure taken on December 2, 2020, showing a systolic pressure of 129 mm[Hg] and a diastolic pressure of 81 mm[Hg].

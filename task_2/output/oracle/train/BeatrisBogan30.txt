@@ -1,0 +1,1 @@
+This record is an Observation of the patient's tobacco smoking status, indicating that the patient has never smoked tobacco. The observation was finalized on April 18, 2021, and is associated with the patient's social history.

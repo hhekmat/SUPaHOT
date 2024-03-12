@@ -1,0 +1,2 @@
+This is an observation record for a laboratory test measuring Mean Corpuscular Volume (MCV) in a patient, with a value of 86.296 fL, taken on February 28, 2021.
+This is an observation record of a laboratory test for Platelet mean volume in Blood, with a value of 10.388 fL, taken on February 28, 2021, at 13:37:42 UTC.

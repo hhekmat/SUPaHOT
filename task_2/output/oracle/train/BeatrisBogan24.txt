@@ -1,0 +1,2 @@
+This record is an observation of a laboratory test for Hemoglobin in Blood, with a value of 15.754 g/dL, taken on February 28, 2021, at 13:37:42 UTC during an encounter.
+This is an observation record for MCHC (Mean Corpuscular Hemoglobin Concentration) lab test performed on a patient on February 28, 2021, showing a value of 33.556 g/dL.

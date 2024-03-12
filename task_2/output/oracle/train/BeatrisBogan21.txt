@@ -1,0 +1,2 @@
+This excerpt contains information about a finalized laboratory observation for erythrocytes in blood, with a value of 4.459 x 10^6 cells per microliter, taken on February 28, 2021, at 13:37:42 UTC.
+This is an observation record for a laboratory test measuring Hematocrit in the blood, with a value of 38.058% recorded on February 28, 2021.

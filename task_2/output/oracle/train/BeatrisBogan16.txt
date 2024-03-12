@@ -1,0 +1,1 @@
+This record is an Observation of Body Weight taken on February 28, 2021, showing a value of 19.7 kg for the patient with a specific encounter reference.

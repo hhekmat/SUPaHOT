@@ -1,0 +1,3 @@
+This excerpt contains information about an Observation of the patient's Respiratory rate, recorded on July 7, 2020, with a value of 16 breaths per minute.
+This is an observation record for Urea Nitrogen lab test results conducted on a patient on July 7, 2020, showing a value of 7.01 mg/dL.
+This is an observation record for a laboratory test measuring Urea Nitrogen in a patient's blood, with a value of 7.01 mg/dL, taken on July 7, 2020.

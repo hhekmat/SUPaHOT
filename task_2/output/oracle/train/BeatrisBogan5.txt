@@ -1,0 +1,2 @@
+This record is an Observation of a patient's Body Mass Index (BMI) taken on April 18, 2021, with a value of 14.45 kg/m2.
+This record is an Observation of a pediatric patient's Body Mass Index (BMI) percentile based on age and sex, taken on February 28, 2021, during an encounter.

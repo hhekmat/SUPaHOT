@@ -1,0 +1,2 @@
+This record is an Observation of leukocytes in blood by automated count for a patient, with a value of 4.5212 x 10^3 cells per microliter, taken on February 28, 2021.
+This is an observation record of a patient's reported pain severity on a scale of 0-10, recorded on February 28, 2021, during a specific encounter.

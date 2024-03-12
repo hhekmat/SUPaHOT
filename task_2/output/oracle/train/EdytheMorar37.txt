@@ -1,0 +1,2 @@
+This record indicates a confirmed active diagnosis of Anemia in a patient, recorded during an encounter on August 17, 1993.
+This record is an observation of a laboratory test for Hemoglobin in Blood, with a value of 16.812 g/dL, taken on July 7, 2020, at 12:03 AM.

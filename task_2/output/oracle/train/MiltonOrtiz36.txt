@@ -1,0 +1,1 @@
+This record is an Observation of a patient's heart rate, taken on September 8, 2021, showing a value of 80 beats per minute.

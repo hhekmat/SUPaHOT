@@ -1,0 +1,1 @@
+This record is an observation of erythrocytes in blood by automated count for a patient, with a value of 5.1943 x 10^6 cells per microliter, taken on July 6, 2023, during a specific encounter.
