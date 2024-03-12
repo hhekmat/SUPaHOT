@@ -1,0 +1,6 @@
+Encounter General examination of patient (procedure) 12-07-2005
+Encounter Encounter for check up (procedure) 07-25-2012
+Encounter Encounter for check up (procedure) 08-03-2016
+Encounter Encounter for check up (procedure) 01-04-2023
+Encounter Encounter for check up (procedure) 07-15-2020
+Encounter Urgent care clinic (environment) 09-27-2023

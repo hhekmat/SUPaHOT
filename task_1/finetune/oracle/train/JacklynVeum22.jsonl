@@ -1,0 +1,20 @@
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Observation pH of Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Observation Tobacco smoking status 03-15-2023", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Encounter Encounter for check up (procedure) 03-09-2016", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Encounter General examination of patient (procedure) 03-03-2021", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Procedure Assessment of anxiety (procedure) 08-03-2022", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Encounter Urgent care clinic (environment) 09-27-2023", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Encounter Encounter for check up (procedure) 02-16-2022", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Encounter Encounter for check up (procedure) 03-10-2021", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Encounter General examination of patient (procedure) 03-09-2022", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Condition Essential hypertension (disorder) 06-06-1973", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Encounter Encounter for check up (procedure) 01-12-2022", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-27-2023", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Encounter Encounter for check up (procedure) 01-04-2023", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Condition Risk activity involvement (finding) 05-11-1966", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 11-11-2020", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Observation Bilirubin.total [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Observation Respiratory rate 03-15-2023", "label": "True"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-22-2014", "label": "False"}
+{"query": "\"When was my last respiratory rate measured?\"", "resource": "Procedure Depression screening (procedure) 10-06-2021", "label": "False"}

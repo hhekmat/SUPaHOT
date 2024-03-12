@@ -1,1 +1,21 @@
-"Has my chronic kidney disease progressed since it was first diagnosed in 2005?"
+"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?"
+Immunization Influenza, seasonal, injectable, preservative free 02-26-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-27-2023
+Encounter Encounter for check up (procedure) 11-11-2015
+Immunization Influenza, seasonal, injectable, preservative free 01-23-2019
+Procedure Assessment of health and social care needs (procedure) 02-09-2022
+Observation Body Height 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016
+Procedure Medication Reconciliation (procedure) 10-05-2022
+Condition Proteinuria due to type 2 diabetes mellitus (disorder) 08-29-2018
+Encounter Urgent care clinic (environment) 09-27-2023
+Encounter Encounter for check up (procedure) 08-03-2016
+Encounter Encounter for check up (procedure) 06-08-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-27-2023
+Encounter General examination of patient (procedure) 03-03-2021
+Observation Total score [DAST-10] 09-27-2023
+Immunization pneumococcal polysaccharide vaccine, 23 valent 02-14-2018
+Encounter Encounter for check up (procedure) 04-14-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2022
+MedicationRequest Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet 01-19-2022
+Procedure Assessment using Morse Fall Scale (procedure) 07-06-2022

@@ -1,1 +1,21 @@
-"Can you tell me why my risk activity involvement condition was documented in my medical record back in 1966?"
+When was the last time I was prescribed Hydrochlorothiazide 25 MG?
+Condition Chronic kidney disease stage 1 (disorder) 12-01-2004
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019
+Observation Protein [Mass/volume] in Urine by Test strip 09-27-2023
+Observation Fall risk total [Morse Fall Scale] 09-27-2023
+Procedure Assessment of substance use (procedure) 06-08-2022
+Encounter Encounter for check up (procedure) 03-27-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015
+Procedure Assessment of substance use (procedure) 09-27-2023
+Encounter Encounter for check up (procedure) 04-14-2021
+Procedure Depression screening (procedure) 01-05-2022
+Procedure Screening for drug abuse (procedure) 09-27-2023
+Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023
+Encounter Encounter for check up (procedure) 10-06-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2022
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-29-2018
+Observation Bilirubin.total [Presence] in Urine by Test strip 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019
+Encounter Encounter for check up (procedure) 11-11-2020

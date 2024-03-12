@@ -1,0 +1,20 @@
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Procedure Medication Reconciliation (procedure) 04-24-2022", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Encounter Well child visit (procedure) 10-09-2016", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Encounter Well child visit (procedure) 10-07-2018", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Immunization Hep B, adolescent or pediatric 05-03-2015", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Observation Body Height 03-06-2022", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Procedure Medication Reconciliation (procedure) 04-30-2023", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Immunization Hib (PRP-OMP) 07-10-2016", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Immunization DTaP 08-09-2015", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Observation Tobacco smoking status 03-06-2022", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Immunization Hib (PRP-OMP) 07-10-2016", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Encounter Encounter for symptom 11-23-2016", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "MedicationRequest Amoxicillin 500 MG Oral Tablet 11-23-2016", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Observation Platelets [#/volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Observation Heart rate 04-30-2023", "label": "True"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Procedure Throat culture (procedure) 09-26-2016", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Observation Body mass index (BMI) [Ratio] 02-28-2021", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Procedure Referral for echocardiography (procedure) 02-01-2020", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Encounter Well child visit (procedure) 07-10-2016", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Procedure Referral for echocardiography (procedure) 02-01-2020", "label": "False"}
+{"query": "\"Can you tell me my heart rate on April 30, 2023?\"", "resource": "Observation Tobacco smoking status 04-30-2023", "label": "False"}

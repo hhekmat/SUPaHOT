@@ -1,1 +1,21 @@
-"When is the next scheduled date for my influenza vaccination?"
+"What were the results of my depression screening on 02-09-2021?"
+Immunization Influenza, seasonal, injectable, preservative free 01-29-2019
+Condition Carcinoma in situ of prostate (disorder) 11-03-2004
+Encounter General examination of patient (procedure) 07-12-1983
+Encounter General examination of patient (procedure) 06-24-1980
+Encounter General examination of patient (procedure) 06-19-1979
+Encounter General examination of patient (procedure) 06-30-1981
+Procedure Depression screening (procedure) 02-04-2020
+Procedure Assessment of health and social care needs (procedure) 12-31-2013
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-20-2011
+Procedure Assessment using Morse Fall Scale (procedure) 01-17-2017
+Observation Body Mass Index 01-29-2019
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-20-2011
+Observation Chloride 02-04-2020
+MedicationRequest Digoxin 0.125 MG Oral Tablet 01-23-2018
+MedicationRequest Verapamil Hydrochloride 40 MG 01-23-2018
+Condition Body mass index 30+ - obesity (finding) 05-09-1972
+Observation Body Height 02-04-2020
+Procedure Assessment of anxiety (procedure) 01-29-2019
+Procedure Medication Reconciliation (procedure) 01-12-2016
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2021

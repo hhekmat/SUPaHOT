@@ -1,0 +1,15 @@
+"When was the last time my blood pressure was checked?"
+Procedure Oxygen administration by mask (procedure) 11-23-2020
+Observation INR in Platelet poor plasma by Coagulation assay 12-01-2020
+Immunization meningococcal MCV4P 08-22-2018
+Procedure Assessment of health and social care needs (procedure) 08-16-2017
+Encounter Encounter for symptom 07-20-2014
+Immunization Influenza, seasonal, injectable, preservative free 09-08-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017
+Procedure Face mask (physical object) 11-21-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016
+Procedure Assessment of health and social care needs (procedure) 08-22-2018
+Observation Blood Pressure 12-02-2020
+Observation Platelets [#/volume] in Blood by Automated count 12-02-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020
+Procedure Depression screening (procedure) 08-10-2016

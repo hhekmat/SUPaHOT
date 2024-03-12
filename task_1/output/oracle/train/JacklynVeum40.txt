@@ -1,0 +1,5 @@
+Encounter Encounter for check up (procedure) 03-27-2019
+Encounter General examination of patient (procedure) 01-22-2014
+Procedure Assessment of health and social care needs (procedure) 03-15-2023
+Encounter General examination of patient (procedure) 02-14-2018
+Encounter Encounter for check up (procedure) 02-16-2022

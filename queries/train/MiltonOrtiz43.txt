@@ -1,1 +1,21 @@
-"What were the results of my substance use assessment from August 10, 2016?"
+"What was my Troponin I level on December 1st, 2020, and what does it mean for my heart health?"
+Procedure Placing subject in prone position (procedure) 11-28-2020
+Procedure Assessment of health and social care needs (procedure) 08-22-2018
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-08-2021
+Observation Glomerular filtration rate/1.73 sq M.predicted 12-02-2020
+Encounter Well child visit (procedure) 07-07-2010
+Procedure Face mask (physical object) 11-21-2020
+Observation Eosinophils [#/volume] in Blood by Automated count 12-02-2020
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 12-02-2020
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-28-2019
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016
+Procedure Depression screening (procedure) 09-08-2021
+Encounter Hypertension follow-up encounter 11-03-2015
+Observation Neutrophils/100 leukocytes in Blood by Automated count 12-02-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-22-2018
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020
+Encounter Encounter for symptom 07-20-2014
+Observation Eosinophils/100 leukocytes in Blood by Automated count 12-02-2020

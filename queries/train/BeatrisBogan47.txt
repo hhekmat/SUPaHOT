@@ -1,1 +1,21 @@
-"What was the outcome of my recent encounter for symptom on 10-02-2023?"
+"What symptoms did I have during my last medical encounter on 10-02-2023?"
+Observation Body mass index (BMI) [Ratio] 03-06-2022
+Condition Aortic valve stenosis (disorder) 05-02-2019
+Encounter Encounter for problem (procedure) 05-29-2021
+Condition Atopic dermatitis 09-13-2015
+Observation Body temperature 02-26-2022
+Encounter Encounter for symptom 10-02-2023
+Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021
+Observation Respiratory rate 04-30-2023
+Observation Body Height 02-28-2021
+Observation Heart rate 03-06-2022
+Immunization IPV 08-09-2015
+Procedure Transthoracic echocardiography (procedure) 03-28-2023
+Encounter Encounter for problem (procedure) 05-02-2019
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-06-2022
+Observation Tobacco smoking status 04-18-2021
+Encounter Well child visit (procedure) 10-11-2015
+Procedure Medication Reconciliation (procedure) 01-10-2016
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021
+Encounter Well child visit (procedure) 10-11-2015
+Immunization Pneumococcal conjugate PCV 13 01-10-2016

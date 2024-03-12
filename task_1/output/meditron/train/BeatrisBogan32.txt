@@ -1,0 +1,12 @@
+When was the last time I had a throat culture done?
+Procedure Throat culture (procedure) 10-02-2023
+Procedure Medication Reconciliation (procedure) 04-30-2023
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-30-2023
+Encounter Well child visit (procedure) 04-12-2020
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022
+Observation Body temperature 02-17-2021
+Observation Tobacco smoking status 04-24-2022
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-06-2022
+Observation MCH [Entitic mass] by Automated count 02-28-2021
+Immunization MMR 04-12-2020
+Immunization Hib (PRP-OMP) 07-10-2016

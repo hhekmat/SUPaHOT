@@ -1,0 +1,13 @@
+When was my last medication reconciliation done?
+Observation Body Height 04-24-2022
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-28-2021
+Procedure Medication Reconciliation (procedure) 01-10-2016
+Procedure Referral for echocardiography (procedure) 03-28-2023
+Immunization rotavirus, monovalent 08-09-2015
+Procedure Medication Reconciliation (procedure) 01-10-2016
+Observation Leukocytes [#/volume] in Blood by Automated count 02-28-2021
+Observation Heart rate 04-18-2021
+Observation MCV [Entitic volume] by Automated count 02-28-2021
+Procedure Referral for echocardiography (procedure) 03-28-2023
+Encounter Well child visit (procedure) 01-10-2016
+Encounter Well child visit (procedure) 10-07-2018

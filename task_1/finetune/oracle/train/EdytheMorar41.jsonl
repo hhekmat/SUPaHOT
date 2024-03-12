@@ -1,0 +1,20 @@
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Sodium 07-07-2020", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Creatinine 07-07-2020", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Procedure Medication Reconciliation (procedure) 12-28-2020", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter General examination of patient (procedure) 08-17-1993", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Urea Nitrogen 07-07-2020", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Condition Body mass index 30+ - obesity (finding) 07-16-1991", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation High Density Lipoprotein Cholesterol 07-07-2020", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Potassium 07-03-2018", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Body Height 12-28-2020", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Body Height 07-07-2020", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-03-2018", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter Consultation for treatment 03-17-2006", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter Encounter for check up (procedure) 07-13-1999", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter Encounter for check up (procedure) 07-16-1991", "label": "False"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter General examination of patient (procedure) 08-24-1999", "label": "False"}

@@ -1,1 +1,21 @@
-"How has my body weight or body mass index changed since I received the biventricular implantable cardioverter defibrillator in 2018?"
+"Can you please tell me the results of my triglycerides test from July 7, 2020?"
+Encounter General examination of patient (procedure) 07-07-2020
+Observation Calcium 12-28-2020
+Observation Sodium 07-03-2018
+Procedure Assessment of health and social care needs (procedure) 07-03-2018
+Immunization Hep A, adult 06-28-2016
+Encounter Consultation for treatment 01-27-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020
+Observation MCV [Entitic volume] by Automated count 07-07-2020
+Observation Blood Pressure 12-28-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018
+MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018
+Procedure Assessment of substance use (procedure) 06-24-2014
+Observation Triglycerides 07-07-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016
+Observation Leukocytes [#/volume] in Blood by Automated count 07-07-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014
+Procedure Depression screening (procedure) 07-03-2018
+MedicationRequest 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection 01-27-2020
+Procedure Depression screening (procedure) 06-24-2014
+Encounter Encounter for symptom 04-25-2019

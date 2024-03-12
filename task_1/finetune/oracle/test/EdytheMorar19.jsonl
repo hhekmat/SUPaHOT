@@ -1,169 +1,20 @@
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 04-27-2021", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 03-30-2021", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Emergency room admission (procedure) 02-19-2021", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Jolivette 28 Day Pack 01-21-2021", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 01-21-2021", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-29-2020", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening (procedure) 12-29-2020", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of anxiety (procedure) 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Medication Reconciliation (procedure) 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of health and social care needs (procedure) 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12-29-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Tobacco smoking status NHIS 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Carbon Dioxide 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Chloride 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Potassium 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Sodium 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Calcium 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Creatinine 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Urea Nitrogen 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Glucose 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Respiratory rate 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Heart rate 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Blood Pressure 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Body Mass Index 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Body Weight 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Body Height 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Full-time employment (finding) 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Encounter for check up (procedure) 12-28-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Measurement of respiratory function (procedure) 12-17-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Encounter for symptom 12-17-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of substance use (procedure) 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-07-2020", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening (procedure) 07-07-2020", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of anxiety (procedure) 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of health and social care needs (procedure) 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Total score [AUDIT-C] 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-07-2020", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Tobacco smoking status NHIS 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Platelets [#/volume] in Blood by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation MCHC [Mass/volume] by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation MCH [Entitic mass] by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation MCV [Entitic volume] by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Hemoglobin [Mass/volume] in Blood 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation High Density Lipoprotein Cholesterol 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Low Density Lipoprotein Cholesterol 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Triglycerides 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Total Cholesterol 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Carbon Dioxide 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Chloride 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Potassium 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Sodium 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Calcium 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Creatinine 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Urea Nitrogen 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Glucose 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Respiratory rate 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Heart rate 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Blood Pressure 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Body Mass Index 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Body Weight 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Body Height 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Has a criminal record (finding) 07-07-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 07-07-2020", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection 01-27-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Intramuscular injection 01-27-2020", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 01-27-2020", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule 05-02-2019", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Encounter for symptom 05-02-2019", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Nitrofurantoin 5 MG/ML Oral Suspension 04-25-2019", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Encounter for symptom 04-25-2019", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening (procedure) 07-03-2018", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Medication Reconciliation (procedure) 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of health and social care needs (procedure) 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-03-2018", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Tobacco smoking status NHIS 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Carbon Dioxide 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Chloride 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Potassium 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Observation Sodium 07-03-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 07-03-2018", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest 1 ML Epinephrine 1 MG/ML Injection 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Catheter ablation of tissue of heart 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Insertion of biventricular implantable cardioverter defibrillator 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Echocardiography (procedure) 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition History of cardiac arrest (situation) 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Cardiac Arrest 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Cardiac Arrest 06-19-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Throat culture (procedure) 06-18-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Encounter for symptom 06-18-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Insertion of intrauterine contraceptive device 02-06-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Patient encounter procedure 02-06-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 02-02-2018", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Insertion of intrauterine contraceptive device 02-07-2017", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Patient encounter procedure 02-07-2017", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 02-02-2017", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization Hep A, adult 06-28-2016", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization Td (adult) preservative free 06-28-2016", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 06-28-2016", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening (procedure) 06-28-2016", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Screening for domestic abuse (procedure) 06-28-2016", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of anxiety (procedure) 06-28-2016", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Medication Reconciliation (procedure) 06-28-2016", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of health and social care needs (procedure) 06-28-2016", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 06-28-2016", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Jolivette 28 Day Pack 02-13-2015", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 02-13-2015", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization Hep A, adult 06-24-2014", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 06-24-2014", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Screening for drug abuse (procedure) 06-24-2014", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of substance use (procedure) 06-24-2014", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Depression screening (procedure) 06-24-2014", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Procedure Assessment of health and social care needs (procedure) 06-24-2014", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 06-24-2014", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System 02-23-2013", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 02-23-2013", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 09-06-2011", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Prenatal visit 09-02-2008", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Jolivette 28 Day Pack 03-17-2006", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 03-17-2006", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 08-30-2005", "label": "True"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Jolivette 28 Day Pack 03-22-2005", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 03-22-2005", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "MedicationRequest Jolivette 28 Day Pack 03-30-2003", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Consultation for treatment 03-30-2003", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 08-27-2002", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 08-24-1999", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Encounter for check up (procedure) 07-13-1999", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Victim of intimate partner abuse (finding) 08-20-1996", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 08-20-1996", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Encounter for problem 08-17-1993", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Anemia (disorder) 08-17-1993", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Prediabetes 08-17-1993", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 08-17-1993", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Received higher education (finding) 08-11-1992", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Housing unsatisfactory (finding) 08-11-1992", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter General examination of patient (procedure) 08-11-1992", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Condition Body mass index 30+ - obesity (finding) 07-16-1991", "label": "False"}
-{"query": "When was the last time I was screened for depression?", "resource": "Encounter Encounter for check up (procedure) 07-16-1991", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Immunization Hep A, adult 06-24-2014", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Heart rate 07-07-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Encounter General examination of patient (procedure) 09-06-2011", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Procedure Screening for domestic abuse (procedure) 06-28-2016", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Urea Nitrogen 12-28-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Chloride 07-03-2018", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Creatinine 07-07-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Encounter Encounter for symptom 12-17-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Immunization Hep A, adult 06-28-2016", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Encounter Consultation for treatment 03-30-2003", "label": "True"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Procedure Insertion of intrauterine contraceptive device 02-06-2018", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Encounter Encounter for symptom 05-02-2019", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Low Density Lipoprotein Cholesterol 07-07-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018", "label": "False"}
+{"query": "\"What was the reason for the consultation on 03-30-2003?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-07-2020", "label": "False"}

@@ -1,1 +1,21 @@
-When was the last time I had a medication reconciliation done?
+"What was the result of my Depression screening using Patient Health Questionnaire Two-Item score on 07-03-2018?"
+Encounter Consultation for treatment 02-02-2018
+Observation Carbon Dioxide 12-28-2020
+Procedure Screening for drug abuse (procedure) 06-24-2014
+MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021
+Observation Respiratory rate 12-28-2020
+Observation Creatinine 07-07-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-07-2020
+Observation Creatinine 07-07-2020
+Encounter General examination of patient (procedure) 08-27-2002
+Procedure Assessment of substance use (procedure) 06-24-2014
+Immunization Influenza, seasonal, injectable, preservative free 06-28-2016
+Observation Glucose 07-07-2020
+Immunization Hep A, adult 06-28-2016
+Procedure Depression screening (procedure) 07-03-2018
+Observation Body Weight 12-28-2020
+Procedure Insertion of intrauterine contraceptive device 02-07-2017
+Encounter Encounter for symptom 04-25-2019
+Encounter Encounter for check up (procedure) 07-16-1991
+Observation Potassium 12-28-2020

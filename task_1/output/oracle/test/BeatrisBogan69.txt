@@ -1,4 +1,0 @@
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-06-2022
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021
-Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-28-2021
-MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021

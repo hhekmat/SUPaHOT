@@ -1,0 +1,20 @@
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Body mass index (BMI) [Ratio] 03-06-2022", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Condition Aortic valve stenosis (disorder) 05-02-2019", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Encounter for problem (procedure) 05-29-2021", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Condition Atopic dermatitis 09-13-2015", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Body temperature 02-26-2022", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Encounter for symptom 10-02-2023", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Respiratory rate 04-30-2023", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Body Height 02-28-2021", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Heart rate 03-06-2022", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Immunization IPV 08-09-2015", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 03-28-2023", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Encounter for problem (procedure) 05-02-2019", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-06-2022", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Tobacco smoking status 04-18-2021", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Well child visit (procedure) 10-11-2015", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Procedure Medication Reconciliation (procedure) 01-10-2016", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Well child visit (procedure) 10-11-2015", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 01-10-2016", "label": "False"}

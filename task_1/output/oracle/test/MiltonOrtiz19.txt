@@ -1,7 +1,2 @@
-Procedure Placing subject in prone position (procedure) 12-02-2020
-Procedure Placing subject in prone position (procedure) 12-01-2020
-Procedure Placing subject in prone position (procedure) 11-29-2020
-Procedure Placing subject in prone position (procedure) 11-24-2020
-Procedure Placing subject in prone position (procedure) 11-23-2020
-Procedure Placing subject in prone position (procedure) 11-21-2020
-Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020
+Encounter Well child visit (procedure) 07-18-2012
+Encounter Well child visit (procedure) 07-18-2012

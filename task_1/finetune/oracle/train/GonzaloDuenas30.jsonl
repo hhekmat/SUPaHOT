@@ -1,0 +1,20 @@
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Procedure Hospice care (regime/therapy) 02-12-2023", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Encounter Encounter for problem 09-19-2022", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-03-2022", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-24-2022", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Encounter Urgent care clinic (environment) 01-05-2023", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Procedure Hospice care (regime/therapy) 02-26-2023", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Procedure Hospice care (regime/therapy) 02-10-2023", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Encounter Encounter for problem 08-22-2022", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-24-2022", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Procedure Initial patient assessment (procedure) 02-09-2023", "label": "True"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Encounter Encounter for problem 09-21-2022", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Observation Potassium [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-27-2018", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Observation Body Weight 01-05-2023", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Encounter Emergency room admission (procedure) 03-03-2022", "label": "True"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Observation Carbon dioxide, total [Moles/volume] in Blood 01-05-2023", "label": "False"}

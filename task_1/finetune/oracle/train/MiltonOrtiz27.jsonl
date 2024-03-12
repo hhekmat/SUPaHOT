@@ -1,0 +1,20 @@
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Assessment of anxiety (procedure) 09-08-2021", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Encounter Hypertension follow-up encounter 11-03-2015", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Protein [Mass/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-28-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Body Weight 09-08-2021", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Condition Hypoxemia (disorder) 11-21-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Body Height 09-08-2021", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Oxygen administration by mask (procedure) 11-23-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Assessment of substance use (procedure) 09-02-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-05-2015", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Encounter Well child visit (procedure) 07-18-2012", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Depression screening (procedure) 09-02-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-22-2018", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Oxygen saturation in Arterial blood 12-02-2020", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Encounter Encounter for symptom 07-20-2014", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Body Weight 09-08-2021", "label": "False"}

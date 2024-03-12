@@ -1,0 +1,15 @@
+"When was my last fall risk assessment done?"
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-06-2015
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-04-2020
+Encounter Encounter Inpatient 09-01-2012
+Observation Sodium 01-29-2019
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-04-2020
+MedicationRequest lisinopril 10 MG Oral Tablet 02-04-2020
+Encounter General examination of patient (procedure) 08-21-1990
+Observation Body Mass Index 02-09-2021
+Encounter General examination of patient (procedure) 06-07-1977
+Condition Stress (finding) 01-29-2019
+Procedure Electrical cardioversion 01-17-2017
+Procedure Assessment using Morse Fall Scale (procedure) 01-17-2017
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-09-2021
+Observation Body Weight 02-04-2020

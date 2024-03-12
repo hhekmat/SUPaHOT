@@ -1,0 +1,20 @@
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Procedure Colonoscopy 02-06-2023", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter Encounter for check up 02-06-2023", "label": "True"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 01-05-2023", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter Encounter for problem (procedure) 09-20-2021", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2022", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 02-05-2023", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-05-2023", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Observation Blood pressure panel with all children optional 01-05-2023", "label": "True"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Condition Abnormal findings diagnostic imaging heart+coronary circulat (finding) 04-06-2021", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Procedure Hospice care (regime/therapy) 03-02-2023", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter Encounter for problem 09-28-2022", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter Encounter for problem 08-29-2022", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter Encounter for problem 09-17-2022", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-27-2021", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter Encounter for problem 09-03-2022", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 07-06-2023", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Encounter General examination of patient (procedure) 06-30-2022", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-17-2023", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-07-2018", "label": "False"}
+{"query": "\"How has my blood pressure been during my last check-up on 02-06-2023?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023", "label": "False"}

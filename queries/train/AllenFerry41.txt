@@ -1,1 +1,21 @@
-"What was my total score on the [HARK] assessment on January 29, 2019?"
+"When was the last time my bone was immobilized?"
+MedicationRequest Verapamil Hydrochloride 40 MG 12-14-2010
+Procedure Electrical cardioversion 12-25-2012
+MedicationRequest lisinopril 10 MG Oral Tablet 11-27-2007
+Condition Atrial Fibrillation 08-09-1988
+Encounter General examination of patient (procedure) 09-13-1994
+Observation Body Mass Index 02-04-2020
+Encounter General examination of patient (procedure) 10-29-2002
+Encounter General examination of patient (procedure) 08-27-1991
+Procedure Depression screening (procedure) 12-20-2011
+Procedure Electrical cardioversion 01-23-2018
+MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-25-2021
+MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009
+Procedure Electrical cardioversion 02-09-2021
+Observation Heart rate 01-29-2019
+Encounter General examination of patient (procedure) 05-09-1972
+Observation Body Weight 02-04-2020
+Procedure Bone immobilization 01-04-2012
+Observation Urea Nitrogen 02-09-2021
+MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009

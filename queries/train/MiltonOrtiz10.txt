@@ -1,1 +1,21 @@
-What was my score on the AUDIT-C assessment conducted on September 8, 2021?
+What were the results of my Alcohol Use Disorders Identification Test - Consumption assessment on 08-22-2018?
+Observation Heart rate 12-02-2020
+Procedure Assessment of substance use (procedure) 08-22-2018
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-22-2018
+Observation Creatinine [Mass/volume] in Serum or Plasma 12-02-2020
+Procedure Placing subject in prone position (procedure) 11-21-2020
+Immunization Influenza, seasonal, injectable, preservative free 09-08-2021
+Observation Heart rate 09-08-2021
+Procedure Assessment of health and social care needs (procedure) 09-08-2021
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
+Condition Housing unsatisfactory (finding) 08-05-2015
+Procedure Placing subject in prone position (procedure) 11-28-2020
+Encounter General examination of patient (procedure) 08-10-2016
+Procedure Assessment of health and social care needs (procedure) 09-02-2020
+Immunization Influenza, seasonal, injectable, preservative free 08-16-2017
+Encounter General examination of patient (procedure) 09-02-2020
+Encounter Hypertension follow-up encounter 09-04-2015
+Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020
+Immunization Influenza, seasonal, injectable, preservative free 08-22-2018
+Encounter General examination of patient (procedure) 08-05-2015

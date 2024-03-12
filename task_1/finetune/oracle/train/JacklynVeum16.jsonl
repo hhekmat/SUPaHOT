@@ -1,0 +1,20 @@
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter General examination of patient (procedure) 02-20-2019", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Body mass index (BMI) [Ratio] 03-15-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 09-27-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter General examination of patient (procedure) 06-06-1973", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Medication Reconciliation (procedure) 08-03-2022", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Protein [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter Encounter for check up (procedure) 03-10-2021", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment of substance use (procedure) 01-04-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter Encounter for problem (procedure) 02-11-2014", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Hemoglobin [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 10-06-2021", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Protein [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Nitrite [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment of substance use (procedure) 10-05-2022", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-15-2023", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment of health and social care needs (procedure) 10-05-2022", "label": "False"}

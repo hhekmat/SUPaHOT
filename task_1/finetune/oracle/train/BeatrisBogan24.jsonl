@@ -1,0 +1,20 @@
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Encounter Well child visit (procedure) 04-12-2020", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Encounter Encounter for symptom 02-26-2022", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Condition Atopic dermatitis 09-13-2015", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Immunization DTaP 10-09-2016", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Body Height 02-28-2021", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Tobacco smoking status 03-06-2022", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Blood pressure panel with all children optional 02-28-2021", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Immunization Hib (PRP-OMP) 08-09-2015", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-06-2022", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Procedure Medication Reconciliation (procedure) 07-10-2016", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Hemoglobin [Mass/volume] in Blood 02-28-2021", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-24-2022", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Procedure Throat culture (procedure) 10-02-2023", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 05-29-2021", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Body temperature 02-26-2022", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Encounter Encounter for problem (procedure) 05-29-2021", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022", "label": "False"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 02-28-2021", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Procedure Medication Reconciliation (procedure) 07-10-2016", "label": "False"}

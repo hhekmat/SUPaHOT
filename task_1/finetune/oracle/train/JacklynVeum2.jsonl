@@ -1,0 +1,20 @@
+{"query": "When was my first prenatal visit?", "resource": "Encounter Encounter for check up (procedure) 06-26-2013", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "MedicationRequest Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet 01-19-2022", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "MedicationRequest Naproxen sodium 220 MG Oral Tablet 07-02-2020", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Encounter Encounter for check up (procedure) 09-26-2012", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Procedure Assessment of substance use (procedure) 10-05-2022", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Encounter Prenatal initial visit 09-05-2001", "label": "True"}
+{"query": "When was my first prenatal visit?", "resource": "Observation Blood pressure panel with all children optional 03-15-2023", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Encounter Encounter for check up (procedure) 01-04-2023", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Encounter General examination of patient (procedure) 03-09-2022", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2021", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Encounter General examination of patient (procedure) 06-06-1973", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 02-26-2020", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-27-2023", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-08-2022", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 11-11-2020", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Encounter Encounter for check up (procedure) 11-11-2020", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Encounter General examination of patient (procedure) 02-08-2017", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Observation Fall risk total [Morse Fall Scale] 09-27-2023", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Immunization Pneumococcal conjugate PCV 13 08-03-2016", "label": "False"}
+{"query": "When was my first prenatal visit?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-03-2022", "label": "False"}

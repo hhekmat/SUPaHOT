@@ -1,0 +1,14 @@
+When is my next scheduled immunization for rotavirus?
+Immunization rotavirus, monovalent 08-09-2015
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-06-2022
+Immunization Hep B, adolescent or pediatric 05-03-2015
+Immunization Hep A, ped/adol, 2 dose 10-08-2017
+Observation Body Weight 04-24-2022
+Observation Hemoglobin [Mass/volume] in Blood 02-28-2021
+Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021
+MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-30-2023
+Observation Tobacco smoking status 04-30-2023
+Procedure Transthoracic echocardiography (procedure) 03-28-2023
+Observation Platelets [#/volume] in Blood by Automated count 02-28-2021
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021

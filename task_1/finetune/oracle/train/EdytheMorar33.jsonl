@@ -1,0 +1,20 @@
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Encounter Consultation for treatment 01-21-2021", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "MedicationRequest Jolivette 28 Day Pack 01-21-2021", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Observation MCH [Entitic mass] by Automated count 07-07-2020", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-07-2020", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Procedure Depression screening (procedure) 12-29-2020", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Encounter Encounter for problem 08-17-1993", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Encounter Encounter for symptom 05-02-2019", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 07-03-2018", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Observation Calcium 12-28-2020", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Procedure Depression screening (procedure) 07-07-2020", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Encounter Encounter for problem 08-17-1993", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021", "label": "True"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-07-2020", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Encounter Cardiac Arrest 06-19-2018", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Observation MCH [Entitic mass] by Automated count 07-07-2020", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Condition Victim of intimate partner abuse (finding) 08-20-1996", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "Observation Urea Nitrogen 07-07-2020", "label": "False"}

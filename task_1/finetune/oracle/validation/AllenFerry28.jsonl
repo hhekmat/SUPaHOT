@@ -1,0 +1,20 @@
+{"query": "When was my last health assessment and what were the findings?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-29-2019", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-06-2015", "label": "True"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-09-2021", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-04-2020", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Encounter General examination of patient (procedure) 09-01-1992", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Encounter General examination of patient (procedure) 07-29-1986", "label": "True"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Procedure Assessment of anxiety (procedure) 01-23-2018", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-25-2012", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Procedure Assessment of anxiety (procedure) 01-23-2018", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-04-2020", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-23-2018", "label": "True"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Procedure Assessment of anxiety (procedure) 01-06-2015", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 12-02-2008", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 05-25-2021", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Procedure Depression screening (procedure) 12-25-2012", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Condition Hypertension 02-24-1959", "label": "False"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Encounter General examination of patient (procedure) 06-30-1981", "label": "True"}
+{"query": "When was my last health assessment and what were the findings?", "resource": "Encounter General examination of patient (procedure) 12-20-2011", "label": "True"}

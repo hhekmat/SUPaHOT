@@ -1,1 +1,21 @@
-"When was my last general examination done?"
+"When did I receive my COVID-19 vaccine?"
+Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023
+Condition Has a criminal record (finding) 02-08-2017
+Encounter Encounter for check up (procedure) 07-06-2022
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-15-2023
+Procedure Depression screening (procedure) 03-09-2022
+Encounter Encounter for problem (procedure) 02-26-2014
+Observation Glucose [Presence] in Urine by Test strip 09-27-2023
+Observation Tobacco smoking status 03-15-2023
+Encounter General examination of patient (procedure) 12-01-2004
+Condition Risk activity involvement (finding) 05-11-1966
+Observation Fall risk total [Morse Fall Scale] 09-27-2023
+Encounter Encounter for check up (procedure) 02-19-2014
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-03-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021
+Procedure Assessment using Morse Fall Scale (procedure) 09-27-2023
+Condition Social isolation (finding) 03-09-2022
+Encounter Urgent care clinic (environment) 09-27-2023
+Encounter Encounter for check up (procedure) 10-05-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015
+Immunization Influenza, seasonal, injectable, preservative free 10-06-2021

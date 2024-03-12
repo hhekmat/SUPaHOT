@@ -1,0 +1,20 @@
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Procedure Oxygen administration by mask (procedure) 12-01-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Condition Hypoxemia (disorder) 11-21-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Body Mass Index 09-08-2021", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Procedure Placing subject in prone position (procedure) 12-01-2020", "label": "True"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Procedure Oxygen administration by mask (procedure) 11-22-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Hemoglobin [Mass/volume] in Blood 12-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Encounter General examination of patient (procedure) 09-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Encounter Hospital admission for isolation (procedure) 11-21-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Oxygen saturation in Arterial blood 12-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Procedure Face mask (physical object) 11-21-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Condition Misuses drugs (finding) 08-28-2019", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Procedure Assessment of health and social care needs (procedure) 09-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 09-08-2021", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Observation Oxygen saturation in Arterial blood 12-02-2020", "label": "False"}

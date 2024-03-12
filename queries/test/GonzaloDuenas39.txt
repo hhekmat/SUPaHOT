@@ -1,1 +1,21 @@
-When did I complete my higher education?
+"Can you tell me when I last had a physical examination?"
+Observation Fall risk level [Morse Fall Scale] 07-06-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 01-05-2023
+Encounter Postoperative follow-up visit (procedure) 02-05-2023
+Procedure Hospice care (regime/therapy) 02-20-2023
+Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001
+Encounter Encounter for problem 09-12-2022
+Immunization Influenza, seasonal, injectable, preservative free 01-05-2023
+Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001
+MedicationRequest Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution 12-25-2022
+Observation MCH [Entitic mass] by Automated count 07-06-2023
+Encounter Postoperative follow-up visit (procedure) 10-27-2021
+Procedure Hospice care (regime/therapy) 02-23-2023
+Procedure Physical examination, complete (procedure) 02-05-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2022
+MedicationRequest Vitamin B12 5 MG/ML Injectable Solution 06-29-2017
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-17-2022
+Observation Respiratory rate 07-06-2023
+Observation Sodium [Moles/volume] in Blood 01-05-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-24-2022
+Observation Response to cancer treatment 10-07-2022

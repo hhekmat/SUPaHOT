@@ -1,0 +1,20 @@
+{"query": "When was my last general examination?", "resource": "Encounter General examination of patient (procedure) 08-04-1987", "label": "True"}
+{"query": "When was my last general examination?", "resource": "Procedure Depression screening (procedure) 01-06-2015", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-23-2018", "label": "False"}
+{"query": "When was my last general examination?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 11-27-2007", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter Encounter for 'check-up' 06-10-1978", "label": "True"}
+{"query": "When was my last general examination?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-09-2021", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter General examination of patient (procedure) 07-12-1983", "label": "True"}
+{"query": "When was my last general examination?", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 01-17-2017", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-23-2018", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Observation Chloride 01-29-2019", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Observation Potassium 01-29-2019", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 12-25-2012", "label": "False"}
+{"query": "When was my last general examination?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-17-2017", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Procedure Bone density scan (procedure) 01-04-2012", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter General examination of patient (procedure) 07-06-1982", "label": "True"}
+{"query": "When was my last general examination?", "resource": "Observation Fall risk total [Morse Fall Scale] 02-09-2021", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter General examination of patient (procedure) 01-17-2017", "label": "True"}
+{"query": "When was my last general examination?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Observation Total Cholesterol 02-04-2020", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 05-04-2021", "label": "False"}

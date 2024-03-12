@@ -1,1 +1,21 @@
-"What was my total score on the Patient Health Questionnaire 2 item (PHQ-2) from December 29, 2020?"
+"What were the results of my health and social care needs assessment that was done on June 24, 2014?"
+Condition Has a criminal record (finding) 07-07-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-07-2020
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12-29-2020
+Encounter Consultation for treatment 03-17-2006
+Procedure Measurement of respiratory function (procedure) 12-17-2020
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 03-30-2021
+Observation Creatinine 12-28-2020
+Encounter Encounter for check up (procedure) 07-13-1999
+Immunization Influenza, seasonal, injectable, preservative free 07-07-2020
+MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018
+Immunization Hep A, adult 06-24-2014
+MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018
+Procedure Measurement of respiratory function (procedure) 12-17-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+MedicationRequest Jolivette 28 Day Pack 03-22-2005
+Encounter General examination of patient (procedure) 07-03-2018
+Condition Received higher education (finding) 08-11-1992
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020
+Observation Heart rate 07-07-2020

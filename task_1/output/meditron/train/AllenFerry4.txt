@@ -1,0 +1,16 @@
+"When was the last time I had an electrical cardioversion procedure?"
+Observation Calcium 01-29-2019
+Condition Received higher education (finding) 02-24-1959
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-25-2021
+Encounter General examination of patient (procedure) 08-15-1989
+MedicationRequest Digoxin 0.125 MG Oral Tablet 02-04-2020
+MedicationRequest Verapamil Hydrochloride 40 MG 01-29-2019
+Encounter General examination of patient (procedure) 05-09-1972
+Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018
+MedicationRequest Verapamil Hydrochloride 40 MG 12-31-2013
+Observation Total score [HARK] 01-29-2019
+Observation Total score [MMSE] 02-09-2021
+Procedure Electrical cardioversion 01-23-2018
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-02-2008
+Condition Neoplasm of prostate 11-03-2004
+Encounter General examination of patient (procedure) 09-01-1992

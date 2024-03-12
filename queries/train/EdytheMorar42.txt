@@ -1,1 +1,21 @@
-"Can you remind me when I received my last influenza vaccine?"
+"Can you tell me how my respiratory rate on 07-07-2020 compares to the measurement of my respiratory function on 12-17-2020?"
+Procedure Measurement of respiratory function (procedure) 12-17-2020
+Observation Total score [AUDIT-C] 07-07-2020
+Encounter Consultation for treatment 03-17-2006
+Procedure Assessment of anxiety (procedure) 07-07-2020
+Observation Respiratory rate 07-07-2020
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-07-2020
+Procedure Assessment of substance use (procedure) 07-07-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014
+Encounter General examination of patient (procedure) 08-24-1999
+Observation Carbon Dioxide 12-28-2020
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020
+Encounter Encounter for symptom 12-17-2020
+Procedure Assessment of anxiety (procedure) 07-07-2020
+Encounter Prenatal visit 09-02-2008
+MedicationRequest NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule 05-02-2019
+Observation Calcium 12-28-2020
+Observation Tobacco smoking status NHIS 07-03-2018
+Procedure Depression screening (procedure) 07-07-2020
+Condition Victim of intimate partner abuse (finding) 08-20-1996
+Observation Tobacco smoking status NHIS 12-28-2020

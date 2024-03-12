@@ -1,0 +1,20 @@
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Triglycerides 02-04-2020", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Tobacco smoking status NHIS 01-29-2019", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Depression screening (procedure) 12-20-2011", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-29-2019", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 11-08-2011", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 01-17-2017", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Encounter Emergency room admission (procedure) 01-04-2012", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Encounter General examination of patient (procedure) 02-04-2020", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Glucose 02-09-2021", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 12-08-2009", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 11-08-2011", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 12-25-2012", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Encounter Encounter for 'check-up' 04-19-2012", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Total Cholesterol 02-04-2020", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Heart rate 01-29-2019", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Potassium 01-29-2019", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 02-09-2021", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-12-2016", "label": "False"}

@@ -1,0 +1,20 @@
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-20-2021", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Procedure Development of individualized plan of care (procedure) 02-09-2023", "label": "True"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-21-2023", "label": "True"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 07-06-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Observation Body Height 01-05-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-06-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-17-2022", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Observation Potassium [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-18-2020", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Observation Glucose [Mass/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-07-2018", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 09-07-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2022", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Observation Respiratory rate 01-05-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-17-2023", "label": "True"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Observation MCV [Entitic volume] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Condition Gout 11-08-1996", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-21-2022", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 05-18-2023", "label": "False"}

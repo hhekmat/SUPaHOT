@@ -11,7 +11,7 @@ import aiohttp
 from preprocess import populate_global_resources, global_resource_dict
 import backoff
 
-MAX_ASYNC_TASKS = 250
+MAX_ASYNC_TASKS = 100
 
 @backoff.on_exception(backoff.expo, asyncio.TimeoutError, max_tries=8)
 async def generate_meditron_response_async(session, prompt, task_prompt, model="meditron-7b"):
@@ -23,29 +23,34 @@ async def generate_meditron_response_async(session, prompt, task_prompt, model="
             {"role": "user", "content": prompt}
         ]
     }
-
-    async with session.post("http://35.229.176.120:8000/v1/chat/completions", json=data) as response:
-        if response.status == 200:
-            response_data = await response.json()
-            if response_data['choices'] and response_data['choices'][0]['message']:
-                return response_data['choices'][0]['message']['content'].strip()
+    # handling error prompts more elegantly because there are a lot of errors :P
+    try: 
+        async with session.post("http://35.201.169.217:8000/v1/chat/completions", json=data) as response:
+            if response.status == 200:
+                response_data = await response.json()
+                if response_data['choices'] and response_data['choices'][0]['message']:
+                    return response_data['choices'][0]['message']['content'].strip()
+                else:
+                    return "No response generated."
             else:
-                return "No response generated."
-        else:
-            print(f"Error during API call: {response.status}")
-            return None
+                print(f"Error during API call: {response.status}")
+                return None
+    except asyncio.TimeoutError:
+        print(f"TimeoutError for prompt: {prompt}")
+        return "TimeoutError"
+    except Exception as e:
+        print(f"Unexpected error: {e} for prompt: {prompt}")
+        return "Error"
     
 async def process_task_1():
     base_dir = 'queries'
     output_dir = 'task_1/output/meditron'
     finetune_dir = 'task_1/finetune/meditron'
-    relevant_data_dir = 'all_resources'
 
-    task_1_prompt = "Given a query and a resource from a patient's medical record, your job is to determine if the resource is relevant to providing an answer to the patient's query about their medical history. Respond only with 'True' if the resource could be relevant, or 'False' if the resource would not be helpful in providing the patient an answer to their question. Do not add any more detail, just answer with the words True or False." 
+    task_1_prompt = ("Given a query and a resource from a patient's medical record, your job is to determine if the resource could potentially be relevant to providing an answer to the patient's query about their medical history. You must respond only with 'True' if the resource may be relevant, or 'False' if the resource would not be helpful at all in providing the patient an answer to their question. Do not provide any additional detail or try to answer the original users query. Only answer True or False. Here is the query and respective resource:")
 
-    async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=120)) as session:  # Single session
+    async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=180)) as session:  # Single session
         for root, dirs, files in os.walk(base_dir):
-            meditron_tasks = []
             for file in files:
                 if file.endswith('.txt'):
                     file_path = os.path.join(root, file)
@@ -53,53 +58,52 @@ async def process_task_1():
                         lines = await f.readlines()
 
                     query = lines[0].strip()
-                    stripped_filename = re.sub(r'\d+', '', file.split('.')[0])
-                    relevant_data_file = os.path.join(relevant_data_dir, f"{stripped_filename}resources.txt")
+                    resources = lines[1:]  # Treat subsequent lines as resources
+                    finetune_data = []
+                    meditron_tasks = []
+                    resource_lines = []
 
-                    if os.path.exists(relevant_data_file):
-                        finetune_data = []
-                        meditron_tasks = []
-                        resource_lines = []
-                        relevant_resources = []
-                        all_responses = []
-                        async with aiofiles.open(relevant_data_file, 'r') as f:
-                            async for resource_line in f:
-                                resource = resource_line.strip()
-                                prompt = f"Query: {query}, resource: {resource}"
-                                print('prompt ', prompt)
+                    for resource in resources:
+                        resource = resource.strip()
+                        prompt = f"This is the query: {query}, This is the resource: {resource}. Return True if the resource could be relevant to the query or False if it is certainly not related to the query. Return True or False."
+                        print('prompt ', prompt)
 
-                                meditron_tasks.append(generate_meditron_response_async(session, prompt, task_1_prompt))
-                                resource_lines.append(resource)
+                        meditron_tasks.append(generate_meditron_response_async(session, prompt, task_1_prompt))
+                        resource_lines.append(resource)
 
-                        all_responses = []
-                        for i in range(0, len(meditron_tasks), MAX_ASYNC_TASKS):
-                            batch_tasks = meditron_tasks[i:i+MAX_ASYNC_TASKS]
-                            responses = await asyncio.gather(*batch_tasks)
-                            all_responses.extend(responses)
+                    all_responses = []
+                    for i in range(0, len(meditron_tasks), MAX_ASYNC_TASKS):
+                        batch_tasks = meditron_tasks[i:i+MAX_ASYNC_TASKS]
+                        responses = await asyncio.gather(*batch_tasks)
+                        all_responses.extend(responses)
+                    print('all responses is ', all_responses)
 
-                        for resource, meditron_response in zip(resource_lines, all_responses):
-                            if meditron_response == "True":
-                                relevant_resources.append(resource)
+                    for resource, meditron_response in zip(resource_lines, all_responses):
+                        print('meditron response here was', meditron_response)
+                        if meditron_response == "True":
                             finetune_data.append({"query": query, "resource": resource, "label": meditron_response})
 
-                        output_subdir = os.path.join(output_dir, os.path.relpath(root, base_dir))
-                        os.makedirs(output_subdir, exist_ok=True)
-                        output_file = os.path.join(output_subdir, file)
+                    output_subdir = os.path.join(output_dir, os.path.relpath(root, base_dir))
+                    os.makedirs(output_subdir, exist_ok=True)
+                    output_file = os.path.join(output_subdir, file)
 
-                        async with aiofiles.open(output_file, 'w') as f:
-                            for resource in relevant_resources:
-                                await f.write("%s\n" % resource)
+                    # Append relevant resources directly to the original query file
+                    async with aiofiles.open(output_file, 'w') as f:
+                        await f.write(query + '\n')
+                        for data in finetune_data:
+                            await f.write(f"{data['resource']}\n")
 
-                        finetune_subdir = os.path.join(finetune_dir, os.path.relpath(root, base_dir))
-                        os.makedirs(finetune_subdir, exist_ok=True)
-                        finetune_file = os.path.join(finetune_subdir, file.replace('.txt', '.jsonl'))
+                    finetune_subdir = os.path.join(finetune_dir, os.path.relpath(root, base_dir))
+                    os.makedirs(finetune_subdir, exist_ok=True)
+                    finetune_file = os.path.join(finetune_subdir, file.replace('.txt', '.jsonl'))
 
-                        async with aiofiles.open(finetune_file, 'w') as f:
-                            for item in finetune_data:
-                                await f.write(json.dumps(item) + '\n')
+                    async with aiofiles.open(finetune_file, 'w') as f:
+                        for item in finetune_data:
+                            await f.write(json.dumps(item) + '\n')
 
-                        print(f'Processed {file_path} -> {output_file}')
-                        print(f'Finetuning data saved to {finetune_file}')
+                    print(f'Processed {file_path} -> {output_file}')
+                    print(f'Finetuning data saved to {finetune_file}')
+
 
 if __name__ == '__main__':
     # Accepting task number as a command-line argument

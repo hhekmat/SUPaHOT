@@ -1,1 +1,21 @@
-How has my generalized anxiety disorder been progressing since my last consultation in January 2021?
+When was my last medication reconciliation performed?
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020
+Observation Sodium 07-07-2020
+MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018
+Observation Creatinine 07-07-2020
+Procedure Medication Reconciliation (procedure) 12-28-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014
+Encounter General examination of patient (procedure) 08-17-1993
+Observation Urea Nitrogen 07-07-2020
+Condition Body mass index 30+ - obesity (finding) 07-16-1991
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
+Observation High Density Lipoprotein Cholesterol 07-07-2020
+Observation Potassium 07-03-2018
+Observation Body Height 12-28-2020
+Observation Body Height 07-07-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-03-2018
+Encounter Consultation for treatment 03-17-2006
+Encounter Encounter for check up (procedure) 07-13-1999
+Encounter Encounter for check up (procedure) 07-16-1991
+Encounter General examination of patient (procedure) 08-24-1999

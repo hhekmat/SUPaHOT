@@ -1,0 +1,13 @@
+"What was the result of my Depression screening using Patient Health Questionnaire Two-Item score on 07-03-2018?"
+Encounter Consultation for treatment 02-02-2018
+Observation Carbon Dioxide 12-28-2020
+MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021
+Observation Creatinine 07-07-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018
+Observation Creatinine 07-07-2020
+Immunization Influenza, seasonal, injectable, preservative free 06-28-2016
+Observation Glucose 07-07-2020
+Procedure Depression screening (procedure) 07-03-2018
+Observation Body Weight 12-28-2020
+Encounter Encounter for check up (procedure) 07-16-1991
+Observation Potassium 12-28-2020

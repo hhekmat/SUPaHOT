@@ -1,0 +1,20 @@
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 01-23-2018", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 08-27-1991", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 01-12-2016", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Observation Total score [MMSE] 02-09-2021", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 05-04-1971", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 10-29-2002", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Observation Sodium 01-29-2019", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 08-15-1989", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Condition Served in armed forces (finding) 02-24-1959", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 01-23-2018", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-14-2010", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Observation Heart rate 02-09-2021", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Condition Anemia (disorder) 05-15-1973", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 09-13-1994", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 12-02-2008", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Observation Total score [HARK] 02-04-2020", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 01-23-2018", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Observation Creatinine 01-29-2019", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-14-2010", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 10-12-1999", "label": "True"}

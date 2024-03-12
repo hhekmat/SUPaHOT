@@ -1,1 +1,21 @@
-"When was my last flu shot?"
+What was my total score on the PHQ-2 questionnaire during my last visit on 09-08-2021, and what does that score indicate about my mental health?
+Observation Respiratory rate 12-02-2020
+Observation Body Mass Index 09-08-2021
+Condition Stress (finding) 09-08-2021
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021
+Encounter Well child visit (procedure) 07-07-2010
+Observation Respiratory rate 12-02-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Chloride [Moles/volume] in Serum or Plasma 12-02-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-22-2018
+Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020
+Encounter Encounter for symptom 12-21-2012
+Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 08-16-2017
+Procedure Depression screening (procedure) 09-08-2021
+Procedure Screening for drug abuse (procedure) 08-16-2017
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016
+Observation Respiratory rate 12-02-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-28-2019
+Observation Neutrophils [#/volume] in Blood by Automated count 12-02-2020
+Procedure Oxygen administration by mask (procedure) 11-30-2020

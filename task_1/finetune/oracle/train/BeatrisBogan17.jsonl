@@ -1,0 +1,20 @@
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Respiratory rate 04-18-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Respiratory rate 03-06-2022", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Heart rate 03-06-2022", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Encounter Encounter for problem (procedure) 03-28-2023", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 04-12-2020", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Blood pressure panel with all children optional 03-06-2022", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Immunization Hib (PRP-OMP) 07-10-2016", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Body temperature 02-17-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Encounter Well child visit (procedure) 04-07-2019", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Immunization Hib (PRP-OMP) 10-11-2015", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation MCH [Entitic mass] by Automated count 02-28-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Immunization Hep A, ped/adol, 2 dose 10-08-2017", "label": "True"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Encounter Encounter for check up (procedure) 02-28-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Body Weight 04-18-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "When was my last Hepatitis A immunization dose given?", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 02-28-2021", "label": "False"}

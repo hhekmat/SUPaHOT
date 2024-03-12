@@ -1,0 +1,20 @@
+{"query": "When was my last general examination conducted?", "resource": "Condition Sprain of ankle 10-31-2023", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Encounter Urgent care clinic (environment) 09-27-2023", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Procedure Assessment of substance use (procedure) 10-06-2021", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Encounter Encounter for check up (procedure) 03-27-2019", "label": "True"}
+{"query": "When was my last general examination conducted?", "resource": "Procedure Assessment of anxiety (procedure) 03-15-2023", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Immunization Pneumococcal conjugate PCV 13 08-03-2016", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Procedure Assessment of substance use (procedure) 01-04-2023", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-15-2015", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Encounter General examination of patient (procedure) 01-22-2014", "label": "True"}
+{"query": "When was my last general examination conducted?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-23-2019", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Condition Chronic kidney disease stage 3 (disorder) 08-29-2018", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Procedure Assessment of health and social care needs (procedure) 03-15-2023", "label": "True"}
+{"query": "When was my last general examination conducted?", "resource": "Condition Miscarriage in first trimester 09-05-2001", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Encounter General examination of patient (procedure) 02-14-2018", "label": "True"}
+{"query": "When was my last general examination conducted?", "resource": "Encounter Encounter for check up (procedure) 02-16-2022", "label": "True"}
+{"query": "When was my last general examination conducted?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2022", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Procedure Depression screening (procedure) 03-09-2022", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 10-06-2021", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-05-2022", "label": "False"}
+{"query": "When was my last general examination conducted?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-22-2014", "label": "False"}

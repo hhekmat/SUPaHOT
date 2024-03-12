@@ -1,0 +1,20 @@
+{"query": "\"When was my last check-up appointment?\"", "resource": "Observation Heart rate 09-27-2023", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-03-2016", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Encounter General examination of patient (procedure) 12-07-2005", "label": "True"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Procedure Medication Reconciliation (procedure) 12-29-2021", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 12-22-2021", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Procedure Screening for drug abuse (procedure) 10-05-2022", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Encounter Encounter for check up (procedure) 07-25-2012", "label": "True"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Encounter Encounter for check up (procedure) 08-03-2016", "label": "True"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Encounter Encounter for check up (procedure) 01-04-2023", "label": "True"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Observation Chloride [Moles/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2021", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Procedure Assessment of anxiety (procedure) 03-15-2023", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-24-2021", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 10-31-2023", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Procedure Depression screening (procedure) 02-09-2022", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Encounter Encounter for check up (procedure) 07-15-2020", "label": "True"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Observation Body Height 09-27-2023", "label": "False"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Encounter Urgent care clinic (environment) 09-27-2023", "label": "True"}
+{"query": "\"When was my last check-up appointment?\"", "resource": "Condition Risk activity involvement (finding) 05-11-1966", "label": "False"}

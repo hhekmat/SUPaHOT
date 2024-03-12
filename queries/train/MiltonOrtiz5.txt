@@ -1,1 +1,21 @@
-"Can you tell me when I last had my blood tested for eosinophils?"
+"What was my sodium level in my blood on December 2, 2020?"
+Observation Basophils [#/volume] in Blood by Automated count 12-02-2020
+Procedure Depression screening (procedure) 08-10-2016
+Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020
+Condition Housing unsatisfactory (finding) 08-05-2015
+Encounter General examination of patient (procedure) 08-22-2018
+Observation INR in Platelet poor plasma by Coagulation assay 12-01-2020
+Procedure Placing subject in prone position (procedure) 12-01-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016
+Encounter General examination of patient (procedure) 08-05-2015
+Observation Glomerular filtration rate/1.73 sq M.predicted 12-02-2020
+Encounter Well child visit (procedure) 07-07-2010
+Observation Body temperature 12-02-2020
+Observation Basophils [#/volume] in Blood by Automated count 12-02-2020
+Procedure Depression screening (procedure) 08-28-2019
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-28-2019
+Immunization Hep B, adult 08-22-2018
+Observation Body Weight 09-08-2021
+Procedure Oxygen administration by mask (procedure) 11-30-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020

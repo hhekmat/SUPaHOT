@@ -1,1 +1,21 @@
-"Can you tell me when I received my last flu shot?"
+"Have I ever been prescribed Verapamil Hydrochloride before?"
+Procedure Electrical cardioversion 01-23-2018
+Encounter Encounter for problem 05-15-1973
+Observation Low Density Lipoprotein Cholesterol 02-04-2020
+Encounter General examination of patient (procedure) 05-27-1975
+Encounter Encounter for problem 05-15-1973
+Observation Creatinine 02-04-2020
+Encounter General examination of patient (procedure) 01-17-2017
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-20-2011
+Encounter General examination of patient (procedure) 01-29-2019
+MedicationRequest Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet 01-04-2012
+Condition Atrial Fibrillation 08-09-1988
+Procedure Electrical cardioversion 02-04-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 01-29-2019
+MedicationRequest Verapamil Hydrochloride 40 MG 12-14-2010
+Procedure Bone density scan (procedure) 01-04-2012
+Encounter Encounter Inpatient 09-01-2012
+Condition Carcinoma in situ of prostate (disorder) 11-03-2004
+Procedure Assessment of anxiety (procedure) 01-06-2015
+MedicationRequest Galantamine 4 MG Oral Tablet 02-09-2021
+Encounter Administration of vaccine to produce active immunity (procedure) 05-25-2021

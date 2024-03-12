@@ -1,0 +1,22 @@
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Possible answer: You visited the urgent care clinic on December 29, 2021.", "label": "True"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Observation Body Weight 03-15-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Encounter Encounter for problem (procedure) 02-26-2014", "label": "True"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Encounter Urgent care clinic (environment) 12-29-2021", "label": "True"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Procedure Assessment of anxiety (procedure) 02-09-2022", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Observation Heart rate 03-15-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-06-2022", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Condition Chronic kidney disease stage 3 (disorder) 08-29-2018", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Encounter Encounter for check up (procedure) 05-22-2019", "label": "True"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Procedure Assessment of substance use (procedure) 09-27-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Condition Sprain (morphologic abnormality) 10-31-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 01-04-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Procedure Assessment of health and social care needs (procedure) 10-05-2022", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 09-27-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Observation Specific gravity of Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Observation Appearance of Urine 09-27-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-15-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Encounter General examination of patient (procedure) 03-15-2023", "label": "True"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Observation pH of Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Observation Body Height 09-27-2023", "label": "False"}
+{"query": "Query: How long ago did I visit the urgent care clinic?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-23-2019", "label": "False"}

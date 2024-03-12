@@ -1,3 +1,0 @@
-Observation Response to cancer treatment 10-07-2022
-Observation Treatment status Cancer 10-07-2022
-Encounter Encounter for problem 10-07-2022

@@ -1,0 +1,20 @@
+{"query": "\"When was my last depression screening?\"", "resource": "MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 03-25-2021", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Observation Fall risk level [Morse Fall Scale] 07-06-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 07-06-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Encounter Encounter for problem 08-22-2022", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Hospice care (regime/therapy) 03-05-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Hospice care (regime/therapy) 02-28-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Hospice care (regime/therapy) 02-22-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-26-2022", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-17-2022", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Observation Glucose [Mass/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Patient discharge (procedure) 03-09-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Condition Abnormal findings diagnostic imaging heart+coronary circulat (finding) 04-06-2021", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Hospice care (regime/therapy) 02-09-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-18-2020", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Depression screening (procedure) 01-05-2023", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Observation Cholesterol in HDL [Mass/volume] in Serum or Plasma 07-06-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 03-25-2021", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-03-2022", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Hospice care (regime/therapy) 02-18-2023", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-18-2022", "label": "False"}

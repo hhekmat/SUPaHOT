@@ -1,0 +1,20 @@
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Procedure Hospice care (regime/therapy) 02-12-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Observation Blood pressure panel with all children optional 01-05-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-19-2022", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Procedure Physical examination, complete (procedure) 09-07-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Procedure Physical examination, complete (procedure) 02-05-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Observation Potassium [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Encounter Encounter for problem 08-30-2022", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Observation Cholesterol [Mass/volume] in Serum or Plasma 07-06-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Encounter Encounter for problem 10-07-2022", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Observation Low Density Lipoprotein Cholesterol 07-06-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Procedure Hospice care (regime/therapy) 02-20-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 08-21-2014", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Encounter Encounter for problem 09-01-2022", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Procedure Hospice care (regime/therapy) 02-16-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Encounter Encounter for problem 09-05-2022", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Observation Heart rate 01-05-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Observation MCH [Entitic mass] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-28-2022", "label": "False"}
+{"query": "\"Can you tell me the results of my blood work from my last visit on 10-07-2022?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 07-06-2023", "label": "False"}

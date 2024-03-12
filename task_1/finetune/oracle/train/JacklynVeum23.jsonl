@@ -1,0 +1,20 @@
+{"query": "When was my last medication review due?", "resource": "Procedure Assessment of health and social care needs (procedure) 06-08-2022", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Encounter Urgent care clinic (environment) 02-09-2022", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Procedure Depression screening (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Encounter Encounter for problem (procedure) 02-11-2014", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021", "label": "True"}
+{"query": "When was my last medication review due?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020", "label": "True"}
+{"query": "When was my last medication review due?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023", "label": "True"}
+{"query": "When was my last medication review due?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 12-22-2021", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Condition Medication review due (situation) 03-15-2023", "label": "True"}
+{"query": "When was my last medication review due?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-23-2019", "label": "True"}
+{"query": "When was my last medication review due?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021", "label": "True"}
+{"query": "When was my last medication review due?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2022", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Observation Protein [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 01-04-2023", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-15-2023", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Observation Glucose [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-05-2022", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "When was my last medication review due?", "resource": "Observation Protein [Presence] in Urine by Test strip 09-27-2023", "label": "False"}

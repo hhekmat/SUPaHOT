@@ -1,0 +1,20 @@
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Observation Fall risk level [Morse Fall Scale] 07-06-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 01-05-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 02-05-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Procedure Hospice care (regime/therapy) 02-20-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Encounter Encounter for problem 09-12-2022", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-05-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "MedicationRequest Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution 12-25-2022", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Observation MCH [Entitic mass] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-27-2021", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Procedure Hospice care (regime/therapy) 02-23-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Procedure Physical examination, complete (procedure) 02-05-2023", "label": "True"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2022", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "MedicationRequest Vitamin B12 5 MG/ML Injectable Solution 06-29-2017", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-17-2022", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Observation Respiratory rate 07-06-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Observation Sodium [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-24-2022", "label": "False"}
+{"query": "\"Can you tell me when I last had a physical examination?\"", "resource": "Observation Response to cancer treatment 10-07-2022", "label": "False"}

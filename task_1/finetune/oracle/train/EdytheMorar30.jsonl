@@ -1,0 +1,20 @@
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Encounter General examination of patient (procedure) 08-27-2002", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Chloride 12-28-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Condition Victim of intimate partner abuse (finding) 08-20-1996", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Encounter General examination of patient (procedure) 08-17-1993", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 07-03-2018", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-28-2020", "label": "True"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Carbon Dioxide 12-28-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Encounter Encounter for check up (procedure) 12-28-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Procedure Assessment of anxiety (procedure) 12-28-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "MedicationRequest 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System 02-23-2013", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020", "label": "True"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-28-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Urea Nitrogen 07-07-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "MedicationRequest Jolivette 28 Day Pack 03-30-2003", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Procedure Intramuscular injection 01-27-2020", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Procedure Assessment of substance use (procedure) 06-24-2014", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Encounter General examination of patient (procedure) 08-27-2002", "label": "False"}

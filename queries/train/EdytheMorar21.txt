@@ -1,1 +1,21 @@
-When did I receive my last flu shot?
+When was the last time I experienced the symptoms recorded in the encounter on 04-25-2019?
+Condition Body mass index 30+ - obesity (finding) 07-16-1991
+Procedure Assessment of anxiety (procedure) 06-28-2016
+Observation Carbon Dioxide 07-03-2018
+Procedure Assessment of substance use (procedure) 06-24-2014
+MedicationRequest 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection 01-27-2020
+Encounter Encounter for symptom 12-17-2020
+Procedure Echocardiography (procedure) 06-19-2018
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020
+Encounter General examination of patient (procedure) 06-28-2016
+Encounter Encounter for symptom 04-25-2019
+Condition Received higher education (finding) 08-11-1992
+Encounter Encounter for symptom 12-17-2020
+Condition History of cardiac arrest (situation) 06-19-2018
+Encounter Encounter for symptom 05-02-2019
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020
+Encounter Patient encounter procedure 02-07-2017
+Encounter Consultation for treatment 02-02-2018
+Observation Heart rate 12-28-2020
+Immunization Influenza, seasonal, injectable, preservative free 07-07-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018

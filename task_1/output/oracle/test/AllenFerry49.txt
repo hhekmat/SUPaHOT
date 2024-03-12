@@ -1,15 +1,1 @@
-Encounter Administration of vaccine to produce active immunity (procedure) 05-25-2021
-Encounter Administration of vaccine to produce active immunity (procedure) 05-04-2021
-Immunization Influenza, seasonal, injectable, preservative free 02-09-2021
-Encounter General examination of patient (procedure) 02-09-2021
-Immunization Influenza, seasonal, injectable, preservative free 02-04-2020
-Immunization Influenza, seasonal, injectable, preservative free 01-29-2019
-Observation Total score [HARK] 01-29-2019
-Encounter General examination of patient (procedure) 01-29-2019
-Immunization Influenza, seasonal, injectable, preservative free 01-23-2018
-Encounter General examination of patient (procedure) 01-23-2018
-Immunization Influenza, seasonal, injectable, preservative free 01-17-2017
-Immunization Influenza, seasonal, injectable, preservative free 01-12-2016
-Immunization Influenza, seasonal, injectable, preservative free 01-06-2015
-Immunization Influenza, seasonal, injectable, preservative free 12-31-2013
-Immunization Influenza, seasonal, injectable, preservative free 12-25-2012
+Condition Anemia (disorder) 05-15-1973

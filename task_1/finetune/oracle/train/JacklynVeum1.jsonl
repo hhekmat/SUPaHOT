@@ -1,0 +1,20 @@
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Condition Chronic kidney disease stage 1 (disorder) 12-01-2004", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-15-2023", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Observation Nitrite [Presence] in Urine by Test strip 09-27-2023", "label": "True"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Encounter Urgent care clinic (environment) 09-27-2023", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 11-11-2020", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Procedure Assessment of substance use (procedure) 08-03-2022", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Encounter Encounter for check up (procedure) 08-29-2018", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Condition Disorder of kidney due to diabetes mellitus (disorder) 12-01-2004", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Observation Glucose [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-18-2019", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Procedure Assessment of health and social care needs (procedure) 03-09-2022", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-19-2014", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Observation Nitrite [Presence] in Urine by Test strip 09-27-2023", "label": "True"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Procedure Assessment of anxiety (procedure) 02-09-2022", "label": "False"}
+{"query": "Can you explain what the presence of nitrites in my urine indicates?", "resource": "Observation Appearance of Urine 09-27-2023", "label": "True"}

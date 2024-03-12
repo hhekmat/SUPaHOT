@@ -1,0 +1,11 @@
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Encounter Well child visit (procedure) 04-12-2020", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Body Height 02-28-2021", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Tobacco smoking status 03-06-2022", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Blood pressure panel with all children optional 02-28-2021", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Procedure Medication Reconciliation (procedure) 07-10-2016", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-24-2022", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 05-29-2021", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Body temperature 02-26-2022", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Encounter Encounter for problem (procedure) 05-29-2021", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 02-28-2021", "label": "True"}

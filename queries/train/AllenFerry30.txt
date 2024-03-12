@@ -1,1 +1,21 @@
-"When was the last time my calcium levels were checked?"
+"What were the results of my general examination in 1977 and 1979, and are there any differences or noteworthy findings between the two?"
+Encounter General examination of patient (procedure) 06-07-1977
+Observation Glucose 01-29-2019
+MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015
+Encounter General examination of patient (procedure) 11-09-2004
+MedicationRequest Digoxin 0.125 MG Oral Tablet 12-20-2011
+MedicationRequest lisinopril 10 MG Oral Tablet 12-25-2012
+Condition Victim of intimate partner abuse (finding) 01-06-2015
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-20-2011
+Observation Glucose 01-29-2019
+Observation Fall risk level [Morse Fall Scale] 02-09-2021
+Procedure Depression screening (procedure) 02-04-2020
+Encounter Encounter for 'check-up' 06-10-1978
+Encounter General examination of patient (procedure) 06-24-1980
+Encounter General examination of patient (procedure) 06-19-1979
+MedicationRequest Verapamil Hydrochloride 40 MG 01-17-2017
+Encounter General examination of patient (procedure) 11-27-2007
+MedicationRequest lisinopril 10 MG Oral Tablet 02-04-2020
+Observation Respiratory rate 02-04-2020
+Procedure Depression screening (procedure) 02-09-2021
+Observation Chloride 02-04-2020

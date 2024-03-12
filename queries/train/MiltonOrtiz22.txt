@@ -1,1 +1,21 @@
-When was the last assessment of substance use conducted in my medical record?
+"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?"
+Observation Glomerular filtration rate/1.73 sq M.predicted 12-02-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020
+Procedure Placing subject in prone position (procedure) 11-29-2020
+Procedure Medication Reconciliation (procedure) 09-02-2020
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020
+Encounter Well child visit (procedure) 07-18-2012
+Observation MCV [Entitic volume] by Automated count 12-02-2020
+Observation Body temperature 12-03-2020
+Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020
+Immunization Hep B, adult 08-16-2017
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
+Encounter Well child visit (procedure) 07-18-2012
+Procedure Screening for drug abuse (procedure) 08-28-2019
+Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020
+Observation Prothrombin time (PT) 12-01-2020
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
+Observation Heart rate 12-02-2020
+Observation Hemoglobin [Mass/volume] in Blood 12-02-2020
+Observation Neutrophils [#/volume] in Blood by Automated count 12-02-2020

@@ -1,0 +1,20 @@
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Encounter General examination of patient (procedure) 06-24-2014", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Encounter Encounter for check up (procedure) 07-16-1991", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Observation MCH [Entitic mass] by Automated count 07-07-2020", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 07-07-2020", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 06-24-2014", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Condition Body mass index 30+ - obesity (finding) 07-16-1991", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Observation MCV [Entitic volume] by Automated count 07-07-2020", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Observation Potassium 12-28-2020", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Observation Tobacco smoking status NHIS 07-07-2020", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Condition Anemia (disorder) 08-17-1993", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Encounter Consultation for treatment 03-30-2003", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 04-27-2021", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Observation High Density Lipoprotein Cholesterol 07-07-2020", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Observation Calcium 07-07-2020", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 06-28-2016", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Observation Heart rate 12-28-2020", "label": "True"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Encounter Encounter for check up (procedure) 12-28-2020", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Procedure Depression screening (procedure) 06-24-2014", "label": "False"}
+{"query": "\"What was my heart rate on December 28, 2020?\"", "resource": "Encounter Consultation for treatment 02-23-2013", "label": "False"}

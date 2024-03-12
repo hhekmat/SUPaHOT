@@ -1,0 +1,20 @@
+{"query": "When was my last well child visit?", "resource": "Observation Tobacco smoking status 04-18-2021", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Immunization DTaP 01-10-2016", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Encounter Encounter for symptom 02-26-2022", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Encounter Well child visit (procedure) 01-10-2016", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Encounter Well child visit (procedure) 04-24-2022", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Encounter Well child visit (procedure) 10-09-2016", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Observation Blood pressure panel with all children optional 04-30-2023", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Encounter Encounter for problem (procedure) 05-29-2021", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Encounter Encounter for check up (procedure) 02-28-2021", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Immunization varicella 04-12-2020", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Respiratory rate 04-24-2022", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Heart rate 04-12-2020", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Respiratory rate 04-24-2022", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 02-28-2021", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Immunization MMR 07-10-2016", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Procedure Transthoracic echocardiography (procedure) 05-29-2021", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Platelet distribution width [Entitic volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Respiratory rate 04-18-2021", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Procedure Referral for echocardiography (procedure) 03-28-2023", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Immunization DTaP 10-11-2015", "label": "False"}

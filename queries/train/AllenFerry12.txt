@@ -1,1 +1,21 @@
-"What was the date of my last depression screening?"
+"Can you tell me the results of my last check-up in 2012?"
+Immunization Influenza, seasonal, injectable, preservative free 02-04-2020
+Observation Chloride 02-04-2020
+Observation Body Weight 02-09-2021
+Procedure Assessment of anxiety (procedure) 01-29-2019
+Encounter Encounter for 'check-up' 04-19-2012
+Condition Has a criminal record (finding) 06-13-1978
+MedicationRequest Digoxin 0.125 MG Oral Tablet 12-20-2011
+Encounter General examination of patient (procedure) 12-31-2013
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-23-2018
+Observation Sodium 02-09-2021
+Encounter General examination of patient (procedure) 05-27-1975
+Encounter General examination of patient (procedure) 09-13-1994
+Condition Part-time employment (finding) 02-09-2021
+MedicationRequest lisinopril 10 MG Oral Tablet 02-04-2020
+Procedure Electrical cardioversion 12-31-2013
+Encounter General examination of patient (procedure) 06-30-1981
+MedicationRequest Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet 09-01-2012
+Procedure Assessment using Morse Fall Scale (procedure) 12-20-2011
+MedicationRequest Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet 01-04-2012
+MedicationRequest Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet 09-01-2012

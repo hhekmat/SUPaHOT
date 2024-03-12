@@ -1,0 +1,20 @@
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 02-26-2020", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-27-2023", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Encounter Encounter for check up (procedure) 11-11-2015", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-23-2019", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 02-09-2022", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Observation Body Height 09-27-2023", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Procedure Medication Reconciliation (procedure) 10-05-2022", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Condition Proteinuria due to type 2 diabetes mellitus (disorder) 08-29-2018", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Encounter Urgent care clinic (environment) 09-27-2023", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Encounter Encounter for check up (procedure) 08-03-2016", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Encounter Encounter for check up (procedure) 06-08-2022", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-27-2023", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Encounter General examination of patient (procedure) 03-03-2021", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Observation Total score [DAST-10] 09-27-2023", "label": "True"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Immunization pneumococcal polysaccharide vaccine, 23 valent 02-14-2018", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Encounter Encounter for check up (procedure) 04-14-2021", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2022", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "MedicationRequest Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet 01-19-2022", "label": "False"}
+{"query": "\"What was the result of my Drug Abuse Screening Test (DAST-10) from September 27, 2023?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 07-06-2022", "label": "False"}

@@ -1,1 +1,21 @@
-"When was the last time I was assessed for substance use?"
+When was the last time my position was changed to prone during a procedure?
+Procedure Oxygen administration by mask (procedure) 12-01-2020
+Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020
+Condition Hypoxemia (disorder) 11-21-2020
+Observation Body Mass Index 09-08-2021
+Procedure Placing subject in prone position (procedure) 12-01-2020
+Procedure Oxygen administration by mask (procedure) 11-22-2020
+Observation Hemoglobin [Mass/volume] in Blood 12-02-2020
+Encounter General examination of patient (procedure) 09-02-2020
+Encounter Hospital admission for isolation (procedure) 11-21-2020
+Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020
+Observation Oxygen saturation in Arterial blood 12-02-2020
+Procedure Face mask (physical object) 11-21-2020
+Condition Misuses drugs (finding) 08-28-2019
+Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020
+Procedure Assessment of health and social care needs (procedure) 09-02-2020
+Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020
+Immunization Influenza, seasonal, injectable, preservative free 09-08-2021
+Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Oxygen saturation in Arterial blood 12-02-2020

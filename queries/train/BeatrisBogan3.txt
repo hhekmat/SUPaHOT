@@ -1,1 +1,21 @@
-"When was my last check-up with my doctor?"
+Possible query: "What was the reason for my encounter on May 2nd, 2019?"
+Observation Body temperature 02-17-2021
+Immunization Influenza, seasonal, injectable, preservative free 03-06-2022
+Observation Blood pressure panel with all children optional 03-06-2022
+Immunization Pneumococcal conjugate PCV 13 01-10-2016
+Encounter Encounter for problem (procedure) 05-02-2019
+Encounter Encounter for check up (procedure) 02-28-2021
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021
+Observation Body mass index (BMI) [Ratio] 04-18-2021
+Observation Platelets [#/volume] in Blood by Automated count 02-28-2021
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 02-28-2021
+Observation Leukocytes [#/volume] in Blood by Automated count 02-28-2021
+Observation Respiratory rate 03-06-2022
+Encounter Well child visit (procedure) 07-10-2016
+MedicationRequest Fexofenadine hydrochloride 30 MG Oral Tablet 08-22-2017
+Observation Body temperature 10-02-2023
+Observation Body mass index (BMI) [Ratio] 02-28-2021
+Observation Body mass index (BMI) [Ratio] 04-24-2022
+Observation Tobacco smoking status 03-06-2022
+Immunization MMR 04-12-2020
+Procedure Referral for echocardiography (procedure) 02-01-2020

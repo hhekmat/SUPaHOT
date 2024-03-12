@@ -1,0 +1,16 @@
+"What was the date when I was prescribed Digoxin 0.125 MG Oral Tablet?"
+Immunization Influenza, seasonal, injectable, preservative free 01-17-2017
+MedicationRequest Digoxin 0.125 MG Oral Tablet 12-08-2009
+Encounter General examination of patient (procedure) 04-22-1969
+Encounter General examination of patient (procedure) 06-07-1977
+Immunization Influenza, seasonal, injectable, preservative free 02-09-2021
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-02-2008
+MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009
+Encounter General examination of patient (procedure) 02-09-2021
+Observation Carbon Dioxide 01-29-2019
+MedicationRequest Verapamil Hydrochloride 40 MG 02-04-2020
+Procedure Assessment using Morse Fall Scale (procedure) 12-25-2012
+Procedure Electrical cardioversion 01-06-2015
+MedicationRequest Digoxin 0.125 MG Oral Tablet 01-06-2015
+Procedure Assessment of anxiety (procedure) 01-06-2015
+Encounter Encounter for 'check-up' 06-10-1978

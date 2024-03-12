@@ -1,0 +1,20 @@
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Procedure Oxygen administration by mask (procedure) 11-24-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Procedure Assessment of anxiety (procedure) 08-10-2016", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-08-2021", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Observation Neutrophils/100 leukocytes in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Procedure Assessment of substance use (procedure) 09-02-2020", "label": "True"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Condition Misuses drugs (finding) 08-28-2019", "label": "True"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Observation Basophils/100 leukocytes in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Observation Blood Pressure 12-02-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Procedure Placing subject in prone position (procedure) 12-02-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 09-02-2020", "label": "True"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-05-2015", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Observation Creatinine [Mass/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Condition Limited social contact (finding) 08-05-2015", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Encounter Encounter for symptom (procedure) 11-21-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Procedure Oxygen administration by mask (procedure) 12-01-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-16-2017", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Observation Respiratory rate 12-02-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Immunization Hep B, adult 08-22-2018", "label": "False"}

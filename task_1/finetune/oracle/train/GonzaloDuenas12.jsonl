@@ -1,0 +1,20 @@
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Encounter Screening surveillance (regime/therapy) 09-07-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-27-2018", "label": "True"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Observation Tobacco smoking status 01-05-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Observation Potassium [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Observation Respiratory rate 01-05-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Encounter Encounter for problem 08-25-2022", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-05-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Procedure Physical examination, complete (procedure) 05-18-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Encounter Admission to surgical transplant department (procedure) 09-26-2021", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-06-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-06-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-28-2019", "label": "True"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Procedure Physical examination, complete (procedure) 09-07-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-03-2022", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Observation Creatinine [Mass/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 10-01-2022", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Observation Stage group.clinical Cancer 08-04-2022", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 09-28-2021", "label": "False"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2023", "label": "True"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "Encounter Urgent care clinic (environment) 03-10-2022", "label": "False"}

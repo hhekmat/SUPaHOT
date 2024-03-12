@@ -1,0 +1,5 @@
+Encounter General examination of patient (procedure) 08-04-1987
+Encounter Encounter for 'check-up' 06-10-1978
+Encounter General examination of patient (procedure) 07-12-1983
+Encounter General examination of patient (procedure) 07-06-1982
+Encounter General examination of patient (procedure) 01-17-2017

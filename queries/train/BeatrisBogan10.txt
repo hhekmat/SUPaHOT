@@ -1,1 +1,21 @@
-What symptoms did I experience during my medical encounter on 09-26-2016?
+When was my last immunization for Pneumococcal conjugate PCV 13?
+Procedure Referral for echocardiography (procedure) 05-02-2019
+Procedure Transthoracic echocardiography (procedure) 05-29-2021
+Observation Body Weight 04-18-2021
+Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022
+Procedure Referral for echocardiography (procedure) 03-28-2023
+Observation Heart rate 02-28-2021
+MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-26-2022
+Encounter Encounter for problem 08-30-2017
+Immunization DTaP 10-11-2015
+Condition Aortic valve stenosis (disorder) 05-02-2019
+Immunization Pneumococcal conjugate PCV 13 08-09-2015
+Observation Body Height 04-24-2022
+MedicationRequest Fexofenadine hydrochloride 30 MG Oral Tablet 08-22-2017
+Procedure Referral for echocardiography (procedure) 03-28-2023
+Observation Body mass index (BMI) [Ratio] 03-06-2022
+Encounter Well child visit (procedure) 04-18-2021
+Observation Blood pressure panel with all children optional 02-28-2021
+Observation Heart rate 02-28-2021
+Encounter Well child visit (procedure) 04-10-2016
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022

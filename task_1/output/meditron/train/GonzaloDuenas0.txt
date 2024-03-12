@@ -1,0 +1,16 @@
+When did I start receiving hospice care?
+Procedure Hospice care (regime/therapy) 02-23-2023
+Procedure Hospice care (regime/therapy) 02-28-2023
+Procedure Hospice care (regime/therapy) 02-27-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-17-2022
+Procedure Assessment of anxiety (procedure) 01-05-2023
+Encounter Discussion about treatment (procedure) 08-07-2022
+Observation Sodium [Moles/volume] in Blood 07-06-2023
+Procedure External beam radiation therapy procedure (procedure) 09-24-2022
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 06-30-2022
+Encounter Postoperative follow-up visit (procedure) 10-12-2021
+Observation Blood pressure panel with all children optional 07-06-2023
+Procedure Assessment of substance use (procedure) 07-06-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-07-2018
+Observation Creatinine [Mass/volume] in Blood 01-05-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-17-2022

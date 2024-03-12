@@ -1,0 +1,20 @@
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-27-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-16-2022", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Observation Odor of Urine 09-27-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Encounter Encounter for problem (procedure) 02-05-2014", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-23-2019", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Observation Leukocyte esterase [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-05-2022", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-11-2021", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Encounter Encounter for check up (procedure) 01-12-2022", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Procedure Screening for drug abuse (procedure) 09-27-2023", "label": "True"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 09-27-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 10-31-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Observation Glucose [Mass/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Encounter Urgent care clinic (environment) 01-05-2022", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Observation Creatinine [Mass/volume] in Serum or Plasma 09-27-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Procedure Assessment of anxiety (procedure) 03-15-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Observation Glucose [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "Am I being screened for drug abuse regularly?", "resource": "Encounter Encounter for problem (procedure) 02-26-2014", "label": "False"}

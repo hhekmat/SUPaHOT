@@ -1,0 +1,12 @@
+"When was my last depression screening?"
+MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 03-25-2021
+Procedure Hospice care (regime/therapy) 02-22-2023
+Procedure External beam radiation therapy procedure (procedure) 09-17-2022
+Condition Abnormal findings diagnostic imaging heart+coronary circulat (finding) 04-06-2021
+Procedure Hospice care (regime/therapy) 02-09-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-18-2020
+Procedure Depression screening (procedure) 01-05-2023
+Observation Cholesterol in HDL [Mass/volume] in Serum or Plasma 07-06-2023
+MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 03-25-2021
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-03-2022
+Procedure External beam radiation therapy procedure (procedure) 09-18-2022

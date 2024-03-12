@@ -1,0 +1,15 @@
+{"query": "\"When was my last depression screening?\"", "resource": "Encounter Emergency room admission (procedure) 01-04-2012", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Observation Body Weight 02-09-2021", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Observation Blood Pressure 01-29-2019", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Electrical cardioversion 12-20-2011", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 12-14-2010", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Encounter General examination of patient (procedure) 12-14-2010", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-23-2018", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-25-2012", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Encounter Encounter for 'check-up' 04-19-2012", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 01-29-2019", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Encounter General examination of patient (procedure) 04-28-1970", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Observation Blood Pressure 02-04-2020", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-04-2020", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-08-2009", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-29-2019", "label": "True"}

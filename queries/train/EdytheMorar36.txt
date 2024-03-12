@@ -1,1 +1,21 @@
-"What was my body weight during my last consultation on 02-02-2017?"
+"How is my anxiety level as measured by the GAD-7 score on December 29, 2020, compared to my respiratory rate from December 28, 2020?"
+Observation Leukocytes [#/volume] in Blood by Automated count 07-07-2020
+Observation Potassium 07-03-2018
+Encounter Encounter for symptom 12-17-2020
+Procedure Insertion of intrauterine contraceptive device 02-06-2018
+Immunization Influenza, seasonal, injectable, preservative free 06-28-2016
+Observation Respiratory rate 12-28-2020
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020
+Encounter Encounter for symptom 05-02-2019
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12-29-2020
+Observation Total score [AUDIT-C] 07-07-2020
+Immunization Influenza, seasonal, injectable, preservative free 07-07-2020
+Observation Tobacco smoking status NHIS 12-28-2020
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020
+Encounter Consultation for treatment 01-27-2020
+Condition Victim of intimate partner abuse (finding) 08-20-1996
+Observation Sodium 12-28-2020
+Observation Urea Nitrogen 07-07-2020
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
+Observation Triglycerides 07-07-2020
+Condition Housing unsatisfactory (finding) 08-11-1992

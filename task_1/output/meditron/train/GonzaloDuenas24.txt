@@ -1,0 +1,13 @@
+Did I have radiation therapy recently?
+Condition Ischemic heart disease (disorder) 03-18-2021
+Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 02-28-2019
+Encounter Encounter for problem 09-23-2022
+Procedure External beam radiation therapy procedure (procedure) 09-19-2022
+Immunization Influenza, seasonal, injectable, preservative free 12-27-2018
+Procedure External beam radiation therapy procedure (procedure) 09-29-2022
+Observation Sodium [Moles/volume] in Blood 01-05-2023
+Encounter Encounter for problem 09-17-2022
+Procedure Assessment of health and social care needs (procedure) 01-05-2023
+Procedure Hospice care (regime/therapy) 02-11-2023
+Observation Sodium [Moles/volume] in Blood 07-06-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-30-2022

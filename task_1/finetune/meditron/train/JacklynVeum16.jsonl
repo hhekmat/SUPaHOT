@@ -1,0 +1,11 @@
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter General examination of patient (procedure) 02-20-2019", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter General examination of patient (procedure) 06-06-1973", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter Encounter for check up (procedure) 03-10-2021", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter Encounter for problem (procedure) 02-11-2014", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Hemoglobin [Presence] in Urine by Test strip 03-15-2023", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 10-06-2021", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-27-2023", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Nitrite [Presence] in Urine by Test strip 03-15-2023", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-15-2023", "label": "True"}

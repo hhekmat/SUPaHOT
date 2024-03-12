@@ -1,0 +1,20 @@
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 03-25-2021", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Observation Body Weight 07-06-2023", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Encounter Encounter for problem 09-30-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-05-2023", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Encounter Encounter for problem 09-12-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-22-2023", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Encounter Encounter for problem 09-10-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-24-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Encounter Encounter for problem 09-11-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Encounter Encounter for problem 09-18-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Encounter General examination of patient (procedure) 07-06-2023", "label": "True"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-21-2023", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-11-2023", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Observation Heart rate 07-06-2023", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 06-30-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-23-2022", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-14-2023", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Observation Heart rate 07-06-2023", "label": "True"}

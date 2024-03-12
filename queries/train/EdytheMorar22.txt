@@ -1,1 +1,21 @@
-Can you tell me the results of my depression screening using the Patient Health Questionnaire Two-Item score from July 3rd, 2018?
+"What was my respiratory rate and urea nitrogen level on July 7, 2020, and is there anything I should be concerned about based on those readings?"
+Encounter Encounter for symptom 04-25-2019
+Observation Respiratory rate 07-07-2020
+Condition Anemia (disorder) 08-17-1993
+Observation MCH [Entitic mass] by Automated count 07-07-2020
+Procedure Assessment of substance use (procedure) 06-24-2014
+Encounter Encounter for symptom 04-25-2019
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020
+Observation Sodium 12-28-2020
+Condition Victim of intimate partner abuse (finding) 08-20-1996
+Procedure Throat culture (procedure) 06-18-2018
+Encounter Encounter for symptom 12-17-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-07-2020
+Procedure Depression screening (procedure) 06-28-2016
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 12-28-2020
+Encounter General examination of patient (procedure) 06-24-2014
+Encounter General examination of patient (procedure) 06-28-2016
+Observation Urea Nitrogen 07-07-2020
+Observation Carbon Dioxide 07-03-2018
+Encounter Emergency room admission (procedure) 02-19-2021
+Observation Urea Nitrogen 07-07-2020

@@ -1,0 +1,20 @@
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-13-2019", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Encounter Encounter for problem 09-01-2022", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-07-2018", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Observation Body Weight 01-05-2023", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Procedure Depression screening (procedure) 01-05-2023", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Condition Prediabetes 03-18-2010", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Procedure Hospice care (regime/therapy) 03-03-2023", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-05-2023", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-29-2022", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "MedicationRequest Simvastatin 20 MG Oral Tablet 03-25-2021", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-06-2023", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Encounter Encounter for problem 09-24-2022", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Procedure Physical examination, complete (procedure) 05-18-2023", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Encounter Encounter for problem 08-22-2022", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-12-2021", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-24-2022", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Encounter Encounter for problem 08-10-2022", "label": "False"}
+{"query": "\"What was my hematocrit level during my last encounter for a problem on 08-22-2022?\"", "resource": "Encounter Encounter for problem 08-10-2022", "label": "False"}

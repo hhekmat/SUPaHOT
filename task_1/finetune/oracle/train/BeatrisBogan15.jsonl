@@ -1,0 +1,20 @@
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Immunization Hep A, ped/adol, 2 dose 07-10-2016", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 04-09-2017", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Encounter Encounter for problem (procedure) 03-28-2023", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation Tobacco smoking status 03-06-2022", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation Blood pressure panel with all children optional 04-30-2023", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Encounter Well child visit (procedure) 04-18-2021", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Encounter Well child visit (procedure) 04-12-2020", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation Body Height 02-28-2021", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Encounter Encounter for check up (procedure) 03-06-2022", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Condition Aortic valve stenosis (disorder) 05-02-2019", "label": "True"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation Blood pressure panel with all children optional 02-28-2021", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Condition Perennial allergic rhinitis 08-22-2017", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Immunization DTaP 04-12-2020", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Encounter Well child visit (procedure) 04-30-2023", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation Platelet distribution width [Entitic volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation Body Height 04-24-2022", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation Tobacco smoking status 04-12-2020", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "Observation MCV [Entitic volume] by Automated count 02-28-2021", "label": "False"}
+{"query": "\"When was my aortic valve stenosis diagnosis made?\"", "resource": "MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016", "label": "False"}

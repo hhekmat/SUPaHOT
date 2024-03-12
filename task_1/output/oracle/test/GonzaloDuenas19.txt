@@ -1,11 +1,4 @@
-Encounter Encounter for problem 09-22-2022
-Encounter Encounter for problem 09-17-2022
-Encounter Encounter for problem 09-10-2022
-Encounter Encounter for problem 09-08-2022
-Condition Malignant neoplasm of breast (disorder) 08-02-2022
-Condition History of renal transplant (situation) 09-26-2021
-Condition Ischemic heart disease (disorder) 03-18-2021
-Condition Metabolic syndrome X (disorder) 03-18-2010
-Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009
-Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-26-2002
-Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001
+Procedure Hospice care (regime/therapy) 02-12-2023
+Procedure Hospice care (regime/therapy) 02-25-2023
+Procedure Hospice care (regime/therapy) 03-02-2023
+Procedure Hospice care (regime/therapy) 02-20-2023

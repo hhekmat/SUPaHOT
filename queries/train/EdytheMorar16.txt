@@ -1,1 +1,21 @@
-When is my next scheduled appointment to receive my second dose of the COVID-19 vaccine?
+"What was my Erythrocyte count on July 7, 2020, and is it within the normal range?"
+Encounter General examination of patient (procedure) 08-17-1993
+Encounter General examination of patient (procedure) 08-27-2002
+Encounter Consultation for treatment 02-13-2015
+Encounter General examination of patient (procedure) 08-24-1999
+Procedure Assessment of substance use (procedure) 07-07-2020
+Procedure Insertion of biventricular implantable cardioverter defibrillator 06-19-2018
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
+MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018
+Encounter Prenatal visit 09-02-2008
+Immunization Influenza, seasonal, injectable, preservative free 06-24-2014
+Encounter General examination of patient (procedure) 07-03-2018
+Encounter General examination of patient (procedure) 08-11-1992
+Observation High Density Lipoprotein Cholesterol 07-07-2020
+Encounter Emergency room admission (procedure) 02-19-2021
+Encounter Consultation for treatment 02-23-2013
+Observation Creatinine 07-07-2020
+Condition History of cardiac arrest (situation) 06-19-2018
+Encounter Patient encounter procedure 02-07-2017
+Procedure Assessment of health and social care needs (procedure) 07-03-2018
+Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020

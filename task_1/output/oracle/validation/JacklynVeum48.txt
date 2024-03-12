@@ -1,0 +1,7 @@
+Encounter General examination of patient (procedure) 01-28-2015
+Encounter Well child visit (procedure) 05-11-1966
+Encounter Encounter for check up (procedure) 03-10-2021
+Procedure Assessment of health and social care needs (procedure) 01-05-2022
+Encounter Encounter for check up (procedure) 08-03-2016
+Encounter General examination of patient (procedure) 02-03-2016
+Encounter General examination of patient (procedure) 03-15-2023

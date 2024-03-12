@@ -1,0 +1,16 @@
+When was my last echocardiogram to check my aortic valve stenosis?
+Observation MCHC [Mass/volume] by Automated count 02-28-2021
+Observation Tobacco smoking status 04-12-2020
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-30-2023
+Encounter Well child visit (procedure) 10-07-2018
+Encounter Well child visit (procedure) 01-10-2016
+Observation Body mass index (BMI) [Ratio] 02-28-2021
+Immunization MMR 04-12-2020
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021
+Encounter Encounter for problem (procedure) 03-28-2023
+MedicationRequest Amoxicillin 500 MG Oral Tablet 11-23-2016
+Observation Blood pressure panel with all children optional 02-28-2021
+Observation Body mass index (BMI) [Percentile] Per age and sex 02-28-2021
+Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022
+Condition Atopic dermatitis 09-13-2015
+Observation Tobacco smoking status 02-28-2021

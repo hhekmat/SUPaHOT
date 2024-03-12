@@ -1,1 +1,21 @@
-Can you provide me with a summary of the health and social care needs assessment that was done on 12-28-2020?
+"Can you tell me the results of my substance use assessment from June 24, 2014?"
+Procedure Catheter ablation of tissue of heart 06-19-2018
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020
+Immunization Td (adult) preservative free 06-28-2016
+Observation Body Height 12-28-2020
+Observation Respiratory rate 07-07-2020
+Observation Body Mass Index 12-28-2020
+Procedure Assessment of health and social care needs (procedure) 12-28-2020
+Observation MCHC [Mass/volume] by Automated count 07-07-2020
+Encounter General examination of patient (procedure) 08-27-2002
+Procedure Assessment of substance use (procedure) 06-24-2014
+MedicationRequest NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule 05-02-2019
+Observation Chloride 07-03-2018
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 04-27-2021
+Encounter Encounter for check up (procedure) 12-28-2020
+Encounter Consultation for treatment 01-27-2020
+Procedure Medication Reconciliation (procedure) 07-03-2018
+Observation Total Cholesterol 07-07-2020
+Encounter Consultation for treatment 03-17-2006
+Encounter Consultation for treatment 01-27-2020
+MedicationRequest 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection 01-27-2020

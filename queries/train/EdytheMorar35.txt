@@ -1,1 +1,21 @@
-What was the reason for the housing unsatisfactory finding in my medical record on November 8, 1992?
+"What were the results of my depression screening on 07-07-2020?"
+Observation Calcium 07-07-2020
+Observation MCHC [Mass/volume] by Automated count 07-07-2020
+Observation MCV [Entitic volume] by Automated count 07-07-2020
+Condition Full-time employment (finding) 12-28-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-03-2018
+Observation MCHC [Mass/volume] by Automated count 07-07-2020
+MedicationRequest Jolivette 28 Day Pack 01-21-2021
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+Procedure Medication Reconciliation (procedure) 06-28-2016
+Encounter Encounter for check up (procedure) 07-13-1999
+Procedure Assessment of anxiety (procedure) 12-28-2020
+Condition Victim of intimate partner abuse (finding) 08-20-1996
+Condition Body mass index 30+ - obesity (finding) 07-16-1991
+Immunization Hep A, adult 06-28-2016
+Procedure Medication Reconciliation (procedure) 06-28-2016
+Encounter Consultation for treatment 01-27-2020
+Condition Victim of intimate partner abuse (finding) 08-20-1996
+Observation Sodium 07-03-2018
+Procedure Depression screening (procedure) 07-07-2020
+Observation Leukocytes [#/volume] in Blood by Automated count 07-07-2020

@@ -1,1 +1,21 @@
-"What was the outcome of my assessment for anxiety conducted on January 5, 2023?"
+"When did I receive external beam radiation therapy?"
+Condition Essential hypertension (disorder) 02-12-1998
+Procedure External beam radiation therapy procedure (procedure) 09-22-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2022
+Procedure External beam radiation therapy procedure (procedure) 09-26-2022
+Encounter Encounter for check up 02-06-2023
+Encounter Postoperative follow-up visit (procedure) 10-27-2021
+Observation Heart rate 07-06-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 12-27-2018
+Procedure Hospice care (regime/therapy) 03-07-2023
+Procedure External beam radiation therapy procedure (procedure) 09-30-2022
+Procedure Initial patient assessment (procedure) 02-09-2023
+Encounter Postoperative follow-up visit (procedure) 11-03-2021
+Condition Malignant neoplasm of breast (disorder) 08-02-2022
+Procedure External beam radiation therapy procedure (procedure) 09-19-2022
+Procedure Hospice care (regime/therapy) 02-24-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-10-2022
+Procedure External beam radiation therapy procedure (procedure) 09-30-2022
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-13-2019
+Observation Cholesterol [Mass/volume] in Serum or Plasma 07-06-2023
+Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-26-2002

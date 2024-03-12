@@ -1,1 +1,21 @@
-What were the results of my last urine analysis?
+"What was the date of my last flu shot?"
+Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-03-2016
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016
+Encounter Encounter for check up (procedure) 06-08-2022
+Immunization Influenza, seasonal, injectable, preservative free 02-08-2017
+Procedure Assessment of health and social care needs (procedure) 07-06-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-16-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-29-2021
+Observation Fall risk level [Morse Fall Scale] 09-27-2023
+Observation Clarity of Urine 09-27-2023
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022
+Encounter Administration of vaccine to produce active immunity (procedure) 03-24-2021
+Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022
+Condition Has a criminal record (finding) 02-08-2017
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2021
+Procedure Assessment of health and social care needs (procedure) 03-09-2022
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2020
+Procedure Assessment of substance use (procedure) 09-27-2023
+Encounter Urgent care clinic (environment) 02-09-2022

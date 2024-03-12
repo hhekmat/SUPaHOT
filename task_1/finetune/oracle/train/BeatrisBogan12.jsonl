@@ -1,0 +1,20 @@
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Immunization varicella 04-12-2020", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Observation Heart rate 04-24-2022", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Encounter Well child visit (procedure) 01-10-2016", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Encounter Encounter for problem (procedure) 05-29-2021", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Observation Tobacco smoking status 04-18-2021", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Encounter Encounter for symptom 09-26-2016", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Encounter Encounter for check up (procedure) 02-28-2021", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Encounter Encounter for symptom 11-23-2016", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Observation Heart rate 03-06-2022", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 02-28-2021", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Condition Atopic dermatitis 09-13-2015", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Encounter Well child visit (procedure) 01-10-2016", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Encounter Encounter for symptom 11-23-2016", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Immunization DTaP 10-11-2015", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Procedure Throat culture (procedure) 09-26-2016", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Encounter Well child visit (procedure) 10-09-2016", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-24-2022", "label": "False"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Observation Body temperature 02-26-2022", "label": "True"}
+{"query": "\"What was my body temperature on February 26, 2022?\"", "resource": "Observation Blood pressure panel with all children optional 02-28-2021", "label": "False"}

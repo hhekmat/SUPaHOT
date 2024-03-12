@@ -1,1 +1,21 @@
-What was the result of my Depression screening using Patient Health Questionnaire Two-Item score on 09-02-2020?
+"Can you tell me if there were any abnormal results in my liver tests that were taken on 12-02-2020?"
+Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020
+Procedure Depression screening (procedure) 09-08-2021
+Observation Total score [AUDIT-C] 09-08-2021
+Procedure Oxygen administration by mask (procedure) 12-01-2020
+Condition Hypertension 08-05-2015
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 08-16-2017
+Condition Limited social contact (finding) 08-05-2015
+Procedure Placing subject in prone position (procedure) 11-22-2020
+Immunization Hep B, adult 08-16-2017
+Procedure Placing subject in prone position (procedure) 11-24-2020
+Immunization Td (adult) preservative free 08-22-2018
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-02-2020
+Immunization Td (adult) preservative free 08-22-2018
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-02-2020
+Encounter General examination of patient (procedure) 08-16-2017
+Procedure Screening for drug abuse (procedure) 08-16-2017
+Procedure Placing subject in prone position (procedure) 11-24-2020

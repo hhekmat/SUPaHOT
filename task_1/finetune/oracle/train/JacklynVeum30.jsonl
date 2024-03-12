@@ -1,0 +1,20 @@
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Condition Has a criminal record (finding) 02-08-2017", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Encounter Encounter for check up (procedure) 07-06-2022", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 03-15-2023", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Procedure Depression screening (procedure) 03-09-2022", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Encounter Encounter for problem (procedure) 02-26-2014", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Observation Glucose [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Observation Tobacco smoking status 03-15-2023", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Encounter General examination of patient (procedure) 12-01-2004", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Condition Risk activity involvement (finding) 05-11-1966", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Observation Fall risk total [Morse Fall Scale] 09-27-2023", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Encounter Encounter for check up (procedure) 02-19-2014", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-03-2021", "label": "True"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 09-27-2023", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Condition Social isolation (finding) 03-09-2022", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Encounter Urgent care clinic (environment) 09-27-2023", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Encounter Encounter for check up (procedure) 10-05-2022", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 10-06-2021", "label": "False"}

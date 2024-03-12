@@ -1,0 +1,20 @@
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Respiratory rate 04-12-2020", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Immunization Hep A, ped/adol, 2 dose 07-10-2016", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Heart rate 04-24-2022", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-26-2022", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 02-28-2021", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Encounter Well child visit (procedure) 06-07-2015", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Heart rate 04-24-2022", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 07-10-2016", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Encounter Well child visit (procedure) 07-10-2016", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Body mass index (BMI) [Ratio] 04-24-2022", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Respiratory rate 03-06-2022", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "MedicationRequest Amoxicillin 500 MG Oral Tablet 11-23-2016", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Encounter Well child visit (procedure) 10-07-2018", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 10-11-2015", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Body Height 04-18-2021", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Body Height 04-30-2023", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Immunization Hep B, adolescent or pediatric 01-10-2016", "label": "True"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Observation Body mass index (BMI) [Ratio] 04-30-2023", "label": "False"}
+{"query": "\"When was my last immunization for Hep B?\"", "resource": "Immunization Hep B, adolescent or pediatric 05-03-2015", "label": "True"}

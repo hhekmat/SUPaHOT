@@ -1,1 +1,21 @@
-"When was the last time my body height was measured?"
+"When did I start my hospice care treatment?"
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-06-2023
+Observation Total score [AUDIT-C] 07-06-2023
+Observation Body Height 07-06-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-24-2021
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-13-2019
+Observation Leukocytes [#/volume] in Blood by Automated count 07-06-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-03-2022
+Encounter Encounter for problem 08-22-2022
+Procedure Hospice care (regime/therapy) 02-25-2023
+Procedure External beam radiation therapy procedure (procedure) 09-25-2022
+Encounter Encounter for problem 09-21-2022
+Observation Body Height 07-06-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023
+Procedure Hospice care (regime/therapy) 03-02-2023
+Encounter Postoperative follow-up visit (procedure) 05-18-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-02-2023
+Observation Heart rate 07-06-2023
+Procedure External beam radiation therapy procedure (procedure) 09-25-2022
+Observation Hemoglobin [Mass/volume] in Blood 07-06-2023
+Observation Total score [AUDIT-C] 07-06-2023

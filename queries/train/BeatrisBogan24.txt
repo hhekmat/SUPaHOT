@@ -1,1 +1,21 @@
-What was my heart rate on April 30, 2023, and has it changed since my last appointment?
+"When was the last time my hemoglobin levels in my blood were checked?"
+Encounter Well child visit (procedure) 04-12-2020
+MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016
+Encounter Encounter for symptom 02-26-2022
+Condition Atopic dermatitis 09-13-2015
+Immunization DTaP 10-09-2016
+Observation Body Height 02-28-2021
+Observation Tobacco smoking status 03-06-2022
+Observation Blood pressure panel with all children optional 02-28-2021
+Immunization Hib (PRP-OMP) 08-09-2015
+Immunization Influenza, seasonal, injectable, preservative free 03-06-2022
+Procedure Medication Reconciliation (procedure) 07-10-2016
+Observation Hemoglobin [Mass/volume] in Blood 02-28-2021
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-24-2022
+Procedure Throat culture (procedure) 10-02-2023
+Procedure Transthoracic echocardiography (procedure) 05-29-2021
+Observation Body temperature 02-26-2022
+Encounter Encounter for problem (procedure) 05-29-2021
+Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022
+Observation MCHC [Mass/volume] by Automated count 02-28-2021
+Procedure Medication Reconciliation (procedure) 07-10-2016

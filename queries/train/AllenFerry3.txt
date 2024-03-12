@@ -1,1 +1,21 @@
-When was my last general examination?
+"When was my last flu shot?"
+Encounter General examination of patient (procedure) 06-07-1977
+Procedure Electrical cardioversion 01-17-2017
+Encounter General examination of patient (procedure) 05-27-1975
+Condition Served in armed forces (finding) 02-24-1959
+MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008
+Observation Potassium 02-09-2021
+Observation Body Weight 02-09-2021
+Observation Chloride 02-09-2021
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-25-2021
+MedicationRequest lisinopril 10 MG Oral Tablet 02-04-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-12-2016
+MedicationRequest Verapamil Hydrochloride 40 MG 01-17-2017
+Encounter General examination of patient (procedure) 06-13-1978
+Encounter General examination of patient (procedure) 10-06-1998
+Procedure Assessment of health and social care needs (procedure) 12-20-2011
+Observation Chloride 02-04-2020
+Immunization Influenza, seasonal, injectable, preservative free 12-31-2013
+Encounter General examination of patient (procedure) 12-14-2010
+Procedure Bone immobilization 01-04-2012
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-29-2019

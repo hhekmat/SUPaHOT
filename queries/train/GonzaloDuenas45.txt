@@ -1,1 +1,21 @@
-"When was my initial patient assessment conducted?"
+"What is my potassium level in my blood from my most recent test?"
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023
+Encounter Encounter for problem 09-25-2022
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 09-28-2021
+Observation Blood pressure panel with all children optional 01-05-2023
+Observation Total score [AUDIT-C] 07-06-2023
+Condition Metabolic syndrome X (disorder) 03-18-2010
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 12-27-2018
+Encounter Encounter for problem 09-10-2022
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 02-28-2019
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 06-30-2022
+Encounter Encounter for problem 09-17-2022
+Observation Urea nitrogen [Mass/volume] in Blood 07-06-2023
+Procedure Hospice care (regime/therapy) 02-14-2023
+Encounter Encounter for problem 09-25-2022
+Immunization Influenza, seasonal, injectable, preservative free 06-18-2020
+Encounter Encounter for problem 09-16-2022
+Observation Potassium [Moles/volume] in Blood 07-06-2023
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-06-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 01-05-2023
+Procedure Hospice care (regime/therapy) 02-10-2023

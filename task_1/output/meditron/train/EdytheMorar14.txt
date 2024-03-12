@@ -1,0 +1,16 @@
+When was the last time my Total Cholesterol was measured?
+Observation Platelets [#/volume] in Blood by Automated count 07-07-2020
+Condition Prediabetes 08-17-1993
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020
+Condition Has a criminal record (finding) 07-07-2020
+Procedure Echocardiography (procedure) 06-19-2018
+Observation Total score [AUDIT-C] 07-07-2020
+MedicationRequest 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection 01-27-2020
+Procedure Screening for drug abuse (procedure) 06-24-2014
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020
+Observation Glucose 07-07-2020
+MedicationRequest Jolivette 28 Day Pack 03-30-2003
+Observation Total Cholesterol 07-07-2020
+Observation Creatinine 07-07-2020
+Observation Body Height 07-07-2020

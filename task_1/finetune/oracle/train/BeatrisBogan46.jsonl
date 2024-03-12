@@ -1,0 +1,20 @@
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Observation Tobacco smoking status 04-30-2023", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Immunization rotavirus, monovalent 10-11-2015", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Procedure Medication Reconciliation (procedure) 06-07-2015", "label": "True"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "MedicationRequest Amoxicillin 500 MG Oral Tablet 11-23-2016", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 04-08-2018", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Immunization Hib (PRP-OMP) 07-10-2016", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Immunization rotavirus, monovalent 10-11-2015", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Observation Blood pressure panel with all children optional 04-18-2021", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Encounter Well child visit (procedure) 10-07-2018", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Observation Respiratory rate 04-12-2020", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Immunization DTaP 04-12-2020", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Observation Body temperature 02-17-2021", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 02-28-2021", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 04-30-2023", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "MedicationRequest Fexofenadine hydrochloride 30 MG Oral Tablet 08-22-2017", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Immunization Hep B, adolescent or pediatric 06-07-2015", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 10-11-2015", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Observation Body Weight 04-18-2021", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Observation Body Weight 02-28-2021", "label": "False"}

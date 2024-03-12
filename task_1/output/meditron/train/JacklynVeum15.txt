@@ -1,0 +1,13 @@
+"Can you please tell me what was found during my risk activity involvement assessment on 05-11-1966?"
+Encounter Encounter for check up (procedure) 11-11-2020
+Immunization Influenza, seasonal, injectable, preservative free 10-06-2021
+Observation Blood pressure panel with all children optional 09-27-2023
+Condition Chronic kidney disease stage 1 (disorder) 12-01-2004
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-05-2022
+Procedure Assessment of health and social care needs (procedure) 06-08-2022
+Condition Risk activity involvement (finding) 05-11-1966
+Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023
+Encounter General examination of patient (procedure) 02-14-2018
+Procedure Assessment using Morse Fall Scale (procedure) 07-06-2022
+Procedure Assessment of substance use (procedure) 10-06-2021
+MedicationRequest Clopidogrel 75 MG Oral Tablet 01-29-2014

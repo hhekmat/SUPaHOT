@@ -1,0 +1,20 @@
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-25-2012", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 02-04-2020", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 12-08-2009", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter Encounter for problem 05-15-1973", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-06-2015", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Observation Body Weight 02-09-2021", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Condition Served in armed forces (finding) 02-24-1959", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-12-2016", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 01-12-2016", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-09-2021", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 09-24-1996", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Observation Glucose 01-29-2019", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 06-01-1976", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 12-14-2010", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-29-2019", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Procedure Assessment of anxiety (procedure) 12-31-2013", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 01-06-2015", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter Encounter for symptom 11-02-2011", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 10-17-2000", "label": "False"}

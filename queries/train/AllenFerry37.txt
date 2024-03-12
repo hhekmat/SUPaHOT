@@ -1,1 +1,21 @@
-"What was the last date I was prescribed Digoxin?"
+"What was my urea nitrogen level on January 29, 2019, and is it within the normal range?"
+Observation Urea Nitrogen 01-29-2019
+Observation Triglycerides 02-04-2020
+Procedure Depression screening (procedure) 12-25-2012
+MedicationRequest lisinopril 10 MG Oral Tablet 01-12-2016
+Procedure Depression screening (procedure) 01-06-2015
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 02-09-2021
+Procedure Assessment of health and social care needs (procedure) 02-04-2020
+Condition Hypertension 02-24-1959
+Encounter General examination of patient (procedure) 11-27-2007
+Encounter General examination of patient (procedure) 05-09-1972
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-29-2019
+Encounter General examination of patient (procedure) 05-04-1971
+Encounter General examination of patient (procedure) 06-01-1976
+Immunization Influenza, seasonal, injectable, preservative free 01-29-2019
+Encounter Outpatient procedure 09-03-1993
+Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018
+Observation Potassium 02-04-2020
+Encounter General examination of patient (procedure) 04-28-1970
+Observation Body Height 02-04-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-04-2020

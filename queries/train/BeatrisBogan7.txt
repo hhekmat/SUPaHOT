@@ -1,1 +1,21 @@
-"When is the next recommended date for me to receive the flu shot?"
+"Can you please tell me when I last had a DTaP immunization?"
+Observation Body Height 04-18-2021
+Immunization DTaP 04-12-2020
+Encounter Well child visit (procedure) 04-30-2023
+Immunization DTaP 01-10-2016
+Procedure Medication Reconciliation (procedure) 07-10-2016
+Procedure Transthoracic echocardiography (procedure) 03-28-2023
+Procedure Medication Reconciliation (procedure) 05-03-2015
+Encounter Encounter for problem 09-13-2015
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022
+Procedure Medication Reconciliation (procedure) 04-30-2023
+Immunization Hep A, ped/adol, 2 dose 10-08-2017
+Observation Blood pressure panel with all children optional 02-28-2021
+MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-26-2022
+Immunization DTaP 01-10-2016
+Procedure Medication Reconciliation (procedure) 03-06-2022
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021
+MedicationRequest NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector 08-30-2017
+Procedure Medication Reconciliation (procedure) 05-03-2015
+Immunization Influenza, seasonal, injectable, preservative free 04-12-2020
+Encounter Well child visit (procedure) 07-10-2016

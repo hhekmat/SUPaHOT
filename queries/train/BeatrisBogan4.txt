@@ -1,1 +1,21 @@
-"When was the last time my height was measured at a medical appointment?"
+What is my current height compared to my height on 02-28-2021?
+Immunization Influenza, seasonal, injectable, preservative free 04-07-2019
+Observation Tobacco smoking status 04-24-2022
+Immunization Influenza, seasonal, injectable, preservative free 04-08-2018
+Observation Body Weight 03-06-2022
+MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021
+Immunization MMR 04-12-2020
+Immunization Hep A, ped/adol, 2 dose 07-10-2016
+Observation Body Height 04-18-2021
+Observation MCH [Entitic mass] by Automated count 02-28-2021
+Observation Tobacco smoking status 04-12-2020
+Immunization DTaP 01-10-2016
+Procedure Referral for echocardiography (procedure) 02-01-2020
+Observation Hemoglobin [Mass/volume] in Blood 02-28-2021
+Observation Body Height 04-30-2023
+Observation Blood pressure panel with all children optional 04-18-2021
+Encounter Encounter for problem (procedure) 05-02-2019
+Observation Blood pressure panel with all children optional 04-18-2021
+Observation MCHC [Mass/volume] by Automated count 02-28-2021
+MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021
+Procedure Medication Reconciliation (procedure) 06-07-2015

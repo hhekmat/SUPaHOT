@@ -1,0 +1,20 @@
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-24-2022", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 06-18-2020", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 02-28-2019", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Observation Platelets [#/volume] in Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Encounter Encounter for problem 08-22-2022", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-17-2022", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Observation Response to cancer treatment 10-07-2022", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-07-2018", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 07-23-2020", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Encounter Encounter for problem 09-08-2022", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-18-2020", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Procedure Hospice care (regime/therapy) 03-07-2023", "label": "True"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest Simvastatin 20 MG Oral Tablet 03-25-2021", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2023", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Procedure Hospice care (regime/therapy) 03-03-2023", "label": "True"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Procedure Notifications (procedure) 02-09-2023", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-07-2018", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-05-2023", "label": "False"}

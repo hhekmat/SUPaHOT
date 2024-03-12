@@ -1,0 +1,20 @@
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Condition Ischemic heart disease (disorder) 03-18-2021", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Encounter Encounter for problem 08-24-2022", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-03-2022", "label": "True"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Condition Medication review due (situation) 06-30-2022", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Encounter Screening surveillance (regime/therapy) 09-07-2023", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Encounter Encounter for problem 09-07-2022", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Observation Sodium [Moles/volume] in Blood 01-05-2023", "label": "True"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-23-2020", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Procedure Depression screening (procedure) 01-05-2023", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2022", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Procedure Colonoscopy 02-06-2023", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-24-2022", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Observation Tobacco smoking status 07-06-2023", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Condition Anemia (disorder) 06-29-2017", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Observation Glucose [Mass/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 07-06-2023", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Encounter Encounter for symptom (procedure) 08-02-2022", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Condition Gout 11-08-1996", "label": "False"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Observation Blood pressure panel with all children optional 01-05-2023", "label": "False"}

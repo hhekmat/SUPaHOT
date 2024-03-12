@@ -1,0 +1,20 @@
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Encounter Well child visit (procedure) 04-07-2019", "label": "True"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Procedure Throat culture (procedure) 09-26-2016", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Immunization DTaP 10-11-2015", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 01-10-2016", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Immunization DTaP 01-10-2016", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Observation Platelet distribution width [Entitic volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 03-28-2023", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Observation Body Weight 04-30-2023", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Observation Blood pressure panel with all children optional 03-06-2022", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Encounter Well child visit (procedure) 04-08-2018", "label": "True"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Encounter Well child visit (procedure) 04-30-2023", "label": "True"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Immunization DTaP 10-11-2015", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Observation Heart rate 04-24-2022", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Observation Heart rate 04-24-2022", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 07-10-2016", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Observation Blood pressure panel with all children optional 04-18-2021", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Observation MCV [Entitic volume] by Automated count 02-28-2021", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during that appointment?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 02-01-2020", "label": "False"}

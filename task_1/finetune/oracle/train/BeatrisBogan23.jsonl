@@ -1,0 +1,20 @@
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Body Height 04-24-2022", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Heart rate 04-12-2020", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Blood pressure panel with all children optional 04-18-2021", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Encounter Encounter for symptom 11-23-2016", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Procedure Medication Reconciliation (procedure) 01-10-2016", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Procedure Medication Reconciliation (procedure) 06-07-2015", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Encounter Encounter for problem (procedure) 05-02-2019", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Body Height 04-24-2022", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021", "label": "True"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Encounter Encounter for problem (procedure) 05-02-2019", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 05-02-2019", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 02-28-2021", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 02-28-2021", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 07-10-2016", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Immunization MMR 07-10-2016", "label": "False"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016", "label": "False"}

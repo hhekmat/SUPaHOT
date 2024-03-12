@@ -1,1 +1,21 @@
-"Can you tell me when I was diagnosed with cancer?"
+How has my generalized anxiety disorder been managed since my GAD-7 total score was reported on 01-05-2023?
+Observation Platelets [#/volume] in Blood by Automated count 07-06-2023
+Observation Glucose [Mass/volume] in Blood 07-06-2023
+Encounter Postoperative follow-up visit (procedure) 05-18-2023
+Observation Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain 08-04-2022
+Procedure Hospice care (regime/therapy) 02-20-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-30-2022
+Encounter Postoperative follow-up visit (procedure) 02-05-2023
+Encounter Encounter for problem 09-10-2022
+Procedure Hospice care (regime/therapy) 02-28-2023
+Condition Anemia (disorder) 06-29-2017
+Procedure Hospice care (regime/therapy) 03-03-2023
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-06-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-02-2023
+Observation Cholesterol in HDL [Mass/volume] in Serum or Plasma 07-06-2023
+Observation Body mass index (BMI) [Ratio] 07-06-2023
+Encounter Encounter for problem 09-30-2022
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-05-2023
+Condition Has a criminal record (finding) 11-20-2003
+Procedure Notifications (procedure) 02-09-2023

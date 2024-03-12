@@ -1,0 +1,20 @@
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Glomerular filtration rate/1.73 sq M.predicted 12-02-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-29-2020", "label": "True"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Procedure Medication Reconciliation (procedure) 09-02-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Procedure Plain chest X-ray (procedure) 11-21-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Encounter Well child visit (procedure) 07-18-2012", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation MCV [Entitic volume] by Automated count 12-02-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Body temperature 12-03-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Immunization Hep B, adult 08-16-2017", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Encounter Well child visit (procedure) 07-18-2012", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Procedure Screening for drug abuse (procedure) 08-28-2019", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Prothrombin time (PT) 12-01-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Heart rate 12-02-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Hemoglobin [Mass/volume] in Blood 12-02-2020", "label": "False"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Observation Neutrophils [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}

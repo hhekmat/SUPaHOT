@@ -1,1 +1,21 @@
-When was my chronic kidney disease stage 2 diagnosed?
+"When was the last time I had an influenza vaccine?"
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021
+MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014
+Procedure Assessment of anxiety (procedure) 02-09-2022
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2015
+Observation Blood pressure panel with all children optional 09-27-2023
+Encounter Emergency room admission (procedure) 07-02-2020
+Encounter Encounter for check up (procedure) 02-19-2014
+MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014
+Procedure Assessment of anxiety (procedure) 02-09-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-05-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 03-09-2022
+Observation Total score [AUDIT-C] 03-15-2023
+Observation Tobacco smoking status 03-15-2023
+Condition Medication review due (situation) 03-15-2023
+Encounter General examination of patient (procedure) 03-15-2023
+Procedure Depression screening (procedure) 10-06-2021
+Procedure Assessment using Morse Fall Scale (procedure) 01-05-2022
+Observation Glucose [Mass/volume] in Urine by Test strip 03-15-2023
+Procedure Assessment of substance use (procedure) 10-05-2022
+Encounter Encounter for check up (procedure) 06-08-2022

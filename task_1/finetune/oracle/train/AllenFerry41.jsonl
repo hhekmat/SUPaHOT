@@ -1,0 +1,20 @@
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-14-2010", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Procedure Electrical cardioversion 12-25-2012", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 11-27-2007", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Condition Atrial Fibrillation 08-09-1988", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Encounter General examination of patient (procedure) 09-13-1994", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Observation Body Mass Index 02-04-2020", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Encounter General examination of patient (procedure) 10-29-2002", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Encounter General examination of patient (procedure) 08-27-1991", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Procedure Depression screening (procedure) 12-20-2011", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Procedure Electrical cardioversion 01-23-2018", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-25-2021", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Procedure Electrical cardioversion 02-09-2021", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Observation Heart rate 01-29-2019", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Encounter General examination of patient (procedure) 05-09-1972", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Observation Body Weight 02-04-2020", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Procedure Bone immobilization 01-04-2012", "label": "True"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Observation Urea Nitrogen 02-09-2021", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009", "label": "False"}

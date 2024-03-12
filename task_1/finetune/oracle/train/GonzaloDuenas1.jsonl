@@ -1,0 +1,20 @@
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-24-2022", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Encounter Encounter for symptom (procedure) 08-02-2022", "label": "True"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Procedure Hospice care (regime/therapy) 03-02-2023", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Observation Potassium [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Encounter Encounter for problem 09-16-2022", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-18-2021", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-18-2020", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-23-2022", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Encounter Encounter for check up (procedure) 03-24-2022", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Encounter Encounter for problem 09-08-2022", "label": "True"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-18-2021", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-06-2023", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Procedure Hospice care (regime/therapy) 02-10-2023", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Observation Blood pressure panel with all children optional 01-05-2023", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Condition Gout 11-08-1996", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 07-23-2020", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "Observation MCH [Entitic mass] by Automated count 07-06-2023", "label": "False"}
+{"query": "What were the problems or symptoms that led to my encounters on 08-02-2022 and 09-08-2022?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-18-2021", "label": "False"}

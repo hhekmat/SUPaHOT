@@ -1,1 +1,21 @@
-"What was my body weight on 04-24-2022?"
+"When was my last immunization?"
+Observation Hemoglobin [Mass/volume] in Blood 02-28-2021
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-18-2021
+Encounter Encounter for problem 09-13-2015
+Observation Body Height 04-30-2023
+Immunization IPV 08-09-2015
+Observation Platelets [#/volume] in Blood by Automated count 02-28-2021
+Immunization Influenza, seasonal, injectable, preservative free 04-07-2019
+Procedure Transthoracic echocardiography (procedure) 05-02-2019
+Immunization Hib (PRP-OMP) 10-11-2015
+Observation Respiratory rate 04-24-2022
+Procedure Transthoracic echocardiography (procedure) 05-02-2019
+Observation Hemoglobin [Mass/volume] in Blood 02-28-2021
+Observation Body temperature 10-02-2023
+Immunization DTaP 08-09-2015
+Observation Body Height 02-28-2021
+Immunization Pneumococcal conjugate PCV 13 10-11-2015
+Observation Body Height 04-24-2022
+Immunization IPV 08-09-2015
+Encounter Well child visit (procedure) 04-18-2021

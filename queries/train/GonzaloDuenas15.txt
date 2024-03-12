@@ -1,1 +1,21 @@
-"When was my last mammogram?"
+When was my last tetanus shot?
+Encounter Postoperative follow-up visit (procedure) 09-07-2023
+Encounter Encounter for problem 09-07-2022
+Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 02-28-2019
+Observation Respiratory rate 07-06-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-02-2023
+Procedure Hospice care (regime/therapy) 02-25-2023
+Encounter Gynecology service (qualifier value) 09-07-2023
+Procedure Hospice care (regime/therapy) 02-13-2023
+MedicationRequest Clopidogrel 75 MG Oral Tablet 03-25-2021
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-05-2023
+Immunization Influenza, seasonal, injectable, preservative free 03-03-2022
+Procedure Hospice care (regime/therapy) 02-12-2023
+Encounter Encounter for problem (procedure) 09-30-2021
+Encounter Encounter for problem 09-17-2022
+Procedure Physical examination, complete (procedure) 02-05-2023
+Procedure Assessment of health and social care needs (procedure) 01-05-2023
+Procedure External beam radiation therapy procedure (procedure) 09-29-2022
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 12-27-2018
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-30-2022
+Procedure Hospice care (regime/therapy) 03-07-2023

@@ -1,0 +1,20 @@
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-29-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Observation Stage group.clinical Cancer 08-04-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-24-2021", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Procedure Hospice care (regime/therapy) 02-13-2023", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Encounter for problem 09-29-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Admission to surgical transplant department (procedure) 09-26-2021", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Condition Ischemic heart disease (disorder) 03-18-2021", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Encounter for problem 09-08-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Postoperative follow-up visit (procedure) 10-20-2021", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Encounter for problem 09-19-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-24-2021", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-06-2023", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-06-2023", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Procedure Certification procedure (procedure) 02-09-2023", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-06-2023", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution 12-25-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 02-28-2019", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Procedure Physical examination, complete (procedure) 05-18-2023", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 12-27-2018", "label": "False"}

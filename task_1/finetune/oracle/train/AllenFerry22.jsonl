@@ -1,0 +1,20 @@
+{"query": "When was my last check-up appointment?", "resource": "Observation Blood Pressure 01-29-2019", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 02-09-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Immunization Td (adult) preservative free 12-25-2012", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-12-2016", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of anxiety (procedure) 12-31-2013", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 05-21-1974", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 12-25-2012", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Urea Nitrogen 02-04-2020", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-06-2015", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment of anxiety (procedure) 01-12-2016", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 12-20-2011", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 06-30-1981", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-12-2016", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-20-2011", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 01-23-2018", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Observation Fall risk total [Morse Fall Scale] 02-09-2021", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Condition Stress (finding) 01-29-2019", "label": "False"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 02-04-2020", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 04-18-1989", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Procedure Depression screening (procedure) 01-06-2015", "label": "False"}

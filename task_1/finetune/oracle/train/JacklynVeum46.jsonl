@@ -1,0 +1,20 @@
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Body mass index (BMI) [Ratio] 09-27-2023", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 03-15-2023", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Condition Risk activity involvement (finding) 05-11-1966", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment of substance use (procedure) 01-04-2023", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-04-2023", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter Emergency room admission (procedure) 07-02-2020", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Hemoglobin [Presence] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Fall risk total [Morse Fall Scale] 09-27-2023", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-11-2021", "label": "True"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter Emergency room admission (procedure) 12-22-2021", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Encounter Encounter for check up (procedure) 10-05-2022", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Color of Urine 03-15-2023", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment of substance use (procedure) 10-05-2022", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-05-2022", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Nitrite [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "When was the last time I was prescribed Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "Observation Bilirubin.total [Mass/volume] in Urine by Test strip 09-27-2023", "label": "False"}

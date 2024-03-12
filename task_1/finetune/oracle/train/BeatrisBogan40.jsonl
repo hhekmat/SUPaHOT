@@ -1,0 +1,20 @@
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Body mass index (BMI) [Ratio] 02-28-2021", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Encounter Encounter for problem 09-13-2015", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 03-28-2023", "label": "True"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Tobacco smoking status 02-28-2021", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Hemoglobin [Mass/volume] in Blood 02-28-2021", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 04-12-2020", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Body mass index (BMI) [Ratio] 04-24-2022", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-06-2022", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Referral for echocardiography (procedure) 05-29-2021", "label": "True"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 02-01-2020", "label": "True"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-30-2023", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Immunization rotavirus, monovalent 10-11-2015", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 05-29-2021", "label": "True"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Throat culture (procedure) 10-02-2023", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Body temperature 02-26-2022", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Encounter Well child visit (procedure) 05-03-2015", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Observation Heart rate 04-24-2022", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016", "label": "False"}

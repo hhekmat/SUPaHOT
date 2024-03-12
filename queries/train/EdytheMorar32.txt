@@ -1,1 +1,21 @@
-"When was my last prenatal visit?"
+"When was the last time my doctor assessed my assets, risks, and experiences in my medical record?"
+Encounter General examination of patient (procedure) 09-06-2011
+Procedure Assessment of health and social care needs (procedure) 06-28-2016
+Observation MCHC [Mass/volume] by Automated count 07-07-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
+Encounter Encounter for check up (procedure) 07-16-1991
+Immunization Influenza, seasonal, injectable, preservative free 12-28-2020
+Observation Low Density Lipoprotein Cholesterol 07-07-2020
+MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018
+Encounter General examination of patient (procedure) 08-24-1999
+Immunization Influenza, seasonal, injectable, preservative free 12-28-2020
+Encounter Consultation for treatment 03-30-2003
+MedicationRequest Jolivette 28 Day Pack 01-21-2021
+Procedure Screening for domestic abuse (procedure) 06-28-2016
+Encounter General examination of patient (procedure) 08-24-1999
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-03-2018
+Procedure Insertion of intrauterine contraceptive device 02-06-2018
+Observation Potassium 07-07-2020
+Encounter Prenatal visit 09-02-2008
+Encounter Consultation for treatment 02-02-2018
+Condition Received higher education (finding) 08-11-1992

@@ -1,0 +1,20 @@
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-29-2019", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Procedure Electrical cardioversion 01-23-2018", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Condition Atrial Fibrillation 08-09-1988", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Encounter General examination of patient (procedure) 01-29-2019", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-23-2018", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Condition Prediabetes 05-15-1973", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Encounter General examination of patient (procedure) 09-30-1997", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-06-2015", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Encounter General examination of patient (procedure) 02-09-2021", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Encounter General examination of patient (procedure) 06-24-1980", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Encounter General examination of patient (procedure) 04-28-1970", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Observation Carbon Dioxide 01-29-2019", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 01-06-2015", "label": "True"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Procedure Assessment of anxiety (procedure) 01-12-2016", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 11-08-2011", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-04-2020", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Encounter General examination of patient (procedure) 11-27-2007", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 01-06-2015", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "Encounter Encounter for problem 11-03-2004", "label": "False"}
+{"query": "What was the date when I was prescribed Verapamil Hydrochloride 40 MG?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 02-04-2020", "label": "True"}

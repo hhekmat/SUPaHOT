@@ -1,0 +1,20 @@
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-31-2013", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-14-2010", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-17-2017", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 12-08-2009", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-06-2015", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2021", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-04-2020", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter General examination of patient (procedure) 05-21-1974", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Condition Hypertension 02-24-1959", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter General examination of patient (procedure) 09-01-1992", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 01-04-2012", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-09-2021", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter General examination of patient (procedure) 10-06-1998", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 02-04-2020", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter General examination of patient (procedure) 05-15-1973", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-31-2013", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Procedure Depression screening (procedure) 01-29-2019", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter Encounter for 'check-up' 06-10-1978", "label": "False"}

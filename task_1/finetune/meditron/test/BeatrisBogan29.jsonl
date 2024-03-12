@@ -1,0 +1,16 @@
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Encounter Well child visit (procedure) 04-30-2023", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Observation Body mass index (BMI) [Ratio] 04-24-2022", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Immunization IPV 08-09-2015", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Encounter Encounter for problem (procedure) 05-02-2019", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Encounter Well child visit (procedure) 05-03-2015", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Procedure Medication Reconciliation (procedure) 07-10-2016", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Procedure Medication Reconciliation (procedure) 04-24-2022", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Observation Body Height 02-28-2021", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Immunization Hep A, ped/adol, 2 dose 07-10-2016", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Observation Body Height 03-06-2022", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Observation Tobacco smoking status 04-18-2021", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Immunization Hep B, adolescent or pediatric 01-10-2016", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Observation Body Height 03-06-2022", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Encounter Encounter for symptom 11-23-2016", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Observation Body mass index (BMI) [Ratio] 04-18-2021", "label": "True"}
+{"query": "\"Can you remind me if I received my second dose of the Hep A vaccine?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 08-09-2015", "label": "True"}

@@ -1,1 +1,21 @@
-When was my last general examination of patient?
+"When was the last time my health and social care needs were assessed?"
+MedicationRequest Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet 09-01-2012
+Observation Chloride 02-09-2021
+Encounter General examination of patient (procedure) 09-01-1992
+Observation Total score [HARK] 02-04-2020
+Procedure Assessment using Morse Fall Scale (procedure) 12-25-2012
+Procedure Assessment of anxiety (procedure) 01-23-2018
+Procedure Assessment using Morse Fall Scale (procedure) 02-09-2021
+Procedure Assessment of anxiety (procedure) 12-31-2013
+Procedure Assessment using Morse Fall Scale (procedure) 01-06-2015
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-25-2021
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-12-2016
+Procedure Electrical cardioversion 02-04-2020
+Encounter General examination of patient (procedure) 04-28-1970
+Procedure Assessment of health and social care needs (procedure) 01-29-2019
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-17-2017
+Observation High Density Lipoprotein Cholesterol 02-04-2020
+Procedure Electrical cardioversion 12-20-2011
+Observation Blood Pressure 02-04-2020
+Encounter General examination of patient (procedure) 10-29-2002
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-17-2017

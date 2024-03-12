@@ -1,1 +1,21 @@
-What was the result of my Generalized Anxiety Disorder 7 item (GAD-7) total score from my exam on 07-07-2020?
+"What was the level of Carbon Dioxide in my blood on July 3, 2018, and how does it compare to normal levels?"
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016
+Procedure Assessment of anxiety (procedure) 12-28-2020
+Encounter Consultation for treatment 02-02-2018
+Condition Full-time employment (finding) 12-28-2020
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020
+Procedure Assessment of anxiety (procedure) 06-28-2016
+Observation Carbon Dioxide 12-28-2020
+MedicationRequest 1 ML Epinephrine 1 MG/ML Injection 06-19-2018
+Observation Respiratory rate 12-28-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
+Observation Tobacco smoking status NHIS 07-07-2020
+Procedure Screening for domestic abuse (procedure) 06-28-2016
+Observation Carbon Dioxide 07-03-2018
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 12-28-2020
+Condition Anemia (disorder) 08-17-1993
+Encounter Consultation for treatment 02-23-2013
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020
+Observation Creatinine 07-07-2020
+Observation Body Weight 12-28-2020

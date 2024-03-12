@@ -1,1 +1,21 @@
-What is my current level of substance use according to the DAST-10 assessment on September 27, 2023?
+"When did I last receive the seasonal flu vaccine?"
+MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014
+Observation Leukocyte esterase [Presence] in Urine by Test strip 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-08-2022
+Encounter Urgent care clinic (environment) 01-05-2022
+Procedure Medication Reconciliation (procedure) 01-04-2023
+Procedure Depression screening (procedure) 08-03-2022
+Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2022
+Encounter General examination of patient (procedure) 05-28-1969
+MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2015
+Encounter Encounter for check up (procedure) 07-25-2012
+Observation Protein [Mass/volume] in Urine by Test strip 09-27-2023
+Immunization Influenza, seasonal, injectable, preservative free 10-06-2021
+Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2022
+Procedure Assessment of health and social care needs (procedure) 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-16-2020
+Condition Ischemic heart disease (disorder) 01-22-2014

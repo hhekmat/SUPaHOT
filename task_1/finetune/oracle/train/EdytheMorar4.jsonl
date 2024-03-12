@@ -1,0 +1,20 @@
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Encounter Encounter for symptom 04-25-2019", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Observation Chloride 07-07-2020", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "MedicationRequest Jolivette 28 Day Pack 03-17-2006", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Procedure Assessment of health and social care needs (procedure) 07-03-2018", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Immunization Hep A, adult 06-28-2016", "label": "True"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Encounter Encounter for symptom 06-18-2018", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "MedicationRequest Jolivette 28 Day Pack 03-22-2005", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Encounter Consultation for treatment 02-23-2013", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Encounter Encounter for symptom 06-18-2018", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Encounter General examination of patient (procedure) 09-06-2011", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Immunization Hep A, adult 06-28-2016", "label": "True"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Procedure Echocardiography (procedure) 06-19-2018", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Encounter General examination of patient (procedure) 06-24-2014", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Procedure Assessment of anxiety (procedure) 12-28-2020", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Observation Body Mass Index 07-07-2020", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Observation Heart rate 12-28-2020", "label": "False"}
+{"query": "When did I last receive the Hepatitis A vaccine?", "resource": "Observation Chloride 12-28-2020", "label": "False"}

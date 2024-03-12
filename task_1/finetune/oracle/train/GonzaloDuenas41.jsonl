@@ -1,0 +1,20 @@
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Encounter Encounter for problem 08-22-2022", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Observation Body mass index (BMI) [Ratio] 07-06-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Encounter Encounter for problem 09-11-2022", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Procedure Notifications (procedure) 02-09-2023", "label": "True"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Procedure Certification procedure (procedure) 02-09-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-28-2022", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Observation Treatment status Cancer 10-07-2022", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Encounter Encounter for problem 08-24-2022", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Encounter Discussion about treatment (procedure) 08-07-2022", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Condition Malignant neoplasm of breast (disorder) 08-02-2022", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 05-18-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Procedure Hospice care (regime/therapy) 02-09-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Procedure Manual pelvic examination (procedure) 09-07-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Procedure Hospice care (regime/therapy) 03-06-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 07-06-2023", "label": "True"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Observation Total score [AUDIT-C] 07-06-2023", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-12-2021", "label": "False"}
+{"query": "\"When was my last pneumonia shot?\"", "resource": "Encounter Screening surveillance (regime/therapy) 09-07-2023", "label": "False"}

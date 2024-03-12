@@ -1,1 +1,21 @@
-Has my depression screening score changed since my last screening in January 2016?
+When was my last catheter ablation procedure for my heart tissue performed?
+Observation Urea Nitrogen 01-29-2019
+Immunization Influenza, seasonal, injectable, preservative free 12-31-2013
+Procedure Depression screening (procedure) 01-06-2015
+MedicationRequest lisinopril 10 MG Oral Tablet 01-23-2018
+Observation Body Mass Index 01-29-2019
+Observation Total score [MMSE] 02-09-2021
+Immunization Td (adult) preservative free 12-25-2012
+Immunization Influenza, seasonal, injectable, preservative free 01-29-2019
+Observation Body Mass Index 02-04-2020
+Observation Calcium 02-04-2020
+Observation Glucose 01-29-2019
+Condition Received higher education (finding) 02-24-1959
+Immunization Influenza, seasonal, injectable, preservative free 01-17-2017
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-31-2013
+Observation Tobacco smoking status NHIS 01-29-2019
+Encounter General examination of patient (procedure) 10-29-2002
+Condition Victim of intimate partner abuse (finding) 01-06-2015
+Procedure Catheter ablation of tissue of heart 01-29-2019
+Observation Glucose 02-09-2021
+Encounter General examination of patient (procedure) 05-04-1971

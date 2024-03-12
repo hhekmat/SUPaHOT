@@ -1,1 +1,21 @@
-"What was the diagnosis or reason for my encounter on 09-10-2022?"
+"What was the start date of my Hospice care regime?"
+Condition Received higher education (finding) 04-01-1976
+Observation Body mass index (BMI) [Ratio] 01-05-2023
+Encounter Encounter for problem 09-30-2022
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 07-06-2023
+Procedure Hospice care (regime/therapy) 02-12-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 06-30-2022
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-05-2023
+Procedure Hospice care (regime/therapy) 02-25-2023
+Encounter Encounter for problem 09-22-2022
+Procedure Hospice care (regime/therapy) 03-02-2023
+Procedure Hospice care (regime/therapy) 02-20-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-27-2018
+MedicationRequest Clopidogrel 75 MG Oral Tablet 03-25-2021
+Immunization Pneumococcal conjugate PCV 13 07-06-2023
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-06-2023
+Observation Sodium [Moles/volume] in Blood 07-06-2023
+Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-18-2020
+Observation Respiratory rate 07-06-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-24-2022

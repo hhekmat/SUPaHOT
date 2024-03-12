@@ -1,0 +1,20 @@
+{"query": "When was my last tetanus shot?", "resource": "Encounter Postoperative follow-up visit (procedure) 09-07-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Encounter Encounter for problem 09-07-2022", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 02-28-2019", "label": "True"}
+{"query": "When was my last tetanus shot?", "resource": "Observation Respiratory rate 07-06-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-02-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Procedure Hospice care (regime/therapy) 02-25-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Encounter Gynecology service (qualifier value) 09-07-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Procedure Hospice care (regime/therapy) 02-13-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "MedicationRequest Clopidogrel 75 MG Oral Tablet 03-25-2021", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-05-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-03-2022", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Procedure Hospice care (regime/therapy) 02-12-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Encounter Encounter for problem (procedure) 09-30-2021", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Encounter Encounter for problem 09-17-2022", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Procedure Physical examination, complete (procedure) 02-05-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-05-2023", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-29-2022", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 12-27-2018", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-30-2022", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Procedure Hospice care (regime/therapy) 03-07-2023", "label": "False"}

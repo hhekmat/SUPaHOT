@@ -1,1 +1,21 @@
-"Can you please tell me if I am up to date on my meningococcal vaccination? Thank you."
+"Did I receive the Hepatitis B vaccine before my trip in August 2017?"
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
+Procedure Assessment of health and social care needs (procedure) 09-02-2020
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Procedure Assessment of anxiety (procedure) 08-28-2019
+Procedure Placing subject in prone position (procedure) 11-28-2020
+Procedure Assessment of health and social care needs (procedure) 08-16-2017
+Immunization Hep B, adult 08-16-2017
+Immunization Hep B, adult 08-28-2019
+Procedure Assessment of health and social care needs (procedure) 09-02-2020
+Procedure Placing subject in prone position (procedure) 11-30-2020
+Immunization Influenza, seasonal, injectable, preservative free 12-26-2012
+Procedure Oxygen administration by mask (procedure) 11-22-2020
+Encounter Well child visit (procedure) 07-07-2010
+Procedure Placing subject in prone position (procedure) 11-24-2020
+Encounter Hospital admission for isolation (procedure) 11-21-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-08-2021
+Immunization Influenza, seasonal, injectable, preservative free 07-18-2012
+Encounter General examination of patient (procedure) 08-22-2018
+Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020
+Procedure Oxygen administration by mask (procedure) 11-29-2020

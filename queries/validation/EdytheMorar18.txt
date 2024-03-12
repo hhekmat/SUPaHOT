@@ -1,1 +1,21 @@
-"Have I ever received the flu vaccine in the past few years?"
+"When was the last time I had my blood tested for hematocrit levels?"
+MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018
+Observation Tobacco smoking status NHIS 07-03-2018
+Observation Carbon Dioxide 12-28-2020
+Observation Glucose 12-28-2020
+Observation Glucose 12-28-2020
+Encounter General examination of patient (procedure) 06-28-2016
+MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018
+Procedure Depression screening (procedure) 06-28-2016
+Immunization Hep A, adult 06-24-2014
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020
+Procedure Screening for drug abuse (procedure) 06-24-2014
+Encounter Encounter for symptom 12-17-2020
+Observation Sodium 12-28-2020
+Encounter General examination of patient (procedure) 07-07-2020
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020
+Condition Received higher education (finding) 08-11-1992
+Immunization Td (adult) preservative free 06-28-2016
+Encounter Patient encounter procedure 02-07-2017
+Encounter General examination of patient (procedure) 08-11-1992

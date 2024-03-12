@@ -1,1 +1,21 @@
-"When was my last check-up?"
+"What was the result of my Depression screening using Patient Health Questionnaire Two-Item score on July 7, 2020?"
+Encounter Consultation for treatment 02-13-2015
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12-29-2020
+Observation Chloride 07-03-2018
+Observation Body Weight 07-07-2020
+Encounter Consultation for treatment 02-02-2018
+Condition Prediabetes 08-17-1993
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-07-2020
+Encounter General examination of patient (procedure) 08-24-1999
+Condition Housing unsatisfactory (finding) 08-11-1992
+Encounter Consultation for treatment 03-30-2003
+MedicationRequest Nitrofurantoin 5 MG/ML Oral Suspension 04-25-2019
+Condition Victim of intimate partner abuse (finding) 08-20-1996
+Immunization Hep A, adult 06-24-2014
+Encounter Consultation for treatment 03-30-2003
+Observation Blood Pressure 12-28-2020
+MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
+Encounter General examination of patient (procedure) 08-27-2002
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 12-28-2020
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+Encounter Patient encounter procedure 02-06-2018

@@ -1,0 +1,20 @@
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-03-2016", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Encounter Encounter for check up (procedure) 06-08-2022", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 02-08-2017", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 07-06-2022", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-16-2022", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-29-2021", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Observation Fall risk level [Morse Fall Scale] 09-27-2023", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Observation Clarity of Urine 09-27-2023", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2022", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 03-24-2021", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Condition Has a criminal record (finding) 02-08-2017", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2021", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 03-09-2022", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 11-11-2020", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment of substance use (procedure) 09-27-2023", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Encounter Urgent care clinic (environment) 02-09-2022", "label": "False"}

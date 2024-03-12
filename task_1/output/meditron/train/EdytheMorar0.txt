@@ -1,0 +1,19 @@
+When was the last time my Body Mass Index was measured?
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020
+Observation Body Height 07-07-2020
+Procedure Assessment of health and social care needs (procedure) 12-28-2020
+Procedure Insertion of intrauterine contraceptive device 02-06-2018
+Observation Blood Pressure 07-07-2020
+MedicationRequest 1 ML Epinephrine 1 MG/ML Injection 06-19-2018
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020
+Observation Sodium 07-07-2020
+Encounter General examination of patient (procedure) 08-17-1993
+MedicationRequest Nitrofurantoin 5 MG/ML Oral Suspension 04-25-2019
+Procedure Assessment of anxiety (procedure) 07-07-2020
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
+Observation Creatinine 07-07-2020
+Condition Body mass index 30+ - obesity (finding) 07-16-1991
+Encounter General examination of patient (procedure) 07-07-2020
+Immunization Hep A, adult 06-28-2016
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020
+Observation Body Mass Index 07-07-2020

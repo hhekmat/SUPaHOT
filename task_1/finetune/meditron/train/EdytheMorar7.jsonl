@@ -1,0 +1,16 @@
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Encounter General examination of patient (procedure) 07-07-2020", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Observation Tobacco smoking status NHIS 07-07-2020", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Observation Sodium 12-28-2020", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Observation Body Mass Index 12-28-2020", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Observation Respiratory rate 07-07-2020", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Encounter General examination of patient (procedure) 08-17-1993", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Encounter General examination of patient (procedure) 06-24-2014", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Encounter General examination of patient (procedure) 08-30-2005", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Encounter General examination of patient (procedure) 08-24-1999", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "MedicationRequest Nitrofurantoin 5 MG/ML Oral Suspension 04-25-2019", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Condition Full-time employment (finding) 12-28-2020", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Encounter General examination of patient (procedure) 09-06-2011", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Encounter Encounter for symptom 06-18-2018", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Observation Body Mass Index 07-07-2020", "label": "True"}
+{"query": "\"Was my sodium level normal during my last check-up on December 28, 2020?\"", "resource": "Observation Calcium 07-07-2020", "label": "True"}

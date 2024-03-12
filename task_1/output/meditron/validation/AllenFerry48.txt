@@ -1,0 +1,17 @@
+"What was the reason for me being prescribed Verapamil Hydrochloride on December 20, 2011?"
+Procedure Electrical cardioversion 12-20-2011
+Observation Body Mass Index 02-04-2020
+Observation Blood Pressure 02-04-2020
+Encounter General examination of patient (procedure) 09-24-1996
+Encounter General examination of patient (procedure) 04-28-1970
+Observation Creatinine 02-04-2020
+Procedure Depression screening (procedure) 12-31-2013
+Observation Sodium 02-04-2020
+Encounter General examination of patient (procedure) 06-30-1981
+Procedure Depression screening (procedure) 01-17-2017
+Condition Victim of intimate partner abuse (finding) 01-06-2015
+Procedure Medication Reconciliation (procedure) 01-12-2016
+Procedure Assessment of anxiety (procedure) 01-29-2019
+Encounter General examination of patient (procedure) 09-24-1996
+Procedure Screening for domestic abuse (procedure) 01-06-2015
+Condition Body mass index 30+ - obesity (finding) 05-09-1972

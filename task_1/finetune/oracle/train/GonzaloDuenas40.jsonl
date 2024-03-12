@@ -1,0 +1,20 @@
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-07-2018", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Observation Chloride [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Observation Body Weight 07-06-2023", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-26-2022", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Encounter Postoperative follow-up visit (procedure) 02-05-2023", "label": "True"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2023", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 06-30-2022", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Immunization Pneumococcal conjugate PCV 13 07-06-2023", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Encounter Encounter for problem 08-10-2022", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-19-2022", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-24-2021", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-06-2023", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-24-2022", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Observation Respiratory rate 07-06-2023", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "Encounter Emergency room admission (procedure) 03-03-2022", "label": "False"}
+{"query": "What was the outcome of my postoperative follow-up visit on 02-05-2023?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2023", "label": "False"}

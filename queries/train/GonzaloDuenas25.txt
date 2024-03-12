@@ -1,1 +1,21 @@
-"What was the diagnosis or reason for my encounter on 09-05-2022?"
+When was my last postoperative follow-up visit and what were the main findings from that appointment?
+Condition Ischemic heart disease (disorder) 03-18-2021
+Observation Fall risk level [Morse Fall Scale] 07-06-2023
+Procedure Hospice care (regime/therapy) 02-18-2023
+Procedure Hospice care (regime/therapy) 02-18-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-24-2022
+Encounter Postoperative follow-up visit (procedure) 11-03-2021
+Observation MCV [Entitic volume] by Automated count 07-06-2023
+Procedure Physical examination, complete (procedure) 02-05-2023
+Encounter Urgent care clinic (environment) 01-05-2023
+Procedure Hospice care (regime/therapy) 02-15-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-05-2023
+Procedure External beam radiation therapy procedure (procedure) 09-26-2022
+Procedure Notifications (procedure) 02-09-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-05-2023
+Observation Glucose [Mass/volume] in Blood 07-06-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-28-2019
+Procedure Manual pelvic examination (procedure) 09-07-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-18-2020
+Encounter Encounter for problem 09-17-2022
+Observation Calcium [Mass/volume] in Blood 01-05-2023

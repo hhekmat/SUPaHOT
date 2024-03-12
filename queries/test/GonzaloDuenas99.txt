@@ -1,3 +1,0 @@
-Based on the provided data points, a query a patient might have regarding their medical data could be:
-
-"When was my last cancer treatment and what was the outcome of it?"

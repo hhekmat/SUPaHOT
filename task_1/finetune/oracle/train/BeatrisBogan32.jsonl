@@ -1,0 +1,20 @@
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Tobacco smoking status 03-06-2022", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Procedure Throat culture (procedure) 10-02-2023", "label": "True"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Procedure Medication Reconciliation (procedure) 04-30-2023", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 04-30-2023", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Encounter Well child visit (procedure) 04-12-2020", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-26-2022", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Body temperature 02-17-2021", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Tobacco smoking status 04-24-2022", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Encounter Well child visit (procedure) 05-03-2015", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-06-2022", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Respiratory rate 03-06-2022", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation MCV [Entitic volume] by Automated count 02-28-2021", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation MCH [Entitic mass] by Automated count 02-28-2021", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Immunization MMR 04-12-2020", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-24-2022", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Observation Respiratory rate 04-18-2021", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Procedure Transthoracic echocardiography (procedure) 05-29-2021", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-26-2022", "label": "False"}
+{"query": "When was the last time I had a throat culture done?", "resource": "Immunization Hib (PRP-OMP) 07-10-2016", "label": "False"}

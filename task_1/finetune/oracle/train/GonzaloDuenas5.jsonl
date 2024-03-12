@@ -1,0 +1,20 @@
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Procedure Physical examination, complete (procedure) 02-05-2023", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Observation MCH [Entitic mass] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Encounter Encounter for problem 10-01-2022", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "MedicationRequest Simvastatin 20 MG Oral Tablet 03-25-2021", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Encounter Encounter for problem 09-18-2022", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 02-28-2019", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 05-18-2023", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Encounter Encounter for problem 09-16-2022", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-05-2023", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Observation Chloride [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-20-2021", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Encounter General examination of patient (procedure) 07-06-2023", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Observation Low Density Lipoprotein Cholesterol 07-06-2023", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Procedure Hospice care (regime/therapy) 03-02-2023", "label": "True"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Observation Potassium [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Procedure Hospice care (regime/therapy) 03-03-2023", "label": "True"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Procedure Hospice care (regime/therapy) 03-01-2023", "label": "True"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Encounter Encounter for problem 09-21-2022", "label": "False"}
+{"query": "\"When did my Hospice care treatment start?\"", "resource": "Observation Fall risk level [Morse Fall Scale] 07-06-2023", "label": "False"}

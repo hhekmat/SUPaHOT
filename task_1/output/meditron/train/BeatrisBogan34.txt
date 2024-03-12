@@ -1,0 +1,12 @@
+"When was my last immunization for rotavirus?"
+Observation Tobacco smoking status 02-28-2021
+Immunization Influenza, seasonal, injectable, preservative free 04-08-2018
+Observation Body Height 02-28-2021
+Immunization varicella 07-10-2016
+Procedure Referral for echocardiography (procedure) 02-01-2020
+Observation Respiratory rate 04-18-2021
+Observation Respiratory rate 03-06-2022
+Procedure Allergy screening test 08-30-2017
+Observation Body Height 03-06-2022
+Immunization rotavirus, monovalent 10-11-2015
+Encounter Well child visit (procedure) 04-24-2022

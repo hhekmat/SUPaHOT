@@ -1,0 +1,4 @@
+Encounter Well child visit (procedure) 07-10-2016
+Encounter Encounter for check up (procedure) 02-28-2021
+Encounter Well child visit (procedure) 04-08-2018
+Encounter Well child visit (procedure) 04-10-2016

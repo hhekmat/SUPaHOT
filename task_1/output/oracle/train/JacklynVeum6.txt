@@ -1,0 +1,5 @@
+Encounter Encounter for check up (procedure) 06-26-2013
+Encounter Encounter for check up (procedure) 04-15-2015
+Encounter General examination of patient (procedure) 01-16-2013
+Encounter Encounter for check up (procedure) 06-26-2013
+Encounter Encounter for check up (procedure) 06-26-2013

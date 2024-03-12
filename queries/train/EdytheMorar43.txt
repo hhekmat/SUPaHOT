@@ -1,1 +1,21 @@
-What is the trend in my carbon dioxide levels over the past few years based on the observations from 2018 and 2020?
+When was my last Epinephrine injection administered?
+Encounter General examination of patient (procedure) 07-03-2018
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+Observation Low Density Lipoprotein Cholesterol 07-07-2020
+Encounter Encounter for symptom 05-02-2019
+Encounter Encounter for symptom 04-25-2019
+MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018
+Observation Heart rate 12-28-2020
+Procedure Medication Reconciliation (procedure) 07-03-2018
+MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021
+Procedure Measurement of respiratory function (procedure) 12-17-2020
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
+Procedure Medication Reconciliation (procedure) 07-03-2018
+Procedure Depression screening (procedure) 06-24-2014
+Observation Triglycerides 07-07-2020
+Encounter Consultation for treatment 03-22-2005
+Immunization Influenza, seasonal, injectable, preservative free 06-24-2014
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-07-2020
+MedicationRequest 1 ML Epinephrine 1 MG/ML Injection 06-19-2018
+Encounter Encounter for check up (procedure) 07-16-1991
+Observation Heart rate 12-28-2020

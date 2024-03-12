@@ -1,0 +1,20 @@
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Heart rate 02-04-2020", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-14-2010", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Creatinine 01-29-2019", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter General examination of patient (procedure) 05-27-1975", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter General examination of patient (procedure) 10-17-2000", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter General examination of patient (procedure) 12-14-2010", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Condition Chronic sinusitis (disorder) 05-15-1941", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Glucose 01-29-2019", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter General examination of patient (procedure) 09-01-1992", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Procedure Electrical cardioversion 12-25-2012", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Total score [HARK] 01-29-2019", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Procedure Depression screening (procedure) 01-12-2016", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Sodium 01-29-2019", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 05-25-2021", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Sodium 01-29-2019", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Total Cholesterol 02-04-2020", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-23-2018", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-23-2018", "label": "False"}

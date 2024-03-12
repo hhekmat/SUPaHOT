@@ -1,0 +1,14 @@
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-06-2023", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-02-2023", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-13-2019", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 07-23-2020", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-26-2022", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 07-06-2023", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Procedure Hospice care (regime/therapy) 02-20-2023", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-06-2023", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Procedure Development of individualized plan of care (procedure) 02-09-2023", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Encounter Encounter for problem 09-19-2022", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-26-2002", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-06-2023", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Procedure Hospice care (regime/therapy) 02-20-2023", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 03-25-2021", "label": "True"}

@@ -1,0 +1,21 @@
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "- \"What were the results of my last assessment of health and social care needs in 2020?\"", "label": "False"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Observation Heart rate 07-07-2020", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Procedure Assessment of substance use (procedure) 07-07-2020", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "MedicationRequest Jolivette 28 Day Pack 01-21-2021", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018", "label": "False"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Observation Tobacco smoking status NHIS 07-07-2020", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Encounter Encounter for symptom 12-17-2020", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "MedicationRequest 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe 06-19-2018", "label": "False"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Procedure Screening for drug abuse (procedure) 06-24-2014", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Encounter Consultation for treatment 02-23-2013", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Encounter Encounter for symptom 12-17-2020", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Observation Body Weight 12-28-2020", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "MedicationRequest Jolivette 28 Day Pack 02-13-2015", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Procedure Assessment of health and social care needs (procedure) 07-07-2020", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Procedure Assessment of health and social care needs (procedure) 07-03-2018", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Condition Full-time employment (finding) 12-28-2020", "label": "False"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Encounter General examination of patient (procedure) 08-17-1993", "label": "True"}
+{"query": "Based on the data points provided, a potential query that this patient may have is:", "resource": "Observation Sodium 07-03-2018", "label": "True"}

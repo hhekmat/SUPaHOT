@@ -1,0 +1,16 @@
+"When was my last pneumonia shot?"
+Encounter Encounter for problem 08-22-2022
+Encounter Encounter for problem 09-11-2022
+Procedure Notifications (procedure) 02-09-2023
+Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023
+Procedure Certification procedure (procedure) 02-09-2023
+Procedure External beam radiation therapy procedure (procedure) 09-28-2022
+Encounter Encounter for problem 08-24-2022
+Condition Malignant neoplasm of breast (disorder) 08-02-2022
+Procedure Hospice care (regime/therapy) 02-09-2023
+Procedure Manual pelvic examination (procedure) 09-07-2023
+Procedure Hospice care (regime/therapy) 03-06-2023
+Immunization Pneumococcal conjugate PCV 13 07-06-2023
+Observation Total score [AUDIT-C] 07-06-2023
+Encounter Postoperative follow-up visit (procedure) 10-12-2021
+Encounter Screening surveillance (regime/therapy) 09-07-2023

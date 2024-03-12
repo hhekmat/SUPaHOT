@@ -1,1 +1,21 @@
-"When was my last vaccination before my DTaP shot in 2020?"
+"When was the last time I took Acetaminophen?"
+Immunization Influenza, seasonal, injectable, preservative free 04-09-2017
+Observation Body Height 04-18-2021
+Encounter Encounter for symptom 08-22-2017
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 02-28-2021
+Procedure Medication Reconciliation (procedure) 03-06-2022
+Observation Body mass index (BMI) [Ratio] 02-28-2021
+Procedure Referral for echocardiography (procedure) 03-28-2023
+Condition Atopic dermatitis 09-13-2015
+Condition Atopic dermatitis 09-13-2015
+Immunization Hep B, adolescent or pediatric 01-10-2016
+MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016
+Immunization DTaP 10-11-2015
+Observation Blood pressure panel with all children optional 03-06-2022
+Observation MCH [Entitic mass] by Automated count 02-28-2021
+Observation Body Height 02-28-2021
+Observation Body Weight 04-18-2021
+Observation Body Weight 04-18-2021
+Observation Body mass index (BMI) [Ratio] 04-30-2023
+Observation Respiratory rate 04-12-2020
+Observation Platelets [#/volume] in Blood by Automated count 02-28-2021

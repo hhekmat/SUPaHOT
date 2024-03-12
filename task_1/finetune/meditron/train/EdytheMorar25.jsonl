@@ -1,0 +1,14 @@
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Observation MCV [Entitic volume] by Automated count 07-07-2020", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-07-2020", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Observation Body Mass Index 12-28-2020", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Condition Cardiac Arrest 06-19-2018", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Condition Victim of intimate partner abuse (finding) 08-20-1996", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 06-24-2014", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 12-28-2020", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Observation Sodium 07-03-2018", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Procedure Intramuscular injection 01-27-2020", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014", "label": "True"}
+{"query": "\"What is my current Body Mass Index and employment status based on my medical records?\"", "resource": "Procedure Assessment of anxiety (procedure) 06-28-2016", "label": "True"}

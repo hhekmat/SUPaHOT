@@ -1,0 +1,12 @@
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Observation Color of Urine 09-27-2023", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-03-2022", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Encounter General examination of patient (procedure) 03-09-2022", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Encounter Encounter for check up (procedure) 10-06-2021", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Encounter Encounter for check up (procedure) 02-16-2022", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Encounter Urgent care clinic (environment) 02-09-2022", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-05-2022", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Observation Ketones [Presence] in Urine by Test strip 09-27-2023", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Encounter Emergency room admission (procedure) 07-02-2020", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Condition Full-time employment (finding) 01-04-2023", "label": "True"}

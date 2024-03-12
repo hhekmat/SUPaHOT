@@ -1,0 +1,20 @@
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Observation Body Height 04-18-2021", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Immunization DTaP 04-12-2020", "label": "True"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Encounter Well child visit (procedure) 04-30-2023", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Immunization DTaP 01-10-2016", "label": "True"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Procedure Medication Reconciliation (procedure) 07-10-2016", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 03-28-2023", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Procedure Medication Reconciliation (procedure) 05-03-2015", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Encounter Encounter for problem 09-13-2015", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Procedure Medication Reconciliation (procedure) 04-30-2023", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Immunization Hep A, ped/adol, 2 dose 10-08-2017", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Observation Blood pressure panel with all children optional 02-28-2021", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-26-2022", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Immunization DTaP 01-10-2016", "label": "True"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Procedure Medication Reconciliation (procedure) 03-06-2022", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "MedicationRequest NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector 08-30-2017", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Procedure Medication Reconciliation (procedure) 05-03-2015", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 04-12-2020", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Encounter Well child visit (procedure) 07-10-2016", "label": "False"}

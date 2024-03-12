@@ -1,1 +1,21 @@
-"When was my last radiation therapy procedure?"
+"When was my last initial patient assessment done?"
+Procedure Hospice care (regime/therapy) 02-12-2023
+Encounter Encounter for problem 09-19-2022
+Immunization Influenza, seasonal, injectable, preservative free 03-03-2022
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-24-2022
+Encounter Urgent care clinic (environment) 01-05-2023
+Procedure Hospice care (regime/therapy) 02-26-2023
+Procedure Hospice care (regime/therapy) 02-10-2023
+Encounter Encounter for problem 08-22-2022
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-24-2022
+Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009
+Procedure Initial patient assessment (procedure) 02-09-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023
+Condition Disorder of kidney due to diabetes mellitus (disorder) 03-01-2001
+Encounter Encounter for problem 09-21-2022
+Observation Potassium [Moles/volume] in Blood 01-05-2023
+Immunization Influenza, seasonal, injectable, preservative free 12-27-2018
+Observation Body Weight 01-05-2023
+Encounter Emergency room admission (procedure) 03-03-2022
+Observation Carbon dioxide, total [Moles/volume] in Blood 01-05-2023

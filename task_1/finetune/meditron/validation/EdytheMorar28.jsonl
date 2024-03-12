@@ -1,0 +1,13 @@
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-03-2018", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Encounter Emergency room admission (procedure) 02-19-2021", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Observation Sodium 12-28-2020", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Procedure Intramuscular injection 01-27-2020", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Encounter General examination of patient (procedure) 08-27-2002", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Encounter General examination of patient (procedure) 08-11-1992", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Observation Heart rate 07-07-2020", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-28-2020", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Procedure Insertion of biventricular implantable cardioverter defibrillator 06-19-2018", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Procedure Catheter ablation of tissue of heart 06-19-2018", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020", "label": "True"}

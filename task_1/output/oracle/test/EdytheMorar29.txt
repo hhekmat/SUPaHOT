@@ -1,2 +1,4 @@
-Observation MCHC [Mass/volume] by Automated count 07-07-2020
-Observation MCH [Entitic mass] by Automated count 07-07-2020
+Procedure Assessment of substance use (procedure) 06-24-2014
+Encounter Consultation for treatment 03-30-2003
+Procedure Assessment of substance use (procedure) 07-07-2020
+Encounter Consultation for treatment 01-27-2020

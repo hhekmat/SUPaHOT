@@ -1,0 +1,5 @@
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-06-2015
+Encounter General examination of patient (procedure) 07-29-1986
+Procedure Assessment of health and social care needs (procedure) 01-23-2018
+Encounter General examination of patient (procedure) 06-30-1981
+Encounter General examination of patient (procedure) 12-20-2011

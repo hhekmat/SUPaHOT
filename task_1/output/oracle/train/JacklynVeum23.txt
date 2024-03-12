@@ -1,0 +1,6 @@
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023
+Condition Medication review due (situation) 03-15-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-23-2019
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021

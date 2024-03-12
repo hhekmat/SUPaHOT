@@ -1,1 +1,21 @@
-What was my MCH level on July 7, 2020, and is it within the normal range?
+"When was the last time I was assessed for substance use?"
+Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020
+Procedure Insertion of intrauterine contraceptive device 02-06-2018
+Observation High Density Lipoprotein Cholesterol 07-07-2020
+Observation Triglycerides 07-07-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020
+Observation Sodium 12-28-2020
+Immunization Td (adult) preservative free 06-28-2016
+Observation MCV [Entitic volume] by Automated count 07-07-2020
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020
+Condition Prediabetes 08-17-1993
+Observation Potassium 12-28-2020
+Procedure Assessment of substance use (procedure) 06-24-2014
+Observation Respiratory rate 07-07-2020
+Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021
+Encounter Consultation for treatment 03-30-2003
+Procedure Assessment of substance use (procedure) 07-07-2020
+Observation MCH [Entitic mass] by Automated count 07-07-2020
+Encounter Consultation for treatment 01-27-2020
+Observation Tobacco smoking status NHIS 07-03-2018

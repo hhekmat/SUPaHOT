@@ -1,1 +1,21 @@
-"What was my blood pressure reading on July 7, 2020, and was it within a normal range?"
+"What was my hematocrit level and red blood cell count on July 7, 2020, and are they within the normal range?"
+Observation Total score [AUDIT-C] 07-07-2020
+Condition Anemia (disorder) 08-17-1993
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020
+Condition Full-time employment (finding) 12-28-2020
+Observation MCHC [Mass/volume] by Automated count 07-07-2020
+Observation Carbon Dioxide 07-07-2020
+Observation Carbon Dioxide 12-28-2020
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020
+Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020
+Procedure Insertion of intrauterine contraceptive device 02-07-2017
+Encounter Encounter for check up (procedure) 07-13-1999
+Encounter Encounter for check up (procedure) 07-16-1991
+Encounter General examination of patient (procedure) 08-27-2002
+MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
+Condition Has a criminal record (finding) 07-07-2020
+Procedure Screening for drug abuse (procedure) 06-24-2014
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-17-2020
+Observation Creatinine 12-28-2020
+Condition Housing unsatisfactory (finding) 08-11-1992
+Observation Low Density Lipoprotein Cholesterol 07-07-2020

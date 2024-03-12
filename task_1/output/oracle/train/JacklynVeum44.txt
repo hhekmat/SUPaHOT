@@ -1,0 +1,5 @@
+Possible answer: You visited the urgent care clinic on December 29, 2021.
+Encounter Encounter for problem (procedure) 02-26-2014
+Encounter Urgent care clinic (environment) 12-29-2021
+Encounter Encounter for check up (procedure) 05-22-2019
+Encounter General examination of patient (procedure) 03-15-2023

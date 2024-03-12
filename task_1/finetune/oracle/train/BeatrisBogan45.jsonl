@@ -1,0 +1,20 @@
+{"query": "When did I receive my last DTaP immunization?", "resource": "Immunization Hep B, adolescent or pediatric 06-07-2015", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Well child visit (procedure) 04-30-2023", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Procedure Referral for echocardiography (procedure) 02-01-2020", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Observation Body Height 04-30-2023", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Well child visit (procedure) 10-07-2018", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-06-2022", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Immunization Pneumococcal conjugate PCV 13 10-11-2015", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Observation Respiratory rate 04-18-2021", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Well child visit (procedure) 04-10-2016", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Encounter for symptom 09-26-2016", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Well child visit (procedure) 04-24-2022", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Immunization Pneumococcal conjugate PCV 13 01-10-2016", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Encounter for symptom 08-22-2017", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Observation Heart rate 04-24-2022", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Immunization DTaP 10-09-2016", "label": "True"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Well child visit (procedure) 04-30-2023", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Encounter for symptom 11-23-2016", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Encounter for check up (procedure) 02-28-2021", "label": "False"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Encounter Well child visit (procedure) 04-07-2019", "label": "False"}

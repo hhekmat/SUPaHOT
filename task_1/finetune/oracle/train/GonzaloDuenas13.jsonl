@@ -1,0 +1,20 @@
+{"query": "When was I admitted to hospice?", "resource": "Observation Respiratory rate 07-06-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Observation Tobacco smoking status 01-05-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Encounter Encounter for problem (procedure) 09-20-2021", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Observation Chloride [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Observation Carbon dioxide, total [Moles/volume] in Blood 01-05-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 01-05-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Condition Malignant neoplasm of breast (disorder) 08-02-2022", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Observation Potassium [Moles/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Observation Glucose [Mass/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Procedure Hospice care (regime/therapy) 02-26-2023", "label": "True"}
+{"query": "When was I admitted to hospice?", "resource": "Observation Urea nitrogen [Mass/volume] in Blood 07-06-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Encounter Admission to hospice (procedure) 02-09-2023", "label": "True"}
+{"query": "When was I admitted to hospice?", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-25-2022", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Encounter Encounter for symptom 03-31-2022", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Condition Full-time employment (finding) 06-30-2022", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-18-2021", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Observation Body Height 07-06-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Encounter Encounter for problem 09-03-2022", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Observation Heart rate 07-06-2023", "label": "False"}
+{"query": "When was I admitted to hospice?", "resource": "Encounter Encounter for problem 09-15-2022", "label": "False"}

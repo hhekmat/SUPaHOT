@@ -1,0 +1,20 @@
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 12-01-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Condition Stress (finding) 09-08-2021", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Hemoglobin [Mass/volume] in Blood 12-02-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Neutrophils/100 leukocytes in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-08-2021", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Respiratory rate 12-02-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017", "label": "True"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-26-2012", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Procedure Assessment of health and social care needs (procedure) 08-22-2018", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Procedure Placing subject in prone position (procedure) 11-30-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Respiratory rate 09-08-2021", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Procedure Oxygen administration by mask (procedure) 11-21-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Tobacco smoking status NHIS 09-08-2021", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Prothrombin time (PT) 12-01-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Encounter Encounter for symptom (procedure) 11-21-2020", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Encounter General examination of patient (procedure) 08-10-2016", "label": "False"}

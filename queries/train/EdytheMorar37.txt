@@ -1,1 +1,21 @@
-"What is my current BMI and blood pressure reading?"
+When was my anemia diagnosed?
+Observation Body Height 12-28-2020
+Condition Anemia (disorder) 08-17-1993
+Procedure Assessment of health and social care needs (procedure) 06-24-2014
+Encounter Consultation for treatment 01-21-2021
+Encounter General examination of patient (procedure) 08-24-1999
+Encounter Prenatal visit 09-02-2008
+MedicationRequest NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule 05-02-2019
+Observation Creatinine 12-28-2020
+Observation Tobacco smoking status NHIS 12-28-2020
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-07-2020
+Observation Sodium 07-07-2020
+Encounter Consultation for treatment 02-13-2015
+Observation Blood Pressure 12-28-2020
+Encounter Consultation for treatment 03-22-2005
+Immunization Td (adult) preservative free 06-28-2016
+MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021
+Procedure Intramuscular injection 01-27-2020
+Encounter General examination of patient (procedure) 07-03-2018
+Observation Hemoglobin [Mass/volume] in Blood 07-07-2020

@@ -1,0 +1,14 @@
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 02-04-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Observation Chloride 02-04-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Observation Body Weight 02-09-2021", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Encounter Encounter for 'check-up' 04-19-2012", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Condition Has a criminal record (finding) 06-13-1978", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 12-20-2011", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Encounter General examination of patient (procedure) 12-31-2013", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-23-2018", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Observation Sodium 02-09-2021", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Condition Part-time employment (finding) 02-09-2021", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 02-04-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "Encounter General examination of patient (procedure) 06-30-1981", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "MedicationRequest Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet 09-01-2012", "label": "True"}
+{"query": "\"Can you tell me the results of my last check-up in 2012?\"", "resource": "MedicationRequest Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet 09-01-2012", "label": "True"}

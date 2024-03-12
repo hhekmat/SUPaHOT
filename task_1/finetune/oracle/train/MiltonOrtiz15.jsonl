@@ -1,0 +1,20 @@
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Oxygen administration by mask (procedure) 11-26-2020", "label": "True"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Observation Respiratory rate 09-08-2021", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Oxygen administration by mask (procedure) 11-23-2020", "label": "True"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Assessment of health and social care needs (procedure) 08-22-2018", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Immunization Hep B, adult 08-22-2018", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-02-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Observation Chloride [Moles/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Observation Oxygen saturation in Arterial blood 12-02-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Assessment of health and social care needs (procedure) 08-10-2016", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Observation MCHC [Mass/volume] by Automated count 12-02-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-02-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Placing subject in prone position (procedure) 11-24-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Condition Hypoxemia (disorder) 11-21-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Oxygen administration by mask (procedure) 11-22-2020", "label": "True"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Placing subject in prone position (procedure) 12-02-2020", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Assessment of substance use (procedure) 08-16-2017", "label": "False"}
+{"query": "How long did I receive oxygen administration by mask during my hospital stay?", "resource": "Procedure Assessment of substance use (procedure) 08-10-2016", "label": "False"}

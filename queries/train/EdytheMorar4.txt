@@ -1,1 +1,21 @@
-What was my heart rate on July 7, 2020?
+When did I last receive the Hepatitis A vaccine?
+Encounter Encounter for symptom 04-25-2019
+Observation Chloride 07-07-2020
+MedicationRequest Jolivette 28 Day Pack 03-17-2006
+Procedure Assessment of health and social care needs (procedure) 07-03-2018
+Immunization Hep A, adult 06-28-2016
+MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
+Encounter Encounter for symptom 06-18-2018
+MedicationRequest Jolivette 28 Day Pack 03-22-2005
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-28-2016
+Encounter Consultation for treatment 02-23-2013
+Encounter Encounter for symptom 06-18-2018
+Encounter General examination of patient (procedure) 09-06-2011
+Immunization Hep A, adult 06-28-2016
+Procedure Echocardiography (procedure) 06-19-2018
+Encounter General examination of patient (procedure) 06-24-2014
+Procedure Assessment of anxiety (procedure) 12-28-2020
+Observation Body Mass Index 07-07-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 12-29-2020
+Observation Heart rate 12-28-2020
+Observation Chloride 12-28-2020

@@ -1,1 +1,21 @@
-"How many times have I seen the doctor for the same problem since September 2022?"
+"What was my BMI during my last emergency room admission in March 2022?"
+Procedure Hospice care (regime/therapy) 02-21-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-03-2022
+Procedure Assessment of health and social care needs (procedure) 07-06-2023
+Procedure Notifications (procedure) 02-09-2023
+Procedure Hospice care (regime/therapy) 02-11-2023
+Observation Chloride [Moles/volume] in Blood 07-06-2023
+Encounter Encounter for problem 09-12-2022
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 09-28-2021
+Encounter Admission to hospice (procedure) 02-09-2023
+Procedure External beam radiation therapy procedure (procedure) 09-24-2022
+Condition Malignant neoplasm of breast (disorder) 08-02-2022
+Procedure Hospice care (regime/therapy) 02-10-2023
+Observation MCHC [Mass/volume] by Automated count 07-06-2023
+Immunization Influenza, seasonal, injectable, preservative free 08-20-2015
+Observation Body mass index (BMI) [Ratio] 01-05-2023
+Encounter Emergency room admission (procedure) 03-03-2022
+Encounter Postoperative follow-up visit (procedure) 09-07-2023
+Procedure Assessment of health and social care needs (procedure) 07-06-2023
+Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023
+Procedure Hospice care (regime/therapy) 02-26-2023

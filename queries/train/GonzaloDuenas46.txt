@@ -1,1 +1,21 @@
-When did I start receiving hospice care?
+"What was my urea nitrogen level in my blood on 07-06-2023 and how does it compare to the normal range?"
+Encounter Encounter for problem 09-18-2022
+Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 02-28-2019
+Procedure Hospice care (regime/therapy) 02-15-2023
+Encounter Gynecology service (qualifier value) 09-07-2023
+Observation Urea nitrogen [Mass/volume] in Blood 07-06-2023
+Condition Body mass index 30+ - obesity (finding) 04-10-1980
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-18-2021
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-24-2021
+Condition Anemia (disorder) 06-29-2017
+Observation Sodium [Moles/volume] in Blood 07-06-2023
+Encounter Admission to hospice (procedure) 02-09-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-07-2018
+Observation Body Height 07-06-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-07-2018
+Observation MCV [Entitic volume] by Automated count 07-06-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 07-06-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-10-2022
+Observation Carbon dioxide, total [Moles/volume] in Blood 01-05-2023
+Procedure Hospice care (regime/therapy) 03-07-2023
+Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 02-28-2019
