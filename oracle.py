@@ -11,7 +11,7 @@ from openai import AsyncOpenAI
 
 asyncClient = AsyncOpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-MAX_ASYNC_TASKS = 5
+MAX_ASYNC_TASKS = 3
 semaphore = asyncio.Semaphore(MAX_ASYNC_TASKS)
 
 @backoff.on_exception(backoff.expo,
@@ -160,7 +160,7 @@ async def process_line(line, root, file, base_dir, output_dir, finetune_dir, tas
     resource_label = line.strip()
     large_resource = global_resource_dict.get(resource_label, {})
     large_resource_str = json.dumps(large_resource)
-
+    print(large_resource_str)
     summary = await generate_oracle_response_async("JSON: " + large_resource_str, task_2_prompt, semaphore)
 
     rel_path = os.path.relpath(root, base_dir)
