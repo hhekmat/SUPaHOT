@@ -46,6 +46,7 @@ def write_task_1():
                 user_msg = f"{queries[i]} {resources[i]}"
                 model_answer = labels[i]
                 system_prompt = system_prompt_task_1
+                
                 line = {"text": get_instruct_template(user_msg, model_answer, system_prompt)}
                 file.write(json.dumps(line) + '\n')
 
@@ -63,14 +64,18 @@ def write_task_2():
                     resources.append(data['resource_label'])
                 else:
                     resources.append(data['resource'])
-                print(data)
                 summaries.append(data['summary'])
         
         with open(write_path, 'w') as file:
             for i in range(len(resources)):
-                user_msg = f"{resources[i]}"
+                #user_msg = f"{resources[i]}"
+                user_msg = resources[i]
                 model_answer = summaries[i]
                 system_prompt = system_prompt_task_2
+                print(i)
+                print(user_msg)
+                print(model_answer)
+                print(system_prompt)
                 line = {"text": get_instruct_template(user_msg, model_answer, system_prompt)}
                 file.write(json.dumps(line) + '\n')
 
