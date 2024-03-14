@@ -1,4 +1,3 @@
-"What was the result of my Hemoglobin A1c test in 2021, and how does it compare to my previous results?"
 Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-12-2016
 Encounter General examination of patient (procedure) 09-30-1997
 MedicationRequest lisinopril 10 MG Oral Tablet 12-31-2013

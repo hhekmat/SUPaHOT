@@ -1,4 +1,3 @@
-"When was the last time I was tested for domestic abuse during a medical visit?"
 Encounter Encounter for symptom 01-19-2022
 Procedure Assessment using Morse Fall Scale (procedure) 01-04-2023
 Procedure Assessment of substance use (procedure) 01-04-2023

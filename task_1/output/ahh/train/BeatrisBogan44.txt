@@ -1,0 +1,17 @@
+Can you tell me if all of my medications have been reconciled correctly during my last medical visit on April 30, 2023?
+Immunization Hib (PRP-OMP) 10-11-2015
+Immunization Hib (PRP-OMP) 10-11-2015
+Encounter Well child visit (procedure) 04-12-2020
+Immunization varicella 07-10-2016
+Observation MCV [Entitic volume] by Automated count 02-28-2021
+Encounter Encounter for problem (procedure) 03-28-2023
+Encounter Well child visit (procedure) 06-07-2015
+Observation Tobacco smoking status 03-06-2022
+Observation Heart rate 02-28-2021
+Encounter Well child visit (procedure) 04-30-2023
+Observation Blood pressure panel with all children optional 04-12-2020
+Procedure Medication Reconciliation (procedure) 04-30-2023
+Immunization rotavirus, monovalent 08-09-2015
+Encounter Encounter for problem 09-13-2015
+Encounter Well child visit (procedure) 05-03-2015
+Observation Body temperature 02-26-2022

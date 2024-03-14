@@ -1,4 +1,3 @@
-What was my depression screening score from the Patient Health Questionnaire Two-Item on July 3rd, 2018?
 Observation Tobacco smoking status NHIS 07-07-2020
 MedicationRequest Jolivette 28 Day Pack 02-13-2015
 Encounter Encounter for symptom 04-25-2019

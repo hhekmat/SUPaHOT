@@ -1,4 +1,3 @@
-"When was the last time my tobacco smoking status was updated in my medical records?"
 Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022
 Observation MCH [Entitic mass] by Automated count 02-28-2021
 Encounter Encounter for problem (procedure) 05-29-2021

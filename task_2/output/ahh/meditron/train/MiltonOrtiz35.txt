@@ -1,0 +1,8 @@
+This record is an Observation of a Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] that was reported by a user on September 8, 2021.
+This record is a Procedure for Depression screening using Patient Health Questionnaire Two-Item score (procedure) that was performed by PCP167180 on August 28, 2019.
+This record is a Procedure for Depression screening using Patient Health Questionnaire Two-Item score (procedure) that was performed by Dr. Alexa Casper on August 28, 2019, at PCP167180.
+This record is an Observation of a Patient Health Questionnaire 2 item (PHQ-2) total score of 1 that was reported by Dr. Alexa Casper on September 8, 2021.
+This record is a Procedure for Depression screening using Patient Health Questionnaire Two-Item score (procedure) that was performed on August 28, 2019, by PCP167180.
+This record is an Observation with a Patient Health Questionnaire 2 item (PHQ-2) total score of 1 reported by a patient on September 8, 2021.
+This record is a Procedure for Depression screening using Patient Health Questionnaire Two-Item score (procedure) that was performed by PCP167180 on August 28, 2019.
+This record is an Observation of a Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] that was reported by a user on September 8, 2021.

@@ -1,4 +1,3 @@
-"When did I have an assessment of my substance use done in my medical record?"
 Observation Bilirubin.total [Presence] in Urine by Test strip 09-27-2023
 Procedure Assessment of anxiety (procedure) 07-06-2022
 Procedure Assessment of health and social care needs (procedure) 12-22-2021

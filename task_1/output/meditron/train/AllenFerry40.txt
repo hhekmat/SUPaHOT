@@ -1,4 +1,3 @@
-"When was the last time I had a general examination?"
 MedicationRequest Digoxin 0.125 MG Oral Tablet 12-08-2009
 Procedure Bone density scan (procedure) 01-04-2012
 Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-04-2021

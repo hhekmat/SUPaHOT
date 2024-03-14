@@ -1,0 +1,17 @@
+This record is an Observation of Body Weight that was measured on April 18, 2021, by a patient with a weight of 20 kg.
+This record is an Immunization for Hep A, ped/adol, 2 dose that was administered to a patient on July 10, 2016.
+This record is an observation of a patient's body height of 124.8 cm.
+This record is an Immunization for Pneumococcal conjugate PCV 13 that was administered to a patient on October 11, 2015.
+This record is an Observation of a Never smoked tobacco (finding) that was issued by a user on March 6, 2022.
+This record is an encounter for symptom of perennial allergic rhinitis that was performed by Dr. Alvin Crona at Holy Family Hospital on August 22, 2017.
+This record is an Observation of a Heart Rate of 76 beats per minute that was measured on April 18, 2021.
+This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo at Blueskies Wellness Inc. on April 24, 2022.
+This record is an observation of the patient's body weight, which was measured at 22.1 kg on March 6, 2022.
+This record is an Immunization for IPV that was administered to a patient on October 11, 2015.
+This record is a Medication Reconciliation (procedure) that was performed by Dr. Alexa Casper on July 10, 2016, in the BLUESKIES WELLNESS INC.
+This record is an Immunization for Influenza, seasonal, injectable, preservative free that was administered to a patient on April 12, 2020.
+This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo on October 9, 2016, at Blueskies Wellness Inc.
+This record is an observation of a Body Mass Index (BMI) of 14.33 kg/m2 for a patient on March 6, 2022.
+This record is an Immunization for Hepatitis A, pediatric/adolescent, 2 dose that was administered to a patient on October 8, 2017.
+This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo on April 24, 2022, at BLUESKIES WELLNESS INC.
+This record is an Immunization for varicella that was administered to a patient on July 10, 2016.

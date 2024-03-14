@@ -1,4 +1,3 @@
-"What is my current Body Mass Index and employment status based on my medical records?"
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
 Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020
 Observation MCV [Entitic volume] by Automated count 07-07-2020

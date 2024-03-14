@@ -1,4 +1,3 @@
-What was my Creatinine level on 02-04-2020 and how does it compare to previous tests?
 MedicationRequest Verapamil Hydrochloride 40 MG 01-06-2015
 Encounter General examination of patient (procedure) 11-21-2006
 Procedure Electrical cardioversion 02-04-2020

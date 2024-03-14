@@ -1,4 +1,3 @@
-"When was my aortic valve stenosis diagnosis made?"
 Observation Blood pressure panel with all children optional 04-30-2023
 Encounter Well child visit (procedure) 04-18-2021
 Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022

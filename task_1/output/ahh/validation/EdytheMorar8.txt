@@ -1,0 +1,13 @@
+What was my Erythrocyte distribution width on July 7, 2020, and how does it relate to my overall health?
+Encounter Encounter for symptom 04-25-2019
+Encounter General examination of patient (procedure) 06-24-2014
+Observation Body Height 12-28-2020
+Procedure Screening for drug abuse (procedure) 06-24-2014
+Encounter Emergency room admission (procedure) 02-19-2021
+Observation Sodium 07-03-2018
+Immunization Td (adult) preservative free 06-28-2016
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 07-07-2020
+Procedure Insertion of intrauterine contraceptive device 02-06-2018
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020

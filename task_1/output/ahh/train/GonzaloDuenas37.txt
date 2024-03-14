@@ -1,0 +1,19 @@
+"What was my hematocrit level during my last encounter for a problem on 08-22-2022?"
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-06-2023
+Encounter Encounter for problem 09-01-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-07-2018
+Observation Body Weight 01-05-2023
+Procedure Depression screening (procedure) 01-05-2023
+Condition Prediabetes 03-18-2010
+Procedure Hospice care (regime/therapy) 03-03-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 01-05-2023
+Procedure External beam radiation therapy procedure (procedure) 09-29-2022
+MedicationRequest Simvastatin 20 MG Oral Tablet 03-25-2021
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-06-2023
+Encounter Encounter for problem 09-24-2022
+Procedure Physical examination, complete (procedure) 05-18-2023
+Encounter Encounter for problem 08-22-2022
+Encounter Postoperative follow-up visit (procedure) 10-12-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-24-2022
+Encounter Encounter for problem 08-10-2022
+Encounter Encounter for problem 08-10-2022

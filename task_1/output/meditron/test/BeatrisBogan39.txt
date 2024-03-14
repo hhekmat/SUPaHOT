@@ -1,4 +1,3 @@
-"When was my last echocardiogram?"
 Observation Tobacco smoking status 03-06-2022
 Procedure Transthoracic echocardiography (procedure) 05-02-2019
 Observation Body mass index (BMI) [Percentile] Per age and sex 04-12-2020

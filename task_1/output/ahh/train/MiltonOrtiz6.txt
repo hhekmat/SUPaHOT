@@ -1,0 +1,15 @@
+"Why did I have to be placed in the prone position on December 1st, 2020?"
+Encounter General examination of patient (procedure) 08-28-2019
+Immunization Influenza, seasonal, injectable, preservative free 09-08-2021
+Procedure Placing subject in prone position (procedure) 12-01-2020
+Procedure Depression screening (procedure) 09-02-2020
+Encounter Well child visit (procedure) 07-30-2014
+Observation Prothrombin time (PT) 12-01-2020
+Procedure Depression screening (procedure) 08-22-2018
+Immunization Influenza, seasonal, injectable, preservative free 09-08-2021
+Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020
+Procedure Placing subject in prone position (procedure) 11-28-2020
+Procedure Oxygen administration by mask (procedure) 12-02-2020
+Procedure Assessment of anxiety (procedure) 08-22-2018
+Observation Heart rate 09-08-2021

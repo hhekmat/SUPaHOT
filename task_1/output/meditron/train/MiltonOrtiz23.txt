@@ -1,4 +1,3 @@
-What was my ferritin level during my last visit to the doctor?
 Observation MCH [Entitic mass] by Automated count 12-02-2020
 Procedure Placing subject in prone position (procedure) 11-29-2020
 Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-28-2019

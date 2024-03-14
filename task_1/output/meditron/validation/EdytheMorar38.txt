@@ -1,4 +1,3 @@
-When was my last consultation for treatment?
 Observation Platelets [#/volume] in Blood by Automated count 07-07-2020
 MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021
 Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020

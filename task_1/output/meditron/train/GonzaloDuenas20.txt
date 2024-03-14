@@ -1,4 +1,3 @@
-"When was my last depression screening?"
 MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 03-25-2021
 Procedure Hospice care (regime/therapy) 02-22-2023
 Procedure External beam radiation therapy procedure (procedure) 09-17-2022

@@ -1,4 +1,3 @@
-When did my Hospice care regime/therapy begin?
 Immunization Influenza, seasonal, injectable, preservative free 06-18-2020
 MedicationRequest amLODIPine 2.5 MG Oral Tablet 02-28-2019
 Encounter Encounter for problem 08-22-2022

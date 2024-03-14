@@ -1,4 +1,3 @@
-"What symptoms did I have during my last medical encounter on 10-02-2023?"
 Observation Body mass index (BMI) [Ratio] 03-06-2022
 Condition Aortic valve stenosis (disorder) 05-02-2019
 Observation Body temperature 02-26-2022

@@ -1,4 +1,3 @@
-"What were the results of my Depression screening using Patient Health Questionnaire Two-Item score in 2016?"
 MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
 Procedure Placing subject in prone position (procedure) 11-26-2020
 Procedure Plain chest X-ray (procedure) 11-21-2020

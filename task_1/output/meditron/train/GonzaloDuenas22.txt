@@ -1,4 +1,3 @@
-When was my last postoperative follow-up visit and what was discussed during that visit?
 Observation Treatment status Cancer 10-07-2022
 Encounter Encounter for problem 09-24-2022
 Condition Malignant neoplasm of breast (disorder) 08-02-2022

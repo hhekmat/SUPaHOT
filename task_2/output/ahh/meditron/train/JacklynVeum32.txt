@@ -1,0 +1,2 @@
+This record is an Immunization for Influenza, seasonal, injectable, preservative free that was administered to a patient on January 23, 2019.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Vito Barton at Davis Square Family Practice on March 3, 2021.

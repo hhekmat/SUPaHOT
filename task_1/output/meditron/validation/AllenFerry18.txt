@@ -1,4 +1,3 @@
-How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?
 Immunization Influenza, seasonal, injectable, preservative free 12-25-2012
 MedicationRequest Digoxin 0.125 MG Oral Tablet 02-04-2020
 Encounter Encounter for problem 05-15-1973

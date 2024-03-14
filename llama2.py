@@ -4,6 +4,7 @@ import sys
 import json
 import backoff
 import requests
+import time
 from transformers import pipeline, AutoModelForCausalLM, AutoTokenizer
 from preprocess import global_resource_dict, populate_global_resources
 
@@ -15,9 +16,21 @@ tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
 model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf")
 generate = pipeline("text-generation", model=model, tokenizer=tokenizer, device=-1)  # Adjust 'device' as per your setup'''
 
+def giveup_condition(details):
+    """Condition to give up retrying, for example when status code is not 429."""
+    exc = details['value']
+    # Assuming 'exc' is the raised requests.exceptions.HTTPError
+    if exc.response.status_code != 429:
+        return True
+    return False
 
-
-@backoff.on_exception(backoff.expo, Exception, max_tries=8)
+@backoff.on_exception(
+    backoff.expo,
+    requests.exceptions.HTTPError,  # Retrying on HTTP errors
+    giveup=giveup_condition,  # Custom giveup condition
+    max_time=300,  # Total max time to retry
+    jitter=backoff.full_jitter,  # Adding jitter to spread out retry attempts
+)
 
 
 def generate_llama_response(user_prompt, task_prompt):
@@ -51,7 +64,24 @@ def generate_llama_response(user_prompt, task_prompt):
 
 def query(endpoint, headers, payload):
     response = requests.post(endpoint, headers=headers, json=payload)
+    try:
+        response.raise_for_status()
+    except requests.exceptions.HTTPError as e:
+        if response.status_code == 429:
+            retry_after = response.headers.get("Retry-After")
+            wait_time = int(retry_after) if retry_after else 30  # Default to 30 seconds if header is missing
+            print(f"Hit rate limit, retrying after {wait_time} seconds...")
+            time.sleep(wait_time)  # Sleep for the time specified in the Retry-After header
+            return query(endpoint, headers, payload)  # Recursive retry after waiting
+        else:
+            print(f"Error during API call: {e}")
+            raise
     return response.json()
+
+'''def query(endpoint, headers, payload):
+    response = requests.post(endpoint, headers=headers, json=payload)
+    response.raise_for_status()
+    return response.json()'''
 
 
 # Adapting the file processing functions for task 1 and task 2

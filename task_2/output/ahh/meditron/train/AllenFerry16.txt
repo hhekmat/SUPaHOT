@@ -1,0 +1,31 @@
+This record is a Procedure for Assessment of health and social care needs (procedure) that was performed on January 23, 2018, at the Worcester Outpatient Clinic.
+This record is an encounter for Mr. Allen Ferry at the Worcester Outpatient Clinic on August 27, 1991.
+This record is an Encounter for Mr. Allen Ferry that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on January 12, 2016.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper on May 4, 1971.
+This record is an Encounter for Mr. Allen Ferry that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on October 29, 2002.
+This record is an encounter that was performed by Dr. Alexa Casper on August 15, 1989, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper on September 13, 1994, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper on December 2, 2008.
+This record is an Observation with a score of 0 for a patient on February 4, 2020.
+This record is a Procedure for Assessment of health and social care needs (procedure) that was performed on January 23, 2018, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on August 27, 1991.
+This record is an Encounter for a patient at the Worcester Outpatient Clinic on January 12, 2016.
+This record is an Encounter for a General Examination of a Patient (Procedure) that was performed by Dr. Alexa Casper on May 4, 1971, at the Worcester Outpatient Clinic.
+This record is an Encounter for Mr. Allen Ferry that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on October 29, 2002.
+This record is an Encounter for Mr. Allen Ferry at the Worcester Outpatient Clinic on August 15, 1989.
+This record is an Encounter for Mr. Allen Ferry that was performed by Dr. Alexa Casper on September 13, 1994, at the Worcester Outpatient Clinic.
+This record is an encounter for Mr. Allen Ferry at the Worcester Outpatient Clinic on December 2, 2008.
+This record is an Observation with a score of 0 for a patient on February 4, 2020.
+This record is a Procedure for Assessment of health and social care needs (procedure) that was performed by Dr. Alexa Casper on January 23, 2018, at the Worcester Outpatient Clinic.
+This record is an Encounter for Mr. Allen Ferry at the Worcester Outpatient Clinic on October 12, 1999.
+This record is a Procedure for Assessment of health and social care needs (procedure) that was performed by Dr. Alexa Casper on January 23, 2018, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of Patient (Procedure) that was performed by Dr. Alexa Casper on August 27, 1991, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper on January 12, 2016, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper on May 4, 1971.
+This record is an Encounter for a General Examination of Patient (Procedure) that was performed by Dr. Alexa Casper on October 29, 2002.
+This record is an Encounter for Mr. Allen Ferry that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on August 15, 1989.
+This record is an Encounter for a General Examination of a Patient that was performed by Dr. Alexa Casper on September 13, 1994, at the Worcester Outpatient Clinic.
+This record is an encounter for a patient at the Worcester Outpatient Clinic on December 2, 2008.
+This record is an Observation of a Total score [HARK] of 0 that was measured on February 4, 2020.
+This record is a Procedure for Assessment of health and social care needs (procedure) that was performed by Dr. Alexa Casper on January 23, 2018, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper on October 12, 1999.

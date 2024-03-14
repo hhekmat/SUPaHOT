@@ -1,4 +1,3 @@
-When was my first prenatal visit?
 MedicationRequest Naproxen sodium 220 MG Oral Tablet 07-02-2020
 Encounter Encounter for check up (procedure) 09-26-2012
 Procedure Assessment of substance use (procedure) 10-05-2022

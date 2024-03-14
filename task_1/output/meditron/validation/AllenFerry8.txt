@@ -1,4 +1,3 @@
-What was my cognitive function score on February 9th, 2021?
 Observation Total score [MMSE] 02-09-2021
 Procedure Depression screening (procedure) 01-06-2015
 MedicationRequest Galantamine 4 MG Oral Tablet 02-09-2021

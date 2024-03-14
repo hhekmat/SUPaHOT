@@ -1,0 +1,11 @@
+"Was I assessed for fall risk during my last visit, and if so, what was the result?"
+Observation Appearance of Urine 09-27-2023
+Procedure Depression screening (procedure) 02-09-2022
+Encounter General examination of patient (procedure) 12-01-2004
+Condition Ischemic heart disease (disorder) 01-22-2014
+Procedure Assessment of health and social care needs (procedure) 08-03-2022
+Immunization Influenza, seasonal, injectable, preservative free 10-06-2021
+Procedure Assessment using Morse Fall Scale (procedure) 12-22-2021
+Procedure Assessment of substance use (procedure) 02-09-2022
+Procedure Screening for drug abuse (procedure) 10-05-2022
+Condition Received higher education (finding) 05-28-1969

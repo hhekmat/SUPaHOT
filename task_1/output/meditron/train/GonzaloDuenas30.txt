@@ -1,4 +1,3 @@
-"When was my last initial patient assessment done?"
 Procedure Hospice care (regime/therapy) 02-12-2023
 Encounter Encounter for problem 09-19-2022
 Immunization Influenza, seasonal, injectable, preservative free 03-03-2022

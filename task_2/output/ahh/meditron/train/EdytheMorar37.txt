@@ -1,0 +1,8 @@
+This record is a Condition for Anemia (disorder) that was recorded on August 17, 1993.
+This record is an Observation of Hemoglobin [Mass/volume] in Blood that was measured on July 7, 2020, and has a value of 16.812 g/dL.
+This record is a Condition for Anemia (disorder) that was recorded on August 17, 1993.
+This record is an Observation of Hemoglobin [Mass/volume] in Blood that was measured on July 7, 2020, at 10:03 AM.
+This record is an Observation of Hemoglobin in Blood that was measured on July 7, 2020, by Dr. Alexa Casper.
+This record is an Anemia (disorder) that was diagnosed by Dr. Alexa Casper on August 17, 1993.
+This record is a Condition for Anemia (disorder) that was recorded on August 17, 1993.
+This record is an Observation for Hemoglobin [Mass/volume] in Blood that was measured on July 7, 2020, and the value is 16.812 g/dL.

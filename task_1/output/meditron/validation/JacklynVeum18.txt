@@ -1,4 +1,3 @@
-"Can you tell me if there were any concerns about my protein levels in the urine during my last check up in March 2016?"
 Procedure Depression screening (procedure) 02-09-2022
 Procedure Assessment of substance use (procedure) 07-06-2022
 MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014

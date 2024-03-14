@@ -1,4 +1,3 @@
-"Can you tell me if there were any abnormal results in my liver tests that were taken on 12-02-2020?"
 Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020
 Procedure Depression screening (procedure) 09-08-2021
 Observation Total score [AUDIT-C] 09-08-2021

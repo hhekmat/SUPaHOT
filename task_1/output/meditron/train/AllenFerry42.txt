@@ -1,4 +1,3 @@
-When did I start taking lisinopril for my hypertension?
 Observation Chloride 01-29-2019
 Encounter General examination of patient (procedure) 07-06-1982
 MedicationRequest lisinopril 10 MG Oral Tablet 01-12-2016

@@ -1,4 +1,3 @@
-"What was my body temperature on February 26, 2022?"
 Immunization varicella 04-12-2020
 Observation Heart rate 04-24-2022
 Encounter Well child visit (procedure) 01-10-2016

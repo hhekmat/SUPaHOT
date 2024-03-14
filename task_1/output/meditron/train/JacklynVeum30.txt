@@ -1,4 +1,3 @@
-"When did I receive my COVID-19 vaccine?"
 Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023
 Encounter Encounter for problem (procedure) 02-26-2014
 Encounter General examination of patient (procedure) 12-01-2004

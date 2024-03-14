@@ -1,4 +1,3 @@
-"When was the last time my hemoglobin levels in my blood were checked?"
 Encounter Well child visit (procedure) 04-12-2020
 MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016
 Observation Body Height 02-28-2021

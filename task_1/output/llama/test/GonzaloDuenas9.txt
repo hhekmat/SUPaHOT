@@ -1,0 +1,18 @@
+Observation Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain 08-04-2022
+Observation Potassium [Moles/volume] in Blood 07-06-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-23-2020
+Encounter Encounter for problem 09-01-2022
+Procedure Hospice care (regime/therapy) 02-17-2023
+Observation Low Density Lipoprotein Cholesterol 07-06-2023
+Observation Body mass index (BMI) [Ratio] 07-06-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-23-2020
+Encounter Encounter for problem 09-24-2022
+Encounter Encounter for problem 08-26-2022
+Procedure Assessment of health and social care needs (procedure) 07-06-2023
+Encounter Urgent care clinic (environment) 01-05-2023
+Procedure Physical examination, complete (procedure) 09-07-2023
+Observation MCH [Entitic mass] by Automated count 07-06-2023
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-06-2023
+Condition Malignant neoplasm of breast (disorder) 08-02-2022
+MedicationRequest Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution 12-25-2022
+MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 03-25-2021

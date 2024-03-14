@@ -1,0 +1,8 @@
+This record is an Observation of Chloride that was taken on July 7, 2020, and the value is 106.85 mmol/L.
+This record is an Observation of a Chloride level of 106.85 mmol/L in a patient on July 7, 2020.
+This record is an Observation of Chloride that was measured on July 7, 2020, at 10:03:08 AM.
+This record is an Observation of Chloride that was measured on July 7, 2020, and the value is 106.85 mmol/L.
+This record is an Observation for Chloride that was measured on July 7, 2020, and the value is 106.85 mmol/L.
+This record is an Observation of Chloride that was measured on July 7, 2020, and the value is 106.85 mmol/L.
+This record is an Observation of Chloride that was measured on July 7, 2020, and the result is 106.85 mmol/L.
+This record is an Observation of Chloride that was taken by a patient on July 7, 2020.

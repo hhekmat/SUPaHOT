@@ -1,0 +1,4 @@
+This record is a Medication Request for Lisinopril 10 MG Oral Tablet that was ordered by Dr. Alexa Casper and later stopped on January 6, 2015.
+This record is a Condition for Hypertension that was recorded on February 24, 1959.
+This record is a Medication Request for Lisinopril 10 MG Oral Tablet that was ordered by Dr. Alexa Casper on January 6, 2015, but the status is marked as stopped.
+This record is a Condition for Hypertension that was first recorded on February 24, 1959.

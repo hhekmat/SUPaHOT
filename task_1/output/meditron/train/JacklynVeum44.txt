@@ -1,4 +1,3 @@
-Query: How long ago did I visit the urgent care clinic?
 Encounter Encounter for problem (procedure) 02-26-2014
 Procedure Assessment of anxiety (procedure) 02-09-2022
 Observation Heart rate 03-15-2023

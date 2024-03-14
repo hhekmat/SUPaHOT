@@ -1,0 +1,18 @@
+"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?"
+Procedure Oxygen administration by mask (procedure) 11-24-2020
+Observation MCH [Entitic mass] by Automated count 12-02-2020
+Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-02-2020
+Immunization Hep B, adult 08-28-2019
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020
+Procedure Assessment of substance use (procedure) 08-16-2017
+Observation Tobacco smoking status NHIS 09-08-2021
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021
+Encounter Hypertension follow-up encounter 11-03-2015
+Procedure Assessment of substance use (procedure) 08-22-2018
+Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020
+Observation Tobacco smoking status NHIS 09-08-2021
+Procedure Assessment of health and social care needs (procedure) 08-22-2018
+Immunization Td (adult) preservative free 08-22-2018
+Procedure Assessment of substance use (procedure) 08-22-2018
+Procedure Placing subject in prone position (procedure) 11-30-2020
+Procedure Screening for drug abuse (procedure) 08-28-2019

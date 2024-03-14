@@ -1,0 +1,14 @@
+"What was my pain level on February 28, 2021, and were there any abnormalities in my leukocyte count on that same day?"
+Observation Blood pressure panel with all children optional 04-12-2020
+Procedure Throat culture (procedure) 09-26-2016
+Encounter Encounter for problem (procedure) 03-28-2023
+Observation Body Height 04-24-2022
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-24-2022
+Observation Body Height 02-28-2021
+Immunization Influenza, seasonal, injectable, preservative free 04-09-2017
+Encounter Well child visit (procedure) 04-10-2016
+Observation Body Height 04-18-2021
+Immunization Hep A, ped/adol, 2 dose 07-10-2016
+Observation Blood pressure panel with all children optional 02-28-2021
+Encounter Well child visit (procedure) 04-09-2017
+Observation Tobacco smoking status 04-12-2020

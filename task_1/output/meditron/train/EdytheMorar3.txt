@@ -1,4 +1,3 @@
-When was the last time I received the seasonal influenza vaccine without preservatives?
 Encounter Emergency room admission (procedure) 02-19-2021
 MedicationRequest 1 ML Epinephrine 1 MG/ML Injection 06-19-2018
 Observation Urea Nitrogen 07-07-2020

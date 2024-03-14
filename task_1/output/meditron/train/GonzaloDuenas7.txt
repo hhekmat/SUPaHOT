@@ -1,4 +1,3 @@
-"When was my last blood sugar test done?"
 MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-24-2022
 Observation Blood pressure panel with all children optional 07-06-2023
 Condition Has a criminal record (finding) 11-20-2003

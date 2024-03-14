@@ -1,4 +1,3 @@
-"What was the date of my last depression screening?"
 Procedure Depression screening (procedure) 12-20-2011
 Condition Has a criminal record (finding) 06-13-1978
 MedicationRequest Digoxin 0.125 MG Oral Tablet 12-14-2010

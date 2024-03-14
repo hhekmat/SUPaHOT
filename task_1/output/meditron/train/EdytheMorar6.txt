@@ -1,4 +1,3 @@
-Based on the provided data point, a potential query from the patient could be:
 "What was the result of my potassium level test on December 28, 2020?"
 Observation MCV [Entitic volume] by Automated count 07-07-2020
 Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-28-2020

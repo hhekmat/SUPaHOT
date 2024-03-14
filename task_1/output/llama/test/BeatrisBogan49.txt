@@ -1,0 +1,19 @@
+Observation Tobacco smoking status 04-18-2021
+Immunization DTaP 01-10-2016
+Encounter Encounter for symptom 02-26-2022
+Encounter Well child visit (procedure) 01-10-2016
+Encounter Well child visit (procedure) 04-24-2022
+Encounter Well child visit (procedure) 10-09-2016
+Observation Blood pressure panel with all children optional 04-30-2023
+Encounter Encounter for problem (procedure) 05-29-2021
+Encounter Encounter for check up (procedure) 02-28-2021
+Immunization varicella 04-12-2020
+Observation Respiratory rate 04-24-2022
+Observation Heart rate 04-12-2020
+Observation Respiratory rate 04-24-2022
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 02-28-2021
+Immunization MMR 07-10-2016
+Procedure Transthoracic echocardiography (procedure) 05-29-2021
+Observation Respiratory rate 04-18-2021
+Procedure Referral for echocardiography (procedure) 03-28-2023
+Immunization DTaP 10-11-2015

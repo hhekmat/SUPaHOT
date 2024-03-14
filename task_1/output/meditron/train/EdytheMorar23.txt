@@ -1,4 +1,3 @@
-When was my last vaccination administered, and what vaccine was it?
 Encounter Patient encounter procedure 02-06-2018
 Encounter Consultation for treatment 03-17-2006
 Procedure Depression screening (procedure) 07-07-2020

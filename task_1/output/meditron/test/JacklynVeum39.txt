@@ -1,4 +1,3 @@
-When was my last check-up appointment?
 Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023
 Encounter Encounter for check up (procedure) 03-10-2021
 Encounter Urgent care clinic (environment) 12-29-2021

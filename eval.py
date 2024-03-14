@@ -22,22 +22,25 @@ def read_txt_files_into_dict(directory):
                 content_dict[key] = content
     return content_dict
 
-def load_data(task, ft):
-    if ft == 0:
-        meditron_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
-    else:
-        meditron_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
+def load_data(task, m):
+    m_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
+    if m == 0:
+        m_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
+    elif m == 1:
+        m_dict = read_txt_files_into_dict(f"./task_{task}/output/llama/test")
+    elif m == 2:
+        m_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron_ft/test")
     oracle_dict = read_txt_files_into_dict(f"./task_{task}/output/oracle/test")
     
-    meditron_list = []
+    m_list = []
     oracle_list = []
 
-    overlap = list(set(meditron_dict.keys()).intersection(set(oracle_dict.keys())))
+    overlap = list(set(m_dict.keys()).intersection(set(oracle_dict.keys())))
     for key in overlap:
-        meditron_list.append(meditron_dict[key])
+        m_list.append(m_dict[key])
         oracle_list.append(oracle_dict[key])
     
-    return oracle_list, meditron_list
+    return oracle_list, m_list
 
 def tokenize(string_list):
         tokenized_list = []
@@ -87,13 +90,13 @@ if __name__ == "__main__":
     report = ''
     if len(sys.argv) > 2:
         task = int(sys.argv[1])
-        ft = sys.argv[2]
-        refs, hyps = load_data(task, ft)
+        m = sys.argv[2]
+        refs, hyps = load_data(task, m)
 
         if task == 1:
             p, r, f1 = resource_label_overlap(refs, hyps)
             report += 'precision: ' + str(p) + ' recall: ' + str(r) + ' f1: ' + str(f1) + '\n'
-        elif task == 2 or task == 3: 
+        elif task == 2: 
             t_refs = tokenize(refs)
             t_hyps = tokenize(hyps)
             b, avg_s_b = bleu(t_refs, t_hyps)
@@ -103,11 +106,13 @@ if __name__ == "__main__":
             r = rouge(t_refs, t_hyps)
             report += 'rouge score: ' + str(r) + '\n'
 
-            bP, bR, bF1 = bertscore(t_refs, t_hyps)
+        elif task == 3:
+            bP, bR, bF1 = bertscore(refs, hyps)
             print('bertSCORE precision: ' + str(bP))
             print('bertSCORE recall: ' + str(bR))
             print('bertSCORE F1: ' + str(bF1))
             report += ' bertSCORE precision: ' + str(bP) + ' bertSCORE recall: ' + str(bR) + 'bertSCORE F1: ' + str(bF1)
+
         else:
             print("Invalid task number. Please choose 1, 2, or 3.")
         with open(f'./task_{task}_result.txt', 'w') as file:

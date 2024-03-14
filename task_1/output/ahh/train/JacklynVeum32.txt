@@ -1,0 +1,14 @@
+When was my last flu shot?
+Immunization Influenza, seasonal, injectable, preservative free 01-23-2019
+Condition Essential hypertension (disorder) 06-06-1973
+Encounter General examination of patient (procedure) 03-03-2021
+Observation Respiratory rate 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-23-2019
+Procedure Assessment using Morse Fall Scale (procedure) 10-05-2022
+Procedure Assessment of substance use (procedure) 10-06-2021
+Procedure Assessment of substance use (procedure) 06-08-2022
+Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 06-08-2022
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2016
+Observation Specific gravity of Urine by Test strip 03-15-2023
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021

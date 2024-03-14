@@ -1,4 +1,3 @@
-"Can you tell me when I had my last encounter for a medical problem?"
 MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023
 Encounter Encounter for problem 08-26-2022
 Encounter Encounter for symptom 12-25-2022

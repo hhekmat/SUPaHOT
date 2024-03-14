@@ -1,0 +1,16 @@
+"What was the dosage and start date of the Hydrochlorothiazide medication I was prescribed in 2016?"
+Condition Received higher education (finding) 05-28-1969
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-15-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 09-18-2019
+Condition Chronic kidney disease stage 1 (disorder) 12-01-2004
+Procedure Assessment of substance use (procedure) 07-06-2022
+Observation Tobacco smoking status 03-15-2023
+Observation Total score [AUDIT-C] 03-15-2023
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 01-04-2023
+Condition Essential hypertension (disorder) 06-06-1973
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-26-2020
+Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 09-27-2023
+Encounter General examination of patient (procedure) 01-16-2013
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2016
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 01-04-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015

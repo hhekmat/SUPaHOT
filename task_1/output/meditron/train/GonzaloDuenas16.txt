@@ -1,4 +1,3 @@
-"What was my BMI during my last emergency room admission in March 2022?"
 MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-03-2022
 Procedure Assessment of health and social care needs (procedure) 07-06-2023
 Procedure Hospice care (regime/therapy) 02-11-2023
