@@ -1,4 +1,3 @@
-When did I receive my last DTaP immunization?
 Encounter Well child visit (procedure) 04-30-2023
 Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021
 Procedure Referral for echocardiography (procedure) 02-01-2020

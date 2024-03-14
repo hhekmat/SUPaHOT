@@ -1,4 +1,3 @@
-"What was the date when I was prescribed Digoxin 0.125 MG Oral Tablet?"
 Immunization Influenza, seasonal, injectable, preservative free 01-17-2017
 MedicationRequest Digoxin 0.125 MG Oral Tablet 12-08-2009
 Encounter General examination of patient (procedure) 04-22-1969

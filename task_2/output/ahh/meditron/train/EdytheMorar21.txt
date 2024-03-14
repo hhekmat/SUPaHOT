@@ -1,0 +1,4 @@
+This record is an Encounter for Mrs. Edythe Morar for an Escherichia coli urinary tract infection that was performed by Dr. Darrick Franecki at Newton-Wellesley Hospital on April 25, 2019.
+This record is an Encounter for Mrs. Edythe Morar that was performed by Dr. Darrick Franecki at Newton-Wellesley Hospital on April 25, 2019, for an Escherichia coli urinary tract infection.
+This record is an encounter for symptom of Escherichia coli urinary tract infection that was performed by Dr. Darrick Franecki at Newton-Wellesley Hospital on April 25, 2019.
+This record is an Encounter for Mrs. Edythe Morar at Newton-Wellesley Hospital for an Escherichia coli urinary tract infection.

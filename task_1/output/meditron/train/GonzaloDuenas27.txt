@@ -1,4 +1,3 @@
-"When was my last flu shot?"
 Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023
 Encounter Encounter for problem 09-07-2022
 Encounter Encounter for problem 09-12-2022

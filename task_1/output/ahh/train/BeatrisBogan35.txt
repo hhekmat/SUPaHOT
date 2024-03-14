@@ -1,0 +1,15 @@
+"When was the last time I got the influenza vaccine?"
+Condition Aortic valve stenosis (disorder) 05-02-2019
+Observation Body Weight 04-24-2022
+Immunization rotavirus, monovalent 10-11-2015
+Immunization Influenza, seasonal, injectable, preservative free 01-10-2016
+Observation Tobacco smoking status 04-30-2023
+Observation Respiratory rate 03-06-2022
+Procedure Transthoracic echocardiography (procedure) 05-29-2021
+Encounter Well child visit (procedure) 04-18-2021
+Immunization varicella 04-12-2020
+Encounter Well child visit (procedure) 04-08-2018
+Observation Tobacco smoking status 04-30-2023
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 02-28-2021
+MedicationRequest NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector 08-30-2017
+Procedure Referral for echocardiography (procedure) 03-28-2023

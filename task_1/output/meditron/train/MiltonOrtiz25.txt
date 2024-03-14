@@ -1,4 +1,3 @@
-"Was the Carbon dioxide level in my blood abnormal during my last check-up?"
 Procedure Oxygen administration by mask (procedure) 11-26-2020
 Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020
 Encounter Well child visit (procedure) 07-24-2013

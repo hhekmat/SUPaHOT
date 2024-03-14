@@ -1,0 +1,17 @@
+"When was the last time my tobacco smoking status was updated in my medical records?"
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-24-2022
+Observation MCH [Entitic mass] by Automated count 02-28-2021
+Encounter Encounter for problem (procedure) 05-29-2021
+Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022
+Observation Respiratory rate 04-18-2021
+Observation Body Height 04-18-2021
+Observation Blood pressure panel with all children optional 04-18-2021
+Encounter Encounter for symptom 08-22-2017
+Observation Respiratory rate 04-30-2023
+Observation MCV [Entitic volume] by Automated count 02-28-2021
+Encounter Well child visit (procedure) 04-18-2021
+Immunization Pneumococcal conjugate PCV 13 07-10-2016
+Immunization varicella 07-10-2016
+Observation Body mass index (BMI) [Percentile] Per age and sex 04-12-2020
+Immunization Influenza, seasonal, injectable, preservative free 01-10-2016
+MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021

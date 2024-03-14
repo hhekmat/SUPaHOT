@@ -1,0 +1,2 @@
+This record is an Observation of a Patient Health Questionnaire 2 item (PHQ-2) total score of 1.
+This record is a Procedure for Depression screening using Patient Health Questionnaire Two-Item score (procedure) that was performed by PCP167180 on August 16, 2017.

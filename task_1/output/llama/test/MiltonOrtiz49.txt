@@ -1,0 +1,17 @@
+Observation Monocytes/100 leukocytes in Blood by Automated count 12-02-2020
+Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Potassium [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Basophils/100 leukocytes in Blood by Automated count 12-02-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017
+Observation Heart rate 09-08-2021
+Immunization Hep B, adult 08-28-2019
+Observation Body temperature 12-02-2020
+Encounter Well child visit (procedure) 07-30-2014
+Observation Protein [Mass/volume] in Serum or Plasma 12-02-2020
+Procedure Oxygen administration by mask (procedure) 11-21-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-05-2015
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020
+Immunization meningococcal MCV4P 07-24-2013
+Observation Heart rate 09-08-2021
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020

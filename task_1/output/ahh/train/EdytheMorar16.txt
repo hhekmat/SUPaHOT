@@ -1,0 +1,15 @@
+"What was my Erythrocyte count on July 7, 2020, and is it within the normal range?"
+Encounter General examination of patient (procedure) 08-17-1993
+Encounter General examination of patient (procedure) 08-27-2002
+Encounter Consultation for treatment 02-13-2015
+Encounter General examination of patient (procedure) 08-24-1999
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
+Encounter Prenatal visit 09-02-2008
+Immunization Influenza, seasonal, injectable, preservative free 06-24-2014
+Encounter General examination of patient (procedure) 07-03-2018
+Encounter General examination of patient (procedure) 08-11-1992
+Observation High Density Lipoprotein Cholesterol 07-07-2020
+Encounter Emergency room admission (procedure) 02-19-2021
+Observation Creatinine 07-07-2020
+Encounter Patient encounter procedure 02-07-2017
+Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020

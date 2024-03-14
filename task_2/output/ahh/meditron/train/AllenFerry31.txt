@@ -1,0 +1,9 @@
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper on January 29, 2019, but the status is marked as stopped.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper on December 20, 2011.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper on November 27, 2007.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper on January 29, 2019.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper and later stopped on December 20, 2011.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper on November 27, 2007, but the status is marked as stopped.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper and later stopped on January 29, 2019.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper on December 20, 2011.
+This record is a Medication Request for Warfarin Sodium 5 MG Oral Tablet that was ordered by Dr. Alexa Casper on November 27, 2007.

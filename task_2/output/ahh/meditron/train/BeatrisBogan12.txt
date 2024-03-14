@@ -1,0 +1,2 @@
+This record is an observation of a body temperature of 38.347 degrees Celsius.
+This record is an observation of a body temperature of 38.347 Celsius that was taken by Dr. Alexa Casper on February 26, 2022.

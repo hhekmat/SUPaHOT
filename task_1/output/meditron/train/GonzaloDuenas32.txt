@@ -1,4 +1,3 @@
-"When did I start my hospice care treatment?"
 Observation Total score [AUDIT-C] 07-06-2023
 MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-24-2021
 MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-13-2019

@@ -1,4 +1,3 @@
-"What was my Urea Nitrogen level on 01-29-2019 and is it within a normal range?"
 Procedure Assessment using Morse Fall Scale (procedure) 01-17-2017
 Encounter General examination of patient (procedure) 07-17-1984
 MedicationRequest Warfarin Sodium 5 MG Oral Tablet 02-09-2021

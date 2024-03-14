@@ -1,4 +1,3 @@
-"When was my last heart rate recorded?"
 Encounter Encounter for check up (procedure) 04-15-2015
 Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023
 Encounter Urgent care clinic (environment) 01-05-2022

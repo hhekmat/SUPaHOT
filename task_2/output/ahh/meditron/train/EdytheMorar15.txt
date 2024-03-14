@@ -1,0 +1,2 @@
+This record is an Observation of MCHC by Automated count that was measured on July 7, 2020, by a lab in the United States.
+This record is an Observation of MCHC [Mass/volume] by Automated count that was measured on July 7, 2020, for a patient.

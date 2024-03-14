@@ -1,4 +1,3 @@
-Based on the data points provided, a potential query that this patient may have is:
 - "What were the results of my last assessment of health and social care needs in 2020?"
 Observation Heart rate 07-07-2020
 Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021

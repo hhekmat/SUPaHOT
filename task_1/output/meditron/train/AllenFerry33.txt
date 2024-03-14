@@ -1,4 +1,3 @@
-"What was the date of my last depression screening using the Patient Health Questionnaire Nine Item score?"
 Procedure Screening for domestic abuse (procedure) 01-29-2019
 MedicationRequest Verapamil Hydrochloride 40 MG 02-04-2020
 MedicationRequest Digoxin 0.125 MG Oral Tablet 12-14-2010

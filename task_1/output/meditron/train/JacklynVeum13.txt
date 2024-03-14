@@ -1,4 +1,3 @@
-"When was the last time I had an influenza vaccine?"
 Immunization Influenza, seasonal, injectable, preservative free 11-11-2015
 Observation Blood pressure panel with all children optional 09-27-2023
 Encounter Emergency room admission (procedure) 07-02-2020

@@ -1,0 +1,8 @@
+This record is an Observation of a Body Mass Index (BMI) of 14.45 kg/m2 that was measured on April 18, 2021.
+This record is an observation of a BMI (Body Mass Index) percentile for a 12-year-old male.
+This record is an Observation of a Body Mass Index (BMI) of 14.45 kg/m2 for a patient on April 18, 2021.
+This record is an Observation of a Body Mass Index (BMI) of 29.376% for a patient on February 28, 2021.
+This record is an Observation of a Body mass index (BMI) [Percentile] Per age and sex that was measured on February 28, 2021, at 13:37:42.
+This record is an observation of a patient's body mass index (BMI) of 14.45 kg/m2.
+This record is an Observation of a Body Mass Index (BMI) of 14.45 kg/m2 for a patient on April 18, 2021.
+This record is an observation of a patient's body mass index (BMI) that was measured on February 28, 2021.

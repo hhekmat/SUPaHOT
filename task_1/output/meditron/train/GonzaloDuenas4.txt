@@ -1,4 +1,3 @@
-Can you tell me the results of my blood pressure readings from the encounter on 08-30-2022?
 MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-24-2022
 Encounter Encounter for problem 08-26-2022
 Encounter Postoperative follow-up visit (procedure) 05-18-2023

@@ -1,4 +1,3 @@
-"How has my platelet mean volume changed since my last medication reconciliation in 2015?"
 Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021
 Observation Blood pressure panel with all children optional 04-18-2021
 Observation Leukocytes [#/volume] in Blood by Automated count 02-28-2021

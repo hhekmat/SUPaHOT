@@ -1,4 +1,3 @@
-Based on the provided data points, a query that this patient might have could be: "Has there been any change in my platelet mean volume since my last visit on 02-28-2021?" This question can be answered by comparing the platelet mean volume measurement from the Encounter for problem on 08-30-2017 and the Platelet mean volume observation on 02-28-2021.
 Observation MCV [Entitic volume] by Automated count 02-28-2021
 Immunization rotavirus, monovalent 10-11-2015
 Observation Heart rate 04-12-2020

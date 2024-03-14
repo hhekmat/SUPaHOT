@@ -1,4 +1,3 @@
-"When was my last medication reconciliation?"
 Encounter General examination of patient (procedure) 06-19-1979
 Procedure Ankle X-ray 01-04-2012
 Procedure Assessment using Morse Fall Scale (procedure) 12-25-2012

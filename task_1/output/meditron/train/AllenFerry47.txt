@@ -1,4 +1,3 @@
-"What is the result of my depression screening using the Patient Health Questionnaire Two-Item score from January 12, 2016?"
 MedicationRequest Verapamil Hydrochloride 40 MG 11-27-2007
 Encounter General examination of patient (procedure) 12-02-2008
 Encounter General examination of patient (procedure) 08-15-1989

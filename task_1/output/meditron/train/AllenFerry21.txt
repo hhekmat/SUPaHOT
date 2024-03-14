@@ -1,4 +1,3 @@
-"When was the last time my health and social care needs were assessed?"
 MedicationRequest Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet 09-01-2012
 Observation Chloride 02-09-2021
 Encounter General examination of patient (procedure) 09-01-1992

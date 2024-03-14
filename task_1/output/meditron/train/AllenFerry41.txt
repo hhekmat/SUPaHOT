@@ -1,4 +1,3 @@
-"When was the last time my bone was immobilized?"
 MedicationRequest Verapamil Hydrochloride 40 MG 12-14-2010
 Procedure Electrical cardioversion 12-25-2012
 MedicationRequest lisinopril 10 MG Oral Tablet 11-27-2007

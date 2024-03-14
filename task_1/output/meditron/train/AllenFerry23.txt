@@ -1,4 +1,3 @@
-"What was the result of my depression screening in December 2012?"
 Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2021
 MedicationRequest Verapamil Hydrochloride 40 MG 01-17-2017
 Condition Has a criminal record (finding) 06-13-1978

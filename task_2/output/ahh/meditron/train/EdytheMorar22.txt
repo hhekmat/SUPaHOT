@@ -1,0 +1,12 @@
+This record is an Observation of Urea Nitrogen that was measured on July 7, 2020, by a lab.
+This record is an Observation for Respiratory rate of 16 breaths per minute that was measured on July 7, 2020.
+This record is an Observation of Urea Nitrogen that was measured on July 7, 2020, and the value is 7.01 mg/dL.
+This record is an Observation of a Respiratory rate of 16 breaths per minute that was measured on July 7, 2020.
+This record is an Observation of Urea Nitrogen that was measured on July 7, 2020, and the value is 7.01 mg/dL.
+This record is an Observation of Urea Nitrogen that was measured on July 7, 2020, and the value is 7.01 mg/dL.
+This record is an Observation of Urea Nitrogen that was measured on July 7, 2020, and the value is 7.01 mg/dL.
+This record is an Observation of Urea Nitrogen with a value of 7.01 mg/dL.
+This record is an Observation of Respiratory rate of 16 breaths per minute that was measured on July 7, 2020.
+This record is an Observation of Respiratory rate of 16 breaths per minute for a patient on July 7, 2020.
+This record is an Observation of Urea Nitrogen that was measured on July 7, 2020.
+This record is an Observation of Urea Nitrogen that was measured on July 7, 2020, and the value is 7.01 mg/dL.

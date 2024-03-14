@@ -1,4 +1,3 @@
-"What was the result of my bilirubin test on 09-27-2023, and should I be concerned about my liver health based on that result?"
 Encounter Encounter for check up (procedure) 02-16-2022
 Procedure Assessment of substance use (procedure) 01-04-2023
 MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023

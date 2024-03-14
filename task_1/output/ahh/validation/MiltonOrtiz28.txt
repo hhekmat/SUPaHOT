@@ -1,0 +1,16 @@
+"Can you tell me if my PHQ-2 total score has changed over time?"
+Condition Housing unsatisfactory (finding) 08-05-2015
+Procedure Assessment of substance use (procedure) 08-28-2019
+Immunization Hep B, adult 08-22-2018
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021
+Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020
+Immunization Influenza, seasonal, injectable, preservative free 08-28-2019
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-05-2015
+Observation Potassium [Moles/volume] in Serum or Plasma 12-02-2020
+Procedure Assessment of substance use (procedure) 08-16-2017
+Procedure Depression screening (procedure) 09-08-2021
+Condition Full-time employment (finding) 09-08-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017
+Encounter General examination of patient (procedure) 09-08-2021
+Condition Housing unsatisfactory (finding) 08-05-2015
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 12-02-2020

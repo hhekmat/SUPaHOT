@@ -1,0 +1,14 @@
+When was the last time I received oxygen administration by mask?
+Procedure Oxygen administration by mask (procedure) 11-23-2020
+Immunization Influenza, seasonal, injectable, preservative free 08-10-2016
+Immunization Influenza, seasonal, injectable, preservative free 08-16-2017
+Procedure Oxygen administration by mask (procedure) 11-25-2020
+Observation MCH [Entitic mass] by Automated count 12-02-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-22-2018
+Procedure Oxygen administration by mask (procedure) 11-21-2020
+Observation Blood Pressure 12-02-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020
+Procedure Oxygen administration by mask (procedure) 11-29-2020
+Procedure Oxygen administration by mask (procedure) 11-27-2020
+Encounter Hypertension follow-up encounter 09-04-2015
+Immunization Influenza, seasonal, injectable, preservative free 08-22-2018

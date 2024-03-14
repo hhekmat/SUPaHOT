@@ -1,4 +1,3 @@
-"When did my Hospice care treatment start?"
 Procedure Physical examination, complete (procedure) 02-05-2023
 Observation MCH [Entitic mass] by Automated count 07-06-2023
 Condition Proteinuria due to type 2 diabetes mellitus (disorder) 01-22-2009

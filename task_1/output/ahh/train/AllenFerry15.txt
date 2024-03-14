@@ -1,0 +1,15 @@
+What was my potassium level on February 9, 2021, and is it within the normal range?
+Encounter General examination of patient (procedure) 10-23-2001
+Condition Served in armed forces (finding) 02-24-1959
+Procedure Assessment using Morse Fall Scale (procedure) 12-20-2011
+Observation Potassium 02-09-2021
+Encounter General examination of patient (procedure) 12-31-2013
+Condition Prediabetes 05-15-1973
+Encounter General examination of patient (procedure) 05-04-1971
+MedicationRequest Verapamil Hydrochloride 40 MG 01-17-2017
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 02-09-2021
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-20-2011
+Encounter General examination of patient (procedure) 09-13-1994
+Procedure Assessment using Morse Fall Scale (procedure) 01-06-2015
+MedicationRequest Digoxin 0.125 MG Oral Tablet 01-23-2018
+Procedure Assessment using Morse Fall Scale (procedure) 12-31-2013

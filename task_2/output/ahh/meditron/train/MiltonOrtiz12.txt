@@ -1,0 +1,2 @@
+This record is an Observation of a Heart Rate of 120.49 beats per minute that was measured on December 2, 2020.
+This record is an Observation of a Heart Rate of 120.49 beats per minute that was measured on December 2, 2020, at 5:05:07 PM.

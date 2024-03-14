@@ -1,0 +1,8 @@
+This record is an Encounter for a General Examination of Patient (Procedure) that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on January 29, 2019.
+This record is a Procedure for Assessment of health and social care needs (procedure) that was performed by Dr. Alexa Casper on January 29, 2019, at the Worcester Outpatient Clinic.
+This record is an Encounter for Mr. Allen Ferry that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on January 29, 2019.
+This record is a Procedure for Assessment of health and social care needs that was performed by Dr. Alexa Casper on January 29, 2019, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on January 29, 2019.
+This record is a Procedure for Assessment of health and social care needs (procedure) that was performed on January 29, 2019, at the Worcester Outpatient Clinic.
+This record is a Procedure for Assessment of health and social care needs (procedure) that was performed by Dr. Alexa Casper on January 29, 2019, at the Worcester Outpatient Clinic.
+This record is an encounter for Mr. Allen Ferry at the Worcester Outpatient Clinic on January 29, 2019.

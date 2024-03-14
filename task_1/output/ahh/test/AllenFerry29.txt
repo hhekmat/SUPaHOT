@@ -1,0 +1,16 @@
+"Was Verapamil Hydrochloride 40 MG prescribed for the same condition as my current medication?"
+Observation Respiratory rate 02-04-2020
+MedicationRequest Verapamil Hydrochloride 40 MG 01-17-2017
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-20-2011
+Observation Body Height 02-04-2020
+MedicationRequest Verapamil Hydrochloride 40 MG 02-09-2021
+Encounter General examination of patient (procedure) 07-06-1982
+Observation Chloride 02-04-2020
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-02-2008
+Condition Part-time employment (finding) 02-09-2021
+Condition Hypertension 02-24-1959
+Procedure Assessment of health and social care needs (procedure) 01-12-2016
+Condition Carcinoma in situ of prostate (disorder) 11-03-2004
+Observation Blood Pressure 02-09-2021
+Encounter Encounter for symptom 11-02-2011
+Condition Victim of intimate partner abuse (finding) 01-06-2015

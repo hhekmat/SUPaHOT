@@ -1,0 +1,4 @@
+This record is an Observation of Hemoglobin in Blood that was measured on February 28, 2021.
+This record is an Observation of a MCHC by Automated count of 33.556 g/dL that was measured on February 28, 2021.
+This record is an Observation of Hemoglobin [Mass/volume] in Blood with a value of 15.754 g/dL.
+This record is an Observation of MCHC [Mass/volume] by Automated count that was measured on February 28, 2021, and the value is 33.556 g/dL.

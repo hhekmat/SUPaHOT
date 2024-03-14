@@ -1,4 +1,3 @@
-"When was the last time my doctor assessed my assets, risks, and experiences in my medical record?"
 Procedure Assessment of health and social care needs (procedure) 06-28-2016
 Observation MCHC [Mass/volume] by Automated count 07-07-2020
 Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018

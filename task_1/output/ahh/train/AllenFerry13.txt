@@ -1,0 +1,15 @@
+"What was the date of my last fall risk assessment?"
+Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-08-2009
+Encounter General examination of patient (procedure) 10-29-2002
+MedicationRequest Verapamil Hydrochloride 40 MG 01-12-2016
+Encounter General examination of patient (procedure) 06-19-1979
+Procedure Electrical cardioversion 01-23-2018
+Procedure Assessment of anxiety (procedure) 01-17-2017
+Encounter Outpatient procedure 09-03-1993
+Encounter General examination of patient (procedure) 12-08-2009
+Encounter Encounter for problem 11-03-2004
+MedicationRequest lisinopril 10 MG Oral Tablet 11-08-2011
+Procedure Electrical cardioversion 12-20-2011
+Encounter General examination of patient (procedure) 07-06-1982
+MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015

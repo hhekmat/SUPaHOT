@@ -1,0 +1,13 @@
+Can you provide me with the results of my anxiety assessment from July 7, 2020?
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-29-2020
+Observation Respiratory rate 12-28-2020
+Procedure Medication Reconciliation (procedure) 06-28-2016
+Observation Sodium 07-03-2018
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-29-2020
+Observation MCV [Entitic volume] by Automated count 07-07-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-07-2020
+Procedure Measurement of respiratory function (procedure) 12-17-2020
+Observation Heart rate 12-28-2020
+Immunization Td (adult) preservative free 06-28-2016
+Immunization Influenza, seasonal, injectable, preservative free 07-07-2020
+Encounter Administration of vaccine to produce active immunity (procedure) 04-27-2021

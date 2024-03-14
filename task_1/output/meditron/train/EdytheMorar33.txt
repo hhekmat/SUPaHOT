@@ -1,4 +1,3 @@
-Did I start taking Naproxen sodium before or after Jolivette?
 MedicationRequest Jolivette 28 Day Pack 01-21-2021
 Observation MCH [Entitic mass] by Automated count 07-07-2020
 MedicationRequest Liletta 52 MG Intrauterine System 02-02-2018

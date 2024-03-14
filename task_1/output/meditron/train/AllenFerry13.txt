@@ -1,4 +1,3 @@
-"What was the date of my last fall risk assessment?"
 Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018
 MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-08-2009
 Encounter General examination of patient (procedure) 10-29-2002

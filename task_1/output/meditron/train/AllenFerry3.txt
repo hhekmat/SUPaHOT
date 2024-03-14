@@ -1,4 +1,3 @@
-"When was my last flu shot?"
 Encounter General examination of patient (procedure) 06-07-1977
 Condition Served in armed forces (finding) 02-24-1959
 MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008

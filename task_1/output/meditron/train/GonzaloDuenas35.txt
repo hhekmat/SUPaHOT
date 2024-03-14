@@ -1,4 +1,3 @@
-When was my diagnosis of Ischemic heart disease first recorded in my medical record?
 Procedure External beam radiation therapy procedure (procedure) 09-29-2022
 MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022
 Procedure Hospice care (regime/therapy) 02-13-2023

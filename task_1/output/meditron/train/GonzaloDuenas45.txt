@@ -1,4 +1,3 @@
-"What is my potassium level in my blood from my most recent test?"
 Encounter Encounter for problem 09-25-2022
 MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 09-28-2021
 MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 12-27-2018

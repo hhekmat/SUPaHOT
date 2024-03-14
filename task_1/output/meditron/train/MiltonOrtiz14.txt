@@ -1,4 +1,3 @@
-"Can you explain to me what MCV represents and how my latest MCV count on 12-02-2020 might impact my health?"
 Observation Respiratory rate 12-02-2020
 Observation Monocytes [#/volume] in Blood by Automated count 12-02-2020
 Observation Urea nitrogen [Mass/volume] in Serum or Plasma 12-02-2020

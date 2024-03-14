@@ -1,4 +1,3 @@
-"What was the start date of my Hospice care regime?"
 Procedure Hospice care (regime/therapy) 02-12-2023
 MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 06-30-2022
 Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 01-05-2023

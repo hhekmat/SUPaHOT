@@ -1,0 +1,4 @@
+This record is an Observation of Potassium [Moles/volume] in Blood that was performed on July 6, 2023, on a patient.
+This record is an Observation of Potassium [Moles/volume] in Blood that was taken by a patient on July 6, 2023.
+This record is an Observation of Potassium in Blood that was measured on July 6, 2023, and the value is 3.96 mmol/L.
+This record is an Observation of Potassium [Moles/volume] in Blood that was taken by a patient on July 6, 2023.

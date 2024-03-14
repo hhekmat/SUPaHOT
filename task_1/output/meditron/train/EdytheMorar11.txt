@@ -1,4 +1,3 @@
-"When was the last time I was screened for depression?"
 MedicationRequest 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System 02-23-2013
 Procedure Assessment of substance use (procedure) 06-24-2014
 Procedure Assessment of anxiety (procedure) 06-28-2016

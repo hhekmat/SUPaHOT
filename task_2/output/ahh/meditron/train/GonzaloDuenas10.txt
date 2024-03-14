@@ -1,0 +1,8 @@
+This record is an Observation of Sodium [Moles/volume] in Blood that was measured on January 5, 2023.
+This record is a Medication Request for 24 HR tacrolimus 1 MG Extended Release Oral Tablet that was ordered by Dr. Precious Runolfsson for a patient on March 3, 2022, but the status is marked as stopped.
+This record is a Medication Request for 24 HR tacrolimus 1 MG Extended Release Oral Tablet that was ordered by Dr. Precious Runolfsson for a patient on March 3, 2022, but the status is marked as stopped.
+This record is an Observation of Sodium [Moles/volume] in Blood that was measured on January 5, 2023, at 5:04:19 PM.
+This record is an Observation of Sodium [Moles/volume] in Blood that was measured on January 5, 2023, and has a value of 137.78 mmol/L.
+This record is a Medication Request for 24 HR tacrolimus 1 MG Extended Release Oral Tablet that was ordered by Dr. Precious Runolfsson for a patient on March 3, 2022.
+This record is an Observation of Sodium [Moles/volume] in Blood that was measured on January 5, 2023, by Dr. Alexa Casper.
+This record is a Medication Request for 24 HR tacrolimus 1 MG Extended Release Oral Tablet that was ordered by Dr. Precious Runolfsson for a patient on March 3, 2022, but the status is marked as stopped.
