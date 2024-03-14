@@ -1,3 +1,5 @@
 .DS_Store
 all_resources
 mock_patients
+./.DS_Store
+./DS_Store
