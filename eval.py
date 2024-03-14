@@ -23,6 +23,7 @@ def read_txt_files_into_dict(directory):
     return content_dict
 
 def load_data(task, m):
+    m_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
     if m == 0:
         m_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
     elif m == 1:
@@ -106,13 +107,12 @@ if __name__ == "__main__":
             report += 'rouge score: ' + str(r) + '\n'
 
         elif task == 3:
-            t_refs = tokenize(refs)
-            t_hyps = tokenize(hyps)
-            bP, bR, bF1 = bertscore(t_refs, t_hyps)
+            bP, bR, bF1 = bertscore(refs, hyps)
             print('bertSCORE precision: ' + str(bP))
             print('bertSCORE recall: ' + str(bR))
             print('bertSCORE F1: ' + str(bF1))
             report += ' bertSCORE precision: ' + str(bP) + ' bertSCORE recall: ' + str(bR) + 'bertSCORE F1: ' + str(bF1)
+
         else:
             print("Invalid task number. Please choose 1, 2, or 3.")
         with open(f'./task_{task}_result.txt', 'w') as file:
