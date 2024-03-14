@@ -1,0 +1,9 @@
+Sure! Here is a brief natural language summary of the JSON object you provided:
+
+"This is an encounter record for a patient named Mrs. Edythe Morar, who had a consultation for treatment with Dr. Darrick Franecki at Newton-Wellesley Hospital on January 27, 2020. The encounter started at 21:39 and ended at 21:56, and the location was Newton-Wellesley Hospital."
+Sure, I'd be happy to help! Based on the provided JSON excerpt, here is a brief summary in natural language:
+
+"This is a record of a procedure called 'Depression screening (procedure)' that was performed on a patient named '9c3df38a-d3b7-2198-3898-51f9153d023d' on June 24, 2014. The procedure was performed at NEWTON-WELLESLEY UROLOGY, PC and lasted from 00:37:47 to 00:50:01. The record includes information about the patient, the procedure, and the location where it was performed."
+Sure, I'd be happy to help! Here is a brief summary of the JSON object you provided:
+
+The patient underwent a depression screening procedure on June 24, 2014, at Newton-Wellesley Urology, PC. The procedure was completed and took place between 3:37 PM and 3:50 PM. The location of the procedure was Newton-Wellesley Urology, PC.

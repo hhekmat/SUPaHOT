@@ -1,0 +1,12 @@
+Sure, here is a brief natural language summary of the JSON:
+
+This is an encounter record for a patient named Beatris270 Bogan287. The encounter took place on January 10, 2016, and was performed by Dr. Elisa944 Rojo930 at Blu Skies Wellness Inc. The encounter was classified as a well child visit (procedure) and had a start time of 13:37:42 and an end time of 13:52:42.
+Sure, here is a brief summary of the JSON object in natural language:
+
+"This is an encounter record for a patient named Beatris270 Bogan287, which includes information about the encounter's status, class, type, and location. The encounter took place on April 24, 2022, and was performed by Dr. Elisa944 Rojo930 at Blueskies Wellness Inc. The encounter was a well child visit (procedure) and was initiated through a POST request to the Encounter resource."
+Sure! Here is a brief natural language summary of the JSON:
+
+"This is an encounter record for a patient named Beatris270 Bogan287. The encounter took place on October 9, 2016, and was performed by Dr. Elisa944 Rojo930 at Blueskies Wellness Inc. The encounter was classified as a well child visit (procedure) and had a start time of 13:37:42 and an end time of 13:52:42. The location of the encounter was Blueskies Wellness Inc."
+Sure! Here is a brief summary of the JSON object you provided:
+
+The patient has an encounter with a status of "finished" and a class of "Encounter for check up (procedure)". The encounter took place at HOLY FAMILY HOSPITAL and was performed by Dr. Alvin56 Crona259. The patient's identifier is urn:uuid:5b3645de-a2d0-d016-0839-bab3757c4c58.

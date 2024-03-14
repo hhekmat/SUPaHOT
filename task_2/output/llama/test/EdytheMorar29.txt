@@ -1,0 +1,12 @@
+Sure, here is a brief natural language summary of the JSON object you provided:
+
+The patient underwent an assessment of substance use (procedure) on June 24, 2014, at Newton-Wellesley Urology, PC. The assessment was performed by a healthcare provider and took place between 1:19 PM and 1:30 PM. The location of the assessment was Newton-Wellesley Urology, PC.
+Sure, here is a brief natural language summary of the JSON object:
+
+Mrs. Edythe Morar had an encounter with Dr. Darrick Franecki at Newton-Wellesley Hospital on March 30, 2003, which was classified as a consultation for treatment. The encounter started at 10:47 PM and ended at 10:49 PM, and was located at Newton-Wellesley Hospital.
+Sure! Here is a brief natural language summary of the JSON excerpt you provided:
+
+"The patient underwent an assessment of substance use on July 7, 2020, at Newton-Wellesley Urology, PC. The assessment was completed and the patient's status is 'completed'."
+Sure, here is a brief natural language summary of the JSON object:
+
+Mrs. Edythe Morar had an encounter with Dr. Darrick Franecki at Newton-Wellesley Hospital on January 27, 2020, from 21:39 to 21:56. The encounter was classified as a consultation for treatment and had a primary performer (Dr. Franecki). The location of the encounter was Newton-Wellesley Hospital.

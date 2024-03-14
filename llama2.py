@@ -69,7 +69,7 @@ def query(endpoint, headers, payload):
     except requests.exceptions.HTTPError as e:
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After")
-            wait_time = int(retry_after) if retry_after else 30  # Default to 30 seconds if header is missing
+            wait_time = int(retry_after) if retry_after else 10  # Default to 30 seconds if header is missing
             print(f"Hit rate limit, retrying after {wait_time} seconds...")
             time.sleep(wait_time)  # Sleep for the time specified in the Retry-After header
             return query(endpoint, headers, payload)  # Recursive retry after waiting

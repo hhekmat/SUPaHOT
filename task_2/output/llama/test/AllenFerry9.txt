@@ -1,0 +1,6 @@
+Sure, I'd be happy to help! Based on the provided JSON data, here is a brief natural language summary:
+
+A depression screening procedure was performed on December 20, 2011, at the Worcester Outpatient Clinic. The procedure was completed and took place between 11:53 AM and 12:04 PM. The location of the procedure is listed as the Worcester Outpatient Clinic, with a reference identifier of https://github.com/synthetichealth/synthea|ca946e7b-d7ef-325a-aa6a-a80bb8cda341.
+Sure, I'd be happy to help! Based on the provided JSON excerpt, here is a brief natural language summary:
+
+"This is a record of a depression screening procedure that was performed on a patient at the Worcester Outpatient Clinic on January 29, 2019. The procedure was completed and took place between 12:07pm and 12:19pm. The record includes information about the patient's identifier, the procedure's status, and the location where the procedure was performed."

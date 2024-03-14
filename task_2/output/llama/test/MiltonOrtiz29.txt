@@ -1,0 +1,6 @@
+Sure! Here is a brief natural language summary of the JSON object you provided:
+
+The patient underwent a depression screening procedure on August 10, 2016, performed by a PCP at the PCP's location. The procedure was completed and took place between 5:53 PM and 6:07 PM.
+Sure! Here is a brief natural language summary of the JSON object you provided:
+
+The patient underwent a depression screening procedure on August 10, 2016, at 6:07 PM, performed by their primary care physician at PCP167180. The procedure used the Patient Health Questionnaire Two-Item score to assess the patient's depression level.

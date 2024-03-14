@@ -1,0 +1,6 @@
+Sure, here is a brief summary of the JSON object you provided:
+
+A medication request has been made for Verapamil Hydrochloride 40 MG for a patient with the reference "urn:uuid:ad134528-56a5-35fd-c37f-466ff119c625". The request was made on January 17, 2017 at 10:24:54 AM with the intention of ordering the medication. The request was made by Dr. Alexa Casper.
+Sure, I'd be happy to help! Here is a brief natural language summary of the JSON object you provided:
+
+A medication request has been made for Verapamil Hydrochloride 40 MG for a patient with the identifier "ad134528-56a5-35fd-c37f-466ff119c625". The request was made on February 9, 2021, and the medication is intended for use by the patient. The request was made by Dr. Alexa Casper, with a practice name of "Practitioner".

@@ -1,0 +1,8 @@
+Sure, I'd be happy to help! Based on the provided JSON data, here is a brief summary in natural language:
+
+The patient underwent a procedure called Transthoracic echocardiography (procedure) on May 2nd, 2019 at the Fitchburg Outpatient Clinic. The procedure was completed and took place between 13:50 and 14:20.
+Sure! Here is a brief summary of the JSON object you provided:
+
+The patient has a completed procedure called "Referral for echocardiography (procedure)" that was performed at the Fitchburg Outpatient Clinic on March 28, 2023. The procedure was requested through a POST method on the "Procedure" endpoint.
+The patient underwent a transthoracic echocardiography procedure on May 2nd, 2019, at the Fitchburg Outpatient Clinic. The procedure was completed and took place between 13:50 and 14:20.
+The patient underwent a procedure called "Referral for echocardiography (procedure)" on May 29, 2021, at the Fitchburg Outpatient Clinic. The procedure was completed and took place between 2:18 PM and 2:38 PM.

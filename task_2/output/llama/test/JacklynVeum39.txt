@@ -1,0 +1,17 @@
+Sure, here is a brief summary of the JSON object in natural language:
+
+This is an encounter record for a patient named Mrs. Jacklyn830 Veum823. The encounter took place on March 10, 2021, at a location called Cambridge Public Health Commission. The encounter was performed by Dr. Floy720 Greenfelder433 and involved a primary performer. The encounter was requested through a POST method on the Encounter endpoint.
+Mrs. Jacklyn Veum visited Dr. Tracy Wilderman at Mass General Brigham Urgent Care LLC on December 29, 2021, for an urgent care appointment. The encounter was finished and classified as "ambulatory" with a primary performer.
+Sure! Here is a brief summary of the JSON object you provided:
+
+The patient had an encounter with a healthcare provider on February 14, 2018, at Davis Square Family Practice. The encounter was finished and classified as a general examination of the patient (procedure). The provider is Dr. Vito638 Barton704, and the location of the encounter is Davis Square Family Practice.
+A patient named Mrs. Jacklyn Veum visited an urgent care clinic on December 29, 2021, for an encounter that was finished and classified as an ambulatory care encounter. The encounter took place at MASS GENERAL BRIGHAM URGENT CARE LLC and was provided by Dr. Tracy Wilderman. The patient's location was MASS GENERAL BRIGHAM URGENT CARE LLC.
+Sure! Here is a brief summary of the JSON object you provided:
+
+A patient named Mrs. Jacklyn830 Veum823 had an encounter with a healthcare provider at Davis Square Family Practice on February 8, 2017. The encounter was finished and the type of encounter was a general examination of the patient (procedure). The provider who performed the encounter is Dr. Vito638 Barton704. The encounter took place at Davis Square Family Practice location.
+Sure, here is a brief summary of the JSON object in natural language:
+
+This is a record of an encounter between a patient (Mrs. Jacklyn830 Veum823) and a healthcare provider (Dr. Vito638 Barton704) at Davis Square Family Practice on February 26, 2020. The encounter started at 13:53 and ended at 14:52, and included a general examination of the patient (procedure). The location of the encounter was Davis Square Family Practice.
+Sure! Here is a brief summary of the JSON data you provided:
+
+The encounter information is for a patient named "Mrs. Jacklyn830 Veum823" and took place on February 19, 2014, at Cambridge Public Health Commission. The encounter was conducted by Dr. Floy720 Greenfelder433 and involved a check-up procedure. The location of the encounter was Cambridge Public Health Commission.
