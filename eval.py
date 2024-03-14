@@ -25,8 +25,10 @@ def read_txt_files_into_dict(directory):
 def load_data(task, m):
     m_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
     if m == 0:
+        print('reading into meditron')
         m_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
     elif m == 1:
+        print('reading into llama')
         m_dict = read_txt_files_into_dict(f"./task_{task}/output/llama/test")
     elif m == 2:
         m_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron_ft/test")
@@ -90,7 +92,7 @@ if __name__ == "__main__":
     report = ''
     if len(sys.argv) > 2:
         task = int(sys.argv[1])
-        m = sys.argv[2]
+        m = int(sys.argv[2])
         model = 'placeholder'
         if m == 0:
             model = 'meditron'
