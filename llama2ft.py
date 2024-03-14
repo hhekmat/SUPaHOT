@@ -101,22 +101,23 @@ def process_task_1(model):
                     lines = f.readlines()
 
                 query = lines[0].strip()
-                print(query)
                 resources = lines[1:]
-                print(resources)
                 stripped_filename = re.sub(r'\d+', '', file.split('.')[0])
                 relevant_data_file = os.path.join(relevant_data_dir, f"{stripped_filename}resources.txt")
 
                 if os.path.exists(relevant_data_file):
                     relevant_resources = []
-
+                    c = 0
                     for resource in resources:
+                        c += 1
+                        print(c)
                         resource = resource.strip()
                         prompt = f"Query: {query}, resource: {resource}"
 
                         llama_response = generate_llama_response(prompt, task_1_prompt, model)
                         print(llama_response)
                         if llama_response.find("True") != -1:
+                            print('true')
                             relevant_resources.append(resource)
 
                     output_subdir = os.path.join(output_dir, os.path.relpath(root, base_dir))
@@ -166,6 +167,7 @@ def process_line(line, root, file, base_dir, output_dir, task_2_prompt, model):
     large_resource = global_resource_dict.get(resource_label, {})
     large_resource_str = json.dumps(large_resource)
     summary = generate_llama_response("JSON: " + large_resource_str, task_2_prompt, model)
+    print(summary)
 
     rel_path = os.path.relpath(root, base_dir)
     output_subdir = os.path.join(output_dir, rel_path)

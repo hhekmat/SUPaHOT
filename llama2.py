@@ -111,12 +111,13 @@ def process_task_1():
                     relevant_resources = []
 
                     for resource in resources:
+                        print(resource)
                         resource = resource.strip()
                         prompt = f"Query: {query}, resource: {resource}"
 
                         llama_response = generate_llama_response(prompt, task_1_prompt)
-                        print(llama_response)
                         if llama_response.find("True") != -1:
+                            print('true')
                             relevant_resources.append(resource)
 
                     output_subdir = os.path.join(output_dir, os.path.relpath(root, base_dir))
