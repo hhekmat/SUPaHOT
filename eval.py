@@ -95,7 +95,7 @@ if __name__ == "__main__":
         if task == 1:
             p, r, f1 = resource_label_overlap(refs, hyps)
             report += 'precision: ' + str(p) + ' recall: ' + str(r) + ' f1: ' + str(f1) + '\n'
-        elif task == 2 or task == 3: 
+        elif task == 2: 
             t_refs = tokenize(refs)
             t_hyps = tokenize(hyps)
             b, avg_s_b = bleu(t_refs, t_hyps)
@@ -105,6 +105,9 @@ if __name__ == "__main__":
             r = rouge(t_refs, t_hyps)
             report += 'rouge score: ' + str(r) + '\n'
 
+        elif task == 3:
+            t_refs = tokenize(refs)
+            t_hyps = tokenize(hyps)
             bP, bR, bF1 = bertscore(t_refs, t_hyps)
             print('bertSCORE precision: ' + str(bP))
             print('bertSCORE recall: ' + str(bR))
