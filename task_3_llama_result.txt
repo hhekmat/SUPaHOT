@@ -1,0 +1,1 @@
+ bertSCORE precision: tensor(0.7364) bertSCORE recall: tensor(0.7210)bertSCORE F1: tensor(0.7253)

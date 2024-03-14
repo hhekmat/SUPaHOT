@@ -1,6 +1,0 @@
-This record is an Encounter for a check up (procedure) that was performed by Dr. Floy Greenfelder and took place at Cambridge Public Health Commission on August 11, 2021.
-This record is an Encounter for a check up (procedure) for Mrs. Jacklyn Veum that was performed by Dr. Floy Greenfelder on December 16, 2020.
-This record is an Encounter for a check up (procedure) that was performed by Dr. Floy Greenfelder for Mrs. Jacklyn Veum on March 27, 2019.
-This record is an Encounter for check up (procedure) that was performed by Dr. Floy Greenfelder on August 11, 2021, at Cambridge Public Health Commission.
-This record is an Encounter for check up (procedure) for Mrs. Jacklyn Veum that was performed by Dr. Floy Greenfelder on December 16, 2020, at Cambridge Public Health Commission.
-This record is an Encounter for check up (procedure) that was performed by Dr. Floy Greenfelder on March 27, 2019, at Cambridge Public Health Commission.

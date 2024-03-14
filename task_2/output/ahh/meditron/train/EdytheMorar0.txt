@@ -1,8 +1,0 @@
-This record is an Encounter for a General Examination of Patient (Procedure) that was performed by Dr. Elva Langosh on June 24, 2014, at Newton-Wellesley Urology, PC.
-This record is an Observation of a Body Mass Index of 32.08 kg/m2 for a patient on July 7, 2020.
-This record is an Observation for Body Mass Index that was measured on July 7, 2020, for a patient with a BMI of 32.08 kg/m2.
-This record is an Encounter for Mrs. Edythe Morar that was performed by Dr. Elva Langosh on June 24, 2014, at NEWTON-WELLESLEY UROLOGY, PC.
-This record is an Observation of Body Mass Index that was measured on July 7, 2020, and has a value of 32.08 kg/m2.
-This record is an Encounter for Mrs. Edythe Morar at Newton-Wellesley Urology, PC on June 24, 2014.
-This record is an Observation of a Body Mass Index of 32.08 kg/m2 for a patient on July 7, 2020.
-This record is an Encounter for Mrs. Edythe Morar that was performed by Dr. Elva Langosh at NEWTON-WELLESLEY UROLOGY, PC on June 24, 2014.

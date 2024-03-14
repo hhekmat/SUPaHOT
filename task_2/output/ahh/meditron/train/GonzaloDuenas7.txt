@@ -1,3 +1,0 @@
-This record is an Observation for Hemoglobin A1c/Hemoglobin.total in Blood that was measured on July 6, 2023, and the value is 3.22%.
-This record is an Observation of Hemoglobin A1c/Hemoglobin.total in Blood that was measured on July 6, 2023, by a lab.
-This record is an Observation for Glucose [Mass/volume] in Blood that was measured on January 5, 2023, and the value is 65.79 mg/dL.

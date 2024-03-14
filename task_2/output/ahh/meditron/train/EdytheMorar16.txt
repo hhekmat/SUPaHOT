@@ -1,2 +1,0 @@
-This record is an Observation of Erythrocytes [#/volume] in Blood by Automated count that was taken by the patient on July 7, 2020, and the result is 3.9809.
-This record is an Observation of Erythrocytes [#/volume] in Blood by Automated count that was performed on July 7, 2020, on a patient.

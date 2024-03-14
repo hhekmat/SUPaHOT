@@ -1,6 +1,0 @@
-This record is an Encounter for Mr. Gonzalo Due at South Shore Hospital Inc. for a Malignant neoplasm of breast.
-This record is an encounter for Mr. Gonzalo Due at South Shore Hospital Inc. on September 8, 2022, for a malignant neoplasm of the breast.
-This record is an Encounter for Mr. Gonzalo Due at South Shore Hospital Inc. for a Malignant neoplasm of breast on August 2, 2022.
-This record is an encounter for Mr. Gonzalo Due, a 40-year-old male, who was seen by Dr. January Roberts at South Shore Hospital Inc. on September 8, 2022, for a malignant neoplasm of the breast.
-This record is an encounter for a symptom (procedure) for Mr. Gonzalo Due at South Shore Hospital Inc.
-This record is an Encounter for Mr. Gonzalo Due with a diagnosis of Malignant neoplasm of breast.

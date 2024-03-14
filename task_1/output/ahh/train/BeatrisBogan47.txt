@@ -1,8 +1,0 @@
-"What symptoms did I have during my last medical encounter on 10-02-2023?"
-Observation Body mass index (BMI) [Ratio] 03-06-2022
-Condition Aortic valve stenosis (disorder) 05-02-2019
-Observation Body temperature 02-26-2022
-Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021
-Observation Respiratory rate 04-30-2023
-Observation Heart rate 03-06-2022
-Immunization Pneumococcal conjugate PCV 13 01-10-2016

@@ -1,4 +1,0 @@
-This record is an observation of a patient's body weight of 19.7 kg.
-This record is an Observation of Body Weight that was measured on February 28, 2021, at 13:37:42.
-This record is an Observation for Body Weight of 19.7 kg that was measured on February 28, 2021.
-This record is an Observation of a Body Weight of 19.7 kg that was measured on February 28, 2021.

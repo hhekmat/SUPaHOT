@@ -1,4 +1,0 @@
-This record is an Encounter for check up (procedure) for Mrs. Edythe Morar that was performed by Dr. Darrick Franecki at Newton-Wellesley Hospital on December 28, 2020.
-This record is an Observation of Respiratory rate that was measured on December 28, 2020, at 23:03:08.
-This record is an Encounter for check up (procedure) that was performed by Dr. Darrick Franecki on Mrs. Edythe Morar on December 28, 2020.
-This record is an Observation for Respiratory rate that was measured on December 28, 2020, at 11:03 PM.

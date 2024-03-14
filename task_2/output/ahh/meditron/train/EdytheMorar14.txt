@@ -1,4 +1,0 @@
-This record is an Observation for Total Cholesterol that was measured on July 7, 2020, and the value is 178.67 mg/dL.
-This record is an Observation of Total Cholesterol that was taken by a patient on July 7, 2020, and the value is 178.67 mg/dL.
-This record is an Observation of Total Cholesterol that was measured on July 7, 2020, and the value is 178.67 mg/dL.
-This record is an Observation for Total Cholesterol that was measured on July 7, 2020, and is final.

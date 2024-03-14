@@ -91,6 +91,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 2:
         task = int(sys.argv[1])
         m = sys.argv[2]
+        model = 'placeholder'
         if m == 0:
             model = 'meditron'
         elif m == 1:
@@ -121,7 +122,7 @@ if __name__ == "__main__":
 
         else:
             print("Invalid task number. Please choose 1, 2, or 3.")
-        with open(f'./results/{model}/task_{task}_result.txt', 'w') as file:
+        with open(f'./task_{task}_model_{m}_result.txt', 'w') as file:
             file.write(report)
     else:
         print("Please provide a task number and finetune bool (0 or 1) as a command-line argument.")

@@ -1,4 +1,0 @@
-This record is an Observation of Leukocytes [#/volume] in Blood by Automated count that was performed on February 28, 2021, and the result is 4.5212.
-This record is an Observation for Pain severity - 0-10 verbal numeric rating [Score] - Reported that was reported by a patient on February 28, 2021.
-This record is an Observation of Leukocytes [#/volume] in Blood by Automated count that was taken on February 28, 2021, and the value is 4.5212.
-This record is an Observation with a Pain severity score of 0-10 verbal numeric rating reported by a patient.

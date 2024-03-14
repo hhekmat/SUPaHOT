@@ -1,4 +1,0 @@
-This record is an Observation of Pain severity - 0-10 verbal numeric rating [Score] - Reported that was taken by Dr. Alexa Casper on December 28, 2020.
-This record is an Observation of Pain severity - 0-10 verbal numeric rating [Score] - Reported that was reported by a patient on July 7, 2020.
-This record is an Observation of Pain severity - 0-10 verbal numeric rating [Score] - Reported that was reported by a patient on December 28, 2020.
-This record is an Observation of a Pain severity score of 1 reported by a patient on July 7, 2020.

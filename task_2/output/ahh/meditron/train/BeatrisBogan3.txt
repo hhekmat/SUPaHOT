@@ -1,2 +1,0 @@
-This record is an Encounter for a patient with aortic valve stenosis at the Fitchburg Outpatient Clinic.
-This record is an Encounter for a patient with aortic valve stenosis (disorder) that was performed by Dr. Ted Reilly at the Fitchburg Outpatient Clinic on May 2, 2019.

@@ -1,4 +1,0 @@
-This record is an Immunization for rotavirus, monovalent that was given to a patient on October 11, 2015.
-This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo on April 24, 2022, at Blueskies Wellness Inc.
-This record is an Immunization for rotavirus, monovalent that was administered to a patient on October 11, 2015.
-This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo and took place at BLUESKIES WELLNESS INC on April 24, 2022.
