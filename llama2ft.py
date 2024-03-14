@@ -8,8 +8,10 @@ import time
 from transformers import pipeline, AutoModelForCausalLM, AutoTokenizer
 from preprocess import global_resource_dict, populate_global_resources
 
+api_token = os.getenv('TOGETHER_API_KEY')
+
 API_URL = "https://api-inference.huggingface.co/models/meta-llama/Llama-2-7b-hf"
-headers = {"Authorization": "Bearer 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"}
+headers = {f"Authorization": {api_token}}
 
 '''# Initialize the LLaMA model and tokenizer for the chat model
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")

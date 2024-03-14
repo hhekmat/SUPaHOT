@@ -8,6 +8,8 @@ import time
 from transformers import pipeline, AutoModelForCausalLM, AutoTokenizer
 from preprocess import global_resource_dict, populate_global_resources
 
+api_token = os.getenv('TOGETHER_API_KEY')
+
 API_URL = "https://api-inference.huggingface.co/models/meta-llama/Llama-2-7b-hf"
 headers = {"Authorization": "Bearer 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"}
 
@@ -36,7 +38,7 @@ def giveup_condition(details):
 def generate_llama_response(user_prompt, task_prompt):
     endpoint = 'https://api.together.xyz/v1/chat/completions'
     headers = {
-        "Authorization": "Bearer a193382b77b10e1ff4e14de27334215b3df3b15f43f7ad7953acce135a5f4622"
+        "Authorization": f"Bearer {api_token}"
     }
 
     try:
