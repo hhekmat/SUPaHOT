@@ -24,10 +24,10 @@ def read_txt_files_into_dict(directory):
 
 def load_data(task, ft):
     if ft == 0:
-        meditron_dict = read_txt_files_into_dict(f"./task_{task}/meditron/test")
+        meditron_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
     else:
-        meditron_dict = read_txt_files_into_dict(f"./task_{task}/meditron_ft/test")
-    oracle_dict = read_txt_files_into_dict(f"./task_{task}/oracle/test")
+        meditron_dict = read_txt_files_into_dict(f"./task_{task}/output/meditron/test")
+    oracle_dict = read_txt_files_into_dict(f"./task_{task}/output/oracle/test")
     
     meditron_list = []
     oracle_list = []
