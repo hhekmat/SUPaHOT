@@ -24,7 +24,7 @@ def get_instruct_template(user_msg, model_answer, system_prompt):
     <</SYS>>
 
     {user_msg} [/INST] {model_answer} </s>"""
-    return instruct_template.format(user_msg=user_msg, model_answer=model_answer, system_prompt=system_prompt)
+    return instruct_template#.format(user_msg=user_msg, model_answer=model_answer, system_prompt=system_prompt)
 
 def write_task_1():
     types = ["train", "val"]
@@ -72,20 +72,36 @@ def write_task_2():
                 user_msg = resources[i]
                 model_answer = summaries[i]
                 system_prompt = system_prompt_task_2
-                print(i)
-                print(user_msg)
-                print(model_answer)
-                print(system_prompt)
+                line = {"text": get_instruct_template(user_msg, model_answer, system_prompt)}
+                file.write(json.dumps(line) + '\n')
+
+def write_task_3():
+    types = ["train", "val"]
+    for type in types:
+        read_path = f"ft_datasets/task_3/task_3_{type}.jsonl"
+        write_path = f"llama_ft_datasets/task_3/task_3_{type}.jsonl"
+        queries = []
+        resource_summaries = []
+        answers = []
+        with open(read_path, 'r') as file:
+            for line in file:
+                data = json.loads(line)
+                queries.append(data['query'])
+                resource_summaries.append(data['resource_summaries'])
+                answers.append(data['answer'])
+        
+        with open(write_path, 'w') as file:
+            for i in range(len(queries)):
+                user_msg = queries[i] + ' '
+                user_msg += ", ".join(resource_summaries[i])
+                model_answer = answers[i]
+                system_prompt = system_prompt_task_3
+                
                 line = {"text": get_instruct_template(user_msg, model_answer, system_prompt)}
                 file.write(json.dumps(line) + '\n')
 
 def main():
-    write_task_2()
-
-    
-
-
-            
+    write_task_3()
 
 if __name__ == '__main__':
     main()
