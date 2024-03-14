@@ -1,0 +1,13 @@
+Procedure Depression screening (procedure) 07-06-2023
+Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 06-30-2022
+Encounter Encounter for problem 09-19-2022
+Procedure Assessment of health and social care needs (procedure) 01-05-2023
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-06-2023
+MedicationRequest Vitamin B12 5 MG/ML Injectable Solution 06-29-2017
+Encounter Encounter for problem 09-30-2022
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 12-27-2018
+Procedure Certification procedure (procedure) 02-09-2023
+Encounter Postoperative follow-up visit (procedure) 09-07-2023
+Condition Ischemic heart disease (disorder) 03-18-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2023

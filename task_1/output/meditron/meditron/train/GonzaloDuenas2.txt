@@ -1,0 +1,14 @@
+Encounter Encounter for problem 08-22-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-27-2018
+Observation Chloride [Moles/volume] in Blood 07-06-2023
+Encounter General examination of patient (procedure) 07-06-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 07-06-2023
+Immunization Influenza, seasonal, injectable, preservative free 12-27-2018
+Encounter Admission to hospice (procedure) 02-09-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-24-2021
+Encounter Admission to surgical transplant department (procedure) 09-26-2021
+Procedure Hospice care (regime/therapy) 02-23-2023
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 09-28-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2023
+Encounter Admission to surgical transplant department (procedure) 09-26-2021
+Observation Body Weight 01-05-2023

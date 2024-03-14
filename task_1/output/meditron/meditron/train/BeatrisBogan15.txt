@@ -1,0 +1,13 @@
+Observation Blood pressure panel with all children optional 04-30-2023
+Encounter Well child visit (procedure) 04-18-2021
+Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022
+Observation Body Height 02-28-2021
+Encounter Encounter for check up (procedure) 03-06-2022
+Condition Aortic valve stenosis (disorder) 05-02-2019
+Condition Perennial allergic rhinitis 08-22-2017
+Immunization DTaP 04-12-2020
+Encounter Well child visit (procedure) 04-30-2023
+Observation Body Height 04-24-2022
+Observation Tobacco smoking status 04-12-2020
+Observation MCV [Entitic volume] by Automated count 02-28-2021
+MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016

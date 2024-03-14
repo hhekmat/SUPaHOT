@@ -1,0 +1,14 @@
+Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023
+Observation Tobacco smoking status 03-15-2023
+Procedure Assessment of substance use (procedure) 01-04-2023
+Procedure Medication Reconciliation (procedure) 12-29-2021
+Encounter Encounter for check up (procedure) 12-16-2020
+Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023
+Observation Appearance of Urine 09-27-2023
+Observation Clarity of Urine 09-27-2023
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 03-09-2022
+Encounter Encounter for problem (procedure) 02-05-2014
+Encounter General examination of patient (procedure) 12-01-2004
+Procedure Assessment of substance use (procedure) 09-27-2023
+Condition Full-time employment (finding) 01-04-2023
+Encounter Encounter for check up (procedure) 01-23-2019

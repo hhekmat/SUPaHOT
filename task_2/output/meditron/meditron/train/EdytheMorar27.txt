@@ -1,0 +1,4 @@
+This record is an Observation of Glucose of 72.18 mg/dL that was measured on July 7, 2020.
+This record is an observation of a blood glucose level of 72.18 mg/dL that was measured on July 7, 2020.
+This record is an Observation for Glucose that was measured on July 7, 2020, at 12:03 AM.
+This record is an Observation of Glucose 72.18 mg/dL that was measured on July 7, 2020.

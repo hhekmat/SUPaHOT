@@ -1,0 +1,16 @@
+Immunization Hep B, adult 08-28-2019
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
+Observation MCH [Entitic mass] by Automated count 12-02-2020
+Procedure Oxygen administration by mask (procedure) 12-01-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-08-2021
+Procedure Oxygen administration by mask (procedure) 11-24-2020
+Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020
+Procedure Placing subject in prone position (procedure) 12-01-2020
+Procedure Depression screening (procedure) 09-08-2021
+Observation Body temperature 12-03-2020
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
+Encounter Well child visit (procedure) 07-18-2012
+Immunization Influenza, seasonal, injectable, preservative free 09-02-2020
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016
+Observation Eosinophils [#/volume] in Blood by Automated count 12-02-2020
+Procedure Placing subject in prone position (procedure) 11-21-2020

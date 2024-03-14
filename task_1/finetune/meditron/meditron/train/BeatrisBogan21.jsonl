@@ -1,0 +1,15 @@
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Procedure Medication Reconciliation (procedure) 05-03-2015", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Observation Body temperature 10-02-2023", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Immunization rotavirus, monovalent 10-11-2015", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Observation Body temperature 02-17-2021", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Condition Perennial allergic rhinitis 08-22-2017", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Immunization IPV 04-12-2020", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Immunization Hib (PRP-OMP) 07-10-2016", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Encounter Well child visit (procedure) 04-08-2018", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Immunization MMR 04-12-2020", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Immunization DTaP 08-09-2015", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Encounter Well child visit (procedure) 04-10-2016", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 02-28-2021", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Observation Body mass index (BMI) [Ratio] 04-30-2023", "label": "True"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Procedure Referral for echocardiography (procedure) 02-01-2020", "label": "True"}

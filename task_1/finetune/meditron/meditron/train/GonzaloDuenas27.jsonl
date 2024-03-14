@@ -1,0 +1,14 @@
+{"query": "\"When was my last flu shot?\"", "resource": "Procedure Cytopathology procedure, preparation of smear, genital source (procedure) 09-07-2023", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Encounter Encounter for problem 09-07-2022", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Encounter Encounter for problem 09-12-2022", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Encounter Encounter for symptom 12-25-2022", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2022", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-07-2018", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-06-2023", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-27-2018", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Encounter Postoperative follow-up visit (procedure) 10-05-2021", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Procedure Hospice care (regime/therapy) 02-09-2023", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 08-20-2015", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-21-2022", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 12-27-2018", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2022", "label": "True"}

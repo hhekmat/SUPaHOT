@@ -1,0 +1,11 @@
+{"query": "\"When was my last flu shot?\"", "resource": "Encounter General examination of patient (procedure) 06-07-1977", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Condition Served in armed forces (finding) 02-24-1959", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-25-2021", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-12-2016", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Encounter General examination of patient (procedure) 06-13-1978", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 12-20-2011", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Observation Chloride 02-04-2020", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-31-2013", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Encounter General examination of patient (procedure) 12-14-2010", "label": "True"}
+{"query": "\"When was my last flu shot?\"", "resource": "Procedure Bone immobilization 01-04-2012", "label": "True"}

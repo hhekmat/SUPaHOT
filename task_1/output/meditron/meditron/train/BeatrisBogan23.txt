@@ -1,0 +1,16 @@
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021
+Observation Blood pressure panel with all children optional 04-18-2021
+Observation Leukocytes [#/volume] in Blood by Automated count 02-28-2021
+Procedure Medication Reconciliation (procedure) 01-10-2016
+Procedure Medication Reconciliation (procedure) 06-07-2015
+Observation Body Height 04-24-2022
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021
+Encounter Encounter for problem (procedure) 05-02-2019
+Observation Hematocrit [Volume Fraction] of Blood by Automated count 02-28-2021
+Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021
+Procedure Transthoracic echocardiography (procedure) 05-02-2019
+Observation Body mass index (BMI) [Percentile] Per age and sex 02-28-2021
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 02-28-2021
+Immunization Pneumococcal conjugate PCV 13 07-10-2016
+Immunization MMR 07-10-2016
+MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016

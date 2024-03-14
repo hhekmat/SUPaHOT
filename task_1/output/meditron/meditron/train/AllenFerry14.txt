@@ -1,0 +1,13 @@
+Procedure Electrical cardioversion 12-31-2013
+MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015
+MedicationRequest lisinopril 10 MG Oral Tablet 12-08-2009
+Procedure Depression screening (procedure) 01-06-2015
+Encounter General examination of patient (procedure) 12-31-2013
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-25-2012
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-12-2016
+MedicationRequest Digoxin 0.125 MG Oral Tablet 12-31-2013
+Observation Creatinine 01-29-2019
+Observation Blood Pressure 02-04-2020
+Encounter Encounter for 'check-up' 06-10-1978
+Observation Body Mass Index 01-29-2019
+Encounter General examination of patient (procedure) 09-13-1994

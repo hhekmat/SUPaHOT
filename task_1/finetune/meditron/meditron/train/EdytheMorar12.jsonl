@@ -1,0 +1,15 @@
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Observation Glucose 12-28-2020", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Encounter Consultation for treatment 01-21-2021", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Encounter Consultation for treatment 03-30-2003", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Encounter General examination of patient (procedure) 07-07-2020", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Procedure Screening for drug abuse (procedure) 06-24-2014", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Observation Platelets [#/volume] in Blood by Automated count 07-07-2020", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12-29-2020", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Condition Anemia (disorder) 08-17-1993", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Encounter Encounter for check up (procedure) 07-13-1999", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Encounter Consultation for treatment 02-13-2015", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Observation Respiratory rate 07-07-2020", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Observation Body Height 07-07-2020", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Procedure Screening for domestic abuse (procedure) 06-28-2016", "label": "True"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Procedure Intramuscular injection 01-27-2020", "label": "True"}

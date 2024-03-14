@@ -1,0 +1,4 @@
+This record is an Observation of Potassium that was measured on February 9, 2021, and has a value of 4.79 mmol/L.
+This record is an Observation of Potassium that was measured on February 9, 2021, and the value is 4.79 mmol/L.
+This record is an Observation of Potassium with a value of 4.79 mmol/L that was measured on February 9, 2021.
+This record is a Potassium test that was ordered by Dr. Alexa Casper on February 9, 2021.

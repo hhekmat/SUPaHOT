@@ -1,0 +1,14 @@
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Observation Glucose [Mass/volume] in Blood 01-05-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-26-2002", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-28-2019", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 07-06-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Procedure Hospice care (regime/therapy) 02-23-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Observation Body mass index (BMI) [Ratio] 07-06-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Procedure Hospice care (regime/therapy) 03-01-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Procedure Hospice care (regime/therapy) 03-06-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-05-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-06-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Observation Tobacco smoking status 07-06-2023", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "Encounter Encounter for problem 09-22-2022", "label": "True"}
+{"query": "When was my last prescription for tacrolimus filled?", "resource": "MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 03-25-2021", "label": "True"}

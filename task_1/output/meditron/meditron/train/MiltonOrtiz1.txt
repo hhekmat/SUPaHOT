@@ -1,0 +1,13 @@
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-08-2021
+Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020
+Observation Body Weight 12-02-2020
+Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021
+MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012
+Immunization Td (adult) preservative free 08-22-2018
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-22-2018
+Observation Monocytes/100 leukocytes in Blood by Automated count 12-02-2020
+Immunization Hep B, adult 08-16-2017
+Observation Lymphocytes [#/volume] in Blood by Automated count 12-02-2020
+Condition Full-time employment (finding) 09-08-2021
+Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020
+Procedure Placing subject in prone position (procedure) 11-27-2020

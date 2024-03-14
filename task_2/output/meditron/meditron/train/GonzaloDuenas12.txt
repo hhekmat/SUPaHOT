@@ -1,0 +1,3 @@
+This record is a Medication Request for Hydrochlorothiazide 25 MG Oral Tablet that was ordered by Dr. January Roberts for a patient on December 27, 2018, but the status is marked as stopped.
+This record is a Medication Request for Hydrochlorothiazide 25 MG Oral Tablet that was ordered by Dr. January Roberts and later stopped on February 28, 2019.
+This record is a Medication Request for Hydrochlorothiazide 25 MG Oral Tablet that was ordered by Dr. Duane Bosco and later marked as active on July 6, 2023.

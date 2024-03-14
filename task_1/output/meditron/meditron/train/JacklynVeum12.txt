@@ -1,0 +1,14 @@
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020
+Condition Sprain of ankle 10-31-2023
+Observation Ketones [Presence] in Urine by Test strip 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2022
+Encounter Encounter for problem (procedure) 02-11-2014
+MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014
+Procedure Assessment of anxiety (procedure) 02-09-2022
+MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014
+Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022
+Encounter Prenatal initial visit 09-05-2001
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 10-06-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022
+Observation Ketones [Mass/volume] in Urine by Test strip 09-27-2023

@@ -1,0 +1,16 @@
+Observation Body mass index (BMI) [Ratio] 02-28-2021
+Encounter Encounter for problem 09-13-2015
+Procedure Transthoracic echocardiography (procedure) 03-28-2023
+MedicationRequest Penicillin V Potassium 250 MG Oral Tablet 02-17-2021
+Observation Tobacco smoking status 02-28-2021
+Observation Hemoglobin [Mass/volume] in Blood 02-28-2021
+Observation Body mass index (BMI) [Ratio] 04-24-2022
+Immunization Influenza, seasonal, injectable, preservative free 03-06-2022
+Procedure Transthoracic echocardiography (procedure) 02-01-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-30-2023
+Immunization rotavirus, monovalent 10-11-2015
+Procedure Transthoracic echocardiography (procedure) 05-29-2021
+Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021
+Encounter Well child visit (procedure) 05-03-2015
+Observation Heart rate 04-24-2022
+MedicationRequest Acetaminophen 160 MG Chewable Tablet 11-23-2016

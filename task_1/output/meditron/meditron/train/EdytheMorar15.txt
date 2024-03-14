@@ -1,0 +1,16 @@
+Procedure Medication Reconciliation (procedure) 12-28-2020
+Observation Calcium 12-28-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020
+Observation Calcium 12-28-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020
+Observation Low Density Lipoprotein Cholesterol 07-07-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 12-28-2020
+Encounter Cardiac Arrest 06-19-2018
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 07-07-2020
+Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-07-2020
+MedicationRequest Jolivette 28 Day Pack 03-30-2003
+MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
+Encounter Patient encounter procedure 02-07-2017
+Observation MCHC [Mass/volume] by Automated count 07-07-2020
+Encounter Consultation for treatment 01-27-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 12-28-2020

@@ -1,0 +1,16 @@
+Encounter Encounter for check up (procedure) 04-15-2015
+Observation Bilirubin.total [Presence] in Urine by Test strip 03-15-2023
+Encounter Urgent care clinic (environment) 01-05-2022
+Encounter General examination of patient (procedure) 06-06-1973
+Encounter Encounter for check up (procedure) 11-11-2020
+Observation Tobacco smoking status 09-27-2023
+Observation Tobacco smoking status 03-15-2023
+Observation Heart rate 09-27-2023
+Procedure Medication Reconciliation (procedure) 01-04-2023
+Observation Ketones [Mass/volume] in Urine by Test strip 09-27-2023
+Encounter Encounter for check up (procedure) 10-06-2021
+Condition Sprain (morphologic abnormality) 10-31-2023
+Encounter Urgent care clinic (environment) 12-29-2021
+Observation Glucose [Mass/volume] in Urine by Test strip 03-15-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2022

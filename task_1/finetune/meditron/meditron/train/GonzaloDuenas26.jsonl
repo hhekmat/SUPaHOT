@@ -1,0 +1,18 @@
+{"query": "\"When was my last blood pressure check?\"", "resource": "Procedure Notifications (procedure) 02-09-2023", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Observation Blood pressure panel with all children optional 07-06-2023", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-06-2023", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Procedure Hospice care (regime/therapy) 02-20-2023", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-13-2019", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Condition Prediabetes 03-18-2010", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Procedure Hospice care (regime/therapy) 02-27-2023", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 03-18-2021", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 01-05-2023", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Encounter Encounter for symptom (procedure) 08-02-2022", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Encounter Encounter for problem 09-18-2022", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Procedure Depression screening (procedure) 07-06-2023", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Procedure Hospice care (regime/therapy) 02-09-2023", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Encounter Encounter for problem 09-15-2022", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Encounter Encounter for problem 08-25-2022", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 03-03-2022", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "MedicationRequest Clopidogrel 75 MG Oral Tablet 03-25-2021", "label": "True"}
+{"query": "\"When was my last blood pressure check?\"", "resource": "Procedure Assessment of substance use (procedure) 07-06-2023", "label": "True"}

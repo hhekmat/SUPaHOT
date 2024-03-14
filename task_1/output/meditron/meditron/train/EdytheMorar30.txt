@@ -1,0 +1,13 @@
+Encounter General examination of patient (procedure) 08-27-2002
+Observation Chloride 12-28-2020
+Condition Victim of intimate partner abuse (finding) 08-20-1996
+MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019
+Immunization Influenza, seasonal, injectable, preservative free 07-03-2018
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-28-2020
+Procedure Assessment of anxiety (procedure) 12-28-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-07-2020
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020
+Observation Urea Nitrogen 07-07-2020
+MedicationRequest Jolivette 28 Day Pack 03-30-2003
+Procedure Intramuscular injection 01-27-2020
+Procedure Assessment of substance use (procedure) 06-24-2014

@@ -1,0 +1,16 @@
+Encounter Well child visit (procedure) 04-30-2023
+Observation Body mass index (BMI) [Ratio] 04-24-2022
+Immunization IPV 08-09-2015
+Encounter Encounter for problem (procedure) 05-02-2019
+Encounter Well child visit (procedure) 05-03-2015
+Procedure Medication Reconciliation (procedure) 07-10-2016
+Procedure Medication Reconciliation (procedure) 04-24-2022
+Observation Body Height 02-28-2021
+Immunization Hep A, ped/adol, 2 dose 07-10-2016
+Observation Body Height 03-06-2022
+Observation Tobacco smoking status 04-18-2021
+Immunization Hep B, adolescent or pediatric 01-10-2016
+Observation Body Height 03-06-2022
+Encounter Encounter for symptom 11-23-2016
+Observation Body mass index (BMI) [Ratio] 04-18-2021
+Immunization Pneumococcal conjugate PCV 13 08-09-2015

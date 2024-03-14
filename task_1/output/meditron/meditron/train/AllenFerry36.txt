@@ -1,0 +1,11 @@
+Observation Urea Nitrogen 01-29-2019
+Immunization Influenza, seasonal, injectable, preservative free 12-31-2013
+Observation Body Mass Index 01-29-2019
+Observation Total score [MMSE] 02-09-2021
+Immunization Td (adult) preservative free 12-25-2012
+Observation Calcium 02-04-2020
+Observation Glucose 01-29-2019
+Condition Received higher education (finding) 02-24-1959
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-31-2013
+Procedure Catheter ablation of tissue of heart 01-29-2019
+Encounter General examination of patient (procedure) 05-04-1971

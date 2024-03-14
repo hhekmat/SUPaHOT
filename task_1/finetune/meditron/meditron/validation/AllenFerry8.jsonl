@@ -1,0 +1,15 @@
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Observation Total score [MMSE] 02-09-2021", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Procedure Depression screening (procedure) 01-06-2015", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "MedicationRequest Galantamine 4 MG Oral Tablet 02-09-2021", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-06-2015", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-04-2020", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Encounter General examination of patient (procedure) 09-30-1997", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-31-2013", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Observation Body Mass Index 02-04-2020", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Observation Triglycerides 02-04-2020", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Procedure Bone density scan (procedure) 01-04-2012", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Observation Body Weight 02-04-2020", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-14-2010", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Condition Alzheimer's disease (disorder) 02-09-2021", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "Encounter General examination of patient (procedure) 09-30-1997", "label": "True"}
+{"query": "What was my cognitive function score on February 9th, 2021?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-08-2009", "label": "True"}

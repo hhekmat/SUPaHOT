@@ -1,0 +1,18 @@
+Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023
+Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022
+Observation Ketones [Mass/volume] in Urine by Test strip 09-27-2023
+Encounter General examination of patient (procedure) 01-16-2013
+Encounter Emergency room admission (procedure) 12-22-2021
+Encounter Encounter for check up (procedure) 11-11-2015
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2022
+Observation Tobacco smoking status 09-27-2023
+Procedure Assessment of substance use (procedure) 03-15-2023
+Condition Essential hypertension (disorder) 06-06-1973
+Procedure Assessment of anxiety (procedure) 02-09-2022
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 06-08-2022
+Observation Ketones [Mass/volume] in Urine by Test strip 09-27-2023
+Observation Color of Urine 03-15-2023
+Encounter General examination of patient (procedure) 05-28-1969
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015
+Procedure Medication Reconciliation (procedure) 10-05-2022
+Encounter Encounter for check up (procedure) 02-16-2022

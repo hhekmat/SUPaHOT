@@ -1,0 +1,2 @@
+This record is an Observation of Hemoglobin in Blood that was measured on July 7, 2020, and the value is 16.812 g/dL.
+This record is an Observation of Hemoglobin [Mass/volume] in Blood that was measured on July 7, 2020, at 12:03 AM.

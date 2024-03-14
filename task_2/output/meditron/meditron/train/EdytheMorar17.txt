@@ -1,0 +1,2 @@
+This record is an Observation of a Body Mass Index of 32.02 kg/m2 that was measured on December 28, 2020.
+This record is an Observation of a Body Mass Index of 32.02 kg/m2 for a patient on December 28, 2020.

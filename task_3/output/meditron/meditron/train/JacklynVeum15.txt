@@ -1,0 +1,1 @@
+Based on your medical record, on May 11, 1966, a confirmed active condition of "Risk activity involvement" was diagnosed during an encounter for the patient referenced by 'urn:uuid:e0e1f21a-22a7-d166-7bb1-63f6bbce1a32'.

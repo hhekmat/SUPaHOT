@@ -1,0 +1,4 @@
+This record is an Observation of a Hematocrit [Volume Fraction] of Blood by Automated count that was measured on July 7, 2020, by Dr. Alexa Casper.
+This record is an Observation of Erythrocytes [#/volume] in Blood by Automated count that was measured on July 7, 2020, at 12:03 AM.
+This record is an Observation of a Hematocrit of 41.148% that was measured on July 7, 2020.
+This record is an Observation of Erythrocytes [#/volume] in Blood by Automated count that was performed on July 7, 2020, on a patient with a blood count of 3.9809*10^6/uL.

@@ -1,0 +1,6 @@
+This record is an Observation of Erythrocytes [#/volume] in Blood by Automated count that was measured on February 28, 2021, and the value is 4.459.
+This record is an Observation of Hematocrit [Volume Fraction] of Blood by Automated count that was measured on February 28, 2021, at 1:37 PM.
+This record is an Observation of Erythrocytes [#/volume] in Blood by Automated count that was measured on February 28, 2021, and the value is 4.459.
+This record is an Observation of Hematocrit [Volume Fraction] of Blood by Automated count that was taken by Dr. Alexa Casper on February 28, 2021.
+This record is an Observation of Erythrocytes [#/volume] in Blood by Automated count that was measured on February 28, 2021, and the result is 4.459.
+This record is an Observation of Hematocrit [Volume Fraction] of Blood by Automated count that was measured on February 28, 2021, and the value is 38.058.

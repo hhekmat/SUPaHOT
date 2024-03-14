@@ -1,0 +1,15 @@
+Encounter Emergency room admission (procedure) 01-04-2012
+Observation Body Weight 02-09-2021
+Observation Blood Pressure 01-29-2019
+Procedure Electrical cardioversion 12-20-2011
+MedicationRequest lisinopril 10 MG Oral Tablet 12-14-2010
+Encounter General examination of patient (procedure) 12-14-2010
+Immunization Influenza, seasonal, injectable, preservative free 01-23-2018
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-25-2012
+Encounter Encounter for 'check-up' 04-19-2012
+MedicationRequest Digoxin 0.125 MG Oral Tablet 01-29-2019
+Encounter General examination of patient (procedure) 04-28-1970
+Observation Blood Pressure 02-04-2020
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-04-2020
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-08-2009
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-29-2019

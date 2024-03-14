@@ -1,0 +1,14 @@
+Observation Urea Nitrogen 01-29-2019
+Observation Triglycerides 02-04-2020
+MedicationRequest lisinopril 10 MG Oral Tablet 01-12-2016
+Procedure Assessment of health and social care needs (procedure) 02-04-2020
+Encounter General examination of patient (procedure) 11-27-2007
+Encounter General examination of patient (procedure) 05-09-1972
+Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 01-29-2019
+Encounter General examination of patient (procedure) 05-04-1971
+Encounter General examination of patient (procedure) 06-01-1976
+Immunization Influenza, seasonal, injectable, preservative free 01-29-2019
+Encounter Outpatient procedure 09-03-1993
+Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018
+Encounter General examination of patient (procedure) 04-28-1970
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-04-2020

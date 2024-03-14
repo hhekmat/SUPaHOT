@@ -1,0 +1,12 @@
+This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo and took place at BLUESKIES WELLNESS INC on April 18, 2021.
+This record is an observation of a Body Mass Index (BMI) of 14.35 kg/m2 for a patient on April 24, 2022.
+This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo on October 7, 2018, at Blueskies Wellness Inc.
+This record is an Observation of a Body mass index (BMI) [Percentile] Per age and sex that was measured on February 28, 2021, for a patient with a weight of 29.376 kg and a height of 1.524 m.
+This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo on April 18, 2021.
+This record is an observation of a body mass index (BMI) of 14.35 kg/m2 for a patient on April 24, 2022.
+This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo on October 7, 2018, at Blueskies Wellness Inc.
+This record is an observation of a body mass index (BMI) of 29.376 percentile for a patient on February 28, 2021.
+This record is an encounter for a well child visit (procedure) that was performed by Dr. Elisa Rojo on April 18, 2021.
+This record is an observation of a Body Mass Index (BMI) of 14.35 kg/m2 for a patient on April 24, 2022.
+This record is an Encounter for a Well child visit (procedure) that was performed by Dr. Elisa Rojo and later finished on October 7, 2018.
+This record is an Observation of Body mass index (BMI) [Percentile] Per age and sex that was measured on February 28, 2021, at 1:37 PM.

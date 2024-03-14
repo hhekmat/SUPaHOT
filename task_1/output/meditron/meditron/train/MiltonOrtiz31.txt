@@ -1,0 +1,13 @@
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-08-2021
+Immunization Td (adult) preservative free 08-22-2018
+Encounter Encounter for symptom 07-20-2014
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
+Encounter Hypertension follow-up encounter 09-04-2015
+Immunization meningococcal MCV4P 07-24-2013
+Procedure Assessment of anxiety (procedure) 08-10-2016
+Observation C reactive protein [Mass/volume] in Serum or Plasma 12-01-2020
+Procedure Assessment of substance use (procedure) 09-08-2021
+Encounter Well child visit (procedure) 07-18-2012
+Immunization Influenza, seasonal, injectable, preservative free 08-28-2019
+Observation Oxygen saturation in Arterial blood 12-02-2020
+Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020

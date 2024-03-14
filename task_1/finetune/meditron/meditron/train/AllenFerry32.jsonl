@@ -1,0 +1,11 @@
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-08-2009", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Heart rate 02-04-2020", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter General examination of patient (procedure) 05-27-1975", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter General examination of patient (procedure) 10-17-2000", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter General examination of patient (procedure) 12-14-2010", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Condition Chronic sinusitis (disorder) 05-15-1941", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Glucose 01-29-2019", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter General examination of patient (procedure) 09-01-1992", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Procedure Electrical cardioversion 12-25-2012", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Observation Sodium 01-29-2019", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion?\"", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 05-25-2021", "label": "True"}

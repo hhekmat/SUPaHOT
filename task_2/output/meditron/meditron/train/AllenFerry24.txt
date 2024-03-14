@@ -1,0 +1,4 @@
+This record is an Observation of Hemoglobin A1c/Hemoglobin.total in Blood that was measured on February 9, 2021, and the value is 5.81%.
+This record is an Observation of Hemoglobin A1c/Hemoglobin.total in Blood that was measured on February 9, 2021.
+This record is an Observation for Hemoglobin A1c/Hemoglobin.total in Blood that was measured on February 9, 2021.
+This record is an observation of Hemoglobin A1c/Hemoglobin.total in Blood that was measured on February 9, 2021, and the value is 5.81%.

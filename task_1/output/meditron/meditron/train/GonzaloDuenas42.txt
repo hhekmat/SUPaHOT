@@ -1,0 +1,13 @@
+Encounter Encounter for problem 08-29-2022
+Procedure Hospice care (regime/therapy) 02-25-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 03-17-2022
+Encounter Encounter for check up (procedure) 03-24-2022
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 12-27-2018
+Procedure Depression screening (procedure) 01-05-2023
+Observation Glucose [Mass/volume] in Blood 01-05-2023
+Encounter Postoperative follow-up visit (procedure) 10-05-2021
+Procedure Hospice care (regime/therapy) 02-16-2023
+Encounter General examination of patient (procedure) 06-30-2022
+Encounter Postoperative follow-up visit (procedure) 10-05-2021
+Encounter Encounter for problem 09-13-2022
+Observation Chloride [Moles/volume] in Blood 07-06-2023

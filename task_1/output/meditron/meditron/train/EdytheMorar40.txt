@@ -1,0 +1,12 @@
+MedicationRequest Jolivette 28 Day Pack 03-17-2006
+MedicationRequest Jolivette 28 Day Pack 03-17-2006
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-07-2020
+Observation Chloride 07-07-2020
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 04-27-2021
+Immunization Influenza, seasonal, injectable, preservative free 07-03-2018
+Observation Carbon Dioxide 12-28-2020
+Procedure Assessment of health and social care needs (procedure) 07-03-2018
+Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021
+Procedure Medication Reconciliation (procedure) 06-28-2016
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018
+MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018

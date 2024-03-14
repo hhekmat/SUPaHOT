@@ -1,0 +1,16 @@
+Procedure Assessment of health and social care needs (procedure) 01-23-2018
+Encounter General examination of patient (procedure) 05-04-1971
+Encounter General examination of patient (procedure) 10-29-2002
+Observation Sodium 01-29-2019
+Encounter General examination of patient (procedure) 08-15-1989
+Condition Served in armed forces (finding) 02-24-1959
+MedicationRequest Verapamil Hydrochloride 40 MG 01-23-2018
+Observation Heart rate 02-09-2021
+Condition Anemia (disorder) 05-15-1973
+Encounter General examination of patient (procedure) 09-13-1994
+Encounter General examination of patient (procedure) 12-02-2008
+Observation Total score [HARK] 02-04-2020
+Procedure Assessment of health and social care needs (procedure) 01-23-2018
+Observation Creatinine 01-29-2019
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-14-2010
+Encounter General examination of patient (procedure) 10-12-1999

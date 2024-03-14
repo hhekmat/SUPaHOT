@@ -1,0 +1,15 @@
+Observation Triglycerides 02-04-2020
+Observation Tobacco smoking status NHIS 01-29-2019
+Procedure Depression screening (procedure) 12-20-2011
+Procedure Assessment of anxiety (procedure) 01-29-2019
+Procedure Assessment of health and social care needs (procedure) 01-17-2017
+Encounter Emergency room admission (procedure) 01-04-2012
+Observation Glucose 02-09-2021
+MedicationRequest lisinopril 10 MG Oral Tablet 12-08-2009
+MedicationRequest Verapamil Hydrochloride 40 MG 11-08-2011
+Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018
+Procedure Assessment using Morse Fall Scale (procedure) 12-25-2012
+Observation Total Cholesterol 02-04-2020
+MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015
+Procedure Assessment using Morse Fall Scale (procedure) 02-09-2021
+Procedure Assessment of anxiety (procedure) 01-12-2016

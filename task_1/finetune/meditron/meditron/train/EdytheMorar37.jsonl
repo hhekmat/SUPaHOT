@@ -1,0 +1,14 @@
+{"query": "When was my anemia diagnosed?", "resource": "Observation Body Height 12-28-2020", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Condition Anemia (disorder) 08-17-1993", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Encounter Consultation for treatment 01-21-2021", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Encounter General examination of patient (procedure) 08-24-1999", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Encounter Prenatal visit 09-02-2008", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Observation Creatinine 12-28-2020", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Observation Sodium 07-07-2020", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Encounter Consultation for treatment 02-13-2015", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Encounter Consultation for treatment 03-22-2005", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Immunization Td (adult) preservative free 06-28-2016", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "MedicationRequest Phenazopyridine hydrochloride 100 MG Oral Tablet 04-25-2019", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Procedure Intramuscular injection 01-27-2020", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Encounter General examination of patient (procedure) 07-03-2018", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Observation Hemoglobin [Mass/volume] in Blood 07-07-2020", "label": "True"}

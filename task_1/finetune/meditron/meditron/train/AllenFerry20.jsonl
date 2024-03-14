@@ -1,0 +1,15 @@
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Condition Carcinoma in situ of prostate (disorder) 11-03-2004", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Encounter General examination of patient (procedure) 07-12-1983", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Encounter General examination of patient (procedure) 06-24-1980", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Encounter General examination of patient (procedure) 06-19-1979", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Encounter General examination of patient (procedure) 06-30-1981", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Procedure Depression screening (procedure) 02-04-2020", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 12-31-2013", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-17-2017", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Observation Body Mass Index 01-29-2019", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Observation Chloride 02-04-2020", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 01-23-2018", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Observation Body Height 02-04-2020", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-29-2019", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Procedure Medication Reconciliation (procedure) 01-12-2016", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2021", "label": "True"}

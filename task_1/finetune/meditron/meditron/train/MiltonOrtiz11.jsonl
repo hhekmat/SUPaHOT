@@ -1,0 +1,11 @@
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Encounter General examination of patient (procedure) 08-05-2015", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Immunization Hep B, adult 08-28-2019", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-28-2019", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Procedure Assessment of anxiety (procedure) 08-28-2019", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Procedure Screening for drug abuse (procedure) 08-28-2019", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Observation Oxygen saturation in Arterial blood 12-02-2020", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Encounter Encounter for symptom 12-21-2012", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Observation Procalcitonin [Mass/volume] in Serum or Plasma 12-01-2020", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Encounter Hypertension follow-up encounter 09-04-2015", "label": "True"}
+{"query": "What symptom did I have an encounter for on December 21, 2012?", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-08-2021", "label": "True"}

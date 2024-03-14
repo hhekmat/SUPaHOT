@@ -1,0 +1,14 @@
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023
+Encounter Encounter for problem 08-26-2022
+Encounter Encounter for symptom 12-25-2022
+Observation Leukocytes [#/volume] in Blood by Automated count 07-06-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-17-2022
+Procedure Hospice care (regime/therapy) 03-02-2023
+Encounter Encounter for problem 09-10-2022
+Encounter Encounter for problem (procedure) 09-23-2021
+Procedure External beam radiation therapy procedure (procedure) 09-19-2022
+Encounter Encounter for problem 09-22-2022
+Observation Respiratory rate 07-06-2023
+Procedure Development of individualized plan of care (procedure) 02-09-2023
+Procedure Hospice care (regime/therapy) 02-18-2023
+MedicationRequest Clopidogrel 75 MG Oral Tablet 03-25-2021

@@ -1,0 +1,10 @@
+This record is an Encounter for a General Examination of Patient (Procedure) that was performed by Dr. Alexa Casper on August 4, 1987.
+This record is an encounter for a check-up that was performed by Dr. Alexa Casper on June 10, 1978, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient performed by Dr. Alexa Casper on July 12, 1983.
+This record is an Encounter for Mr. Allen Ferry at the Worcester Outpatient Clinic on July 6, 1982.
+This record is an Encounter for Mr. Allen Ferry at the Worcester Outpatient Clinic on January 17, 2017.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on August 4, 1987.
+This record is an Encounter for a check-up that was performed by Dr. Alexa Casper on June 10, 1978, for a patient at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper on July 12, 1983, at the Worcester Outpatient Clinic.
+This record is an Encounter for a General Examination of a patient that was performed by Dr. Alexa Casper on July 6, 1982.
+This record is an Encounter for Mr. Allen Ferry that was performed by Dr. Alexa Casper at the Worcester Outpatient Clinic on January 17, 2017.

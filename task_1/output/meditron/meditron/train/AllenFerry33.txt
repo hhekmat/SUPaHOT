@@ -1,0 +1,13 @@
+Procedure Screening for domestic abuse (procedure) 01-29-2019
+MedicationRequest Verapamil Hydrochloride 40 MG 02-04-2020
+MedicationRequest Digoxin 0.125 MG Oral Tablet 12-14-2010
+Encounter General examination of patient (procedure) 11-09-2004
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-31-2013
+Condition Alzheimer's disease (disorder) 02-09-2021
+Encounter General examination of patient (procedure) 09-24-1996
+Condition Prediabetes 05-15-1973
+MedicationRequest Digoxin 0.125 MG Oral Tablet 01-23-2018
+Condition Hypertension 02-24-1959
+Encounter General examination of patient (procedure) 08-09-1988
+Encounter General examination of patient (procedure) 06-13-1978
+Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 12-25-2012

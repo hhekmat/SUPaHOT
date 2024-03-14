@@ -1,0 +1,14 @@
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Encounter Hospital admission for isolation (procedure) 11-21-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Observation INR in Platelet poor plasma by Coagulation assay 12-01-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-22-2018", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 09-08-2021", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 08-16-2017", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Observation Bilirubin.total [Mass/volume] in Serum or Plasma 12-02-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Procedure Assessment of anxiety (procedure) 08-22-2018", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 12-21-2012", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Nine Item score (procedure) 08-16-2017", "label": "True"}
+{"query": "\"Can you tell me the results of my depression screening from August 10, 2016?\"", "resource": "Observation Glucose [Mass/volume] in Serum or Plasma 12-02-2020", "label": "True"}

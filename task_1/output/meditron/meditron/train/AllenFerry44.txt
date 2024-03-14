@@ -1,0 +1,18 @@
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-31-2013
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-14-2010
+MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015
+MedicationRequest Digoxin 0.125 MG Oral Tablet 12-08-2009
+Procedure Assessment of health and social care needs (procedure) 01-06-2015
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2021
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-04-2020
+Encounter General examination of patient (procedure) 05-21-1974
+Encounter General examination of patient (procedure) 09-01-1992
+MedicationRequest Acetaminophen 325 MG Oral Tablet 01-04-2012
+Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-09-2021
+Encounter General examination of patient (procedure) 10-06-1998
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 02-04-2020
+Encounter General examination of patient (procedure) 05-15-1973
+MedicationRequest Verapamil Hydrochloride 40 MG 12-31-2013
+MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008
+Procedure Depression screening (procedure) 01-29-2019
+Encounter Encounter for 'check-up' 06-10-1978

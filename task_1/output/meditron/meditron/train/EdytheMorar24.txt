@@ -1,0 +1,15 @@
+Encounter General examination of patient (procedure) 06-24-2014
+Observation MCH [Entitic mass] by Automated count 07-07-2020
+Encounter Administration of vaccine to produce active immunity (procedure) 03-30-2021
+Immunization Influenza, seasonal, injectable, preservative free 06-24-2014
+Condition Body mass index 30+ - obesity (finding) 07-16-1991
+Observation MCV [Entitic volume] by Automated count 07-07-2020
+Observation Potassium 12-28-2020
+Observation Tobacco smoking status NHIS 07-07-2020
+Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose 04-27-2021
+Observation High Density Lipoprotein Cholesterol 07-07-2020
+Observation Calcium 07-07-2020
+Immunization Influenza, seasonal, injectable, preservative free 06-28-2016
+Observation Heart rate 12-28-2020
+Procedure Depression screening (procedure) 06-24-2014
+Encounter Consultation for treatment 02-23-2013

@@ -1,0 +1,13 @@
+Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-15-2023
+Observation Nitrite [Presence] in Urine by Test strip 09-27-2023
+Immunization Influenza, seasonal, injectable, preservative free 11-11-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020
+Procedure Assessment of substance use (procedure) 08-03-2022
+Encounter Encounter for check up (procedure) 08-29-2018
+Condition Disorder of kidney due to diabetes mellitus (disorder) 12-01-2004
+Observation Glucose [Mass/volume] in Urine by Test strip 03-15-2023
+Procedure Assessment of health and social care needs (procedure) 03-09-2022
+Observation Bilirubin.total [Mass/volume] in Urine by Test strip 03-15-2023
+MedicationRequest Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray 01-29-2014
+Observation Nitrite [Presence] in Urine by Test strip 09-27-2023
+Observation Appearance of Urine 09-27-2023

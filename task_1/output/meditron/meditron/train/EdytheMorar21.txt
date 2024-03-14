@@ -1,0 +1,13 @@
+Observation Carbon Dioxide 07-03-2018
+Procedure Assessment of substance use (procedure) 06-24-2014
+Encounter Encounter for symptom 12-17-2020
+Procedure Echocardiography (procedure) 06-19-2018
+Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020
+Encounter General examination of patient (procedure) 06-28-2016
+Encounter Encounter for symptom 04-25-2019
+Condition History of cardiac arrest (situation) 06-19-2018
+Encounter Encounter for symptom 05-02-2019
+Encounter Patient encounter procedure 02-07-2017
+Observation Heart rate 12-28-2020
+Immunization Influenza, seasonal, injectable, preservative free 07-07-2020
+Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018

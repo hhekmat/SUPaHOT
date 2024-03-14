@@ -1,0 +1,15 @@
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 09-27-2023
+Procedure Depression screening (procedure) 03-09-2022
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-08-2022
+Encounter General examination of patient (procedure) 02-20-2019
+Encounter General examination of patient (procedure) 01-16-2013
+Observation Leukocyte esterase [Presence] in Urine by Test strip 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-14-2018
+Encounter General examination of patient (procedure) 12-07-2005
+Encounter Encounter for check up (procedure) 03-09-2016
+Observation Tobacco smoking status 03-15-2023
+Procedure Screening for domestic abuse (procedure) 06-08-2022
+Encounter Encounter for check up (procedure) 12-16-2020
+Encounter Urgent care clinic (environment) 02-09-2022
+Observation pH of Urine by Test strip 03-15-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-19-2014

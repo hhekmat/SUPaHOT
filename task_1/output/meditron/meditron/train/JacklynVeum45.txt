@@ -1,0 +1,11 @@
+Procedure Screening for drug abuse (procedure) 10-05-2022
+Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 12-22-2021
+Observation Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 09-27-2023
+MedicationRequest Naproxen sodium 220 MG Oral Tablet 07-02-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-16-2020
+Encounter Encounter for check up (procedure) 02-16-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-22-2021
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-22-2021
+Observation Glucose [Mass/volume] in Serum or Plasma 09-27-2023
+Observation Protein [Mass/volume] in Urine by Test strip 09-27-2023

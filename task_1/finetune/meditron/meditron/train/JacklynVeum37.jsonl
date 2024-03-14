@@ -1,0 +1,13 @@
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Encounter Encounter for symptom 01-19-2022", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-04-2023", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Procedure Assessment of substance use (procedure) 01-04-2023", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Encounter Encounter for problem (procedure) 02-11-2014", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Encounter Encounter for check up (procedure) 11-11-2015", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Observation Respiratory rate 09-27-2023", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Procedure Screening for domestic abuse (procedure) 01-05-2022", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 04-14-2021", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Encounter General examination of patient (procedure) 12-01-2004", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2022", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "Observation Protein [Mass/volume] in Urine by Test strip 09-27-2023", "label": "True"}
+{"query": "\"When was the last time I was tested for domestic abuse during a medical visit?\"", "resource": "MedicationRequest Clopidogrel 75 MG Oral Tablet 01-29-2014", "label": "True"}

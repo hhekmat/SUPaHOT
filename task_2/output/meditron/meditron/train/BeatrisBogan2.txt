@@ -1,0 +1,8 @@
+This record is an Observation of MCV [Entitic volume] by Automated count that was issued by Dr. Alexa Casper on February 28, 2021.
+This record is an Observation of Platelet mean volume [Entitic volume] in Blood by Automated count that was performed on February 28, 2021, and the value is 10.388 fL.
+This record is an Observation of MCV [Entitic volume] by Automated count that was measured on February 28, 2021, by a lab at 13:37:42.
+This record is an Observation of Platelet mean volume in Blood by Automated count that was measured on February 28, 2021, and the value is 10.388 fL.
+This record is an Observation of MCV [Entitic volume] by Automated count that was performed on February 28, 2021.
+This record is an Observation of Platelet mean volume in Blood by Automated count that was performed on February 28, 2021, on a patient with a platelet count of 10.388 fL.
+This record is an Observation for MCV by Automated count that was issued by Dr. Alexa Casper on February 28, 2021.
+This record is an Observation of Platelet mean volume [Entitic volume] in Blood by Automated count that was performed on February 28, 2021, for a patient.

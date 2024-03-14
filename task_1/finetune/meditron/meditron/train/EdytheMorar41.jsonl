@@ -1,0 +1,10 @@
+{"query": "When was my last medication reconciliation performed?", "resource": "Procedure Medication Reconciliation (procedure) 12-28-2020", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 06-24-2014", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter General examination of patient (procedure) 08-17-1993", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Urea Nitrogen 07-07-2020", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation High Density Lipoprotein Cholesterol 07-07-2020", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Potassium 07-03-2018", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-03-2018", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter Encounter for check up (procedure) 07-13-1999", "label": "True"}
+{"query": "When was my last medication reconciliation performed?", "resource": "Encounter Encounter for check up (procedure) 07-16-1991", "label": "True"}

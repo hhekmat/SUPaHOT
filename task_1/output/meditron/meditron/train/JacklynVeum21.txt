@@ -1,0 +1,11 @@
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-15-2020
+Procedure Depression screening (procedure) 09-27-2023
+Procedure Assessment of substance use (procedure) 10-06-2021
+Encounter General examination of patient (procedure) 12-01-2004
+Procedure Assessment using Morse Fall Scale (procedure) 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-08-2017
+Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 06-08-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2022
+Encounter Encounter for check up (procedure) 09-26-2012
+Observation Body mass index (BMI) [Ratio] 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-26-2013
