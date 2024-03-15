@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
         else:
             print("Invalid task number. Please choose 1, 2, or 3.")
-        with open(f'./task_{task}_model_{m}_result.txt', 'w') as file:
+        with open(f'./task_{task}_{model}_result.txt', 'w') as file:
             file.write(report)
     else:
         print("Please provide a task number and finetune bool (0 or 1) as a command-line argument.")
