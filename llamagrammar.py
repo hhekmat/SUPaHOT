@@ -1,5 +1,6 @@
 import together
 import json
+import os
 
 SYSTEM_PROMPT = "You are a helpful medical assistant, users ask you questions pertaining to their health care information. You will help and be as concise and clear as possible."
 task_1_prompt = "Given a query and a resource from a patient's medical record, your job is to determine if the resource could potentially be relevant to providing an answer to the patient's query about their medical history. Respond only with 'True' if the resource may be relevant, or 'False' if the resource would not be helpful at all in providing the patient an answer to their question." 
@@ -100,8 +101,23 @@ def write_task_3():
                 line = {"text": get_instruct_template(user_msg, model_answer, system_prompt)}
                 file.write(json.dumps(line) + '\n')
 
+'''def remove_newlines():
+    for root, dirs, files in os.walk('./llama_ft_datasets'):
+        for file in files:
+            file_path = os.path.join(root, file)
+            with open(file_path, 'r') as f:
+                lines = f.readlines()
+            modified_lines = []
+            for line in lines:
+                data = json.loads(line)
+                data['text'] = ' '.join(data['text'].split())
+                modified_lines.append(json.dumps(data) + '\n')
+            with open(file_path, 'w') as f:
+                f.writelines(modified_lines)'''
+
+
 def main():
-    write_task_3()
+    pass
 
 if __name__ == '__main__':
     main()

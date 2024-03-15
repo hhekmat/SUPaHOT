@@ -1,0 +1,3 @@
+MedicationRequest Verapamil Hydrochloride 40 MG 01-17-2017
+MedicationRequest Verapamil Hydrochloride 40 MG 02-09-2021
+Encounter General examination of patient (procedure) 07-06-1982

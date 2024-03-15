@@ -1,0 +1,4 @@
+Encounter Encounter for check up (procedure) 02-19-2014
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-16-2020
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-26-2020
+MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014

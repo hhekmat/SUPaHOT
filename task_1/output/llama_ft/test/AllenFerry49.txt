@@ -1,0 +1,8 @@
+Observation High Density Lipoprotein Cholesterol 02-04-2020
+Observation Potassium 02-09-2021
+Encounter General examination of patient (procedure) 12-14-2010
+Procedure Electrical cardioversion 01-06-2015
+Encounter General examination of patient (procedure) 10-17-2000
+Encounter Encounter for 'check-up' 04-19-2012
+Encounter General examination of patient (procedure) 06-01-1976
+Observation Body Height 02-09-2021

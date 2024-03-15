@@ -103,6 +103,7 @@ def process_line(line, root, file, base_dir, output_dir, task_2_prompt):
     large_resource = global_resource_dict.get(resource_label, {})
     large_resource_str = json.dumps(large_resource)
     summary = generate_llama_response("JSON: " + large_resource_str, task_2_prompt)
+    summary = ' '.join(summary.split())
     print(summary)
 
     rel_path = os.path.relpath(root, base_dir)
@@ -137,6 +138,8 @@ def process_task_3():
                     prompt = f"Query:'{query}' Summaries: {combined_summaries}"
 
                     answer = generate_llama_response(prompt, task_3_prompt)
+                    answer = ' '.join(answer.split())
+                    print(answer)
 
                     # Prepare output paths
                     rel_path = os.path.relpath(root, query_dir)

@@ -1,0 +1,3 @@
+MedicationRequest Verapamil Hydrochloride 40 MG 11-08-2011
+Observation Total score [MMSE] 02-09-2021
+Observation Heart rate 02-04-2020

@@ -1,0 +1,6 @@
+Query: How has my body height changed over the past year since my last medical visit on 04-24-2021?
+Immunization Pneumococcal conjugate PCV 13 10-11-2015
+Observation Heart rate 04-18-2021
+Observation Body Weight 03-06-2022
+Immunization IPV 10-11-2015
+Immunization Influenza, seasonal, injectable, preservative free 04-12-2020
