@@ -6,10 +6,7 @@ Procedure Depression screening (procedure) 03-09-2022
 Encounter General examination of patient (procedure) 02-14-2018
 Encounter Urgent care clinic (environment) 12-29-2021
 Procedure Depression screening (procedure) 06-08-2022
-MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014
 Encounter General examination of patient (procedure) 02-08-2017
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-22-2014
-MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-20-2019
 Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-15-2023
 MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2022
 MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014

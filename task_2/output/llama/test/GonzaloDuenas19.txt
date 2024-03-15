@@ -1,10 +1,4 @@
-Sure! Here is a brief natural language summary of the JSON excerpt you provided:
-
-The patient underwent hospice care (regime/therapy) on February 12, 2023, at North River Hospice LLC. The procedure was completed and took place between 5:04 PM and 5:19 PM.
-Sure, here is a brief natural language summary of the JSON object you provided:
-
-"A procedure called 'Hospice care (regime/therapy)' was performed on February 25, 2023, at North River Hospice LLC, as part of a completed encounter. The procedure was initiated through a POST request to the Procedure resource."
-The patient underwent hospice care (regime/therapy) on March 2nd, 2023, at North River Hospice LLC, as confirmed by the encounter record. The procedure was completed and took place between 5:04 PM and 5:19 PM.
-Sure! Here is a brief summary of the JSON object you provided:
-
-The patient underwent hospice care (regime/therapy) on February 20, 2023, at North River Hospice LLC. The procedure was completed and took place between 5:04 PM and 5:19 PM.
+Sure, here is a brief natural language summary of the JSON object you provided: The patient received hospice care (regime/therapy) on February 12, 2023, at North River Hospice LLC. The procedure was performed between 5:04 PM and 5:19 PM.
+Sure! Based on the provided JSON object, here is a brief natural language summary: The patient underwent hospice care (regime/therapy) on February 25, 2023, at North River Hospice LLC. The procedure was completed and took place between 5:04 PM and 5:19 PM.
+Sure! Here is a brief natural language summary of the JSON object you provided: The patient underwent hospice care (regime/therapy) on March 2nd, 2023, at North River Hospice LLC, as confirmed by the encounter record. The procedure was performed between 5:04 PM and 5:19 PM.
+Sure! Here is a brief summary of the JSON object you provided: The patient underwent a procedure called "Hospice care (regime/therapy)" on February 20, 2023, at North River Hospice LLC. The procedure was completed and took place between 5:04 PM and 5:19 PM.

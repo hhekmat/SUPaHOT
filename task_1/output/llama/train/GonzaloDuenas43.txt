@@ -1,0 +1,18 @@
+Encounter Postoperative follow-up visit (procedure) 10-20-2021
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 01-05-2023
+Encounter Encounter for problem 09-15-2022
+Observation Calcium [Mass/volume] in Blood 01-05-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-13-2019
+Encounter Postoperative follow-up visit (procedure) 10-20-2021
+MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 12-27-2018
+Encounter Encounter for problem 09-30-2022
+Observation Tobacco smoking status 01-05-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 07-23-2020
+Observation Response to cancer treatment 09-07-2023
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-24-2021
+MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 01-05-2023
+Immunization Influenza, seasonal, injectable, preservative free 08-20-2015
+Observation Erythrocytes [#/volume] in Blood by Automated count 07-06-2023
+Encounter Encounter for problem 09-25-2022
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2023
+Observation Blood pressure panel with all children optional 01-05-2023

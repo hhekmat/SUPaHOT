@@ -1,6 +1,2 @@
-Sure! Here is a brief summary of the JSON data you provided:
-
-The encounter record represents a well child visit (procedure) for Mr. Milton509 Ortiz186, conducted by Dr. Lionel365 Cormier289 at PCP167180 on July 18, 2012, from 16:36 to 16:51. The encounter was finished, and the type of encounter was a well child visit (procedure). The location of the encounter was PCP167180.
-Sure! Here is a brief natural language summary of the JSON object you provided:
-
-"This is an encounter record for a patient named Mr. Milton509 Ortiz186. The encounter took place on July 18, 2012, and was performed by Dr. Lionel365 Cormier289 at the PCP167180. The encounter was classified as a well child visit (procedure) and took place at the PCP167180 location. The patient's full URL is d617a82a-39f2-5dd6-c250-6c4da12b7c8c."
+Sure! Here is a brief natural language summary of the JSON object you provided: "This is an encounter record for a patient named Mr. Milton509 Ortiz186. The encounter took place on July 18, 2012, and was conducted by Dr. Lionel365 Cormier289 at the PCP167180 location. The type of encounter was a well child visit (procedure), and it was finished on July 18, 2012."
+Sure! Here is a brief natural language summary of the JSON object you provided: "This is an encounter record for a patient named Mr. Milton509 Ortiz186. The encounter took place on July 18, 2012, and was performed by Dr. Lionel365 Cormier289 at the PCP167180 clinic. The encounter was classified as a well child visit (procedure) and took place at the PCP167180 location."

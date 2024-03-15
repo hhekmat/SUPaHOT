@@ -42,7 +42,7 @@ def generate_llama_response(user_prompt, task_prompt):
     }
 
     try:
-        input_text = f"[INST] You are a helpful medical assistant. Users ask you questions about their health care information. You will help and be as concise and clear as possible.\n\n{task_prompt}\n\n{user_prompt}\n[/INST]"
+        input_text = f"<s>[INST] <<SYS>> You are a helpful medical assistant. Users ask you questions about their health care information. You will help and be as concise and clear as possible. {task_prompt} <</SYS>> {user_prompt} [/INST]"
         payload = {
             "model": "meta-llama/Llama-2-7b-chat-hf",
             "max_tokens": 2048,
@@ -101,9 +101,7 @@ def process_task_1():
                     lines = f.readlines()
 
                 query = lines[0].strip()
-                print(query)
                 resources = lines[1:]
-                print(resources)
                 stripped_filename = re.sub(r'\d+', '', file.split('.')[0])
                 relevant_data_file = os.path.join(relevant_data_dir, f"{stripped_filename}resources.txt")
 
@@ -111,11 +109,12 @@ def process_task_1():
                     relevant_resources = []
 
                     for resource in resources:
-                        print(resource)
+
                         resource = resource.strip()
                         prompt = f"Query: {query}, resource: {resource}"
 
                         llama_response = generate_llama_response(prompt, task_1_prompt)
+                        print(llama_response)
                         if llama_response.find("True") != -1:
                             print('true')
                             relevant_resources.append(resource)
@@ -139,6 +138,7 @@ def process_task_2():
             if file.endswith('.txt'):
                 file_path = os.path.join(root, file)
                 process_file(file_path, root, file, base_dir, output_dir, task_2_prompt)
+                print(f'Processed {file_path}')
 
 
 def process_file(file_path, root, file, base_dir, output_dir, task_2_prompt):
@@ -167,6 +167,9 @@ def process_line(line, root, file, base_dir, output_dir, task_2_prompt):
     large_resource = global_resource_dict.get(resource_label, {})
     large_resource_str = json.dumps(large_resource)
     summary = generate_llama_response("JSON: " + large_resource_str, task_2_prompt)
+
+    summary = ' '.join(summary.split())
+    print(summary)
 
     rel_path = os.path.relpath(root, base_dir)
     output_subdir = os.path.join(output_dir, rel_path)
@@ -200,6 +203,8 @@ def process_task_3():
                     prompt = f"Query:'{query}' Summaries: {combined_summaries}"
 
                     answer = generate_llama_response(prompt, task_3_prompt)
+                    answer = ' '.join(answer.split())
+                    print(answer)
 
                     # Prepare output paths
                     rel_path = os.path.relpath(root, query_dir)

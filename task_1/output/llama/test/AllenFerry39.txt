@@ -12,7 +12,6 @@ Procedure Depression screening (procedure) 12-31-2013
 Observation Respiratory rate 02-04-2020
 Observation Glucose 02-04-2020
 Condition Prediabetes 05-15-1973
-Immunization Influenza, seasonal, injectable, preservative free 12-25-2012
 MedicationRequest Digoxin 0.125 MG Oral Tablet 12-02-2008
 Procedure Catheter ablation of tissue of heart 01-29-2019
 Procedure Assessment using Morse Fall Scale (procedure) 02-09-2021

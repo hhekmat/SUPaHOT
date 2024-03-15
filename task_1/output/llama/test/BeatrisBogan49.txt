@@ -13,7 +13,7 @@ Observation Heart rate 04-12-2020
 Observation Respiratory rate 04-24-2022
 Observation Erythrocyte distribution width [Entitic volume] by Automated count 02-28-2021
 Immunization MMR 07-10-2016
-Procedure Transthoracic echocardiography (procedure) 05-29-2021
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 02-28-2021
 Observation Respiratory rate 04-18-2021
 Procedure Referral for echocardiography (procedure) 03-28-2023
 Immunization DTaP 10-11-2015

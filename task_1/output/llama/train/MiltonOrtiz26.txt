@@ -1,4 +1,3 @@
-Immunization Influenza, seasonal, injectable, preservative free 07-18-2012
 Procedure Oxygen administration by mask (procedure) 11-26-2020
 Condition Limited social contact (finding) 08-05-2015
 Encounter Encounter for check up (procedure) 12-26-2012

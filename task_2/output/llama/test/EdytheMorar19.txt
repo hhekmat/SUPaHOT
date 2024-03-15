@@ -1,3 +1,1 @@
-Sure, here is a brief summary of the JSON object in natural language:
-
-"This is an encounter record for a patient named Mrs. Edythe Morar, who saw Dr. Darrick Franecki for a consultation on March 31, 2003, at Newton-Wellesley Hospital. The encounter was finished and the primary performer was Dr. Franecki. The location of the encounter was Newton-Wellesley Hospital."
+Sure, here is a brief natural language summary of the JSON object you provided: "This is an encounter record for a patient named Mrs. Edythe Morar, who had a consultation for treatment with Dr. Darrick Franecki at Newton-Wellesley Hospital on March 30, 2003. The encounter started at 10:47 PM and ended at 10:49 PM, and took place at Newton-Wellesley Hospital."

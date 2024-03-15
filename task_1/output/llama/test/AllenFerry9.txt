@@ -1,18 +1,13 @@
 Procedure Depression screening (procedure) 12-20-2011
 MedicationRequest Digoxin 0.125 MG Oral Tablet 12-14-2010
-Observation Triglycerides 02-04-2020
 Procedure Assessment of health and social care needs (procedure) 12-31-2013
-Procedure Electrical cardioversion 01-06-2015
 MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-14-2010
 Encounter General examination of patient (procedure) 04-22-1969
 Procedure Assessment using Morse Fall Scale (procedure) 12-31-2013
 MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015
-Observation Fall risk total [Morse Fall Scale] 02-09-2021
 Encounter General examination of patient (procedure) 09-24-1996
 Procedure Assessment of health and social care needs (procedure) 02-09-2021
 MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-23-2018
-Observation Low Density Lipoprotein Cholesterol 02-04-2020
 Encounter General examination of patient (procedure) 05-04-1971
 Encounter General examination of patient (procedure) 07-29-1986
 Procedure Depression screening (procedure) 01-29-2019
-Procedure Electrical cardioversion 02-04-2020

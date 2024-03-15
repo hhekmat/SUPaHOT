@@ -1,14 +1,6 @@
-The patient underwent oxygen administration by mask at Mount Auburn Hospital on November 23, 2020, as part of a procedure for hypoxemia. The procedure was completed and took place between 5:07 PM and 5:20 PM.
-Sure! Here is a brief summary of the JSON object you provided:
-
-The patient underwent oxygen administration by mask (procedure) on November 26, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 5:05 PM and 5:20 PM. The reason for the procedure was hypoxemia (disorder).
-Sure! Here is a brief summary of the JSON data in natural language:
-
-The patient underwent oxygen administration by mask (procedure) on November 25, 2020, at Mount Auburn Hospital. The procedure was completed and started at 17:05 and ended at 17:20. The reason for the procedure was hypoxemia (disorder).
-Sure, here is a brief natural language summary of the JSON object:
-
-The patient underwent oxygen administration by mask (procedure) on November 21, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 5:05 PM and 5:20 PM. The reason for the procedure was hypoxemia (disorder).
-The patient underwent oxygen administration by mask at Mount Auburn Hospital on November 29, 2020, as part of a procedure to treat hypoxemia. The procedure was completed and took place between 5:07 PM and 5:20 PM.
-Sure, here's a brief summary of the JSON data in natural language:
-
-The patient underwent oxygen administration by mask (procedure) on November 27, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 5:05 PM and 5:20 PM. The reason for the procedure was hypoxemia (disorder).
+Sure! Here is a brief natural language summary of the JSON you provided: The patient underwent oxygen administration by mask (procedure) on November 23, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 5:05 PM and 5:20 PM. The reason for the procedure was hypoxemia (disorder).
+Sure! Here is a brief natural language summary of the JSON you provided: The patient underwent oxygen administration by mask (procedure) on November 26, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 5:05 PM and 5:20 PM. The reason for the procedure was hypoxemia (disorder).
+Sure, I'd be happy to help! Based on the provided JSON data, here is a brief summary of the information: The patient underwent oxygen administration by mask (procedure) on November 25, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 5:05 PM and 5:20 PM. The reason for the procedure was hypoxemia (disorder).
+Sure, here's a brief summary of the JSON data you provided: The patient underwent oxygen administration by mask (procedure) on November 21, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 17:05 and 17:20. The reason for the procedure was hypoxemia (disorder).
+Sure, I'd be happy to help! Based on the provided JSON data, here is a brief summary of the information: The patient underwent oxygen administration by mask (procedure) on November 29, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 5:05 PM and 5:20 PM. The reason for the procedure was hypoxemia (disorder).
+Sure! Here is a brief natural language summary of the JSON you provided: The patient underwent oxygen administration by mask (procedure) on November 27, 2020, at Mount Auburn Hospital. The procedure was completed and took place between 5:05 PM and 5:20 PM. The reason for the procedure was hypoxemia (disorder).

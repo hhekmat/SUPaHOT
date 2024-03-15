@@ -1,6 +1,2 @@
-Sure, here is a brief summary of the JSON object you provided:
-
-A medication request has been made for Verapamil Hydrochloride 40 MG for a patient with the reference "urn:uuid:ad134528-56a5-35fd-c37f-466ff119c625". The request was made on January 17, 2017 at 10:24:54 AM with the intention of ordering the medication. The request was made by Dr. Alexa Casper.
-Sure, I'd be happy to help! Here is a brief natural language summary of the JSON object you provided:
-
-A medication request has been made for Verapamil Hydrochloride 40 MG for a patient with the identifier "ad134528-56a5-35fd-c37f-466ff119c625". The request was made on February 9, 2021, and the medication is intended for use by the patient. The request was made by Dr. Alexa Casper, with a practice name of "Practitioner".
+Sure, I'd be happy to help! Based on the provided JSON excerpt, here is a brief summary in natural language: A medication request has been made for Verapamil Hydrochloride 40 MG for a patient with the identifier "ad134528-56a5-35fd-c37f-466ff119c625". The request was made by Dr. Alexa171 Casper496 and was intended to be an order. The medication was requested through a POST request to the MedicationRequest resource.
+Sure! Here is a brief summary of the JSON object you provided: A medication request has been made for Verapamil Hydrochloride 40 MG, with the status of "active" and the intent of "order". The medication is requested for a patient with the reference "urn:uuid:ad134528-56a5-35fd-c37f-466ff119c625". The request was made by Dr. Alexa Casper with a Practitioner identifier of http://hl7.org/fhir/sid/us-npi|9999999169. The request was made using the HTTP method POST and the URL "MedicationRequest".

@@ -1,3 +1,1 @@
-Sure! Here is a brief summary of the JSON object you provided:
-
-The patient, ba946ce3-a4b3-b483-6ee9-81f69c77b46c, received an immunization on July 10, 2016 at 13:37:42 PM. The vaccine given was Hepatitis A, pediatric/adolescent, 2 doses. The immunization was completed and the patient's primary source of information is the encounter. The location of the immunization is Blueskies Wellness Inc.
+Sure! Here is a brief natural language summary of the JSON object you provided: The patient, urn:uuid:5b3645de-a2d0-d016-0839-bab3757c4c58, received an immunization on July 10, 2016 at 13:37:42 PM. The vaccine administered was Hepatitis A, pediatric/adolescent, 2 doses. The immunization was completed and the patient's primary source of care is Blueskies Wellness Inc.

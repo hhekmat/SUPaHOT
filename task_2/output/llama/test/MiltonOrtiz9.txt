@@ -1,15 +1,5 @@
-Sure! Here is a brief natural language summary of the JSON object you provided:
-
-The patient underwent a depression screening procedure on September 2, 2020, at 17:38:09 PM, performed by their primary care physician at PCP167180. The procedure used the Patient Health Questionnaire Two-Item score to assess the patient's level of depression.
-Sure! Here is a brief natural language summary of the JSON you provided:
-
-The patient underwent a depression screening procedure on August 22, 2018, at PCP167180, with a start time of 17:35:24 and an end time of 17:45:28. The procedure was completed and the code is "Depression screening (procedure)".
-Sure! Here is a brief summary of the JSON object you provided:
-
-A procedure called "Depression screening (procedure)" was performed on August 22, 2018, at a location called "PCP167180" by a healthcare provider for a patient with the identifier "urn:uuid:d66b5418-06cb-fc8a-8c13-85685b6ac939". The procedure was completed and has a start and end time of August 22, 2018, from 17:35:24-04:00 to 17:45:28-04:00.
-Sure, here is a brief natural language summary of the JSON:
-
-"The patient underwent a depression screening procedure on August 16, 2017, performed by their primary care physician at their clinic location. The procedure was completed and the patient's status is 'completed'. The procedure code is 'Depression screening (procedure)'. The patient's identifier is 'urn:uuid:d66b5418-06cb-fc8a-8c13-85685b6ac939'. The encounter identifier is 'urn:uuid:afba56e7-7248-f1c1-f438-3ca4c418fabc'. The procedure was performed between 17:17:09 and 17:27:35 on August 16, 2017."
-Sure, here is a brief summary of the JSON object in natural language:
-
-This is a record of a depression screening procedure that was performed on a patient on August 10, 2016. The procedure was conducted at a PCP office and used the Patient Health Questionnaire Two-Item score to assess the patient's level of depression. The procedure was completed and the results are recorded in the encounter.
+Sure, I'd be happy to help! Based on the provided JSON data, here is a brief natural language summary: This is a record of a depression screening procedure that was completed on September 2, 2020, by a healthcare provider for a patient. The procedure involved using the Patient Health Questionnaire Two-Item score to assess the patient's level of depression. The procedure was performed at the PCP167180 location and took place between 5:38 PM and 5:43 PM.
+Sure! Based on the provided JSON object, here is a brief natural language summary: The patient underwent a depression screening procedure on August 22, 2018, at the PCP167180 location. The procedure was completed and took place between 5:35 PM and 5:45 PM.
+Sure, I'd be happy to help! Based on the provided JSON object, here is a brief natural language summary: The patient underwent a depression screening procedure on August 22, 2018, at the PCP's office. The procedure was completed and took place between 5:35 PM and 5:45 PM. The location of the procedure was a clinic with the identifier "https://github.com/synthetichealth/synthea|606fd011-a5ff-3a38-a7be-d7f2632fafe9".
+Sure, I'd be happy to help! Based on the provided JSON object, here is a brief summary in natural language: The patient underwent a depression screening procedure on August 16, 2017, at the PCP's office. The procedure was completed and took place between 5:17 PM and 5:27 PM. The location of the procedure was a clinic with the identifier "https://github.com/synthetichealth/synthea|606fd011-a5ff-3a38-a7be-d7f2632fafe9".
+Sure, I'd be happy to help! Based on the provided JSON excerpt, here is a brief natural language summary of the information: The patient underwent a depression screening procedure on August 10, 2016, at the PCP's office. The procedure was completed and the patient's score on the Patient Health Questionnaire Two-Item was recorded. The procedure was performed by a healthcare provider and took place between 6:07 PM and 6:29 PM. The location of the procedure was a PCP office with the identifier "https://github.com/synthetichealth/synthea|606fd011-a5ff-3a38-a7be-d7f2632fafe9".

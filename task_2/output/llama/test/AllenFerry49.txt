@@ -1,1 +1,1 @@
-The patient has a condition of anemia (disorder) with a confirmed status, which was diagnosed during an encounter on May 15, 1973, and has an onset date and time of May 15, 1973, at 11:24:54 AM.
+Sure! Based on the provided JSON, here is a brief natural language summary: The patient has a condition called "Anemia (disorder)" that was confirmed and recorded on May 15, 1973. The condition was identified during an encounter and has an onset date and time of May 15, 1973, at 11:24:54 AM.

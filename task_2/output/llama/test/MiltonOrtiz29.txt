@@ -1,6 +1,2 @@
-Sure! Here is a brief natural language summary of the JSON object you provided:
-
-The patient underwent a depression screening procedure on August 10, 2016, performed by a PCP at the PCP's location. The procedure was completed and took place between 5:53 PM and 6:07 PM.
-Sure! Here is a brief natural language summary of the JSON object you provided:
-
-The patient underwent a depression screening procedure on August 10, 2016, at 6:07 PM, performed by their primary care physician at PCP167180. The procedure used the Patient Health Questionnaire Two-Item score to assess the patient's depression level.
+Sure, I'd be happy to help! Based on the provided JSON object, here is a brief summary in natural language: "This is a record of a depression screening procedure that was performed on August 10, 2016, at 6:07 PM, at the PCP167180 location. The procedure was completed and the code is 'Depression screening (procedure)'. The subject of the procedure is a patient with the identifier 'urn:uuid:d66b5418-06cb-fc8a-8c13-85685b6ac939', and the encounter is referenced by 'urn:uuid:8ff03a30-000b-f7ea-41be-ae42572c079b'."
+Sure, I'd be happy to help! Based on the provided JSON excerpt, here is a brief natural language summary: The patient underwent a depression screening procedure on August 10, 2016, at the PCP's office. The procedure was completed and the patient's score on the Patient Health Questionnaire Two-Item was recorded. The location of the procedure was a PCP office with the identifier "https://github.com/synthetichealth/synthea|606fd011-a5ff-3a38-a7be-d7f2632fafe9".

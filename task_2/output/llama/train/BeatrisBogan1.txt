@@ -1,3 +1,4 @@
 Sure, I'd be happy to help! Based on the provided JSON excerpt, here is a brief natural language summary:
 
 This is an immunization record for a patient with the identifier "5860d672-84a9-2ceb-d92c-15b6cca4348b". The immunization was completed on August 9, 2015, and the vaccine administered was rotavirus, monovalent. The record also includes information about the patient, the encounter, and the location where the immunization was administered.
+Sure, I'd be happy to help! Based on the provided JSON object, here is a brief natural language summary: The patient, 5b3645de-a2d0-d016-0839-bab3757c4c58, received a rotavirus, monovalent vaccine on August 9, 2015 at 13:37:42 PM. The vaccine was administered at Blueskies Wellness Inc. The vaccination is marked as completed and the primary source of the information is the FHIR resource.

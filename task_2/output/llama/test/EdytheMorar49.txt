@@ -1,6 +1,2 @@
-Sure, I'd be happy to help! Based on the provided JSON data, here is a brief summary in natural language:
-
-The patient underwent a depression screening procedure on July 3, 2018, at Newton-Wellesley Urology, PC. The procedure was completed and the patient's score was 2, indicating a mild level of depression. The procedure was performed by a healthcare provider and took place between 1:00:47 PM and 1:22:20 PM on the same day.
-Sure, I'd be happy to help! Based on the provided JSON, here is a brief summary in natural language:
-
-This is a record of a procedure called "Depression screening (procedure)" that was performed on a patient named "9c3df38a-d3b7-2198-3898-51f9153d023d" on July 3, 2018, at Newton-Wellesley Urology, PC. The procedure was completed and took place between 10:46 AM and 11:00 AM.
+Sure! Here is a brief natural language summary of the JSON excerpt you provided: "The patient underwent depression screening using the Patient Health Questionnaire Two-Item score on July 3, 2018, at Newton-Wellesley Urology, PC. The screening was completed and the result was recorded as 'Depression screening using Patient Health Questionnaire Two-Item score (procedure)'. The location of the screening was Newton-Wellesley Urology, PC."
+Sure, I'd be happy to help! Based on the provided JSON data, here is a brief natural language summary: This is a record of a depression screening procedure that was performed on a patient on July 3, 2018, at Newton-Wellesley Urology, PC. The procedure was completed and took place between 10:46 PM and 11:00 PM.

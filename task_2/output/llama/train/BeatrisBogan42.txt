@@ -1,3 +1,4 @@
 Sure, here is a brief summary of the JSON object you provided:
 
 The patient's blood pressure reading was taken on April 18, 2021, and the results show a diastolic blood pressure of 67 mmHg and a systolic blood pressure of 120 mmHg. These readings were recorded as part of an encounter and are now final.
+Sure, I'd be happy to help! Based on the provided JSON data, here is a brief natural language summary: This is an observation record for a patient's blood pressure measurement. The record includes the patient's vital signs, including diastolic blood pressure of 67 mmHg and systolic blood pressure of 120 mmHg, which were measured on April 18, 2021 at 13:37:42. The record also includes the patient's identification information, such as their full URL and resource ID.

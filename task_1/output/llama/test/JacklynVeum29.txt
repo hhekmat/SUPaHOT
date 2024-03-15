@@ -12,9 +12,7 @@ Encounter Administration of vaccine to produce active immunity (procedure) 03-24
 MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014
 Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023
 Encounter Prenatal initial visit 09-05-2001
-Condition Sprain (morphologic abnormality) 10-31-2023
 Observation Color of Urine 03-15-2023
 Encounter Well child visit (procedure) 05-11-1966
 MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014
 Observation Nitrite [Presence] in Urine by Test strip 03-15-2023
-Observation Body mass index (BMI) [Ratio] 09-27-2023
