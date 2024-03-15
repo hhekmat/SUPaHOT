@@ -1,4 +1,2 @@
-None
-None
-None
-None
+This record is a Medication Request for Verapamil Hydrochloride 40 MG, ordered by Dr. Alexa171 Casper496 on January 17, 2017, and the status is marked as "stopped".
+This record is about a medication request for Verapamil Hydrochloride 40 MG, ordered by Dr. Alexa171 Casper496 on February 9, 2021, and the status is active.

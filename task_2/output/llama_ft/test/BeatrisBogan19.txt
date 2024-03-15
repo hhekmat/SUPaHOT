@@ -1,2 +1,17 @@
-None
-None
+This record is an Observation of Body Weight for a patient, with a status of final and a value of 20 kg, taken on April 18, 2021.
+This record is about a completed Hepatitis A vaccine given to a pediatric/adolescent patient in 2016 at BLUESKIES WELLNESS INC.
+This record is an Observation of Body Height, taken on April 24, 2022, with a value of 124.8 cm. The record is a final observation and was taken during a specific encounter.
+This record is about a completed pneumococcal conjugate PCV 13 immunization given to a patient on October 11, 2015, at BLUESKIES WELLNESS INC.
+This record is an observation of the patient's tobacco smoking status, indicating that the patient has never smoked tobacco. The observation was recorded on March 6, 2022, during an encounter at a specific time.
+This is a summary of an encounter for symptom of perennial allergic rhinitis at HOLY FAMILY HOSPITAL, with Dr. Alvin56 Crona259 as the primary performer, that took place on August 22, 2017.
+This record is an Observation of heart rate, with a value of 76 beats per minute, taken on April 18, 2021, during a specific encounter. The record is marked as final and has a specific category of vital signs.
+This is a summary of an encounter where a well child visit was performed by Dr. Elisa944 Rojo930 at BLUESKIES WELLNESS INC on Beatris270 Bogan287 on April 24, 2022. The encounter was finished and the primary performer was Dr. Elisa944 Rojo930.
+This record is an Observation of Body Weight taken on March 6, 2022, showing a value of 22.1 kg. The record is a final observation and was taken during a specific encounter.
+This record is about a completed IPV vaccination given to a patient on October 11, 2015, at BLUESKIES WELLNESS INC. The vaccination was administered as part of an encounter.
+This record is about a completed procedure for Medication Reconciliation that took place on July 10, 2016, at BLUESKIES WELLNESS INC. The procedure was performed on a specific patient during a particular encounter.
+This record is about a completed influenza immunization given to a patient on April 12, 2020, at BLUESKIES WELLNESS INC. The vaccine was administered as an injectable, preservative-free dose.
+This is a summary of an encounter where a well child visit was performed by Dr. Elisa944 Rojo930 at BLUESKIES WELLNESS INC on Beatris270 Bogan287 on October 9, 2016. The encounter was finished and the primary performer was Dr. Elisa944 Rojo930.
+This record is an Observation of the patient's Body Mass Index (BMI) taken on March 6, 2022, showing a value of 14.33 kg/m2.
+This record is about a completed Hepatitis A vaccine given to a pediatric/adolescent patient in 2017 at BLUESKIES WELLNESS INC.
+This is a summary of an encounter where a well child visit was performed by Dr. Elisa944 Rojo930 at BLUESKIES WELLNESS INC on Beatris270 Bogan287 on April 24, 2022. The encounter was finished and the primary performer was Dr. Elisa944 Rojo930.
+This record is about a completed immunization for varicella given to a patient on July 10, 2016, at BLUESKIES WELLNESS INC. The immunization was recorded in the patient's encounter on that date.

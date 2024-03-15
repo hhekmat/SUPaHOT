@@ -1,0 +1,1 @@
+This record is a Medication Request for a community patient, with a medication code of 24 HR tacrolimus 1 MG Extended Release Oral Tablet, ordered by Dr. Anderson, with a reason of History of renal transplant (situation). The status is marked as stopped.
