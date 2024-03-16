@@ -58,7 +58,7 @@ async def process_task_1():
                         lines = await f.readlines()
 
                     query = lines[0].strip()
-                    resources = lines[1:]  # Treat subsequent lines as resources
+                    resources = lines[1:]  
                     finetune_data = []
                     meditron_tasks = []
                     resource_lines = []
@@ -87,7 +87,6 @@ async def process_task_1():
                     os.makedirs(output_subdir, exist_ok=True)
                     output_file = os.path.join(output_subdir, file)
 
-                    # Append relevant resources directly to the original query file
                     async with aiofiles.open(output_file, 'w') as f:
                         await f.write(query + '\n')
                         for data in finetune_data:
@@ -199,7 +198,6 @@ async def process_task_3():
 
                         meditron_response = await generate_meditron_response_async(session, prompt, task_3_prompt)
 
-                        # Prepare output paths
                         rel_path = os.path.relpath(root, query_dir)
                         output_subdir = os.path.join(output_dir, rel_path)
                         os.makedirs(output_subdir, exist_ok=True)
@@ -209,11 +207,9 @@ async def process_task_3():
                         os.makedirs(finetune_subdir, exist_ok=True)
                         finetune_file = os.path.join(finetune_subdir, file.replace('.txt', '.jsonl'))
 
-                        # Write the answer in text format
                         async with aiofiles.open(output_file, 'w') as f_txt:
                             await f_txt.write(f"{meditron_response}\n")
 
-                        # Write the answer in JSONLines format
                         async with aiofiles.open(finetune_file, 'w') as f_jsonl:
                             await f_jsonl.write(json.dumps({"query": query, "resource_summaries": summaries, "answer": meditron_response}) + '\n')
 
@@ -221,12 +217,10 @@ async def process_task_3():
                         print(f'Answer data saved to {finetune_file}')
 
 if __name__ == '__main__':
-    # Accepting task number as a command-line argument
     if len(sys.argv) > 1:
         task = int(sys.argv[1])
         if task == 1:
             asyncio.run(process_task_1())
-        # elif task == 3: call process_task_3()
         elif task == 2:
             populate_global_resources("./mock_patients")
             asyncio.run(process_task_2())

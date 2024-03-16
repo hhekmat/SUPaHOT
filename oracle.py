@@ -15,11 +15,9 @@ MAX_ASYNC_TASKS = 1
 semaphore = asyncio.Semaphore(MAX_ASYNC_TASKS)
 
 @backoff.on_exception(backoff.expo,
-                      Exception,  # Replace with a more specific exception if possible
+                      Exception, 
                       max_tries=8)
 
-# Initialize the OpenAI client with your API key
-# client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 # when going slow is ok (or you're having bugs haha)
 def generate_oracle_response(user_prompt, task_prompt):
@@ -152,7 +150,6 @@ async def process_file(file_path, root, file, base_dir, output_dir, finetune_dir
     if len(lines) == 0:
         prewritten_response = "No relevant resources were found for this query."
             
-            # Proceed with processing (write the prewritten response to output files)
         await process_empty_file(root, file, base_dir, output_dir, finetune_dir, prewritten_response)
     else:
         tasks = []
@@ -160,7 +157,6 @@ async def process_file(file_path, root, file, base_dir, output_dir, finetune_dir
             task = asyncio.create_task(process_line(line, root, file, base_dir, output_dir, finetune_dir, task_2_prompt, semaphore))
             tasks.append(task)
 
-        # Wait for all line tasks to complete
         await asyncio.gather(*tasks)
 
 async def process_empty_file(root, file, base_dir, output_dir, finetune_dir, prewritten_response):
@@ -226,7 +222,6 @@ def process_task_3():
 
                     answer = generate_oracle_response(prompt, task_3_prompt)
 
-                    # Prepare output paths
                     rel_path = os.path.relpath(root, query_dir)
                     output_subdir = os.path.join(output_dir, rel_path)
                     os.makedirs(output_subdir, exist_ok=True)
@@ -236,11 +231,9 @@ def process_task_3():
                     os.makedirs(finetune_subdir, exist_ok=True)
                     finetune_file = os.path.join(finetune_subdir, file.replace('.txt', '.jsonl'))
 
-                    # Write the answer in text format
                     with open(output_file, 'w') as f_txt:
                         f_txt.write(f"{answer}\n")
 
-                    # Write the answer in JSONLines format
                     with open(finetune_file, 'w') as f_jsonl:
                         f_jsonl.write(json.dumps({"query": query, "resource_summaries": summaries, "answer": answer}) + '\n')
 
@@ -249,12 +242,10 @@ def process_task_3():
 
 
 if __name__ == '__main__':
-    # Accepting task number as a command-line argument
     if len(sys.argv) > 1:
         task = int(sys.argv[1])
         if task == 1:
             asyncio.run(process_task_1())
-        # elif task == 3: call process_task_3()
         elif task == 2:
             populate_global_resources("./mock_patients")
             asyncio.run(process_task_2())

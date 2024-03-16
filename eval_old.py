@@ -5,17 +5,12 @@ from rouge_metric import PyRouge
 import bert_score
 
 def read_txt_files_into_dict(directory):
-    # Dictionary to hold contents of txt files from each directory
     content_dict = {}
     for filename in os.listdir(directory):
-        # Check if the file is a .txt file
         if filename.endswith('.txt'):
-            # Construct the full file path
             filepath = os.path.join(directory, filename)
-            # Read the content of the file
             with open(filepath, 'r') as file:
                 content = file.read()
-                # Use filename without extension as key
                 key = os.path.splitext(filename)[0]
                 content_dict[key] = content
     return content_dict

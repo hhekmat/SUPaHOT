@@ -63,7 +63,6 @@ def fine_tune_model(train_data, val_data, model_name, output_dir):
     print("Training completed!")
 
 if __name__ == '__main__':
-    # Accepting task number as a command-line argument
     if len(sys.argv) > 1:
         task = int(sys.argv[1])
         model_name = 'epfl-llm/meditron-7b'

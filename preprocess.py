@@ -15,7 +15,6 @@ def parse_fhir_json(file_path):
         fhir_data = json.load(f)
         if 'entry' in fhir_data:
             for resource in reversed(fhir_data['entry']):
-                # print(is_relevant(resource))
                 (relevance, rt) = is_relevant(resource)
                 if relevance:
                     if resource_counter[rt] < 64:
@@ -25,7 +24,6 @@ def parse_fhir_json(file_path):
                         print(resource)
                         print(label)
                         resource_counter[rt] += 1
-    # print('global resource dict ', global_resource_dict)
     return relevant_resources
 
 def is_relevant(resource):
@@ -113,7 +111,6 @@ if __name__ == "__main__":
         if file_name == '.DS_Store' or file_name == 'licenses':
             continue
         file_path = os.path.join(patient_data_folder, file_name)
-        # print(file_path)
         relevant_resources = parse_fhir_json(file_path)
         file_name = file_name[:-5] + 'resources.txt'
         resources_file_path = os.path.join(resources_data_folder, file_name)

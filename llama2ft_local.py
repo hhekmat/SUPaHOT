@@ -13,20 +13,16 @@ API_URL = "https://api-inference.huggingface.co/models/meta-llama/Llama-2-7b-hf"
 headers = {f"Authorization": {api_token}}
 
 def generate_llama_response(user_prompt, task_prompt):
-    # Encode the input context
     prompt = f"<s>[INST] <<SYS>> You are a helpful medical assistant. Users ask you questions about their health care information. You will help and be as concise and clear as possible. {task_prompt} <</SYS>> {user_prompt} [/INST]"
 
     input_ids = tokenizer.encode(prompt, return_tensors="pt")
     
-    # Generate the output sequence
     output = model.generate(input_ids.to(device), max_new_tokens=100, temperature=0.01).cpu()
     
-    # Decode and return the output text, skipping special tokens
     output_text = tokenizer.decode(output[0], skip_special_tokens=True)
     return output_text
 
 
-# Adapting the file processing functions for task 1 and task 2
 def process_task_1():
     base_dir = 'queries'
     output_dir = 'task_1/output/llama_ft'
@@ -141,27 +137,23 @@ def process_task_3():
                     answer = ' '.join(answer.split())
                     print(answer)
 
-                    # Prepare output paths
                     rel_path = os.path.relpath(root, query_dir)
                     output_subdir = os.path.join(output_dir, rel_path)
                     os.makedirs(output_subdir, exist_ok=True)
                     output_file = os.path.join(output_subdir, file)
 
-                    # Write the answer in text format
                     with open(output_file, 'w') as f_txt:
                         f_txt.write(f"{answer}\n")
 
                     print(f'Processed {query_file_path} -> {output_file}')
 
 if __name__ == '__main__':
-    # Your command-line interface logic for executing different tasks
     if len(sys.argv) > 1:
         task = int(sys.argv[1])
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
         if task == 1:
             model_name = "hahekmat777@gmail.com/llama-2-7b-post_task_1_ft-2024-03-14-11-29-51"
-            # Load the tokenizer and model from the fine-tuned model directory
             task = str(task)
             tokenizer = AutoTokenizer.from_pretrained(f"./ft_model/post_task_{task}")
             model = AutoModelForCausalLM.from_pretrained(

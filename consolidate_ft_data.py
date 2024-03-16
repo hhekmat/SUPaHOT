@@ -31,11 +31,9 @@ def task_1_ft_dataset(inp, outp):
                                     if false_count <= false_lim:
                                         false_lines.append(line)
 
-            # Shuffle the lines
             all_lines = true_lines + false_lines
             random.shuffle(all_lines)
 
-            # Write to the output file
             for line in all_lines:
                 outfile.write(line)
 

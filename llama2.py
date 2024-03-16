@@ -28,10 +28,10 @@ def giveup_condition(details):
 
 @backoff.on_exception(
     backoff.expo,
-    requests.exceptions.HTTPError,  # Retrying on HTTP errors
-    giveup=giveup_condition,  # Custom giveup condition
-    max_time=300,  # Total max time to retry
-    jitter=backoff.full_jitter,  # Adding jitter to spread out retry attempts
+    requests.exceptions.HTTPError,  
+    giveup=giveup_condition, 
+    max_time=300,  
+    jitter=backoff.full_jitter
 )
 
 
@@ -71,7 +71,7 @@ def query(endpoint, headers, payload):
     except requests.exceptions.HTTPError as e:
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After")
-            wait_time = int(retry_after) if retry_after else 10  # Default to 30 seconds if header is missing
+            wait_time = int(retry_after) if retry_after else 10  
             print(f"Hit rate limit, retrying after {wait_time} seconds...")
             time.sleep(wait_time)  # Sleep for the time specified in the Retry-After header
             return query(endpoint, headers, payload)  # Recursive retry after waiting
@@ -80,13 +80,6 @@ def query(endpoint, headers, payload):
             raise
     return response.json()
 
-'''def query(endpoint, headers, payload):
-    response = requests.post(endpoint, headers=headers, json=payload)
-    response.raise_for_status()
-    return response.json()'''
-
-
-# Adapting the file processing functions for task 1 and task 2
 def process_task_1():
     base_dir = 'queries'
     output_dir = 'task_1/output/llama'
@@ -206,20 +199,17 @@ def process_task_3():
                     answer = ' '.join(answer.split())
                     print(answer)
 
-                    # Prepare output paths
                     rel_path = os.path.relpath(root, query_dir)
                     output_subdir = os.path.join(output_dir, rel_path)
                     os.makedirs(output_subdir, exist_ok=True)
                     output_file = os.path.join(output_subdir, file)
 
-                    # Write the answer in text format
                     with open(output_file, 'w') as f_txt:
                         f_txt.write(f"{answer}\n")
 
                     print(f'Processed {query_file_path} -> {output_file}')
 
 if __name__ == '__main__':
-    # Your command-line interface logic for executing different tasks
     if len(sys.argv) > 1:
         task = int(sys.argv[1])
         if task == 1:
