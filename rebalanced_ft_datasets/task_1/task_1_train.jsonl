@@ -1,0 +1,400 @@
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Encounter Urgent care clinic (environment) 02-09-2022", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Observation Blood Pressure 01-29-2019", "label": "True"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Condition Misuses drugs (finding) 08-28-2019", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 11-08-2011", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter Encounter for 'check-up' 06-10-1978", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter Encounter for check up (procedure) 04-18-1989", "label": "True"}
+{"query": "\"What was the level of Carbon Dioxide in my blood on July 3, 2018, and how does it compare to normal levels?\"", "resource": "Observation Carbon Dioxide 07-03-2018", "label": "True"}
+{"query": "\"When was my last health and social care needs assessment done?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 08-03-2022", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Encounter Well child visit (procedure) 07-18-2012", "label": "False"}
+{"query": "When was my last tetanus shot?", "resource": "Immunization Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed 02-28-2019", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Postoperative follow-up visit (procedure) 10-20-2021", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Encounter General examination of patient (procedure) 08-28-2019", "label": "False"}
+{"query": "\"When was the last time my doctor assessed my assets, risks, and experiences in my medical record?\"", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-03-2018", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Observation Fall risk level [Morse Fall Scale] 09-27-2023", "label": "False"}
+{"query": "When was the last time my Total Cholesterol was measured?", "resource": "Observation Total Cholesterol 07-07-2020", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Observation Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE] 07-06-2023", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 01-29-2019", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Condition Limited social contact (finding) 08-05-2015", "label": "False"}
+{"query": "When was my last flu shot?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 01-23-2019", "label": "True"}
+{"query": "\"Did the assessment using Alcohol Use Disorders Identification Test show any concerns about my alcohol consumption back in September 2020?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-02-2020", "label": "True"}
+{"query": "\"Was the Carbon dioxide level in my blood abnormal during my last check-up?\"", "resource": "Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Acetaminophen 325 MG Oral Tablet 01-04-2012", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Depression screening (procedure) 09-02-2020", "label": "False"}
+{"query": "\"How is my anxiety level as measured by the GAD-7 score on December 29, 2020, compared to my respiratory rate from December 28, 2020?\"", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12-29-2020", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Body Height 02-28-2021", "label": "False"}
+{"query": "Based on the provided data points, a query that this patient might have could be: \"Has there been any change in my platelet mean volume since my last visit on 02-28-2021?\" This question can be answered by comparing the platelet mean volume measurement from the Encounter for problem on 08-30-2017 and the Platelet mean volume observation on 02-28-2021.", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 07-06-2023", "label": "False"}
+{"query": "\"When was the last time I had a medication reconciliation performed?\"", "resource": "Procedure Medication Reconciliation (procedure) 06-07-2015", "label": "True"}
+{"query": "\"When was my last immunization?\"", "resource": "Immunization DTaP 08-09-2015", "label": "True"}
+{"query": "What was my respiratory rate on 03-06-2022 and is it within the normal range?", "resource": "Observation Respiratory rate 03-06-2022", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Encounter General examination of patient (procedure) 06-19-1979", "label": "False"}
+{"query": "When was the last time I was placed in a prone position during a medical procedure?", "resource": "Procedure Placing subject in prone position (procedure) 11-29-2020", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Procedure Referral for echocardiography (procedure) 03-28-2023", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-16-2022", "label": "False"}
+{"query": "\"When was my last well child visit and what procedures were done during the visit?\"", "resource": "Encounter Well child visit (procedure) 10-08-2017", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 06-24-2014", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Procedure Physical examination, complete (procedure) 05-18-2023", "label": "False"}
+{"query": "Is there a potential urinary tract infection based on the presence of nitrites in my urine on 09-27-2023?", "resource": "Observation Nitrite [Presence] in Urine by Test strip 09-27-2023", "label": "True"}
+{"query": "When was I first prescribed Warfarin Sodium?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-20-2011", "label": "True"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Observation MCH [Entitic mass] by Automated count 12-02-2020", "label": "False"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Encounter General examination of patient (procedure) 07-06-2023", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-24-2021", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Condition Victim of intimate partner abuse (finding) 08-20-1996", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Immunization MMR 07-10-2016", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Encounter Well child visit (procedure) 07-30-2014", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Condition Neoplasm of prostate 11-03-2004", "label": "False"}
+{"query": "\"What is the result of my depression screening using the Patient Health Questionnaire Two-Item score from January 12, 2016?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-12-2016", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter General examination of patient (procedure) 09-01-1992", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 09-08-2021", "label": "False"}
+{"query": "When did I start hospice care?", "resource": "Procedure Hospice care (regime/therapy) 03-02-2023", "label": "True"}
+{"query": "\"What was my Erythrocyte count on July 7, 2020, and is it within the normal range?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020", "label": "True"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Condition Received higher education (finding) 08-05-2015", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 03-06-2022", "label": "False"}
+{"query": "\"What were the results of my assessment of health and social care needs from January 29, 2019?\"", "resource": "Encounter General examination of patient (procedure) 01-29-2019", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] 02-28-2019", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Admission to surgical transplant department (procedure) 09-26-2021", "label": "False"}
+{"query": "How has my body mass index (BMI) changed since my last well child visit in October 2018?", "resource": "Observation Body mass index (BMI) [Ratio] 04-24-2022", "label": "True"}
+{"query": "When was my last depression screening using the Patient Health Questionnaire Two-Item score completed?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-02-2008", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 03-09-2022", "label": "False"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 12-28-2020", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 02-28-2021", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-22-2018", "label": "False"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-03-2022", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Heart rate 01-29-2019", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Procedure Depression screening (procedure) 08-22-2018", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter General examination of patient (procedure) 07-12-1983", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Condition Hypertension 02-24-1959", "label": "True"}
+{"query": "\"What is the result of my depression screening using the Patient Health Questionnaire Two-Item score from January 12, 2016?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-12-2016", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Procedure Certification procedure (procedure) 02-09-2023", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 12-01-2020", "label": "True"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Immunization DTaP 01-10-2016", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Condition Has a criminal record (finding) 02-08-2017", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Observation Erythrocyte distribution width [Entitic volume] by Automated count 07-06-2023", "label": "False"}
+{"query": "\"When was the last time I had an influenza vaccine?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 11-11-2015", "label": "True"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-28-2019", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 02-28-2021", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Observation Stage group.clinical Cancer 08-04-2022", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Encounter General examination of patient (procedure) 06-30-1981", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Condition Body mass index 30+ - obesity (finding) 07-16-1991", "label": "False"}
+{"query": "\"What was the result of my Troponin I cardiac test from December 1st, 2020, and how does it relate to my current health status?\"", "resource": "Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Observation Triglycerides 02-04-2020", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Respiratory rate 04-30-2023", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 06-01-1976", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Encounter General examination of patient (procedure) 08-15-1989", "label": "False"}
+{"query": "\"When was the last time I was screened for depression?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-29-2020", "label": "True"}
+{"query": "\"What was the result of my depression screening in December 2012?\"", "resource": "Procedure Depression screening (procedure) 12-25-2012", "label": "True"}
+{"query": "\"Have I ever been prescribed Verapamil Hydrochloride before?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-14-2010", "label": "True"}
+{"query": "\"Can you tell me why I was placed in the prone position during my procedure on 11-29-2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-29-2020", "label": "True"}
+{"query": "\"Was the Carbon dioxide level in my blood abnormal during my last check-up?\"", "resource": "Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 05-22-2019", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 02-04-2020", "label": "True"}
+{"query": "\"When was my last well child visit and what procedures were done during the visit?\"", "resource": "Encounter Well child visit (procedure) 05-03-2015", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Encounter Emergency room admission (procedure) 01-04-2012", "label": "False"}
+{"query": "\"When was my last assessment for anxiety performed?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 09-27-2023", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Procedure Throat culture (procedure) 09-26-2016", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Encounter General examination of patient (procedure) 09-01-1992", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Tobacco smoking status 04-18-2021", "label": "False"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021", "label": "True"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008", "label": "False"}
+{"query": "\"Can you tell me if the assessment for alcohol use disorder conducted on 07-07-2020 showed any concerning results?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 07-07-2020", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution 12-25-2022", "label": "False"}
+{"query": "\"What was my hemoglobin level in my blood test from December 2nd, 2020?\"", "resource": "Observation Hemoglobin [Mass/volume] in Blood 12-02-2020", "label": "True"}
+{"query": "What was my ferritin level during my last visit to the doctor?", "resource": "Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter General examination of patient (procedure) 05-15-1973", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-14-2010", "label": "False"}
+{"query": "\"When did I start my hospice care treatment?\"", "resource": "Procedure Hospice care (regime/therapy) 02-25-2023", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Encounter Encounter for symptom 11-23-2016", "label": "False"}
+{"query": "\"What was the dosage and start date of the Hydrochlorothiazide medication I was prescribed in 2016?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-28-2015", "label": "True"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Procedure Assessment of substance use (procedure) 09-02-2020", "label": "True"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 07-06-2023", "label": "True"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Observation Sodium 07-03-2018", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Encounter General examination of patient (procedure) 05-09-1972", "label": "False"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 03-28-2023", "label": "True"}
+{"query": "\"What was the result of my Hemoglobin A1c test in 2021, and how does it compare to my previous results?\"", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-09-2021", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Encounter Encounter for symptom 02-26-2022", "label": "False"}
+{"query": "\"When did I receive my COVID-19 vaccine?\"", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 03-03-2021", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"What was the treatment plan recommended during my consultation on 03-30-2003?\"", "resource": "Encounter Consultation for treatment 03-30-2003", "label": "True"}
+{"query": "\"When was I diagnosed with gout and when did I start taking diabetes medication?\"", "resource": "Condition Gout 11-08-1996", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Procedure Medication Reconciliation (procedure) 04-24-2022", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Depression screening (procedure) 12-20-2011", "label": "False"}
+{"query": "When was my last flu shot administered?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 07-30-2014", "label": "True"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 05-29-2021", "label": "True"}
+{"query": "\"What was the reason for placing me in the prone position on 11-27-2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-30-2020", "label": "True"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 02-01-2020", "label": "True"}
+{"query": "\"Can you tell me the result of my Creatine kinase test from December 1st, 2020, and what it means for my health?\"", "resource": "Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-04-2020", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Immunization IPV 08-09-2015", "label": "False"}
+{"query": "\"When was the last time my health and social care needs were assessed?\"", "resource": "Observation Total score [HARK] 02-04-2020", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Observation MCV [Entitic volume] by Automated count 07-07-2020", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Procedure Oxygen administration by mask (procedure) 11-26-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Assessment of anxiety (procedure) 09-08-2021", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Condition Ischemic heart disease (disorder) 03-18-2021", "label": "True"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "MedicationRequest 24 HR tacrolimus 1 MG Extended Release Oral Tablet 03-03-2022", "label": "True"}
+{"query": "When was my last medication reconciliation done?", "resource": "Procedure Medication Reconciliation (procedure) 01-10-2016", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Condition Full-time employment (finding) 12-28-2020", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Encounter for problem (procedure) 05-02-2019", "label": "False"}
+{"query": "What was the result of my Assessment using Alcohol Use Disorders Identification Test - Consumption procedure in September 2020?", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 09-02-2020", "label": "True"}
+{"query": "\"Can you please tell me when I was prescribed Hydrochlorothiazide and why?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-27-2018", "label": "True"}
+{"query": "\"When was my last transthoracic echocardiography procedure performed?\"", "resource": "Procedure Referral for echocardiography (procedure) 05-29-2021", "label": "True"}
+{"query": "How has my carbon dioxide levels changed over time and what do they indicate about my health?", "resource": "Observation Carbon Dioxide 01-29-2019", "label": "True"}
+{"query": "How has my Body Mass Index changed since my cardiac arrest in June 2018?", "resource": "Observation Body Mass Index 12-28-2020", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Immunization Pneumococcal conjugate PCV 13 01-10-2016", "label": "False"}
+{"query": "\"Can you please explain the results of my pH of urine test from 03-15-2023 and how it may impact my health?\"", "resource": "Observation pH of Urine by Test strip 03-15-2023", "label": "True"}
+{"query": "\"How has my platelet mean volume changed since my last medication reconciliation in 2015?\"", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 12-25-2012", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 09-08-2021", "label": "False"}
+{"query": "\"When was my last assessment for anxiety performed?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 09-27-2023", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 07-03-2018", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 02-04-2020", "label": "False"}
+{"query": "\"What was my pain level on February 28, 2021, and were there any abnormalities in my leukocyte count on that same day?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-28-2021", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 02-28-2021", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 07-07-2020", "label": "False"}
+{"query": "When was my anemia diagnosed?", "resource": "Condition Anemia (disorder) 08-17-1993", "label": "True"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-28-2020", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Encounter for problem 09-08-2022", "label": "False"}
+{"query": "\"What was the date when I was prescribed Digoxin 0.125 MG Oral Tablet?\"", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 12-08-2009", "label": "True"}
+{"query": "\"When was the last time my hemoglobin levels in my blood were checked?\"", "resource": "Observation Hemoglobin [Mass/volume] in Blood 02-28-2021", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Procedure Transthoracic echocardiography (procedure) 03-28-2023", "label": "False"}
+{"query": "When was the last time my position was changed to prone during a procedure?", "resource": "Procedure Placing subject in prone position (procedure) 12-01-2020", "label": "True"}
+{"query": "\"What was the reason for my General examination on July 6, 2023?\"", "resource": "Observation Heart rate 07-06-2023", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 12-08-2009", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 09-02-2020", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Well child visit (procedure) 10-11-2015", "label": "False"}
+{"query": "How long have I been prescribed Hydrochlorothiazide?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 06-13-2019", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Observation Clarity of Urine 09-27-2023", "label": "False"}
+{"query": "\"What was the reason for placing me in the prone position on 11-27-2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-27-2020", "label": "True"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Observation Blood Pressure 02-09-2021", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Procedure Electrical cardioversion 01-23-2018", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Observation MCHC [Mass/volume] by Automated count 07-07-2020", "label": "False"}
+{"query": "\"What was my Troponin I level on December 1st, 2020, and what does it mean for my heart health?\"", "resource": "Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Encounter Encounter for 'check-up' 04-19-2012", "label": "False"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 12-25-2012", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Encounter for problem (procedure) 05-29-2021", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Procedure Medication Reconciliation (procedure) 06-28-2016", "label": "False"}
+{"query": "\"When was my last assessment for anxiety performed?\"", "resource": "Procedure Assessment of anxiety (procedure) 03-15-2023", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Condition Aortic valve stenosis (disorder) 05-02-2019", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 07-06-2022", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-05-2015", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-03-2021", "label": "False"}
+{"query": "\"What was the date when I was prescribed Verapamil Hydrochloride 40 MG?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 02-04-2020", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 12-25-2012", "label": "False"}
+{"query": "When was my last blood pressure reading taken?", "resource": "Observation Blood pressure panel with all children optional 04-18-2021", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Condition Victim of intimate partner abuse (finding) 08-20-1996", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 02-08-2017", "label": "True"}
+{"query": "\"When was my last immunization?\"", "resource": "Immunization Hib (PRP-OMP) 10-11-2015", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Condition Atopic dermatitis 09-13-2015", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "MedicationRequest Jolivette 28 Day Pack 01-21-2021", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Body Height 09-08-2021", "label": "False"}
+{"query": "\"What was the result of my Troponin I cardiac test from December 1st, 2020, and how does it relate to my current health status?\"", "resource": "Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Observation Respiratory rate 04-18-2021", "label": "False"}
+{"query": "What was the result of my MCHC [Mass/volume] test from 07-07-2020, and how does it compare to previous results?", "resource": "Observation MCHC [Mass/volume] by Automated count 07-07-2020", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 01-17-2017", "label": "False"}
+{"query": "\"When was my last assessment for anxiety performed?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 06-08-2022", "label": "True"}
+{"query": "How has my body mass index (BMI) changed since my last well child visit in October 2018?", "resource": "Encounter Well child visit (procedure) 10-07-2018", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-03-2016", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Potassium 01-29-2019", "label": "False"}
+{"query": "\"When was the last time I was screened for depression?\"", "resource": "Procedure Depression screening (procedure) 07-07-2020", "label": "True"}
+{"query": "\"What was the reason for placing me in the prone position on 11-27-2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-25-2020", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Heart rate 03-06-2022", "label": "False"}
+{"query": "Possible query: \"What was the reason for my encounter on May 2nd, 2019?\"", "resource": "Encounter Encounter for problem (procedure) 05-02-2019", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-06-2015", "label": "False"}
+{"query": "Did I start taking Naproxen sodium before or after Jolivette?", "resource": "MedicationRequest Naproxen sodium 220 MG Oral Tablet 02-19-2021", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 01-23-2018", "label": "True"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Procedure Screening for drug abuse (procedure) 10-05-2022", "label": "True"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Procedure Initial patient assessment (procedure) 02-09-2023", "label": "True"}
+{"query": "\"When was my last depression screening?\"", "resource": "Procedure Depression screening (procedure) 01-06-2015", "label": "True"}
+{"query": "\"What was my hematocrit level and red blood cell count on July 7, 2020, and are they within the normal range?\"", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 07-07-2020", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Observation Total score [MMSE] 02-09-2021", "label": "False"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 06-07-1977", "label": "True"}
+{"query": "When is my next scheduled immunization for rotavirus?", "resource": "Immunization rotavirus, monovalent 08-09-2015", "label": "True"}
+{"query": "\"What diagnosis or problem was addressed during my most recent medical encounter on 09-30-2022?\"", "resource": "Encounter Encounter for problem 09-30-2022", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-09-2016", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Observation Total score [HARK] 01-29-2019", "label": "False"}
+{"query": "When was my last depression screening using the Patient Health Questionnaire Two-Item score completed?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-02-2020", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Observation Calcium 01-29-2019", "label": "False"}
+{"query": "\"When was my last visit where my full-time employment was noted in my medical record?\"", "resource": "Condition Full-time employment (finding) 09-08-2021", "label": "True"}
+{"query": "When was my last echocardiogram to check my aortic valve stenosis?", "resource": "Condition Aortic valve stenosis (disorder) 05-02-2019", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter Encounter for 'check-up' 06-10-1978", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Erythrocyte distribution width [Ratio] by Automated count 12-02-2020", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Observation Prothrombin time (PT) 12-01-2020", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Procedure Depression screening (procedure) 09-02-2020", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Prothrombin time (PT) 12-01-2020", "label": "False"}
+{"query": "\"How was my alcohol consumption assessed during my last medical visit?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 06-08-2022", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 01-05-2022", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Encounter Well child visit (procedure) 04-09-2017", "label": "True"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation MCV [Entitic volume] by Automated count 12-02-2020", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Encounter Encounter for check up (procedure) 07-13-1999", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Respiratory rate 12-02-2020", "label": "False"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Procedure Hospice care (regime/therapy) 03-03-2023", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Procedure Depression screening (procedure) 01-29-2019", "label": "False"}
+{"query": "\"When was my last immunization?\"", "resource": "Encounter Well child visit (procedure) 04-18-2021", "label": "True"}
+{"query": "When was the last time I reported my pain severity on a scale of 0-10 to my healthcare provider?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 07-07-2020", "label": "True"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Observation Neutrophils/100 leukocytes in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"What was the date when I was prescribed Digoxin 0.125 MG Oral Tablet?\"", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 01-06-2015", "label": "True"}
+{"query": "What was the date of my diagnosis for chronic kidney disease stage 1?", "resource": "Condition Chronic kidney disease stage 1 (disorder) 12-01-2004", "label": "True"}
+{"query": "When was I admitted to hospice?", "resource": "Procedure Hospice care (regime/therapy) 02-26-2023", "label": "True"}
+{"query": "When was my anemia diagnosed?", "resource": "Observation Hemoglobin [Mass/volume] in Blood 07-07-2020", "label": "True"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 09-08-2021", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Body mass index (BMI) [Ratio] 03-06-2022", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2021", "label": "False"}
+{"query": "\"When was my last immunization?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 10-11-2015", "label": "True"}
+{"query": "When was my last general examination?", "resource": "Encounter General examination of patient (procedure) 08-04-1987", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Well child visit (procedure) 10-11-2015", "label": "False"}
+{"query": "\"When was the last time I was assessed for alcohol use disorders?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-10-2016", "label": "True"}
+{"query": "When did I receive my last DTaP immunization?", "resource": "Immunization DTaP 10-09-2016", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 07-07-2020", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-29-2021", "label": "False"}
+{"query": "\"What is my current percentile for body mass index compared to others of the same age and sex?\"", "resource": "Observation Body mass index (BMI) [Ratio] 04-18-2021", "label": "True"}
+{"query": "What was the prescription for Hydrochlorothiazide for on October 6, 2021?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 10-06-2021", "label": "True"}
+{"query": "When did I start hospice care?", "resource": "Procedure Hospice care (regime/therapy) 02-23-2023", "label": "True"}
+{"query": "\"What was my hematocrit level and red blood cell count on July 7, 2020, and are they within the normal range?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 07-07-2020", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Total Cholesterol 02-04-2020", "label": "False"}
+{"query": "\"What is my current percentile for body mass index compared to others of the same age and sex?\"", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 02-28-2021", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Condition Received higher education (finding) 02-24-1959", "label": "False"}
+{"query": "Based on the provided data points, a query that this patient might have could be: \"Has there been any change in my platelet mean volume since my last visit on 02-28-2021?\" This question can be answered by comparing the platelet mean volume measurement from the Encounter for problem on 08-30-2017 and the Platelet mean volume observation on 02-28-2021.", "resource": "Observation MCV [Entitic volume] by Automated count 02-28-2021", "label": "True"}
+{"query": "When was my last flu shot administered?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 08-28-2019", "label": "True"}
+{"query": "\"What was the reason for placing me in the prone position on 11-27-2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-27-2020", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 04-18-2021", "label": "False"}
+{"query": "How has my body mass index (BMI) changed since my last well child visit in October 2018?", "resource": "Encounter Well child visit (procedure) 04-18-2021", "label": "True"}
+{"query": "When was my last flu shot administered?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-26-2012", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 11-08-2011", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Body Weight 09-08-2021", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation MCH [Entitic mass] by Automated count 12-02-2020", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 09-08-2021", "label": "False"}
+{"query": "How has my body mass index (BMI) changed since my last well child visit in October 2018?", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 02-28-2021", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Procedure Medication Reconciliation (procedure) 01-10-2016", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 02-09-2021", "label": "False"}
+{"query": "\"When was the last time I was assessed for alcohol use disorders?\"", "resource": "Procedure Screening for drug abuse (procedure) 08-28-2019", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 12-27-2018", "label": "False"}
+{"query": "\"Can you please explain the results of my pH of urine test from 03-15-2023 and how it may impact my health?\"", "resource": "Observation pH of Urine by Test strip 03-15-2023", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Encounter Encounter for symptom 10-02-2023", "label": "True"}
+{"query": "\"When was the last time I was prescribed amLODIPine 2.5 MG Oral Tablet?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-16-2017", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Encounter Encounter for check up (procedure) 06-08-2022", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Procedure Hospice care (regime/therapy) 02-13-2023", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Body Height 09-08-2021", "label": "False"}
+{"query": "\"When was my last flu shot?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-31-2013", "label": "True"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Encounter General examination of patient (procedure) 09-02-2020", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-28-2021", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Observation Calcium 07-07-2020", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Immunization Hep A, adult 06-28-2016", "label": "False"}
+{"query": "What were the results of my depression screening back in August 2017?", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Immunization Pneumococcal conjugate PCV 13 01-10-2016", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Procedure Assessment of anxiety (procedure) 12-28-2020", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Body temperature 12-02-2020", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-23-2018", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter General examination of patient (procedure) 10-06-1998", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Tobacco smoking status NHIS 01-29-2019", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 08-03-2022", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Encounter Hypertension follow-up encounter 11-03-2015", "label": "False"}
+{"query": "When did I start taking lisinopril for my hypertension?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 12-14-2010", "label": "True"}
+{"query": "Can you tell me if all of my medications have been reconciled correctly during my last medical visit on April 30, 2023?", "resource": "Procedure Medication Reconciliation (procedure) 04-30-2023", "label": "True"}
+{"query": "\"When was my last immunization?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 04-07-2019", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Body Weight 09-08-2021", "label": "False"}
+{"query": "\"What was my hematocrit level on February 28, 2021, and how does it compare to the normal range?\"", "resource": "Observation Hematocrit [Volume Fraction] of Blood by Automated count 02-28-2021", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 01-17-2017", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 12-31-2013", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Triglycerides 02-04-2020", "label": "False"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-31-2013", "label": "False"}
+{"query": "\"When was the last time my bone was immobilized?\"", "resource": "Procedure Bone immobilization 01-04-2012", "label": "True"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Procedure External beam radiation therapy procedure (procedure) 09-29-2022", "label": "False"}
+{"query": "\"When was my last visit for the same problem I've been experiencing, and were there any changes in my triglyceride levels around that time?\"", "resource": "Encounter Encounter for problem 09-22-2022", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Protein [Mass/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Condition Hypoxemia (disorder) 11-21-2020", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Immunization DTaP 01-10-2016", "label": "True"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Respiratory rate 04-30-2023", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Procedure Referral for echocardiography (procedure) 02-01-2020", "label": "False"}
+{"query": "\"Can you please provide me with the results of my Assessment using Alcohol Use Disorders Identification Test that was done on 08-03-2022?\"", "resource": "Procedure Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) 08-03-2022", "label": "True"}
+{"query": "\"What was the result of my Platelet mean volume test on 07-07-2020 and how does it compare to previous results?\"", "resource": "Observation Platelet mean volume [Entitic volume] in Blood by Automated count 07-07-2020", "label": "True"}
+{"query": "\"How long have I been taking amLODIPine 2.5 MG Oral Tablet?\"", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 09-02-2020", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Observation Hemoglobin A1c/Hemoglobin.total in Blood 02-09-2021", "label": "False"}
+{"query": "\"When was the last time my health and social care needs were assessed?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 01-29-2019", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Observation Glucose 02-09-2021", "label": "False"}
+{"query": "\"What was my sodium level in my blood on December 2, 2020?\"", "resource": "Observation Sodium [Moles/volume] in Serum or Plasma 12-02-2020", "label": "True"}
+{"query": "When was my last check-up appointment?", "resource": "Encounter General examination of patient (procedure) 05-21-1974", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Encounter General examination of patient (procedure) 02-04-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-28-2020", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-24-2021", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Procedure Oxygen administration by mask (procedure) 11-26-2020", "label": "False"}
+{"query": "What was the prescription for Hydrochlorothiazide for on October 6, 2021?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-10-2021", "label": "True"}
+{"query": "\"Has my sodium level in my blood changed since I started taking the 24 HR tacrolimus medication?\"", "resource": "Observation Sodium [Moles/volume] in Blood 01-05-2023", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Oxygen administration by mask (procedure) 11-23-2020", "label": "False"}
+{"query": "\"Can you please tell me when I last had a DTaP immunization?\"", "resource": "Immunization DTaP 04-12-2020", "label": "True"}
+{"query": "\"When was my last immunization?\"", "resource": "Immunization IPV 08-09-2015", "label": "True"}
+{"query": "\"What were the results of my assessment of health and social care needs from January 29, 2019?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 01-29-2019", "label": "True"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Procedure Assessment of substance use (procedure) 09-27-2023", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter General examination of patient (procedure) 01-17-2017", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Oxygen saturation in Arterial blood 12-02-2020", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Immunization SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose 05-25-2021", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Body Height 02-28-2021", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Body Weight 12-02-2020", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Encounter Administration of vaccine to produce active immunity (procedure) 03-24-2021", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Observation Body Height 03-06-2022", "label": "False"}
+{"query": "\"When was my last initial patient assessment done?\"", "resource": "Encounter Emergency room admission (procedure) 03-03-2022", "label": "True"}
+{"query": "When was my last medication reconciliation done?", "resource": "Procedure Medication Reconciliation (procedure) 01-10-2016", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-12-2016", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Procedure Medication Reconciliation (procedure) 06-28-2016", "label": "False"}
+{"query": "\"When was my last assessment for anxiety performed?\"", "resource": "Procedure Assessment of anxiety (procedure) 07-06-2022", "label": "True"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Condition Housing unsatisfactory (finding) 08-05-2015", "label": "False"}
+{"query": "\"What symptoms did I have during my last medical encounter on 10-02-2023?\"", "resource": "Observation Body temperature 02-26-2022", "label": "False"}
+{"query": "What was the date of my last prescription for Hydrochlorothiazide 25 MG Oral Tablet?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 03-27-2019", "label": "True"}
+{"query": "What medication was I prescribed on January 12, 2016?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-12-2016", "label": "True"}
+{"query": "When was my last flu shot?", "resource": "Encounter General examination of patient (procedure) 03-03-2021", "label": "True"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Procedure Assessment of substance use (procedure) 09-02-2020", "label": "False"}
+{"query": "When did I start taking lisinopril for my hypertension?", "resource": "Condition Hypertension 02-24-1959", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 02-04-2020", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "What is my current height compared to my height on 02-28-2021?", "resource": "Observation Body Height 04-18-2021", "label": "True"}
+{"query": "When did my Hospice care regime/therapy begin?", "resource": "Procedure Hospice care (regime/therapy) 03-07-2023", "label": "True"}
+{"query": "How long have I been prescribed Hydrochlorothiazide?", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-02-2023", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "MedicationRequest Warfarin Sodium 5 MG Oral Tablet 01-17-2017", "label": "False"}
+{"query": "\"What was the date of my last flu shot?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 11-11-2020", "label": "True"}
+{"query": "\"When was the last time I had a general examination?\"", "resource": "Encounter General examination of patient (procedure) 02-09-2021", "label": "True"}
+{"query": "\"When did I start my hospice care treatment?\"", "resource": "Procedure Hospice care (regime/therapy) 03-02-2023", "label": "True"}
+{"query": "\"What was my pain level on February 28, 2021, and were there any abnormalities in my leukocyte count on that same day?\"", "resource": "Observation Leukocytes [#/volume] in Blood by Automated count 02-28-2021", "label": "True"}
+{"query": "\"Can you please tell me what was found during my risk activity involvement assessment on 05-11-1966?\"", "resource": "Condition Risk activity involvement (finding) 05-11-1966", "label": "True"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Encounter Encounter for symptom 12-21-2012", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Encounter for problem 09-29-2022", "label": "False"}
+{"query": "\"When was the last time I was screened for depression?\"", "resource": "Procedure Depression screening (procedure) 06-24-2014", "label": "True"}
+{"query": "When was I admitted to hospice?", "resource": "Encounter Admission to hospice (procedure) 02-09-2023", "label": "True"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "Procedure Assessment of anxiety (procedure) 01-29-2019", "label": "True"}
+{"query": "\"When was my last well child visit and what procedures were done during the visit?\"", "resource": "Encounter Well child visit (procedure) 08-09-2015", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Observation Body mass index (BMI) [Percentile] Per age and sex 03-06-2022", "label": "False"}
+{"query": "\"What was the dosage and start date of the Hydrochlorothiazide medication I was prescribed in 2016?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2016", "label": "True"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "Encounter General examination of patient (procedure) 09-01-1992", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-27-2020", "label": "False"}
+{"query": "When did I start taking lisinopril for my hypertension?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-06-2015", "label": "True"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Encounter Consultation for treatment 01-27-2020", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 04-30-2023", "label": "False"}
+{"query": "When did I start taking lisinopril for my hypertension?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-12-2016", "label": "True"}
+{"query": "When was my last well child visit?", "resource": "Observation Tobacco smoking status 02-28-2021", "label": "False"}
+{"query": "\"When was the last time I had an electrical cardioversion procedure?\"", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-31-2013", "label": "False"}
+{"query": "When was my last general examination?", "resource": "Encounter General examination of patient (procedure) 07-06-1982", "label": "True"}
+{"query": "\"When was my last fall risk assessment done?\"", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-17-2017", "label": "True"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "MedicationRequest amLODIPine 2.5 MG Oral Tablet 06-30-2022", "label": "False"}
+{"query": "\"Can you provide me with the results of my anxiety assessment from January 29, 2019?\"", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 12-08-2009", "label": "False"}
+{"query": "When was my diagnosis of Ischemic heart disease first recorded in my medical record?", "resource": "Encounter Encounter for problem 09-19-2022", "label": "False"}
+{"query": "\"When was my last immunization?\"", "resource": "Immunization IPV 08-09-2015", "label": "True"}
+{"query": "When was my hypertension first diagnosed?", "resource": "Encounter General examination of patient (procedure) 05-21-1974", "label": "False"}
+{"query": "When was my last well child visit?", "resource": "Observation Heart rate 02-28-2021", "label": "False"}
+{"query": "\"What was my oxygen saturation level in arterial blood on February 12th, 2020?\"", "resource": "Encounter Encounter for symptom 07-20-2014", "label": "False"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Observation Albumin [Mass/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"Why did I have to be placed in the prone position on December 1st, 2020?\"", "resource": "Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020", "label": "False"}
+{"query": "\"When was my assessment of substance use conducted?\"", "resource": "Condition Misuses drugs (finding) 08-28-2019", "label": "True"}
+{"query": "\"What treatment options are available for drug misuse, and when was the last time this issue was addressed in my medical record?\"", "resource": "Observation Body temperature 12-02-2020", "label": "False"}
+{"query": "\"What were the results of my depression screening on 07-07-2020?\"", "resource": "Procedure Depression screening (procedure) 07-07-2020", "label": "True"}
+{"query": "\"What were the results of my depression screening on 02-09-2021?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 02-09-2021", "label": "True"}

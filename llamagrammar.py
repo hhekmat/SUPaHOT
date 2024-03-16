@@ -30,8 +30,9 @@ def get_instruct_template(user_msg, model_answer, system_prompt):
 def write_task_1():
     types = ["train", "val"]
     for type in types:
-        read_path = f"ft_datasets/task_1/task_1_{type}.jsonl"
-        write_path = f"llama_ft_datasets/task_1/task_1_{type}.jsonl"
+        read_path = f"rebalanced_ft_datasets/task_1/task_1_{type}.jsonl"
+        write_path = f"rebalanced_llama_ft_datasets/task_1/task_1_{type}.jsonl"
+        print(write_path)
         queries = []
         resources = []
         labels = []
@@ -117,7 +118,7 @@ def write_task_3():
 
 
 def main():
-    pass
+    write_task_1()
 
 if __name__ == '__main__':
     main()

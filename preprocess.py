@@ -22,6 +22,8 @@ def parse_fhir_json(file_path):
                         label = extract_display_name_date(resource)
                         relevant_resources.append(label) 
                         global_resource_dict[label] = str(resource)
+                        print(resource)
+                        print(label)
                         resource_counter[rt] += 1
     # print('global resource dict ', global_resource_dict)
     return relevant_resources

@@ -5,8 +5,8 @@ import random
 def task_1_ft_dataset(inp, outp):
     for i in range(len(inp)):
         if i == 0:
-            true_lim = 100
-            false_lim = 300
+            true_lim = 200
+            false_lim = 200
         else:
             true_lim = 20
             false_lim = 60
@@ -14,7 +14,7 @@ def task_1_ft_dataset(inp, outp):
         false_count = 0
         true_lines = []
         false_lines = []
-
+        
         with open(outp[i], 'a') as outfile:
             for root, dirs, files in os.walk(inp[i]):
                 for file in files:
@@ -53,8 +53,8 @@ def create_ft_datasets(inp, outp):
 
 if __name__ == '__main__':
     inp = ['./task_1/finetune/oracle/train', './task_1/finetune/oracle/validation']
-    outp = ['./ft_datasets/task_1_train.jsonl', './ft_datasets/task_1_val.jsonl']
+    outp = ['./rebalanced_ft_datasets/task_1_train.jsonl', './rebalanced_ft_datasets/task_1_val.jsonl']
     input_dirs = ['./task_2/finetune/oracle/train', './task_2/finetune/oracle/validation', './task_3/finetune/oracle/train', './task_3/finetune/oracle/validation']
     output_files = ['./ft_datasets/task_2_train.jsonl', './ft_datasets/task_2_val.jsonl', './ft_datasets/task_3_train.jsonl', './ft_datasets/task_3_val.jsonl']
     task_1_ft_dataset(inp, outp)
-    create_ft_datasets(input_dirs, output_files)
+    #create_ft_datasets(input_dirs, output_files)

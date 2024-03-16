@@ -1,0 +1,80 @@
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Procedure Development of individualized plan of care (procedure) 02-09-2023", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 06-01-1976", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Observation Ferritin [Mass/volume] in Serum or Plasma 12-01-2020", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2016", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Observation Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 12-01-2020", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Procedure Placing subject in prone position (procedure) 11-30-2020", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter Encounter for problem 05-15-1973", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Procedure Assessment of substance use (procedure) 01-04-2023", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-10-2016", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Procedure Assessment of substance use (procedure) 08-16-2017", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 01-05-2022", "label": "True"}
+{"query": "\"When was my last general examination?\"", "resource": "Procedure Assessment of substance use (procedure) 10-05-2022", "label": "False"}
+{"query": "\"Can you tell me when I had my last encounter for a medical problem?\"", "resource": "Encounter Encounter for symptom 12-25-2022", "label": "True"}
+{"query": "\"When was my last general examination?\"", "resource": "Condition Medication review due (situation) 03-15-2023", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Encounter General examination of patient (procedure) 03-15-2023", "label": "True"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Procedure Assessment of anxiety (procedure) 08-22-2018", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Immunization meningococcal MCV4P 08-22-2018", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest Digoxin 0.125 MG Oral Tablet 02-04-2020", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Observation Hemoglobin [Presence] in Urine by Test strip 09-27-2023", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Procedure Assessment of substance use (procedure) 08-22-2018", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Immunization Hep B, adult 08-28-2019", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Encounter General examination of patient (procedure) 02-03-2016", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Observation Body Weight 02-09-2021", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 12-08-2009", "label": "True"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Encounter Hypertension follow-up encounter 11-03-2015", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Observation Pain severity - 0-10 verbal numeric rating [Score] - Reported 02-09-2021", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Observation Tobacco smoking status NHIS 09-08-2021", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Condition Served in armed forces (finding) 02-24-1959", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 08-03-2022", "label": "False"}
+{"query": "What was my Creatinine level on 02-04-2020 and how does it compare to previous tests?", "resource": "Observation Creatinine 02-04-2020", "label": "True"}
+{"query": "\"When was my last general examination?\"", "resource": "Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Observation Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 08-22-2018", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Observation MCH [Entitic mass] by Automated count 12-02-2020", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Condition Hypoxemia (disorder) 11-21-2020", "label": "False"}
+{"query": "\"Can you tell me when I had my last encounter for a medical problem?\"", "resource": "Encounter Encounter for problem 09-10-2022", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 12-14-2010", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Observation INR in Platelet poor plasma by Coagulation assay 12-01-2020", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Immunization Td (adult) preservative free 08-22-2018", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Encounter Emergency room admission (procedure) 07-02-2020", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Observation Erythrocytes [#/volume] in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Encounter General examination of patient (procedure) 01-28-2015", "label": "True"}
+{"query": "\"When was my last heart check-up and what were the results?\"", "resource": "Procedure Echocardiography (procedure) 06-19-2018", "label": "True"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Procedure Assessment of substance use (procedure) 08-22-2018", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Encounter Encounter for symptom 07-20-2014", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Encounter Emergency room admission (procedure) 12-22-2021", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Observation Tobacco smoking status NHIS 09-08-2021", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest lisinopril 10 MG Oral Tablet 01-29-2019", "label": "True"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Observation Blood Pressure 12-02-2020", "label": "True"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Procedure Oxygen administration by mask (procedure) 11-23-2020", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Procedure Oxygen administration by mask (procedure) 11-24-2020", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Procedure Assessment of health and social care needs (procedure) 01-12-2016", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Encounter Encounter for check up (procedure) 08-03-2016", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 01-12-2016", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 01-04-2023", "label": "False"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-17-2023", "label": "True"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Observation Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 09-08-2021", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Encounter Well child visit (procedure) 05-11-1966", "label": "True"}
+{"query": "\"Can you tell me when I had my last encounter for a medical problem?\"", "resource": "Encounter Encounter for problem 08-26-2022", "label": "True"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Encounter Well child visit (procedure) 07-07-2010", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "MedicationRequest Verapamil Hydrochloride 40 MG 12-02-2008", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 10-17-2000", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "MedicationRequest Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet 01-19-2022", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Immunization Influenza, seasonal, injectable, preservative free 09-08-2021", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-27-2023", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter Encounter for symptom 11-02-2011", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Procedure Assessment using Morse Fall Scale (procedure) 01-06-2015", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Observation Lymphocytes/100 leukocytes in Blood by Automated count 12-02-2020", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Observation Chloride [Moles/volume] in Serum or Plasma 12-02-2020", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Procedure Assessment of health and social care needs (procedure) 08-16-2017", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 09-24-1996", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Procedure Assessment of anxiety (procedure) 12-31-2013", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Observation Glucose 01-29-2019", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Condition Microalbuminuria due to type 2 diabetes mellitus (disorder) 12-07-2005", "label": "False"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Encounter General examination of patient (procedure) 01-06-2015", "label": "False"}
+{"query": "\"What is my current tobacco smoking status based on the NHIS observation from September 8, 2021?\"", "resource": "Procedure Screening for drug abuse (procedure) 08-28-2019", "label": "False"}
+{"query": "\"When was the last time my blood pressure was checked?\"", "resource": "Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017", "label": "False"}
+{"query": "\"When was my last general examination?\"", "resource": "Encounter Encounter for check up (procedure) 03-10-2021", "label": "True"}
+{"query": "\"Can you please provide me with the details of my hospice care regime from February 2023?\"", "resource": "Procedure Hospice care (regime/therapy) 02-21-2023", "label": "True"}
+{"query": "How often have I been prescribed lisinopril 10 MG Oral Tablet in my medical history?", "resource": "Immunization Influenza, seasonal, injectable, preservative free 12-25-2012", "label": "False"}
