@@ -1,0 +1,7 @@
+Observation Heart rate 07-07-2020
+Procedure Screening for domestic abuse (procedure) 06-28-2016
+Observation Chloride 07-03-2018
+Observation Platelet distribution width [Entitic volume] in Blood by Automated count 07-07-2020
+Observation Creatinine 07-07-2020
+MedicationRequest Atropine Sulfate 1 MG/ML Injectable Solution 06-19-2018
+Encounter Encounter for symptom 05-02-2019

@@ -1,0 +1,14 @@
+Encounter General examination of patient (procedure) 07-17-1984
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 02-09-2021
+MedicationRequest lisinopril 10 MG Oral Tablet 01-17-2017
+MedicationRequest Verapamil Hydrochloride 40 MG 11-08-2011
+Encounter General examination of patient (procedure) 12-25-2012
+Procedure Assessment of health and social care needs (procedure) 02-04-2020
+Encounter General examination of patient (procedure) 11-09-2004
+Encounter General examination of patient (procedure) 09-07-1993
+MedicationRequest lisinopril 10 MG Oral Tablet 11-27-2007
+Encounter General examination of patient (procedure) 12-02-2008
+MedicationRequest Warfarin Sodium 5 MG Oral Tablet 02-09-2021
+MedicationRequest lisinopril 10 MG Oral Tablet 12-25-2012
+Observation Urea Nitrogen 01-29-2019
+Observation Carbon Dioxide 01-29-2019

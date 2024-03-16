@@ -1,0 +1,8 @@
+Immunization IPV 08-09-2015
+Encounter Well child visit (procedure) 05-03-2015
+Observation Body Height 02-28-2021
+Observation Body Height 03-06-2022
+Observation Body Height 03-06-2022
+Encounter Encounter for symptom 11-23-2016
+Observation Body mass index (BMI) [Ratio] 04-18-2021
+Encounter Encounter for symptom 02-17-2021

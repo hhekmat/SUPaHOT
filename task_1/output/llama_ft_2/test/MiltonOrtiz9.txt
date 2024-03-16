@@ -1,0 +1,11 @@
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-02-2020
+Encounter Hypertension follow-up encounter 11-03-2015
+Procedure Face mask (physical object) 11-21-2020
+Procedure Depression screening (procedure) 08-16-2017
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Immunization Influenza, seasonal, injectable, preservative free 08-16-2017
+Procedure Assessment of substance use (procedure) 09-08-2021
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-16-2017
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-16-2017
+Observation Monocytes/100 leukocytes in Blood by Automated count 12-02-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-10-2016

@@ -1,0 +1,7 @@
+Observation Potassium 02-09-2021
+Encounter General examination of patient (procedure) 12-14-2010
+Encounter Encounter Inpatient 09-01-2012
+Encounter Encounter for check up (procedure) 04-18-1989
+MedicationRequest lisinopril 10 MG Oral Tablet 12-20-2011
+Encounter General examination of patient (procedure) 10-17-2000
+Observation Body Height 02-09-2021

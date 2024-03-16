@@ -1,0 +1,15 @@
+MedicationRequest amLODIPine 2.5 MG Oral Tablet 08-10-2016
+Procedure Placing subject in prone position (procedure) 11-26-2020
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Observation Heart rate 12-02-2020
+Procedure Assessment of health and social care needs (procedure) 09-02-2020
+Procedure Placing subject in prone position (procedure) 11-22-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 09-08-2021
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-10-2016
+Observation Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 12-01-2020
+Procedure Assessment of substance use (procedure) 08-28-2019
+Encounter Encounter for check up (procedure) 12-26-2012
+Procedure Placing subject in prone position (procedure) 11-28-2020
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-16-2017
+Procedure Assessment of health and social care needs (procedure) 08-10-2016
+Encounter Hypertension follow-up encounter 09-04-2015

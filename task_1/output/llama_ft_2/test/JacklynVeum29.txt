@@ -1,0 +1,10 @@
+Observation Blood pressure panel with all children optional 03-15-2023
+Encounter Encounter for check up (procedure) 02-19-2014
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 12-16-2020
+Observation Leukocyte esterase [Presence] in Urine by Test strip 09-27-2023
+MedicationRequest Hydrochlorothiazide 25 MG Oral Tablet 02-26-2020
+Encounter General examination of patient (procedure) 05-28-1969
+Encounter Administration of vaccine to produce active immunity (procedure) 03-24-2021
+MedicationRequest Simvastatin 20 MG Oral Tablet 01-29-2014
+Observation Ketones [Mass/volume] in Urine by Test strip 03-15-2023
+MedicationRequest 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet 01-29-2014

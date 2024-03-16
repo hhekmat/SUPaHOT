@@ -1,0 +1,11 @@
+Observation Potassium [Moles/volume] in Serum or Plasma 12-02-2020
+Observation Heart rate 09-08-2021
+Immunization Hep B, adult 08-28-2019
+Observation Body temperature 12-02-2020
+Observation Protein [Mass/volume] in Serum or Plasma 12-02-2020
+Procedure Oxygen administration by mask (procedure) 11-21-2020
+Procedure Plain chest X-ray (procedure) 11-21-2020
+Observation Carbon dioxide, total [Moles/volume] in Serum or Plasma 12-02-2020
+Procedure Oxygen administration by mask (procedure) 11-21-2020
+Immunization meningococcal MCV4P 07-24-2013
+Observation Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 12-02-2020

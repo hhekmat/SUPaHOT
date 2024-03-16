@@ -1,0 +1,12 @@
+Encounter Well child visit (procedure) 04-24-2022
+Observation Body Weight 04-30-2023
+Encounter Well child visit (procedure) 10-07-2018
+Encounter Well child visit (procedure) 10-09-2016
+Encounter Well child visit (procedure) 10-11-2015
+Immunization varicella 04-12-2020
+Immunization Influenza, seasonal, injectable, preservative free 03-06-2022
+Observation Body Weight 04-30-2023
+Encounter Encounter for problem (procedure) 05-02-2019
+Observation Blood pressure panel with all children optional 04-24-2022
+Immunization DTaP 04-12-2020
+Observation Body Height 04-24-2022

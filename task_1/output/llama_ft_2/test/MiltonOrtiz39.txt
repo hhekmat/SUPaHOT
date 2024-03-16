@@ -1,0 +1,11 @@
+Immunization Influenza, seasonal, injectable, preservative free 08-10-2016
+Observation Oxygen saturation in Arterial blood 12-02-2020
+Immunization Influenza, seasonal, injectable, preservative free 08-16-2017
+Procedure Depression screening using Patient Health Questionnaire Two-Item score (procedure) 08-22-2018
+Immunization meningococcal MCV4P 07-24-2013
+Procedure Medication Reconciliation (procedure) 09-02-2020
+Observation Calcium [Mass/volume] in Serum or Plasma 12-02-2020
+Procedure Screening for drug abuse (procedure) 08-16-2017
+Encounter Hypertension follow-up encounter 09-04-2015
+Encounter General examination of patient (procedure) 08-22-2018
+Immunization Influenza, seasonal, injectable, preservative free 08-22-2018

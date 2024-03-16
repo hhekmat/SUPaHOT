@@ -1,0 +1,11 @@
+MedicationRequest Digoxin 0.125 MG Oral Tablet 01-29-2019
+Encounter Administration of vaccine to produce active immunity (procedure) 05-25-2021
+Encounter General examination of patient (procedure) 11-15-2005
+MedicationRequest lisinopril 10 MG Oral Tablet 12-31-2013
+Procedure Depression screening (procedure) 12-31-2013
+Procedure Depression screening (procedure) 12-31-2013
+Condition Prediabetes 05-15-1973
+Immunization Influenza, seasonal, injectable, preservative free 12-25-2012
+MedicationRequest Digoxin 0.125 MG Oral Tablet 12-02-2008
+Procedure Catheter ablation of tissue of heart 01-29-2019
+Procedure Assessment using Morse Fall Scale (procedure) 02-09-2021
