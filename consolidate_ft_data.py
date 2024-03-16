@@ -5,8 +5,8 @@ import random
 def task_1_ft_dataset(inp, outp):
     for i in range(len(inp)):
         if i == 0:
-            true_lim = 200
-            false_lim = 200
+            true_lim = 500
+            false_lim = 500
         else:
             true_lim = 20
             false_lim = 60
